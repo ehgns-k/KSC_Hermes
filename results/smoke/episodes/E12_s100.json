@@ -1,0 +1,2696 @@
+{
+ "seed": 100,
+ "n_entities": 12,
+ "notes": [
+  {
+   "idx": 0,
+   "session": 0,
+   "date": "2026-01-05",
+   "text": "Use ruff for linting Python code in all repos.",
+   "facts": []
+  },
+  {
+   "idx": 1,
+   "session": 0,
+   "date": "2026-01-05",
+   "text": "Raven max line length is 126 chars and its stand-up time is 20:10.",
+   "facts": [
+    0,
+    1
+   ]
+  },
+  {
+   "idx": 2,
+   "session": 0,
+   "date": "2026-01-05",
+   "text": "Set up Nordic: nightly backup time 10:20, deploy branch release-558.",
+   "facts": [
+    2,
+    3
+   ]
+  },
+  {
+   "idx": 3,
+   "session": 1,
+   "date": "2026-01-08",
+   "text": "Learned that the Raven team runs with monthly cloud budget $1750.",
+   "facts": [
+    4
+   ]
+  },
+  {
+   "idx": 4,
+   "session": 1,
+   "date": "2026-01-08",
+   "text": "The DB pool size of Echo is 447.",
+   "facts": [
+    5
+   ]
+  },
+  {
+   "idx": 5,
+   "session": 1,
+   "date": "2026-01-08",
+   "text": "Learned that the Echo service runs with request timeout 9150 ms.",
+   "facts": [
+    6
+   ]
+  },
+  {
+   "idx": 6,
+   "session": 1,
+   "date": "2026-01-08",
+   "text": "Echo log retention is 34 days.",
+   "facts": [
+    7
+   ]
+  },
+  {
+   "idx": 7,
+   "session": 1,
+   "date": "2026-01-08",
+   "text": "Noted: Nordic — log retention: 333 days.",
+   "facts": [
+    8
+   ]
+  },
+  {
+   "idx": 8,
+   "session": 1,
+   "date": "2026-01-08",
+   "text": "Note that the canary cluster of Echo overrides the log retention with 124 days.",
+   "facts": [
+    9
+   ]
+  },
+  {
+   "idx": 9,
+   "session": 2,
+   "date": "2026-01-09",
+   "text": "Lumen log retention is 135 days.",
+   "facts": [
+    10
+   ]
+  },
+  {
+   "idx": 10,
+   "session": 2,
+   "date": "2026-01-09",
+   "text": "For Lumen, the nightly backup time is set to 21:45.",
+   "facts": [
+    11
+   ]
+  },
+  {
+   "idx": 11,
+   "session": 2,
+   "date": "2026-01-09",
+   "text": "Except for Fridays, where it is 166 chars, Raven keeps its usual max line length.",
+   "facts": [
+    12
+   ]
+  },
+  {
+   "idx": 12,
+   "session": 2,
+   "date": "2026-01-09",
+   "text": "Lumen API port is 6968.",
+   "facts": [
+    13
+   ]
+  },
+  {
+   "idx": 13,
+   "session": 3,
+   "date": "2026-01-11",
+   "text": "The stand-up time for Raven is no longer 20:10; it is now 15:05.",
+   "facts": [
+    14
+   ]
+  },
+  {
+   "idx": 14,
+   "session": 3,
+   "date": "2026-01-11",
+   "text": "As of today, the nightly backup time for Lumen is 12:35.",
+   "facts": [
+    15
+   ]
+  },
+  {
+   "idx": 15,
+   "session": 3,
+   "date": "2026-01-11",
+   "text": "Noted: Acacia — IP address: 10.136.175.89.",
+   "facts": [
+    16
+   ]
+  },
+  {
+   "idx": 16,
+   "session": 4,
+   "date": "2026-01-12",
+   "text": "The Cobalt service uses log retention 20 days; API port is 8739.",
+   "facts": [
+    17,
+    18
+   ]
+  },
+  {
+   "idx": 17,
+   "session": 4,
+   "date": "2026-01-12",
+   "text": "Learned that the Acacia host runs with SSH port 7650.",
+   "facts": [
+    19
+   ]
+  },
+  {
+   "idx": 18,
+   "session": 4,
+   "date": "2026-01-12",
+   "text": "Set up Jade: max line length 224 chars, test coverage threshold 54%.",
+   "facts": [
+    20,
+    21
+   ]
+  },
+  {
+   "idx": 19,
+   "session": 5,
+   "date": "2026-01-15",
+   "text": "The maintenance window of Acacia is 22:50.",
+   "facts": [
+    22
+   ]
+  },
+  {
+   "idx": 20,
+   "session": 5,
+   "date": "2026-01-15",
+   "text": "Thistle uses 43% as its test coverage threshold.",
+   "facts": [
+    23
+   ]
+  },
+  {
+   "idx": 21,
+   "session": 5,
+   "date": "2026-01-15",
+   "text": "Noted: Thistle — stand-up time: 12:05.",
+   "facts": [
+    24
+   ]
+  },
+  {
+   "idx": 22,
+   "session": 5,
+   "date": "2026-01-15",
+   "text": "Wren uses 240 days as its log retention.",
+   "facts": [
+    25
+   ]
+  },
+  {
+   "idx": 23,
+   "session": 5,
+   "date": "2026-01-15",
+   "text": "Cobalt uses 7250 ms as its request timeout.",
+   "facts": [
+    26
+   ]
+  },
+  {
+   "idx": 24,
+   "session": 5,
+   "date": "2026-01-15",
+   "text": "Raven's monthly cloud budget has been updated to $7880.",
+   "facts": [
+    27
+   ]
+  },
+  {
+   "idx": 25,
+   "session": 6,
+   "date": "2026-01-17",
+   "text": "Except for the frontend squad, where it is 22:10, Raven keeps its usual stand-up time.",
+   "facts": [
+    28
+   ]
+  },
+  {
+   "idx": 26,
+   "session": 6,
+   "date": "2026-01-17",
+   "text": "Update: Lumen moved its log retention from 135 days to 254 days.",
+   "facts": [
+    29
+   ]
+  },
+  {
+   "idx": 27,
+   "session": 6,
+   "date": "2026-01-17",
+   "text": "Thistle max line length is 194 chars.",
+   "facts": [
+    30
+   ]
+  },
+  {
+   "idx": 28,
+   "session": 7,
+   "date": "2026-01-19",
+   "text": "As of today, the nightly backup time for Nordic is 18:40.",
+   "facts": [
+    31
+   ]
+  },
+  {
+   "idx": 29,
+   "session": 7,
+   "date": "2026-01-19",
+   "text": "Vortex uses 98 as its max containers.",
+   "facts": [
+    32
+   ]
+  },
+  {
+   "idx": 30,
+   "session": 7,
+   "date": "2026-01-19",
+   "text": "As of today, the max line length for Raven is 102 chars.",
+   "facts": [
+    33
+   ]
+  },
+  {
+   "idx": 31,
+   "session": 7,
+   "date": "2026-01-19",
+   "text": "Noted: Zephyr — disk quota: 1248 GB.",
+   "facts": [
+    34
+   ]
+  },
+  {
+   "idx": 32,
+   "session": 8,
+   "date": "2026-01-22",
+   "text": "Juniper uses 47% as its test coverage threshold.",
+   "facts": [
+    35
+   ]
+  },
+  {
+   "idx": 33,
+   "session": 8,
+   "date": "2026-01-22",
+   "text": "Noted: Zephyr — swap size: 2915 GB.",
+   "facts": [
+    36
+   ]
+  },
+  {
+   "idx": 34,
+   "session": 8,
+   "date": "2026-01-22",
+   "text": "For Wren, the nightly backup time is set to 20:55.",
+   "facts": [
+    37
+   ]
+  },
+  {
+   "idx": 35,
+   "session": 8,
+   "date": "2026-01-22",
+   "text": "For Vortex, the maintenance window is set to 22:40.",
+   "facts": [
+    38
+   ]
+  },
+  {
+   "idx": 36,
+   "session": 8,
+   "date": "2026-01-22",
+   "text": "Double-checked Acacia: the maintenance window remains 22:50.",
+   "facts": [
+    39
+   ]
+  },
+  {
+   "idx": 37,
+   "session": 9,
+   "date": "2026-01-25",
+   "text": "Confirmed again that Lumen uses API port 6968.",
+   "facts": [
+    40
+   ]
+  },
+  {
+   "idx": 38,
+   "session": 9,
+   "date": "2026-01-25",
+   "text": "Noted: Zephyr — maintenance window: 14:20.",
+   "facts": [
+    41
+   ]
+  },
+  {
+   "idx": 39,
+   "session": 9,
+   "date": "2026-01-25",
+   "text": "Noted: Juniper — max line length: 84 chars.",
+   "facts": [
+    42
+   ]
+  },
+  {
+   "idx": 40,
+   "session": 9,
+   "date": "2026-01-25",
+   "text": "The stand-up time of Jade is 10:40.",
+   "facts": [
+    43
+   ]
+  },
+  {
+   "idx": 41,
+   "session": 10,
+   "date": "2026-01-28",
+   "text": "Learned that the Wren service runs with API port 6296.",
+   "facts": [
+    44
+   ]
+  },
+  {
+   "idx": 42,
+   "session": 10,
+   "date": "2026-01-28",
+   "text": "Double-checked Nordic: the deploy branch remains release-558.",
+   "facts": [
+    45
+   ]
+  },
+  {
+   "idx": 43,
+   "session": 10,
+   "date": "2026-01-28",
+   "text": "Noted: Vortex — SSH port: 7312.",
+   "facts": [
+    46
+   ]
+  },
+  {
+   "idx": 44,
+   "session": 10,
+   "date": "2026-01-28",
+   "text": "Use ruff for linting Python code in all repos.",
+   "facts": []
+  },
+  {
+   "idx": 45,
+   "session": 10,
+   "date": "2026-01-28",
+   "text": "Juniper stand-up time is 16:25.",
+   "facts": [
+    47
+   ]
+  },
+  {
+   "idx": 46,
+   "session": 11,
+   "date": "2026-01-31",
+   "text": "Special case — Thistle on the frontend squad: stand-up time 21:25.",
+   "facts": [
+    48
+   ]
+  },
+  {
+   "idx": 47,
+   "session": 11,
+   "date": "2026-01-31",
+   "text": "As of today, the request timeout for Cobalt is 1250 ms.",
+   "facts": [
+    49
+   ]
+  },
+  {
+   "idx": 48,
+   "session": 11,
+   "date": "2026-01-31",
+   "text": "Exception: for staging, Echo uses request timeout 9550 ms.",
+   "facts": [
+    50
+   ]
+  },
+  {
+   "idx": 49,
+   "session": 11,
+   "date": "2026-01-31",
+   "text": "Wren now uses 328 days as its log retention.",
+   "facts": [
+    51
+   ]
+  },
+  {
+   "idx": 50,
+   "session": 11,
+   "date": "2026-01-31",
+   "text": "Update: Vortex moved its maintenance window from 22:40 to 20:05.",
+   "facts": [
+    52
+   ]
+  },
+  {
+   "idx": 51,
+   "session": 12,
+   "date": "2026-02-02",
+   "text": "Acacia IP address changed from 10.136.175.89 to 10.6.145.41.",
+   "facts": [
+    53
+   ]
+  },
+  {
+   "idx": 52,
+   "session": 12,
+   "date": "2026-02-02",
+   "text": "Exception: for the frontend squad, Jade uses max line length 112 chars.",
+   "facts": [
+    54
+   ]
+  },
+  {
+   "idx": 53,
+   "session": 12,
+   "date": "2026-02-02",
+   "text": "Jade stand-up time changed from 10:40 to 14:15.",
+   "facts": [
+    55
+   ]
+  },
+  {
+   "idx": 54,
+   "session": 12,
+   "date": "2026-02-02",
+   "text": "Double-checked Echo: the log retention remains 34 days.",
+   "facts": [
+    56
+   ]
+  },
+  {
+   "idx": 55,
+   "session": 12,
+   "date": "2026-02-02",
+   "text": "Update: Lumen moved its nightly backup time from 12:35 to 16:55.",
+   "facts": [
+    57
+   ]
+  },
+  {
+   "idx": 56,
+   "session": 13,
+   "date": "2026-02-04",
+   "text": "The user is based in Seoul (KST, UTC+9).",
+   "facts": []
+  },
+  {
+   "idx": 57,
+   "session": 13,
+   "date": "2026-02-04",
+   "text": "Double-checked Thistle: the test coverage threshold remains 43%.",
+   "facts": [
+    58
+   ]
+  },
+  {
+   "idx": 58,
+   "session": 13,
+   "date": "2026-02-04",
+   "text": "Double-checked Juniper: the max line length remains 84 chars.",
+   "facts": [
+    59
+   ]
+  },
+  {
+   "idx": 59,
+   "session": 13,
+   "date": "2026-02-04",
+   "text": "Wren nightly backup time is 21:20 on the mobile API only; elsewhere the normal setting applies.",
+   "facts": [
+    60
+   ]
+  },
+  {
+   "idx": 60,
+   "session": 13,
+   "date": "2026-02-04",
+   "text": "Double-checked Acacia: the IP address remains 10.6.145.41.",
+   "facts": [
+    61
+   ]
+  },
+  {
+   "idx": 61,
+   "session": 14,
+   "date": "2026-02-05",
+   "text": "The SSH port for Vortex is no longer 7312; it is now 7965.",
+   "facts": [
+    62
+   ]
+  },
+  {
+   "idx": 62,
+   "session": 14,
+   "date": "2026-02-05",
+   "text": "Special case — Lumen on the canary cluster: log retention 215 days.",
+   "facts": [
+    63
+   ]
+  },
+  {
+   "idx": 63,
+   "session": 14,
+   "date": "2026-02-05",
+   "text": "Update: Acacia moved its IP address from 10.6.145.41 to 10.177.23.77.",
+   "facts": [
+    64
+   ]
+  },
+  {
+   "idx": 64,
+   "session": 14,
+   "date": "2026-02-05",
+   "text": "Note that batch jobs of Cobalt overrides the request timeout with 8000 ms.",
+   "facts": [
+    65
+   ]
+  },
+  {
+   "idx": 65,
+   "session": 15,
+   "date": "2026-02-08",
+   "text": "User likes summaries at the end of long answers.",
+   "facts": []
+  },
+  {
+   "idx": 66,
+   "session": 15,
+   "date": "2026-02-08",
+   "text": "Except for the backup job, where it is 5522, Acacia keeps its usual SSH port.",
+   "facts": [
+    66
+   ]
+  },
+  {
+   "idx": 67,
+   "session": 15,
+   "date": "2026-02-08",
+   "text": "Note that hotfix branches of Thistle overrides the max line length with 192 chars.",
+   "facts": [
+    67
+   ]
+  },
+  {
+   "idx": 68,
+   "session": 15,
+   "date": "2026-02-08",
+   "text": "Vortex max containers changed from 98 to 439.",
+   "facts": [
+    68
+   ]
+  },
+  {
+   "idx": 69,
+   "session": 15,
+   "date": "2026-02-08",
+   "text": "User switched Thistle to test coverage threshold 41%.",
+   "facts": [
+    69
+   ]
+  },
+  {
+   "idx": 70,
+   "session": 16,
+   "date": "2026-02-10",
+   "text": "The stand-up time for Thistle is no longer 12:05; it is now 16:40.",
+   "facts": [
+    70
+   ]
+  },
+  {
+   "idx": 71,
+   "session": 16,
+   "date": "2026-02-10",
+   "text": "Exception: for batch jobs, Nordic uses nightly backup time 13:20.",
+   "facts": [
+    71
+   ]
+  },
+  {
+   "idx": 72,
+   "session": 16,
+   "date": "2026-02-10",
+   "text": "Note that the canary cluster of Wren overrides the log retention with 163 days.",
+   "facts": [
+    72
+   ]
+  },
+  {
+   "idx": 73,
+   "session": 16,
+   "date": "2026-02-10",
+   "text": "Double-checked Vortex: the max containers remains 439.",
+   "facts": [
+    73
+   ]
+  },
+  {
+   "idx": 74,
+   "session": 17,
+   "date": "2026-02-11",
+   "text": "User switched Wren to API port 8983.",
+   "facts": [
+    74
+   ]
+  },
+  {
+   "idx": 75,
+   "session": 17,
+   "date": "2026-02-11",
+   "text": "Update: Juniper moved its stand-up time from 16:25 to 21:10.",
+   "facts": [
+    75
+   ]
+  },
+  {
+   "idx": 76,
+   "session": 17,
+   "date": "2026-02-11",
+   "text": "The max line length for Juniper is no longer 84 chars; it is now 92 chars.",
+   "facts": [
+    76
+   ]
+  },
+  {
+   "idx": 77,
+   "session": 17,
+   "date": "2026-02-11",
+   "text": "Except for weekend runs, where it is 717 GB, Zephyr keeps its usual disk quota.",
+   "facts": [
+    77
+   ]
+  },
+  {
+   "idx": 78,
+   "session": 18,
+   "date": "2026-02-13",
+   "text": "The user is based in Seoul (KST, UTC+9).",
+   "facts": []
+  },
+  {
+   "idx": 79,
+   "session": 18,
+   "date": "2026-02-13",
+   "text": "Special case — Wren on the mobile API: API port 6293.",
+   "facts": [
+    78
+   ]
+  },
+  {
+   "idx": 80,
+   "session": 18,
+   "date": "2026-02-13",
+   "text": "Wren's API port has been updated to 4097.",
+   "facts": [
+    79
+   ]
+  },
+  {
+   "idx": 81,
+   "session": 18,
+   "date": "2026-02-13",
+   "text": "The user reads documentation in English but chats in Korean.",
+   "facts": []
+  },
+  {
+   "idx": 82,
+   "session": 19,
+   "date": "2026-02-15",
+   "text": "Juniper max line length changed from 92 chars to 97 chars.",
+   "facts": [
+    80
+   ]
+  },
+  {
+   "idx": 83,
+   "session": 19,
+   "date": "2026-02-15",
+   "text": "Except for the frontend squad, where it is 68%, Thistle keeps its usual test coverage threshold.",
+   "facts": [
+    81
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "entity": "Raven",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "126 chars",
+   "core": "126",
+   "t": 1,
+   "session": 0,
+   "kind": "init"
+  },
+  {
+   "entity": "Raven",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "20:10",
+   "core": "20:10",
+   "t": 1,
+   "session": 0,
+   "kind": "init"
+  },
+  {
+   "entity": "Nordic",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "10:20",
+   "core": "10:20",
+   "t": 2,
+   "session": 0,
+   "kind": "init"
+  },
+  {
+   "entity": "Nordic",
+   "attr": "deploy branch",
+   "scope": "default",
+   "value": "release-558",
+   "core": "release-558",
+   "t": 2,
+   "session": 0,
+   "kind": "init"
+  },
+  {
+   "entity": "Raven",
+   "attr": "monthly cloud budget",
+   "scope": "default",
+   "value": "$1750",
+   "core": "1750",
+   "t": 3,
+   "session": 1,
+   "kind": "init"
+  },
+  {
+   "entity": "Echo",
+   "attr": "DB pool size",
+   "scope": "default",
+   "value": "447",
+   "core": "447",
+   "t": 4,
+   "session": 1,
+   "kind": "init"
+  },
+  {
+   "entity": "Echo",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "9150 ms",
+   "core": "9150",
+   "t": 5,
+   "session": 1,
+   "kind": "init"
+  },
+  {
+   "entity": "Echo",
+   "attr": "log retention",
+   "scope": "default",
+   "value": "34 days",
+   "core": "34",
+   "t": 6,
+   "session": 1,
+   "kind": "init"
+  },
+  {
+   "entity": "Nordic",
+   "attr": "log retention",
+   "scope": "default",
+   "value": "333 days",
+   "core": "333",
+   "t": 7,
+   "session": 1,
+   "kind": "init"
+  },
+  {
+   "entity": "Echo",
+   "attr": "log retention",
+   "scope": "the canary cluster",
+   "value": "124 days",
+   "core": "124",
+   "t": 8,
+   "session": 1,
+   "kind": "exception"
+  },
+  {
+   "entity": "Lumen",
+   "attr": "log retention",
+   "scope": "default",
+   "value": "135 days",
+   "core": "135",
+   "t": 9,
+   "session": 2,
+   "kind": "init"
+  },
+  {
+   "entity": "Lumen",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "21:45",
+   "core": "21:45",
+   "t": 10,
+   "session": 2,
+   "kind": "init"
+  },
+  {
+   "entity": "Raven",
+   "attr": "max line length",
+   "scope": "Fridays",
+   "value": "166 chars",
+   "core": "166",
+   "t": 11,
+   "session": 2,
+   "kind": "exception"
+  },
+  {
+   "entity": "Lumen",
+   "attr": "API port",
+   "scope": "default",
+   "value": "6968",
+   "core": "6968",
+   "t": 12,
+   "session": 2,
+   "kind": "init"
+  },
+  {
+   "entity": "Raven",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "15:05",
+   "core": "15:05",
+   "t": 13,
+   "session": 3,
+   "kind": "update"
+  },
+  {
+   "entity": "Lumen",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "12:35",
+   "core": "12:35",
+   "t": 14,
+   "session": 3,
+   "kind": "update"
+  },
+  {
+   "entity": "Acacia",
+   "attr": "IP address",
+   "scope": "default",
+   "value": "10.136.175.89",
+   "core": "10.136.175.89",
+   "t": 15,
+   "session": 3,
+   "kind": "init"
+  },
+  {
+   "entity": "Cobalt",
+   "attr": "log retention",
+   "scope": "default",
+   "value": "20 days",
+   "core": "20",
+   "t": 16,
+   "session": 4,
+   "kind": "init"
+  },
+  {
+   "entity": "Cobalt",
+   "attr": "API port",
+   "scope": "default",
+   "value": "8739",
+   "core": "8739",
+   "t": 16,
+   "session": 4,
+   "kind": "init"
+  },
+  {
+   "entity": "Acacia",
+   "attr": "SSH port",
+   "scope": "default",
+   "value": "7650",
+   "core": "7650",
+   "t": 17,
+   "session": 4,
+   "kind": "init"
+  },
+  {
+   "entity": "Jade",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "224 chars",
+   "core": "224",
+   "t": 18,
+   "session": 4,
+   "kind": "init"
+  },
+  {
+   "entity": "Jade",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "54%",
+   "core": "54",
+   "t": 18,
+   "session": 4,
+   "kind": "init"
+  },
+  {
+   "entity": "Acacia",
+   "attr": "maintenance window",
+   "scope": "default",
+   "value": "22:50",
+   "core": "22:50",
+   "t": 19,
+   "session": 5,
+   "kind": "init"
+  },
+  {
+   "entity": "Thistle",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "43%",
+   "core": "43",
+   "t": 20,
+   "session": 5,
+   "kind": "init"
+  },
+  {
+   "entity": "Thistle",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "12:05",
+   "core": "12:05",
+   "t": 21,
+   "session": 5,
+   "kind": "init"
+  },
+  {
+   "entity": "Wren",
+   "attr": "log retention",
+   "scope": "default",
+   "value": "240 days",
+   "core": "240",
+   "t": 22,
+   "session": 5,
+   "kind": "init"
+  },
+  {
+   "entity": "Cobalt",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "7250 ms",
+   "core": "7250",
+   "t": 23,
+   "session": 5,
+   "kind": "init"
+  },
+  {
+   "entity": "Raven",
+   "attr": "monthly cloud budget",
+   "scope": "default",
+   "value": "$7880",
+   "core": "7880",
+   "t": 24,
+   "session": 5,
+   "kind": "update"
+  },
+  {
+   "entity": "Raven",
+   "attr": "stand-up time",
+   "scope": "the frontend squad",
+   "value": "22:10",
+   "core": "22:10",
+   "t": 25,
+   "session": 6,
+   "kind": "exception"
+  },
+  {
+   "entity": "Lumen",
+   "attr": "log retention",
+   "scope": "default",
+   "value": "254 days",
+   "core": "254",
+   "t": 26,
+   "session": 6,
+   "kind": "update"
+  },
+  {
+   "entity": "Thistle",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "194 chars",
+   "core": "194",
+   "t": 27,
+   "session": 6,
+   "kind": "init"
+  },
+  {
+   "entity": "Nordic",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "18:40",
+   "core": "18:40",
+   "t": 28,
+   "session": 7,
+   "kind": "update"
+  },
+  {
+   "entity": "Vortex",
+   "attr": "max containers",
+   "scope": "default",
+   "value": "98",
+   "core": "98",
+   "t": 29,
+   "session": 7,
+   "kind": "init"
+  },
+  {
+   "entity": "Raven",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "102 chars",
+   "core": "102",
+   "t": 30,
+   "session": 7,
+   "kind": "update"
+  },
+  {
+   "entity": "Zephyr",
+   "attr": "disk quota",
+   "scope": "default",
+   "value": "1248 GB",
+   "core": "1248",
+   "t": 31,
+   "session": 7,
+   "kind": "init"
+  },
+  {
+   "entity": "Juniper",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "47%",
+   "core": "47",
+   "t": 32,
+   "session": 8,
+   "kind": "init"
+  },
+  {
+   "entity": "Zephyr",
+   "attr": "swap size",
+   "scope": "default",
+   "value": "2915 GB",
+   "core": "2915",
+   "t": 33,
+   "session": 8,
+   "kind": "init"
+  },
+  {
+   "entity": "Wren",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "20:55",
+   "core": "20:55",
+   "t": 34,
+   "session": 8,
+   "kind": "init"
+  },
+  {
+   "entity": "Vortex",
+   "attr": "maintenance window",
+   "scope": "default",
+   "value": "22:40",
+   "core": "22:40",
+   "t": 35,
+   "session": 8,
+   "kind": "init"
+  },
+  {
+   "entity": "Acacia",
+   "attr": "maintenance window",
+   "scope": "default",
+   "value": "22:50",
+   "core": "22:50",
+   "t": 36,
+   "session": 8,
+   "kind": "restate"
+  },
+  {
+   "entity": "Lumen",
+   "attr": "API port",
+   "scope": "default",
+   "value": "6968",
+   "core": "6968",
+   "t": 37,
+   "session": 9,
+   "kind": "restate"
+  },
+  {
+   "entity": "Zephyr",
+   "attr": "maintenance window",
+   "scope": "default",
+   "value": "14:20",
+   "core": "14:20",
+   "t": 38,
+   "session": 9,
+   "kind": "init"
+  },
+  {
+   "entity": "Juniper",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "84 chars",
+   "core": "84",
+   "t": 39,
+   "session": 9,
+   "kind": "init"
+  },
+  {
+   "entity": "Jade",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "10:40",
+   "core": "10:40",
+   "t": 40,
+   "session": 9,
+   "kind": "init"
+  },
+  {
+   "entity": "Wren",
+   "attr": "API port",
+   "scope": "default",
+   "value": "6296",
+   "core": "6296",
+   "t": 41,
+   "session": 10,
+   "kind": "init"
+  },
+  {
+   "entity": "Nordic",
+   "attr": "deploy branch",
+   "scope": "default",
+   "value": "release-558",
+   "core": "release-558",
+   "t": 42,
+   "session": 10,
+   "kind": "restate"
+  },
+  {
+   "entity": "Vortex",
+   "attr": "SSH port",
+   "scope": "default",
+   "value": "7312",
+   "core": "7312",
+   "t": 43,
+   "session": 10,
+   "kind": "init"
+  },
+  {
+   "entity": "Juniper",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "16:25",
+   "core": "16:25",
+   "t": 45,
+   "session": 10,
+   "kind": "init"
+  },
+  {
+   "entity": "Thistle",
+   "attr": "stand-up time",
+   "scope": "the frontend squad",
+   "value": "21:25",
+   "core": "21:25",
+   "t": 46,
+   "session": 11,
+   "kind": "exception"
+  },
+  {
+   "entity": "Cobalt",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "1250 ms",
+   "core": "1250",
+   "t": 47,
+   "session": 11,
+   "kind": "update"
+  },
+  {
+   "entity": "Echo",
+   "attr": "request timeout",
+   "scope": "staging",
+   "value": "9550 ms",
+   "core": "9550",
+   "t": 48,
+   "session": 11,
+   "kind": "exception"
+  },
+  {
+   "entity": "Wren",
+   "attr": "log retention",
+   "scope": "default",
+   "value": "328 days",
+   "core": "328",
+   "t": 49,
+   "session": 11,
+   "kind": "update"
+  },
+  {
+   "entity": "Vortex",
+   "attr": "maintenance window",
+   "scope": "default",
+   "value": "20:05",
+   "core": "20:05",
+   "t": 50,
+   "session": 11,
+   "kind": "update"
+  },
+  {
+   "entity": "Acacia",
+   "attr": "IP address",
+   "scope": "default",
+   "value": "10.6.145.41",
+   "core": "10.6.145.41",
+   "t": 51,
+   "session": 12,
+   "kind": "update"
+  },
+  {
+   "entity": "Jade",
+   "attr": "max line length",
+   "scope": "the frontend squad",
+   "value": "112 chars",
+   "core": "112",
+   "t": 52,
+   "session": 12,
+   "kind": "exception"
+  },
+  {
+   "entity": "Jade",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "14:15",
+   "core": "14:15",
+   "t": 53,
+   "session": 12,
+   "kind": "update"
+  },
+  {
+   "entity": "Echo",
+   "attr": "log retention",
+   "scope": "default",
+   "value": "34 days",
+   "core": "34",
+   "t": 54,
+   "session": 12,
+   "kind": "restate"
+  },
+  {
+   "entity": "Lumen",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "16:55",
+   "core": "16:55",
+   "t": 55,
+   "session": 12,
+   "kind": "update"
+  },
+  {
+   "entity": "Thistle",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "43%",
+   "core": "43",
+   "t": 57,
+   "session": 13,
+   "kind": "restate"
+  },
+  {
+   "entity": "Juniper",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "84 chars",
+   "core": "84",
+   "t": 58,
+   "session": 13,
+   "kind": "restate"
+  },
+  {
+   "entity": "Wren",
+   "attr": "nightly backup time",
+   "scope": "the mobile API",
+   "value": "21:20",
+   "core": "21:20",
+   "t": 59,
+   "session": 13,
+   "kind": "exception"
+  },
+  {
+   "entity": "Acacia",
+   "attr": "IP address",
+   "scope": "default",
+   "value": "10.6.145.41",
+   "core": "10.6.145.41",
+   "t": 60,
+   "session": 13,
+   "kind": "restate"
+  },
+  {
+   "entity": "Vortex",
+   "attr": "SSH port",
+   "scope": "default",
+   "value": "7965",
+   "core": "7965",
+   "t": 61,
+   "session": 14,
+   "kind": "update"
+  },
+  {
+   "entity": "Lumen",
+   "attr": "log retention",
+   "scope": "the canary cluster",
+   "value": "215 days",
+   "core": "215",
+   "t": 62,
+   "session": 14,
+   "kind": "exception"
+  },
+  {
+   "entity": "Acacia",
+   "attr": "IP address",
+   "scope": "default",
+   "value": "10.177.23.77",
+   "core": "10.177.23.77",
+   "t": 63,
+   "session": 14,
+   "kind": "update"
+  },
+  {
+   "entity": "Cobalt",
+   "attr": "request timeout",
+   "scope": "batch jobs",
+   "value": "8000 ms",
+   "core": "8000",
+   "t": 64,
+   "session": 14,
+   "kind": "exception"
+  },
+  {
+   "entity": "Acacia",
+   "attr": "SSH port",
+   "scope": "the backup job",
+   "value": "5522",
+   "core": "5522",
+   "t": 66,
+   "session": 15,
+   "kind": "exception"
+  },
+  {
+   "entity": "Thistle",
+   "attr": "max line length",
+   "scope": "hotfix branches",
+   "value": "192 chars",
+   "core": "192",
+   "t": 67,
+   "session": 15,
+   "kind": "exception"
+  },
+  {
+   "entity": "Vortex",
+   "attr": "max containers",
+   "scope": "default",
+   "value": "439",
+   "core": "439",
+   "t": 68,
+   "session": 15,
+   "kind": "update"
+  },
+  {
+   "entity": "Thistle",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "41%",
+   "core": "41",
+   "t": 69,
+   "session": 15,
+   "kind": "update"
+  },
+  {
+   "entity": "Thistle",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "16:40",
+   "core": "16:40",
+   "t": 70,
+   "session": 16,
+   "kind": "update"
+  },
+  {
+   "entity": "Nordic",
+   "attr": "nightly backup time",
+   "scope": "batch jobs",
+   "value": "13:20",
+   "core": "13:20",
+   "t": 71,
+   "session": 16,
+   "kind": "exception"
+  },
+  {
+   "entity": "Wren",
+   "attr": "log retention",
+   "scope": "the canary cluster",
+   "value": "163 days",
+   "core": "163",
+   "t": 72,
+   "session": 16,
+   "kind": "exception"
+  },
+  {
+   "entity": "Vortex",
+   "attr": "max containers",
+   "scope": "default",
+   "value": "439",
+   "core": "439",
+   "t": 73,
+   "session": 16,
+   "kind": "restate"
+  },
+  {
+   "entity": "Wren",
+   "attr": "API port",
+   "scope": "default",
+   "value": "8983",
+   "core": "8983",
+   "t": 74,
+   "session": 17,
+   "kind": "update"
+  },
+  {
+   "entity": "Juniper",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "21:10",
+   "core": "21:10",
+   "t": 75,
+   "session": 17,
+   "kind": "update"
+  },
+  {
+   "entity": "Juniper",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "92 chars",
+   "core": "92",
+   "t": 76,
+   "session": 17,
+   "kind": "update"
+  },
+  {
+   "entity": "Zephyr",
+   "attr": "disk quota",
+   "scope": "weekend runs",
+   "value": "717 GB",
+   "core": "717",
+   "t": 77,
+   "session": 17,
+   "kind": "exception"
+  },
+  {
+   "entity": "Wren",
+   "attr": "API port",
+   "scope": "the mobile API",
+   "value": "6293",
+   "core": "6293",
+   "t": 79,
+   "session": 18,
+   "kind": "exception"
+  },
+  {
+   "entity": "Wren",
+   "attr": "API port",
+   "scope": "default",
+   "value": "4097",
+   "core": "4097",
+   "t": 80,
+   "session": 18,
+   "kind": "update"
+  },
+  {
+   "entity": "Juniper",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "97 chars",
+   "core": "97",
+   "t": 82,
+   "session": 19,
+   "kind": "update"
+  },
+  {
+   "entity": "Thistle",
+   "attr": "test coverage threshold",
+   "scope": "the frontend squad",
+   "value": "68%",
+   "core": "68",
+   "t": 83,
+   "session": 19,
+   "kind": "exception"
+  }
+ ],
+ "questions": [
+  {
+   "qid": "Thistle|test coverage threshold|EXC",
+   "qtype": "EXC",
+   "entity": "Thistle",
+   "attr": "test coverage threshold",
+   "scope": "the frontend squad",
+   "text": "What test coverage threshold does Thistle use for the frontend squad?",
+   "gold": "68",
+   "gold_display": "68%",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Jade|max line length|CUR",
+   "qtype": "STABLE",
+   "entity": "Jade",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "What is the current default max line length of Jade?",
+   "gold": "224",
+   "gold_display": "224 chars",
+   "has_exception": true,
+   "has_update": false
+  },
+  {
+   "qid": "Echo|rate limit|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Echo",
+   "attr": "rate limit",
+   "scope": "default",
+   "text": "What is the current default rate limit of Echo?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false
+  },
+  {
+   "qid": "Acacia|IP address|PREV",
+   "qtype": "PREV",
+   "entity": "Acacia",
+   "attr": "IP address",
+   "scope": "default",
+   "text": "What was the default IP address of Acacia right before its most recent change?",
+   "gold": "10.6.145.41",
+   "gold_display": "10.6.145.41",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Acacia|SSH port|EXC",
+   "qtype": "EXC",
+   "entity": "Acacia",
+   "attr": "SSH port",
+   "scope": "the backup job",
+   "text": "What SSH port does Acacia use for the backup job?",
+   "gold": "5522",
+   "gold_display": "5522",
+   "has_exception": true,
+   "has_update": false
+  },
+  {
+   "qid": "Cobalt|rate limit|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Cobalt",
+   "attr": "rate limit",
+   "scope": "default",
+   "text": "What is the current default rate limit of Cobalt?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false
+  },
+  {
+   "qid": "Cobalt|request timeout|CUR",
+   "qtype": "CUR",
+   "entity": "Cobalt",
+   "attr": "request timeout",
+   "scope": "default",
+   "text": "What is the current default request timeout of Cobalt?",
+   "gold": "1250",
+   "gold_display": "1250 ms",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Wren|log retention|EXC",
+   "qtype": "EXC",
+   "entity": "Wren",
+   "attr": "log retention",
+   "scope": "the canary cluster",
+   "text": "What log retention does Wren use for the canary cluster?",
+   "gold": "163",
+   "gold_display": "163 days",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Zephyr|disk quota|CUR",
+   "qtype": "STABLE",
+   "entity": "Zephyr",
+   "attr": "disk quota",
+   "scope": "default",
+   "text": "What is the current default disk quota of Zephyr?",
+   "gold": "1248",
+   "gold_display": "1248 GB",
+   "has_exception": true,
+   "has_update": false
+  },
+  {
+   "qid": "Raven|stand-up time|PREV",
+   "qtype": "PREV",
+   "entity": "Raven",
+   "attr": "stand-up time",
+   "scope": "default",
+   "text": "What was the default stand-up time of Raven right before its most recent change?",
+   "gold": "20:10",
+   "gold_display": "20:10",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Thistle|stand-up time|PREV",
+   "qtype": "PREV",
+   "entity": "Thistle",
+   "attr": "stand-up time",
+   "scope": "default",
+   "text": "What was the default stand-up time of Thistle right before its most recent change?",
+   "gold": "12:05",
+   "gold_display": "12:05",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Jade|max line length|EXC",
+   "qtype": "EXC",
+   "entity": "Jade",
+   "attr": "max line length",
+   "scope": "the frontend squad",
+   "text": "What max line length does Jade use for the frontend squad?",
+   "gold": "112",
+   "gold_display": "112 chars",
+   "has_exception": true,
+   "has_update": false
+  },
+  {
+   "qid": "Lumen|nightly backup time|PREV",
+   "qtype": "PREV",
+   "entity": "Lumen",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What was the default nightly backup time of Lumen right before its most recent change?",
+   "gold": "12:35",
+   "gold_display": "12:35",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Juniper|max line length|CUR",
+   "qtype": "CUR",
+   "entity": "Juniper",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "What is the current default max line length of Juniper?",
+   "gold": "97",
+   "gold_display": "97 chars",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Cobalt|log retention|CUR",
+   "qtype": "STABLE",
+   "entity": "Cobalt",
+   "attr": "log retention",
+   "scope": "default",
+   "text": "What is the current default log retention of Cobalt?",
+   "gold": "20",
+   "gold_display": "20 days",
+   "has_exception": false,
+   "has_update": false
+  },
+  {
+   "qid": "Thistle|max line length|EXC",
+   "qtype": "EXC",
+   "entity": "Thistle",
+   "attr": "max line length",
+   "scope": "hotfix branches",
+   "text": "What max line length does Thistle use for hotfix branches?",
+   "gold": "192",
+   "gold_display": "192 chars",
+   "has_exception": true,
+   "has_update": false
+  },
+  {
+   "qid": "Wren|nightly backup time|CUR",
+   "qtype": "STABLE",
+   "entity": "Wren",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What is the current default nightly backup time of Wren?",
+   "gold": "20:55",
+   "gold_display": "20:55",
+   "has_exception": true,
+   "has_update": false
+  },
+  {
+   "qid": "Vortex|maintenance window|CUR",
+   "qtype": "CUR",
+   "entity": "Vortex",
+   "attr": "maintenance window",
+   "scope": "default",
+   "text": "What is the current default maintenance window of Vortex?",
+   "gold": "20:05",
+   "gold_display": "20:05",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Vortex|SSH port|CUR",
+   "qtype": "CUR",
+   "entity": "Vortex",
+   "attr": "SSH port",
+   "scope": "default",
+   "text": "What is the current default SSH port of Vortex?",
+   "gold": "7965",
+   "gold_display": "7965",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Thistle|test coverage threshold|CUR",
+   "qtype": "CUR",
+   "entity": "Thistle",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "text": "What is the current default test coverage threshold of Thistle?",
+   "gold": "41",
+   "gold_display": "41%",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Lumen|log retention|CUR",
+   "qtype": "CUR",
+   "entity": "Lumen",
+   "attr": "log retention",
+   "scope": "default",
+   "text": "What is the current default log retention of Lumen?",
+   "gold": "254",
+   "gold_display": "254 days",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Vortex|maintenance window|PREV",
+   "qtype": "PREV",
+   "entity": "Vortex",
+   "attr": "maintenance window",
+   "scope": "default",
+   "text": "What was the default maintenance window of Vortex right before its most recent change?",
+   "gold": "22:40",
+   "gold_display": "22:40",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Wren|API port|PREV",
+   "qtype": "PREV",
+   "entity": "Wren",
+   "attr": "API port",
+   "scope": "default",
+   "text": "What was the default API port of Wren right before its most recent change?",
+   "gold": "8983",
+   "gold_display": "8983",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Lumen|API port|CUR",
+   "qtype": "STABLE",
+   "entity": "Lumen",
+   "attr": "API port",
+   "scope": "default",
+   "text": "What is the current default API port of Lumen?",
+   "gold": "6968",
+   "gold_display": "6968",
+   "has_exception": false,
+   "has_update": false
+  },
+  {
+   "qid": "Lumen|log retention|PREV",
+   "qtype": "PREV",
+   "entity": "Lumen",
+   "attr": "log retention",
+   "scope": "default",
+   "text": "What was the default log retention of Lumen right before its most recent change?",
+   "gold": "135",
+   "gold_display": "135 days",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Acacia|kernel version|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Acacia",
+   "attr": "kernel version",
+   "scope": "default",
+   "text": "What is the current default kernel version of Acacia?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false
+  },
+  {
+   "qid": "Zephyr|maintenance window|CUR",
+   "qtype": "STABLE",
+   "entity": "Zephyr",
+   "attr": "maintenance window",
+   "scope": "default",
+   "text": "What is the current default maintenance window of Zephyr?",
+   "gold": "14:20",
+   "gold_display": "14:20",
+   "has_exception": false,
+   "has_update": false
+  },
+  {
+   "qid": "Echo|request timeout|EXC",
+   "qtype": "EXC",
+   "entity": "Echo",
+   "attr": "request timeout",
+   "scope": "staging",
+   "text": "What request timeout does Echo use for staging?",
+   "gold": "9550",
+   "gold_display": "9550 ms",
+   "has_exception": true,
+   "has_update": false
+  },
+  {
+   "qid": "Lumen|log retention|EXC",
+   "qtype": "EXC",
+   "entity": "Lumen",
+   "attr": "log retention",
+   "scope": "the canary cluster",
+   "text": "What log retention does Lumen use for the canary cluster?",
+   "gold": "215",
+   "gold_display": "215 days",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Acacia|IP address|CUR",
+   "qtype": "CUR",
+   "entity": "Acacia",
+   "attr": "IP address",
+   "scope": "default",
+   "text": "What is the current default IP address of Acacia?",
+   "gold": "10.177.23.77",
+   "gold_display": "10.177.23.77",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Echo|DB pool size|CUR",
+   "qtype": "STABLE",
+   "entity": "Echo",
+   "attr": "DB pool size",
+   "scope": "default",
+   "text": "What is the current default DB pool size of Echo?",
+   "gold": "447",
+   "gold_display": "447",
+   "has_exception": false,
+   "has_update": false
+  },
+  {
+   "qid": "Wren|log retention|PREV",
+   "qtype": "PREV",
+   "entity": "Wren",
+   "attr": "log retention",
+   "scope": "default",
+   "text": "What was the default log retention of Wren right before its most recent change?",
+   "gold": "240",
+   "gold_display": "240 days",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Juniper|stand-up time|CUR",
+   "qtype": "CUR",
+   "entity": "Juniper",
+   "attr": "stand-up time",
+   "scope": "default",
+   "text": "What is the current default stand-up time of Juniper?",
+   "gold": "21:10",
+   "gold_display": "21:10",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Nordic|nightly backup time|CUR",
+   "qtype": "CUR",
+   "entity": "Nordic",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What is the current default nightly backup time of Nordic?",
+   "gold": "18:40",
+   "gold_display": "18:40",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Wren|API port|CUR",
+   "qtype": "CUR",
+   "entity": "Wren",
+   "attr": "API port",
+   "scope": "default",
+   "text": "What is the current default API port of Wren?",
+   "gold": "4097",
+   "gold_display": "4097",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Vortex|max containers|CUR",
+   "qtype": "CUR",
+   "entity": "Vortex",
+   "attr": "max containers",
+   "scope": "default",
+   "text": "What is the current default max containers of Vortex?",
+   "gold": "439",
+   "gold_display": "439",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Zephyr|swap size|CUR",
+   "qtype": "STABLE",
+   "entity": "Zephyr",
+   "attr": "swap size",
+   "scope": "default",
+   "text": "What is the current default swap size of Zephyr?",
+   "gold": "2915",
+   "gold_display": "2915 GB",
+   "has_exception": false,
+   "has_update": false
+  },
+  {
+   "qid": "Raven|monthly cloud budget|PREV",
+   "qtype": "PREV",
+   "entity": "Raven",
+   "attr": "monthly cloud budget",
+   "scope": "default",
+   "text": "What was the default monthly cloud budget of Raven right before its most recent change?",
+   "gold": "1750",
+   "gold_display": "$1750",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Juniper|test coverage threshold|CUR",
+   "qtype": "STABLE",
+   "entity": "Juniper",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "text": "What is the current default test coverage threshold of Juniper?",
+   "gold": "47",
+   "gold_display": "47%",
+   "has_exception": false,
+   "has_update": false
+  },
+  {
+   "qid": "Wren|log retention|CUR",
+   "qtype": "CUR",
+   "entity": "Wren",
+   "attr": "log retention",
+   "scope": "default",
+   "text": "What is the current default log retention of Wren?",
+   "gold": "328",
+   "gold_display": "328 days",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Thistle|test coverage threshold|PREV",
+   "qtype": "PREV",
+   "entity": "Thistle",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "text": "What was the default test coverage threshold of Thistle right before its most recent change?",
+   "gold": "43",
+   "gold_display": "43%",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Zephyr|GPU count|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Zephyr",
+   "attr": "GPU count",
+   "scope": "default",
+   "text": "What is the current default GPU count of Zephyr?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false
+  },
+  {
+   "qid": "Juniper|max line length|PREV",
+   "qtype": "PREV",
+   "entity": "Juniper",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "What was the default max line length of Juniper right before its most recent change?",
+   "gold": "92",
+   "gold_display": "92 chars",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Nordic|log retention|CUR",
+   "qtype": "STABLE",
+   "entity": "Nordic",
+   "attr": "log retention",
+   "scope": "default",
+   "text": "What is the current default log retention of Nordic?",
+   "gold": "333",
+   "gold_display": "333 days",
+   "has_exception": false,
+   "has_update": false
+  },
+  {
+   "qid": "Acacia|SSH port|CUR",
+   "qtype": "STABLE",
+   "entity": "Acacia",
+   "attr": "SSH port",
+   "scope": "default",
+   "text": "What is the current default SSH port of Acacia?",
+   "gold": "7650",
+   "gold_display": "7650",
+   "has_exception": true,
+   "has_update": false
+  },
+  {
+   "qid": "Cobalt|request timeout|PREV",
+   "qtype": "PREV",
+   "entity": "Cobalt",
+   "attr": "request timeout",
+   "scope": "default",
+   "text": "What was the default request timeout of Cobalt right before its most recent change?",
+   "gold": "7250",
+   "gold_display": "7250 ms",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Wren|nightly backup time|EXC",
+   "qtype": "EXC",
+   "entity": "Wren",
+   "attr": "nightly backup time",
+   "scope": "the mobile API",
+   "text": "What nightly backup time does Wren use for the mobile API?",
+   "gold": "21:20",
+   "gold_display": "21:20",
+   "has_exception": true,
+   "has_update": false
+  },
+  {
+   "qid": "Vortex|max containers|PREV",
+   "qtype": "PREV",
+   "entity": "Vortex",
+   "attr": "max containers",
+   "scope": "default",
+   "text": "What was the default max containers of Vortex right before its most recent change?",
+   "gold": "98",
+   "gold_display": "98",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Cobalt|request timeout|EXC",
+   "qtype": "EXC",
+   "entity": "Cobalt",
+   "attr": "request timeout",
+   "scope": "batch jobs",
+   "text": "What request timeout does Cobalt use for batch jobs?",
+   "gold": "8000",
+   "gold_display": "8000 ms",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Thistle|stand-up time|EXC",
+   "qtype": "EXC",
+   "entity": "Thistle",
+   "attr": "stand-up time",
+   "scope": "the frontend squad",
+   "text": "What stand-up time does Thistle use for the frontend squad?",
+   "gold": "21:25",
+   "gold_display": "21:25",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Nordic|nightly backup time|EXC",
+   "qtype": "EXC",
+   "entity": "Nordic",
+   "attr": "nightly backup time",
+   "scope": "batch jobs",
+   "text": "What nightly backup time does Nordic use for batch jobs?",
+   "gold": "13:20",
+   "gold_display": "13:20",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Raven|max line length|PREV",
+   "qtype": "PREV",
+   "entity": "Raven",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "What was the default max line length of Raven right before its most recent change?",
+   "gold": "126",
+   "gold_display": "126 chars",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Acacia|maintenance window|CUR",
+   "qtype": "STABLE",
+   "entity": "Acacia",
+   "attr": "maintenance window",
+   "scope": "default",
+   "text": "What is the current default maintenance window of Acacia?",
+   "gold": "22:50",
+   "gold_display": "22:50",
+   "has_exception": false,
+   "has_update": false
+  },
+  {
+   "qid": "Jade|stand-up time|PREV",
+   "qtype": "PREV",
+   "entity": "Jade",
+   "attr": "stand-up time",
+   "scope": "default",
+   "text": "What was the default stand-up time of Jade right before its most recent change?",
+   "gold": "10:40",
+   "gold_display": "10:40",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Nordic|nightly backup time|PREV",
+   "qtype": "PREV",
+   "entity": "Nordic",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What was the default nightly backup time of Nordic right before its most recent change?",
+   "gold": "10:20",
+   "gold_display": "10:20",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Wren|API port|EXC",
+   "qtype": "EXC",
+   "entity": "Wren",
+   "attr": "API port",
+   "scope": "the mobile API",
+   "text": "What API port does Wren use for the mobile API?",
+   "gold": "6293",
+   "gold_display": "6293",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Echo|request timeout|CUR",
+   "qtype": "STABLE",
+   "entity": "Echo",
+   "attr": "request timeout",
+   "scope": "default",
+   "text": "What is the current default request timeout of Echo?",
+   "gold": "9150",
+   "gold_display": "9150 ms",
+   "has_exception": true,
+   "has_update": false
+  },
+  {
+   "qid": "Echo|log retention|EXC",
+   "qtype": "EXC",
+   "entity": "Echo",
+   "attr": "log retention",
+   "scope": "the canary cluster",
+   "text": "What log retention does Echo use for the canary cluster?",
+   "gold": "124",
+   "gold_display": "124 days",
+   "has_exception": true,
+   "has_update": false
+  },
+  {
+   "qid": "Zephyr|disk quota|EXC",
+   "qtype": "EXC",
+   "entity": "Zephyr",
+   "attr": "disk quota",
+   "scope": "weekend runs",
+   "text": "What disk quota does Zephyr use for weekend runs?",
+   "gold": "717",
+   "gold_display": "717 GB",
+   "has_exception": true,
+   "has_update": false
+  },
+  {
+   "qid": "Thistle|max line length|CUR",
+   "qtype": "STABLE",
+   "entity": "Thistle",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "What is the current default max line length of Thistle?",
+   "gold": "194",
+   "gold_display": "194 chars",
+   "has_exception": true,
+   "has_update": false
+  },
+  {
+   "qid": "Echo|log retention|CUR",
+   "qtype": "STABLE",
+   "entity": "Echo",
+   "attr": "log retention",
+   "scope": "default",
+   "text": "What is the current default log retention of Echo?",
+   "gold": "34",
+   "gold_display": "34 days",
+   "has_exception": true,
+   "has_update": false
+  },
+  {
+   "qid": "Nordic|deploy branch|CUR",
+   "qtype": "STABLE",
+   "entity": "Nordic",
+   "attr": "deploy branch",
+   "scope": "default",
+   "text": "What is the current default deploy branch of Nordic?",
+   "gold": "release-558",
+   "gold_display": "release-558",
+   "has_exception": false,
+   "has_update": false
+  },
+  {
+   "qid": "Raven|max line length|CUR",
+   "qtype": "CUR",
+   "entity": "Raven",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "What is the current default max line length of Raven?",
+   "gold": "102",
+   "gold_display": "102 chars",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Raven|stand-up time|EXC",
+   "qtype": "EXC",
+   "entity": "Raven",
+   "attr": "stand-up time",
+   "scope": "the frontend squad",
+   "text": "What stand-up time does Raven use for the frontend squad?",
+   "gold": "22:10",
+   "gold_display": "22:10",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Wren|rate limit|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Wren",
+   "attr": "rate limit",
+   "scope": "default",
+   "text": "What is the current default rate limit of Wren?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false
+  },
+  {
+   "qid": "Raven|monthly cloud budget|CUR",
+   "qtype": "CUR",
+   "entity": "Raven",
+   "attr": "monthly cloud budget",
+   "scope": "default",
+   "text": "What is the current default monthly cloud budget of Raven?",
+   "gold": "7880",
+   "gold_display": "$7880",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Cobalt|API port|CUR",
+   "qtype": "STABLE",
+   "entity": "Cobalt",
+   "attr": "API port",
+   "scope": "default",
+   "text": "What is the current default API port of Cobalt?",
+   "gold": "8739",
+   "gold_display": "8739",
+   "has_exception": false,
+   "has_update": false
+  },
+  {
+   "qid": "Jade|stand-up time|CUR",
+   "qtype": "CUR",
+   "entity": "Jade",
+   "attr": "stand-up time",
+   "scope": "default",
+   "text": "What is the current default stand-up time of Jade?",
+   "gold": "14:15",
+   "gold_display": "14:15",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Juniper|stand-up time|PREV",
+   "qtype": "PREV",
+   "entity": "Juniper",
+   "attr": "stand-up time",
+   "scope": "default",
+   "text": "What was the default stand-up time of Juniper right before its most recent change?",
+   "gold": "16:25",
+   "gold_display": "16:25",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Lumen|nightly backup time|CUR",
+   "qtype": "CUR",
+   "entity": "Lumen",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What is the current default nightly backup time of Lumen?",
+   "gold": "16:55",
+   "gold_display": "16:55",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Raven|stand-up time|CUR",
+   "qtype": "CUR",
+   "entity": "Raven",
+   "attr": "stand-up time",
+   "scope": "default",
+   "text": "What is the current default stand-up time of Raven?",
+   "gold": "15:05",
+   "gold_display": "15:05",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Raven|max line length|EXC",
+   "qtype": "EXC",
+   "entity": "Raven",
+   "attr": "max line length",
+   "scope": "Fridays",
+   "text": "What max line length does Raven use for Fridays?",
+   "gold": "166",
+   "gold_display": "166 chars",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Vortex|SSH port|PREV",
+   "qtype": "PREV",
+   "entity": "Vortex",
+   "attr": "SSH port",
+   "scope": "default",
+   "text": "What was the default SSH port of Vortex right before its most recent change?",
+   "gold": "7312",
+   "gold_display": "7312",
+   "has_exception": false,
+   "has_update": true
+  },
+  {
+   "qid": "Thistle|stand-up time|CUR",
+   "qtype": "CUR",
+   "entity": "Thistle",
+   "attr": "stand-up time",
+   "scope": "default",
+   "text": "What is the current default stand-up time of Thistle?",
+   "gold": "16:40",
+   "gold_display": "16:40",
+   "has_exception": true,
+   "has_update": true
+  },
+  {
+   "qid": "Jade|test coverage threshold|CUR",
+   "qtype": "STABLE",
+   "entity": "Jade",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "text": "What is the current default test coverage threshold of Jade?",
+   "gold": "54",
+   "gold_display": "54%",
+   "has_exception": false,
+   "has_update": false
+  },
+  {
+   "qid": "Jade|design review time|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Jade",
+   "attr": "design review time",
+   "scope": "default",
+   "text": "What is the current default design review time of Jade?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false
+  }
+ ],
+ "sessions": [
+  {
+   "session": 0,
+   "date": "2026-01-05",
+   "notes": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "session": 1,
+   "date": "2026-01-08",
+   "notes": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "session": 2,
+   "date": "2026-01-09",
+   "notes": [
+    9,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "session": 3,
+   "date": "2026-01-11",
+   "notes": [
+    13,
+    14,
+    15
+   ]
+  },
+  {
+   "session": 4,
+   "date": "2026-01-12",
+   "notes": [
+    16,
+    17,
+    18
+   ]
+  },
+  {
+   "session": 5,
+   "date": "2026-01-15",
+   "notes": [
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+   ]
+  },
+  {
+   "session": 6,
+   "date": "2026-01-17",
+   "notes": [
+    25,
+    26,
+    27
+   ]
+  },
+  {
+   "session": 7,
+   "date": "2026-01-19",
+   "notes": [
+    28,
+    29,
+    30,
+    31
+   ]
+  },
+  {
+   "session": 8,
+   "date": "2026-01-22",
+   "notes": [
+    32,
+    33,
+    34,
+    35,
+    36
+   ]
+  },
+  {
+   "session": 9,
+   "date": "2026-01-25",
+   "notes": [
+    37,
+    38,
+    39,
+    40
+   ]
+  },
+  {
+   "session": 10,
+   "date": "2026-01-28",
+   "notes": [
+    41,
+    42,
+    43,
+    44,
+    45
+   ]
+  },
+  {
+   "session": 11,
+   "date": "2026-01-31",
+   "notes": [
+    46,
+    47,
+    48,
+    49,
+    50
+   ]
+  },
+  {
+   "session": 12,
+   "date": "2026-02-02",
+   "notes": [
+    51,
+    52,
+    53,
+    54,
+    55
+   ]
+  },
+  {
+   "session": 13,
+   "date": "2026-02-04",
+   "notes": [
+    56,
+    57,
+    58,
+    59,
+    60
+   ]
+  },
+  {
+   "session": 14,
+   "date": "2026-02-05",
+   "notes": [
+    61,
+    62,
+    63,
+    64
+   ]
+  },
+  {
+   "session": 15,
+   "date": "2026-02-08",
+   "notes": [
+    65,
+    66,
+    67,
+    68,
+    69
+   ]
+  },
+  {
+   "session": 16,
+   "date": "2026-02-10",
+   "notes": [
+    70,
+    71,
+    72,
+    73
+   ]
+  },
+  {
+   "session": 17,
+   "date": "2026-02-11",
+   "notes": [
+    74,
+    75,
+    76,
+    77
+   ]
+  },
+  {
+   "session": 18,
+   "date": "2026-02-13",
+   "notes": [
+    78,
+    79,
+    80,
+    81
+   ]
+  },
+  {
+   "session": 19,
+   "date": "2026-02-15",
+   "notes": [
+    82,
+    83
+   ]
+  }
+ ]
+}

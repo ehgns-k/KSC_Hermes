@@ -1,0 +1,5835 @@
+{
+ "seed": 3,
+ "n_entities": 24,
+ "notes": [
+  {
+   "idx": 0,
+   "session": 0,
+   "date": "2026-01-05",
+   "text": "Noted: Birch — address: 10.107.224.32.",
+   "facts": [
+    0
+   ]
+  },
+  {
+   "idx": 1,
+   "session": 0,
+   "date": "2026-01-05",
+   "text": "Prefer small pull requests with clear titles.",
+   "facts": []
+  },
+  {
+   "idx": 2,
+   "session": 0,
+   "date": "2026-01-05",
+   "text": "Glacier: nightly backup time = 12:35.",
+   "facts": [
+    1
+   ]
+  },
+  {
+   "idx": 3,
+   "session": 0,
+   "date": "2026-01-05",
+   "text": "Learned that the Birch host runs with SSH port 6803.",
+   "facts": [
+    2
+   ]
+  },
+  {
+   "idx": 4,
+   "session": 0,
+   "date": "2026-01-05",
+   "text": "Birch: maintenance window = 19:05.",
+   "facts": [
+    3
+   ]
+  },
+  {
+   "idx": 5,
+   "session": 1,
+   "date": "2026-01-08",
+   "text": "Config for Rune has code review SLA 27 hours.",
+   "facts": [
+    4
+   ]
+  },
+  {
+   "idx": 6,
+   "session": 1,
+   "date": "2026-01-08",
+   "text": "Set up Cedar: maximum line width 77 chars, minimum test coverage 74%.",
+   "facts": [
+    5,
+    6
+   ]
+  },
+  {
+   "idx": 7,
+   "session": 1,
+   "date": "2026-01-08",
+   "text": "Learned that the Harbor service runs with nightly backup time 13:05.",
+   "facts": [
+    7
+   ]
+  },
+  {
+   "idx": 8,
+   "session": 1,
+   "date": "2026-01-08",
+   "text": "Avoid force-pushing to shared branches.",
+   "facts": []
+  },
+  {
+   "idx": 9,
+   "session": 1,
+   "date": "2026-01-08",
+   "text": "The log retention of Nordic is 362 days.",
+   "facts": [
+    8
+   ]
+  },
+  {
+   "idx": 10,
+   "session": 1,
+   "date": "2026-01-08",
+   "text": "Glacier listen port is 2705.",
+   "facts": [
+    9
+   ]
+  },
+  {
+   "idx": 11,
+   "session": 2,
+   "date": "2026-01-11",
+   "text": "Harbor number of workers is 228.",
+   "facts": [
+    10
+   ]
+  },
+  {
+   "idx": 12,
+   "session": 2,
+   "date": "2026-01-11",
+   "text": "Nordic branch it ships from is release-540.",
+   "facts": [
+    11
+   ]
+  },
+  {
+   "idx": 13,
+   "session": 2,
+   "date": "2026-01-11",
+   "text": "Learned that the Rune team runs with max line length 87 chars.",
+   "facts": [
+    12
+   ]
+  },
+  {
+   "idx": 14,
+   "session": 2,
+   "date": "2026-01-11",
+   "text": "New line-length limit for Cedar: 120 chars.",
+   "facts": [
+    13
+   ]
+  },
+  {
+   "idx": 15,
+   "session": 2,
+   "date": "2026-01-11",
+   "text": "Update: Birch moved its SSH port from 6803 to 6098.",
+   "facts": [
+    14
+   ]
+  },
+  {
+   "idx": 16,
+   "session": 2,
+   "date": "2026-01-11",
+   "text": "Learned that the Rune team runs with monthly cloud budget $6030.",
+   "facts": [
+    15
+   ]
+  },
+  {
+   "idx": 17,
+   "session": 3,
+   "date": "2026-01-12",
+   "text": "Set up Tundra: SSH port 8995, swap space 2636 GB.",
+   "facts": [
+    16,
+    17
+   ]
+  },
+  {
+   "idx": 18,
+   "session": 3,
+   "date": "2026-01-12",
+   "text": "The size of the build cache of Cedar is 2219 GB.",
+   "facts": [
+    18
+   ]
+  },
+  {
+   "idx": 19,
+   "session": 3,
+   "date": "2026-01-12",
+   "text": "Update: Harbor moved its nightly backup time from 13:05 to 23:40.",
+   "facts": [
+    19
+   ]
+  },
+  {
+   "idx": 20,
+   "session": 3,
+   "date": "2026-01-12",
+   "text": "Tundra disk quota is 2000 GB.",
+   "facts": [
+    20
+   ]
+  },
+  {
+   "idx": 21,
+   "session": 3,
+   "date": "2026-01-12",
+   "text": "Confirmed again that Nordic uses deploy branch release-540.",
+   "facts": [
+    21
+   ]
+  },
+  {
+   "idx": 22,
+   "session": 3,
+   "date": "2026-01-12",
+   "text": "Noted: Glacier — request timeout: 550 ms.",
+   "facts": [
+    22
+   ]
+  },
+  {
+   "idx": 23,
+   "session": 4,
+   "date": "2026-01-15",
+   "text": "The user reads documentation in English but chats in Korean.",
+   "facts": []
+  },
+  {
+   "idx": 24,
+   "session": 4,
+   "date": "2026-01-15",
+   "text": "Nordic: API port = 3625.",
+   "facts": [
+    23
+   ]
+  },
+  {
+   "idx": 25,
+   "session": 4,
+   "date": "2026-01-15",
+   "text": "The Flint team uses test coverage threshold 62%; build cache is 1775 GB.",
+   "facts": [
+    24,
+    25
+   ]
+  },
+  {
+   "idx": 26,
+   "session": 4,
+   "date": "2026-01-15",
+   "text": "Harbor log retention period is 325 days.",
+   "facts": [
+    26
+   ]
+  },
+  {
+   "idx": 27,
+   "session": 4,
+   "date": "2026-01-15",
+   "text": "Config for Bramble has SSH port 3563.",
+   "facts": [
+    27
+   ]
+  },
+  {
+   "idx": 28,
+   "session": 4,
+   "date": "2026-01-15",
+   "text": "Bramble: maintenance window = 12:25.",
+   "facts": [
+    28
+   ]
+  },
+  {
+   "idx": 29,
+   "session": 5,
+   "date": "2026-01-17",
+   "text": "For Quasar, the listen port is set to 6257.",
+   "facts": [
+    29
+   ]
+  },
+  {
+   "idx": 30,
+   "session": 5,
+   "date": "2026-01-17",
+   "text": "New code-review deadline for Rune: 94 hours.",
+   "facts": [
+    30
+   ]
+  },
+  {
+   "idx": 31,
+   "session": 5,
+   "date": "2026-01-17",
+   "text": "Config for Raven has request timeout 7750 ms.",
+   "facts": [
+    31
+   ]
+  },
+  {
+   "idx": 32,
+   "session": 5,
+   "date": "2026-01-17",
+   "text": "The code review SLA of Flint is 17 hours.",
+   "facts": [
+    32
+   ]
+  },
+  {
+   "idx": 33,
+   "session": 5,
+   "date": "2026-01-17",
+   "text": "User usually works late in the evening.",
+   "facts": []
+  },
+  {
+   "idx": 34,
+   "session": 5,
+   "date": "2026-01-17",
+   "text": "For Raven, the DB pool size is set to 409.",
+   "facts": [
+    33
+   ]
+  },
+  {
+   "idx": 35,
+   "session": 6,
+   "date": "2026-01-20",
+   "text": "For Bramble, the max containers is set to 23.",
+   "facts": [
+    34
+   ]
+  },
+  {
+   "idx": 36,
+   "session": 6,
+   "date": "2026-01-20",
+   "text": "Tundra SSH port: 8995 (unchanged).",
+   "facts": [
+    35
+   ]
+  },
+  {
+   "idx": 37,
+   "session": 6,
+   "date": "2026-01-20",
+   "text": "Update: Flint moved its build cache size from 1775 GB to 912 GB.",
+   "facts": [
+    36
+   ]
+  },
+  {
+   "idx": 38,
+   "session": 6,
+   "date": "2026-01-20",
+   "text": "The backup start time of Quasar is 17:35.",
+   "facts": [
+    37
+   ]
+  },
+  {
+   "idx": 39,
+   "session": 6,
+   "date": "2026-01-20",
+   "text": "Update: Tundra moved its swap size from 2636 GB to 116 GB.",
+   "facts": [
+    38
+   ]
+  },
+  {
+   "idx": 40,
+   "session": 6,
+   "date": "2026-01-20",
+   "text": "Double-checked Tundra: the swap remains 116 GB.",
+   "facts": [
+    39
+   ]
+  },
+  {
+   "idx": 41,
+   "session": 7,
+   "date": "2026-01-21",
+   "text": "Learned that the Quasar service runs with HTTP timeout 150 ms.",
+   "facts": [
+    40
+   ]
+  },
+  {
+   "idx": 42,
+   "session": 7,
+   "date": "2026-01-21",
+   "text": "User switched Raven to DB connection pool 372.",
+   "facts": [
+    41
+   ]
+  },
+  {
+   "idx": 43,
+   "session": 7,
+   "date": "2026-01-21",
+   "text": "For Pegasus, the swap size is set to 1123 GB.",
+   "facts": [
+    42
+   ]
+  },
+  {
+   "idx": 44,
+   "session": 8,
+   "date": "2026-01-24",
+   "text": "Raven: deploy branch = release-890.",
+   "facts": [
+    43
+   ]
+  },
+  {
+   "idx": 45,
+   "session": 8,
+   "date": "2026-01-24",
+   "text": "Note that the GPU queue of Birch overrides the IP with 10.62.47.167.",
+   "facts": [
+    44
+   ]
+  },
+  {
+   "idx": 46,
+   "session": 8,
+   "date": "2026-01-24",
+   "text": "The Kestrel team uses stand-up time 10:35; test coverage threshold is 64%.",
+   "facts": [
+    45,
+    46
+   ]
+  },
+  {
+   "idx": 47,
+   "session": 8,
+   "date": "2026-01-24",
+   "text": "Glacier nightly backup time changed from 12:35 to 21:10.",
+   "facts": [
+    47
+   ]
+  },
+  {
+   "idx": 48,
+   "session": 8,
+   "date": "2026-01-24",
+   "text": "Run 'make test' before pushing any branch.",
+   "facts": []
+  },
+  {
+   "idx": 49,
+   "session": 8,
+   "date": "2026-01-24",
+   "text": "Prefer small pull requests with clear titles.",
+   "facts": []
+  },
+  {
+   "idx": 50,
+   "session": 9,
+   "date": "2026-01-26",
+   "text": "Tundra disk quota changed from 2000 GB to 1246 GB.",
+   "facts": [
+    48
+   ]
+  },
+  {
+   "idx": 51,
+   "session": 9,
+   "date": "2026-01-26",
+   "text": "Rune now uses 119 chars as its max line length.",
+   "facts": [
+    49
+   ]
+  },
+  {
+   "idx": 52,
+   "session": 9,
+   "date": "2026-01-26",
+   "text": "Helix uses 63% as its test coverage threshold.",
+   "facts": [
+    50
+   ]
+  },
+  {
+   "idx": 53,
+   "session": 9,
+   "date": "2026-01-26",
+   "text": "Zenith IP address is 10.139.232.148 and its disk quota is 2351 GB.",
+   "facts": [
+    51,
+    52
+   ]
+  },
+  {
+   "idx": 54,
+   "session": 10,
+   "date": "2026-01-29",
+   "text": "Helix code review SLA is 54 hours.",
+   "facts": [
+    53
+   ]
+  },
+  {
+   "idx": 55,
+   "session": 10,
+   "date": "2026-01-29",
+   "text": "Pegasus uses 3535 as its SSH port.",
+   "facts": [
+    54
+   ]
+  },
+  {
+   "idx": 56,
+   "session": 10,
+   "date": "2026-01-29",
+   "text": "Config for Lumen has code review SLA 83 hours.",
+   "facts": [
+    55
+   ]
+  },
+  {
+   "idx": 57,
+   "session": 10,
+   "date": "2026-01-29",
+   "text": "The disk quota of Pegasus is 2680 GB.",
+   "facts": [
+    56
+   ]
+  },
+  {
+   "idx": 58,
+   "session": 10,
+   "date": "2026-01-29",
+   "text": "Helix size of the build cache is 1399 GB.",
+   "facts": [
+    57
+   ]
+  },
+  {
+   "idx": 59,
+   "session": 11,
+   "date": "2026-01-30",
+   "text": "For Lumen, the line-length limit is set to 141 chars.",
+   "facts": [
+    58
+   ]
+  },
+  {
+   "idx": 60,
+   "session": 11,
+   "date": "2026-01-30",
+   "text": "Avoid force-pushing to shared branches.",
+   "facts": []
+  },
+  {
+   "idx": 61,
+   "session": 11,
+   "date": "2026-01-30",
+   "text": "User switched Nordic to log retention 91 days.",
+   "facts": [
+    59
+   ]
+  },
+  {
+   "idx": 62,
+   "session": 11,
+   "date": "2026-01-30",
+   "text": "Reminder: Flint build cache is still 912 GB.",
+   "facts": [
+    60
+   ]
+  },
+  {
+   "idx": 63,
+   "session": 11,
+   "date": "2026-01-30",
+   "text": "For Krypton, the max upload size is set to 3032 MB.",
+   "facts": [
+    61
+   ]
+  },
+  {
+   "idx": 64,
+   "session": 12,
+   "date": "2026-02-02",
+   "text": "Raven DB pool size changed from 372 to 300.",
+   "facts": [
+    62
+   ]
+  },
+  {
+   "idx": 65,
+   "session": 12,
+   "date": "2026-02-02",
+   "text": "For Marlin, the DB pool size is set to 477.",
+   "facts": [
+    63
+   ]
+  },
+  {
+   "idx": 66,
+   "session": 12,
+   "date": "2026-02-02",
+   "text": "Marlin deploy branch is release-925.",
+   "facts": [
+    64
+   ]
+  },
+  {
+   "idx": 67,
+   "session": 12,
+   "date": "2026-02-02",
+   "text": "For Lumen, the build cache size is set to 2143 GB.",
+   "facts": [
+    65
+   ]
+  },
+  {
+   "idx": 68,
+   "session": 13,
+   "date": "2026-02-04",
+   "text": "Harbor log retention: 325 days (unchanged).",
+   "facts": [
+    66
+   ]
+  },
+  {
+   "idx": 69,
+   "session": 13,
+   "date": "2026-02-04",
+   "text": "Redwood: stand-up time = 14:50.",
+   "facts": [
+    67
+   ]
+  },
+  {
+   "idx": 70,
+   "session": 13,
+   "date": "2026-02-04",
+   "text": "Exception: for the EU region, Nordic uses listen port 6596.",
+   "facts": [
+    68
+   ]
+  },
+  {
+   "idx": 71,
+   "session": 13,
+   "date": "2026-02-04",
+   "text": "Krypton uses 6987 as its listen port.",
+   "facts": [
+    69
+   ]
+  },
+  {
+   "idx": 72,
+   "session": 13,
+   "date": "2026-02-04",
+   "text": "The port for SSH for Tundra is no longer 8995; it is now 8648.",
+   "facts": [
+    70
+   ]
+  },
+  {
+   "idx": 73,
+   "session": 13,
+   "date": "2026-02-04",
+   "text": "Kestrel code review SLA is 19 hours.",
+   "facts": [
+    71
+   ]
+  },
+  {
+   "idx": 74,
+   "session": 14,
+   "date": "2026-02-07",
+   "text": "Jira tickets for infra work go to board 9779.",
+   "facts": [
+    72
+   ]
+  },
+  {
+   "idx": 75,
+   "session": 14,
+   "date": "2026-02-07",
+   "text": "User switched Kestrel to minimum test coverage 71%.",
+   "facts": [
+    73
+   ]
+  },
+  {
+   "idx": 76,
+   "session": 14,
+   "date": "2026-02-07",
+   "text": "Run 'make test' before pushing any branch.",
+   "facts": []
+  },
+  {
+   "idx": 77,
+   "session": 14,
+   "date": "2026-02-07",
+   "text": "User switched Cedar to minimum test coverage 65%.",
+   "facts": [
+    74
+   ]
+  },
+  {
+   "idx": 78,
+   "session": 15,
+   "date": "2026-02-09",
+   "text": "Config for Krypton has HTTP timeout 8800 ms.",
+   "facts": [
+    75
+   ]
+  },
+  {
+   "idx": 79,
+   "session": 15,
+   "date": "2026-02-09",
+   "text": "Config for Zenith has SSH port 2852.",
+   "facts": [
+    76
+   ]
+  },
+  {
+   "idx": 80,
+   "session": 15,
+   "date": "2026-02-09",
+   "text": "Config for Vega has swap size 2096 GB.",
+   "facts": [
+    77
+   ]
+  },
+  {
+   "idx": 81,
+   "session": 15,
+   "date": "2026-02-09",
+   "text": "The Magma team uses monthly cloud budget $5170; max line length is 148 chars.",
+   "facts": [
+    78,
+    79
+   ]
+  },
+  {
+   "idx": 82,
+   "session": 15,
+   "date": "2026-02-09",
+   "text": "Except for the frontend squad, where it is 2952 GB, Lumen keeps its usual size of the build cache.",
+   "facts": [
+    80
+   ]
+  },
+  {
+   "idx": 83,
+   "session": 16,
+   "date": "2026-02-11",
+   "text": "For Wildfire, the DB pool size is set to 167.",
+   "facts": [
+    81
+   ]
+  },
+  {
+   "idx": 84,
+   "session": 16,
+   "date": "2026-02-11",
+   "text": "Prefer small pull requests with clear titles.",
+   "facts": []
+  },
+  {
+   "idx": 85,
+   "session": 16,
+   "date": "2026-02-11",
+   "text": "For Redwood, the build cache size is set to 2735 GB.",
+   "facts": [
+    82
+   ]
+  },
+  {
+   "idx": 86,
+   "session": 17,
+   "date": "2026-02-14",
+   "text": "Glacier backup start time is 18:35 on staging only; elsewhere the normal setting applies.",
+   "facts": [
+    83
+   ]
+  },
+  {
+   "idx": 87,
+   "session": 17,
+   "date": "2026-02-14",
+   "text": "Cedar line-length limit changed from 120 chars to 123 chars.",
+   "facts": [
+    84
+   ]
+  },
+  {
+   "idx": 88,
+   "session": 17,
+   "date": "2026-02-14",
+   "text": "Pulsar log retention is 46 days and its DB pool size is 61.",
+   "facts": [
+    85,
+    86
+   ]
+  },
+  {
+   "idx": 89,
+   "session": 17,
+   "date": "2026-02-14",
+   "text": "Tried deploy branch release-869 on Marlin for a test, reverted immediately; release-925 remains the setting.",
+   "facts": [
+    87
+   ]
+  },
+  {
+   "idx": 90,
+   "session": 17,
+   "date": "2026-02-14",
+   "text": "Bramble's maximum number of containers has been updated to 313.",
+   "facts": [
+    88
+   ]
+  },
+  {
+   "idx": 91,
+   "session": 18,
+   "date": "2026-02-17",
+   "text": "Learned that the Redwood team runs with line-length limit 130 chars.",
+   "facts": [
+    89
+   ]
+  },
+  {
+   "idx": 92,
+   "session": 18,
+   "date": "2026-02-17",
+   "text": "The request timeout for Glacier is no longer 550 ms; it is now 8350 ms.",
+   "facts": [
+    90
+   ]
+  },
+  {
+   "idx": 93,
+   "session": 18,
+   "date": "2026-02-17",
+   "text": "New request timeout for Raven: 4350 ms.",
+   "facts": [
+    91
+   ]
+  },
+  {
+   "idx": 94,
+   "session": 18,
+   "date": "2026-02-17",
+   "text": "The flaky integration test passes reliably with a retry delay of 5333 ms.",
+   "facts": [
+    92
+   ]
+  },
+  {
+   "idx": 95,
+   "session": 19,
+   "date": "2026-02-20",
+   "text": "Tried deploy branch release-353 on Raven for a test, reverted immediately; release-890 remains the setting.",
+   "facts": [
+    93
+   ]
+  },
+  {
+   "idx": 96,
+   "session": 19,
+   "date": "2026-02-20",
+   "text": "User dislikes emoji in commit messages.",
+   "facts": []
+  },
+  {
+   "idx": 97,
+   "session": 19,
+   "date": "2026-02-20",
+   "text": "Note that hotfix branches of Kestrel overrides the stand-up time with 14:05.",
+   "facts": [
+    94
+   ]
+  },
+  {
+   "idx": 98,
+   "session": 20,
+   "date": "2026-02-23",
+   "text": "Learned that the Zircon team runs with code-review deadline 12 hours.",
+   "facts": [
+    95
+   ]
+  },
+  {
+   "idx": 99,
+   "session": 20,
+   "date": "2026-02-23",
+   "text": "The container limit of Vega is 58.",
+   "facts": [
+    96
+   ]
+  },
+  {
+   "idx": 100,
+   "session": 20,
+   "date": "2026-02-23",
+   "text": "Learned that the Marlin service runs with nightly backup time 20:55.",
+   "facts": [
+    97
+   ]
+  },
+  {
+   "idx": 101,
+   "session": 20,
+   "date": "2026-02-23",
+   "text": "Update: Bramble moved its SSH port from 3563 to 3629.",
+   "facts": [
+    98
+   ]
+  },
+  {
+   "idx": 102,
+   "session": 20,
+   "date": "2026-02-23",
+   "text": "Config for Wildfire has worker pool size 286.",
+   "facts": [
+    99
+   ]
+  },
+  {
+   "idx": 103,
+   "session": 21,
+   "date": "2026-02-26",
+   "text": "User prefers concise answers with code blocks.",
+   "facts": []
+  },
+  {
+   "idx": 104,
+   "session": 21,
+   "date": "2026-02-26",
+   "text": "For Zircon, the max line length is set to 129 chars.",
+   "facts": [
+    100
+   ]
+  },
+  {
+   "idx": 105,
+   "session": 21,
+   "date": "2026-02-26",
+   "text": "User switched Glacier to API port 4390.",
+   "facts": [
+    101
+   ]
+  },
+  {
+   "idx": 106,
+   "session": 21,
+   "date": "2026-02-26",
+   "text": "Vega maintenance slot is 23:55.",
+   "facts": [
+    102
+   ]
+  },
+  {
+   "idx": 107,
+   "session": 21,
+   "date": "2026-02-26",
+   "text": "New max line length for Redwood: 133 chars.",
+   "facts": [
+    103
+   ]
+  },
+  {
+   "idx": 108,
+   "session": 22,
+   "date": "2026-03-01",
+   "text": "Update: Bramble moved its maintenance window from 12:25 to 12:15.",
+   "facts": [
+    104
+   ]
+  },
+  {
+   "idx": 109,
+   "session": 22,
+   "date": "2026-03-01",
+   "text": "Reminder: Harbor nightly backup time is still 23:40.",
+   "facts": [
+    105
+   ]
+  },
+  {
+   "idx": 110,
+   "session": 22,
+   "date": "2026-03-01",
+   "text": "Confirmed again that Raven uses DB connection pool 300.",
+   "facts": [
+    106
+   ]
+  },
+  {
+   "idx": 111,
+   "session": 22,
+   "date": "2026-03-01",
+   "text": "Exception: for hotfix branches, Helix uses build cache size 2214 GB.",
+   "facts": [
+    107
+   ]
+  },
+  {
+   "idx": 112,
+   "session": 22,
+   "date": "2026-03-01",
+   "text": "Except for weekend runs, where it is 1079 GB, Vega keeps its usual swap size.",
+   "facts": [
+    108
+   ]
+  },
+  {
+   "idx": 113,
+   "session": 23,
+   "date": "2026-03-03",
+   "text": "User wants dates written as YYYY-MM-DD.",
+   "facts": []
+  },
+  {
+   "idx": 114,
+   "session": 23,
+   "date": "2026-03-03",
+   "text": "Learned that the Magma team runs with size of the build cache 2447 GB.",
+   "facts": [
+    109
+   ]
+  },
+  {
+   "idx": 115,
+   "session": 23,
+   "date": "2026-03-03",
+   "text": "Nordic log retention reverted to 362 days after problems with 91 days.",
+   "facts": [
+    110
+   ]
+  },
+  {
+   "idx": 116,
+   "session": 23,
+   "date": "2026-03-03",
+   "text": "The API port for Krypton is no longer 6987; it is now 6322.",
+   "facts": [
+    111
+   ]
+  },
+  {
+   "idx": 117,
+   "session": 23,
+   "date": "2026-03-03",
+   "text": "Pulsar uses release-714 as its deploy branch.",
+   "facts": [
+    112
+   ]
+  },
+  {
+   "idx": 118,
+   "session": 24,
+   "date": "2026-03-04",
+   "text": "Quasar backup start time changed from 17:35 to 22:50.",
+   "facts": [
+    113
+   ]
+  },
+  {
+   "idx": 119,
+   "session": 24,
+   "date": "2026-03-04",
+   "text": "As of today, the nightly backup time for Marlin is 16:10.",
+   "facts": [
+    114
+   ]
+  },
+  {
+   "idx": 120,
+   "session": 24,
+   "date": "2026-03-04",
+   "text": "Update: Quasar moved its timeout for requests from 150 ms to 1400 ms.",
+   "facts": [
+    115
+   ]
+  },
+  {
+   "idx": 121,
+   "session": 24,
+   "date": "2026-03-04",
+   "text": "The disk quota for Pegasus is no longer 2680 GB; it is now 1622 GB.",
+   "facts": [
+    116
+   ]
+  },
+  {
+   "idx": 122,
+   "session": 24,
+   "date": "2026-03-04",
+   "text": "Checked Lumen again: max line length is 141 chars.",
+   "facts": [
+    117
+   ]
+  },
+  {
+   "idx": 123,
+   "session": 24,
+   "date": "2026-03-04",
+   "text": "The build cache size for Helix is no longer 1399 GB; it is now 2863 GB.",
+   "facts": [
+    118
+   ]
+  },
+  {
+   "idx": 124,
+   "session": 25,
+   "date": "2026-03-07",
+   "text": "User switched Lumen to build cache size 1428 GB.",
+   "facts": [
+    119
+   ]
+  },
+  {
+   "idx": 125,
+   "session": 25,
+   "date": "2026-03-07",
+   "text": "New build cache size for Cedar: 489 GB.",
+   "facts": [
+    120
+   ]
+  },
+  {
+   "idx": 126,
+   "session": 25,
+   "date": "2026-03-07",
+   "text": "Zircon: cloud spending cap = $9260.",
+   "facts": [
+    121
+   ]
+  },
+  {
+   "idx": 127,
+   "session": 25,
+   "date": "2026-03-07",
+   "text": "Double-checked Marlin: the backup start time remains 16:10.",
+   "facts": [
+    122
+   ]
+  },
+  {
+   "idx": 128,
+   "session": 25,
+   "date": "2026-03-07",
+   "text": "Wildfire uses 5450 ms as its request timeout.",
+   "facts": [
+    123
+   ]
+  },
+  {
+   "idx": 129,
+   "session": 26,
+   "date": "2026-03-09",
+   "text": "Special case — Bramble on the GPU queue: maintenance window 19:20.",
+   "facts": [
+    124
+   ]
+  },
+  {
+   "idx": 130,
+   "session": 26,
+   "date": "2026-03-09",
+   "text": "Quasar HTTP timeout: 1400 ms (unchanged).",
+   "facts": [
+    125
+   ]
+  },
+  {
+   "idx": 131,
+   "session": 26,
+   "date": "2026-03-09",
+   "text": "Update: Bramble moved its SSH port from 3629 to 2303.",
+   "facts": [
+    126
+   ]
+  },
+  {
+   "idx": 132,
+   "session": 26,
+   "date": "2026-03-09",
+   "text": "Marlin nightly backup time is 11:20 on batch jobs only; elsewhere the normal setting applies.",
+   "facts": [
+    127
+   ]
+  },
+  {
+   "idx": 133,
+   "session": 26,
+   "date": "2026-03-09",
+   "text": "Confirmed again that Tundra uses disk quota 1246 GB.",
+   "facts": [
+    128
+   ]
+  },
+  {
+   "idx": 134,
+   "session": 26,
+   "date": "2026-03-09",
+   "text": "Special case — Tundra on weekend runs: disk quota 457 GB.",
+   "facts": [
+    129
+   ]
+  },
+  {
+   "idx": 135,
+   "session": 27,
+   "date": "2026-03-11",
+   "text": "Kestrel's stand-up time has been updated to 22:25.",
+   "facts": [
+    130
+   ]
+  },
+  {
+   "idx": 136,
+   "session": 27,
+   "date": "2026-03-11",
+   "text": "The API port for Nordic is no longer 3625; it is now 8465.",
+   "facts": [
+    131
+   ]
+  },
+  {
+   "idx": 137,
+   "session": 27,
+   "date": "2026-03-11",
+   "text": "Exception: for the canary cluster, Pulsar uses branch it ships from release-870.",
+   "facts": [
+    132
+   ]
+  },
+  {
+   "idx": 138,
+   "session": 27,
+   "date": "2026-03-11",
+   "text": "Exception: for Fridays, Magma uses max line length 202 chars.",
+   "facts": [
+    133
+   ]
+  },
+  {
+   "idx": 139,
+   "session": 28,
+   "date": "2026-03-12",
+   "text": "Note that batch jobs of Nordic overrides the deploy branch with release-191.",
+   "facts": [
+    134
+   ]
+  },
+  {
+   "idx": 140,
+   "session": 28,
+   "date": "2026-03-12",
+   "text": "Wildfire request timeout changed from 5450 ms to 1300 ms.",
+   "facts": [
+    135
+   ]
+  },
+  {
+   "idx": 141,
+   "session": 28,
+   "date": "2026-03-12",
+   "text": "Double-checked Quasar: the API port remains 6257.",
+   "facts": [
+    136
+   ]
+  },
+  {
+   "idx": 142,
+   "session": 28,
+   "date": "2026-03-12",
+   "text": "Special case — Wildfire on the canary cluster: DB connection pool 229.",
+   "facts": [
+    137
+   ]
+  },
+  {
+   "idx": 143,
+   "session": 28,
+   "date": "2026-03-12",
+   "text": "Confirmed again that Krypton uses request timeout 8800 ms.",
+   "facts": [
+    138
+   ]
+  },
+  {
+   "idx": 144,
+   "session": 29,
+   "date": "2026-03-15",
+   "text": "Redwood now uses 18:15 as its stand-up time.",
+   "facts": [
+    139
+   ]
+  },
+  {
+   "idx": 145,
+   "session": 29,
+   "date": "2026-03-15",
+   "text": "Exception: for hotfix branches, Magma uses build cache size 753 GB.",
+   "facts": [
+    140
+   ]
+  },
+  {
+   "idx": 146,
+   "session": 29,
+   "date": "2026-03-15",
+   "text": "As of today, the test coverage threshold for Helix is 52%.",
+   "facts": [
+    141
+   ]
+  },
+  {
+   "idx": 147,
+   "session": 29,
+   "date": "2026-03-15",
+   "text": "Exception: for Fridays, Kestrel uses minimum test coverage 85%.",
+   "facts": [
+    142
+   ]
+  },
+  {
+   "idx": 148,
+   "session": 30,
+   "date": "2026-03-18",
+   "text": "Checked Pulsar again: DB pool size is 61.",
+   "facts": [
+    143
+   ]
+  },
+  {
+   "idx": 149,
+   "session": 30,
+   "date": "2026-03-18",
+   "text": "Docker commands do not need sudo on this machine.",
+   "facts": []
+  },
+  {
+   "idx": 150,
+   "session": 30,
+   "date": "2026-03-18",
+   "text": "Docker builds on the laptop need --memory=9321m to avoid OOM kills.",
+   "facts": [
+    144
+   ]
+  },
+  {
+   "idx": 151,
+   "session": 30,
+   "date": "2026-03-18",
+   "text": "Double-checked Wildfire: the request timeout remains 1300 ms.",
+   "facts": [
+    145
+   ]
+  },
+  {
+   "idx": 152,
+   "session": 30,
+   "date": "2026-03-18",
+   "text": "New DB connection pool for Marlin: 334.",
+   "facts": [
+    146
+   ]
+  },
+  {
+   "idx": 153,
+   "session": 30,
+   "date": "2026-03-18",
+   "text": "The HTTP timeout for Raven is no longer 4350 ms; it is now 5500 ms.",
+   "facts": [
+    147
+   ]
+  },
+  {
+   "idx": 154,
+   "session": 31,
+   "date": "2026-03-21",
+   "text": "Special case — Lumen on hotfix branches: max line length 183 chars.",
+   "facts": [
+    148
+   ]
+  },
+  {
+   "idx": 155,
+   "session": 31,
+   "date": "2026-03-21",
+   "text": "Double-checked Wildfire: the DB pool size remains 167.",
+   "facts": [
+    149
+   ]
+  },
+  {
+   "idx": 156,
+   "session": 31,
+   "date": "2026-03-21",
+   "text": "Special case — Tundra on weekend runs: SSH port 3933.",
+   "facts": [
+    150
+   ]
+  },
+  {
+   "idx": 157,
+   "session": 32,
+   "date": "2026-03-23",
+   "text": "Checked Rune again: line-length limit is 119 chars.",
+   "facts": [
+    151
+   ]
+  },
+  {
+   "idx": 158,
+   "session": 32,
+   "date": "2026-03-23",
+   "text": "Bramble max containers: 313 (unchanged).",
+   "facts": [
+    152
+   ]
+  },
+  {
+   "idx": 159,
+   "session": 32,
+   "date": "2026-03-23",
+   "text": "User switched Marlin to DB pool size 30.",
+   "facts": [
+    153
+   ]
+  },
+  {
+   "idx": 160,
+   "session": 32,
+   "date": "2026-03-23",
+   "text": "Pegasus SSH port changed from 3535 to 3241.",
+   "facts": [
+    154
+   ]
+  },
+  {
+   "idx": 161,
+   "session": 33,
+   "date": "2026-03-25",
+   "text": "Considered changing Helix test coverage threshold to 82%, but decided to keep 52%.",
+   "facts": [
+    155
+   ]
+  },
+  {
+   "idx": 162,
+   "session": 33,
+   "date": "2026-03-25",
+   "text": "Special case — Marlin on batch jobs: deploy branch release-194.",
+   "facts": [
+    156
+   ]
+  },
+  {
+   "idx": 163,
+   "session": 33,
+   "date": "2026-03-25",
+   "text": "Pegasus SSH port is 6623 on the GPU queue only; elsewhere the normal setting applies.",
+   "facts": [
+    157
+   ]
+  },
+  {
+   "idx": 164,
+   "session": 33,
+   "date": "2026-03-25",
+   "text": "Exception: for weekend runs, Vega uses max containers 337.",
+   "facts": [
+    158
+   ]
+  },
+  {
+   "idx": 165,
+   "session": 33,
+   "date": "2026-03-25",
+   "text": "Considered changing Wildfire worker count to 92, but decided to keep 286.",
+   "facts": [
+    159
+   ]
+  },
+  {
+   "idx": 166,
+   "session": 33,
+   "date": "2026-03-25",
+   "text": "Kestrel now uses 19:55 as its time of the stand-up.",
+   "facts": [
+    160
+   ]
+  },
+  {
+   "idx": 167,
+   "session": 34,
+   "date": "2026-03-26",
+   "text": "Except for the intern cohort, where it is 166 chars, Zircon keeps its usual maximum line width.",
+   "facts": [
+    161
+   ]
+  },
+  {
+   "idx": 168,
+   "session": 34,
+   "date": "2026-03-26",
+   "text": "Redwood stand-up time reverted to 14:50 after problems with 18:15.",
+   "facts": [
+    162
+   ]
+  },
+  {
+   "idx": 169,
+   "session": 34,
+   "date": "2026-03-26",
+   "text": "Reminder: Zircon max line length is still 129 chars.",
+   "facts": [
+    163
+   ]
+  },
+  {
+   "idx": 170,
+   "session": 34,
+   "date": "2026-03-26",
+   "text": "Double-checked Redwood: the stand-up time remains 14:50.",
+   "facts": [
+    164
+   ]
+  },
+  {
+   "idx": 171,
+   "session": 34,
+   "date": "2026-03-26",
+   "text": "Grafana dashboard #6813 is the one with the cluster health overview.",
+   "facts": [
+    165
+   ]
+  },
+  {
+   "idx": 172,
+   "session": 34,
+   "date": "2026-03-26",
+   "text": "Update: Pegasus moved its disk quota from 1622 GB to 2444 GB.",
+   "facts": [
+    166
+   ]
+  },
+  {
+   "idx": 173,
+   "session": 35,
+   "date": "2026-03-28",
+   "text": "Special case — Redwood on the intern cohort: size of the build cache 607 GB.",
+   "facts": [
+    167
+   ]
+  },
+  {
+   "idx": 174,
+   "session": 35,
+   "date": "2026-03-28",
+   "text": "Krypton HTTP timeout is 1650 ms on the canary cluster only; elsewhere the normal setting applies.",
+   "facts": [
+    168
+   ]
+  },
+  {
+   "idx": 175,
+   "session": 35,
+   "date": "2026-03-28",
+   "text": "Special case — Pulsar on batch jobs: DB connection pool 465.",
+   "facts": [
+    169
+   ]
+  },
+  {
+   "idx": 176,
+   "session": 35,
+   "date": "2026-03-28",
+   "text": "Special case — Quasar on the EU region: API port 4355.",
+   "facts": [
+    170
+   ]
+  },
+  {
+   "idx": 177,
+   "session": 36,
+   "date": "2026-03-30",
+   "text": "Pulsar's deploy branch has been updated to release-700.",
+   "facts": [
+    171
+   ]
+  },
+  {
+   "idx": 178,
+   "session": 36,
+   "date": "2026-03-30",
+   "text": "Exception: for the GPU queue, Zenith uses address 10.240.84.97.",
+   "facts": [
+    172
+   ]
+  },
+  {
+   "idx": 179,
+   "session": 36,
+   "date": "2026-03-30",
+   "text": "Redwood line-length limit: 133 chars (unchanged).",
+   "facts": [
+    173
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "entity": "Birch",
+   "attr": "IP address",
+   "scope": "default",
+   "value": "10.107.224.32",
+   "core": "10.107.224.32",
+   "t": 0,
+   "session": 0,
+   "kind": "init"
+  },
+  {
+   "entity": "Glacier",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "12:35",
+   "core": "12:35",
+   "t": 2,
+   "session": 0,
+   "kind": "init"
+  },
+  {
+   "entity": "Birch",
+   "attr": "SSH port",
+   "scope": "default",
+   "value": "6803",
+   "core": "6803",
+   "t": 3,
+   "session": 0,
+   "kind": "init"
+  },
+  {
+   "entity": "Birch",
+   "attr": "maintenance window",
+   "scope": "default",
+   "value": "19:05",
+   "core": "19:05",
+   "t": 4,
+   "session": 0,
+   "kind": "init"
+  },
+  {
+   "entity": "Rune",
+   "attr": "code review SLA",
+   "scope": "default",
+   "value": "27 hours",
+   "core": "27",
+   "t": 5,
+   "session": 1,
+   "kind": "init"
+  },
+  {
+   "entity": "Cedar",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "77 chars",
+   "core": "77",
+   "t": 6,
+   "session": 1,
+   "kind": "init"
+  },
+  {
+   "entity": "Cedar",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "74%",
+   "core": "74",
+   "t": 6,
+   "session": 1,
+   "kind": "init"
+  },
+  {
+   "entity": "Harbor",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "13:05",
+   "core": "13:05",
+   "t": 7,
+   "session": 1,
+   "kind": "init"
+  },
+  {
+   "entity": "Nordic",
+   "attr": "log retention",
+   "scope": "default",
+   "value": "362 days",
+   "core": "362",
+   "t": 9,
+   "session": 1,
+   "kind": "init"
+  },
+  {
+   "entity": "Glacier",
+   "attr": "API port",
+   "scope": "default",
+   "value": "2705",
+   "core": "2705",
+   "t": 10,
+   "session": 1,
+   "kind": "init"
+  },
+  {
+   "entity": "Harbor",
+   "attr": "worker count",
+   "scope": "default",
+   "value": "228",
+   "core": "228",
+   "t": 11,
+   "session": 2,
+   "kind": "init"
+  },
+  {
+   "entity": "Nordic",
+   "attr": "deploy branch",
+   "scope": "default",
+   "value": "release-540",
+   "core": "release-540",
+   "t": 12,
+   "session": 2,
+   "kind": "init"
+  },
+  {
+   "entity": "Rune",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "87 chars",
+   "core": "87",
+   "t": 13,
+   "session": 2,
+   "kind": "init"
+  },
+  {
+   "entity": "Cedar",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "120 chars",
+   "core": "120",
+   "t": 14,
+   "session": 2,
+   "kind": "update"
+  },
+  {
+   "entity": "Birch",
+   "attr": "SSH port",
+   "scope": "default",
+   "value": "6098",
+   "core": "6098",
+   "t": 15,
+   "session": 2,
+   "kind": "update"
+  },
+  {
+   "entity": "Rune",
+   "attr": "monthly cloud budget",
+   "scope": "default",
+   "value": "$6030",
+   "core": "6030",
+   "t": 16,
+   "session": 2,
+   "kind": "init"
+  },
+  {
+   "entity": "Tundra",
+   "attr": "SSH port",
+   "scope": "default",
+   "value": "8995",
+   "core": "8995",
+   "t": 17,
+   "session": 3,
+   "kind": "init"
+  },
+  {
+   "entity": "Tundra",
+   "attr": "swap size",
+   "scope": "default",
+   "value": "2636 GB",
+   "core": "2636",
+   "t": 17,
+   "session": 3,
+   "kind": "init"
+  },
+  {
+   "entity": "Cedar",
+   "attr": "build cache size",
+   "scope": "default",
+   "value": "2219 GB",
+   "core": "2219",
+   "t": 18,
+   "session": 3,
+   "kind": "init"
+  },
+  {
+   "entity": "Harbor",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "23:40",
+   "core": "23:40",
+   "t": 19,
+   "session": 3,
+   "kind": "update"
+  },
+  {
+   "entity": "Tundra",
+   "attr": "disk quota",
+   "scope": "default",
+   "value": "2000 GB",
+   "core": "2000",
+   "t": 20,
+   "session": 3,
+   "kind": "init"
+  },
+  {
+   "entity": "Nordic",
+   "attr": "deploy branch",
+   "scope": "default",
+   "value": "release-540",
+   "core": "release-540",
+   "t": 21,
+   "session": 3,
+   "kind": "restate"
+  },
+  {
+   "entity": "Glacier",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "550 ms",
+   "core": "550",
+   "t": 22,
+   "session": 3,
+   "kind": "init"
+  },
+  {
+   "entity": "Nordic",
+   "attr": "API port",
+   "scope": "default",
+   "value": "3625",
+   "core": "3625",
+   "t": 24,
+   "session": 4,
+   "kind": "init"
+  },
+  {
+   "entity": "Flint",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "62%",
+   "core": "62",
+   "t": 25,
+   "session": 4,
+   "kind": "init"
+  },
+  {
+   "entity": "Flint",
+   "attr": "build cache size",
+   "scope": "default",
+   "value": "1775 GB",
+   "core": "1775",
+   "t": 25,
+   "session": 4,
+   "kind": "init"
+  },
+  {
+   "entity": "Harbor",
+   "attr": "log retention",
+   "scope": "default",
+   "value": "325 days",
+   "core": "325",
+   "t": 26,
+   "session": 4,
+   "kind": "init"
+  },
+  {
+   "entity": "Bramble",
+   "attr": "SSH port",
+   "scope": "default",
+   "value": "3563",
+   "core": "3563",
+   "t": 27,
+   "session": 4,
+   "kind": "init"
+  },
+  {
+   "entity": "Bramble",
+   "attr": "maintenance window",
+   "scope": "default",
+   "value": "12:25",
+   "core": "12:25",
+   "t": 28,
+   "session": 4,
+   "kind": "init"
+  },
+  {
+   "entity": "Quasar",
+   "attr": "API port",
+   "scope": "default",
+   "value": "6257",
+   "core": "6257",
+   "t": 29,
+   "session": 5,
+   "kind": "init"
+  },
+  {
+   "entity": "Rune",
+   "attr": "code review SLA",
+   "scope": "default",
+   "value": "94 hours",
+   "core": "94",
+   "t": 30,
+   "session": 5,
+   "kind": "update"
+  },
+  {
+   "entity": "Raven",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "7750 ms",
+   "core": "7750",
+   "t": 31,
+   "session": 5,
+   "kind": "init"
+  },
+  {
+   "entity": "Flint",
+   "attr": "code review SLA",
+   "scope": "default",
+   "value": "17 hours",
+   "core": "17",
+   "t": 32,
+   "session": 5,
+   "kind": "init"
+  },
+  {
+   "entity": "Raven",
+   "attr": "DB pool size",
+   "scope": "default",
+   "value": "409",
+   "core": "409",
+   "t": 34,
+   "session": 5,
+   "kind": "init"
+  },
+  {
+   "entity": "Bramble",
+   "attr": "max containers",
+   "scope": "default",
+   "value": "23",
+   "core": "23",
+   "t": 35,
+   "session": 6,
+   "kind": "init"
+  },
+  {
+   "entity": "Tundra",
+   "attr": "SSH port",
+   "scope": "default",
+   "value": "8995",
+   "core": "8995",
+   "t": 36,
+   "session": 6,
+   "kind": "restate"
+  },
+  {
+   "entity": "Flint",
+   "attr": "build cache size",
+   "scope": "default",
+   "value": "912 GB",
+   "core": "912",
+   "t": 37,
+   "session": 6,
+   "kind": "update"
+  },
+  {
+   "entity": "Quasar",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "17:35",
+   "core": "17:35",
+   "t": 38,
+   "session": 6,
+   "kind": "init"
+  },
+  {
+   "entity": "Tundra",
+   "attr": "swap size",
+   "scope": "default",
+   "value": "116 GB",
+   "core": "116",
+   "t": 39,
+   "session": 6,
+   "kind": "update"
+  },
+  {
+   "entity": "Tundra",
+   "attr": "swap size",
+   "scope": "default",
+   "value": "116 GB",
+   "core": "116",
+   "t": 40,
+   "session": 6,
+   "kind": "restate"
+  },
+  {
+   "entity": "Quasar",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "150 ms",
+   "core": "150",
+   "t": 41,
+   "session": 7,
+   "kind": "init"
+  },
+  {
+   "entity": "Raven",
+   "attr": "DB pool size",
+   "scope": "default",
+   "value": "372",
+   "core": "372",
+   "t": 42,
+   "session": 7,
+   "kind": "update"
+  },
+  {
+   "entity": "Pegasus",
+   "attr": "swap size",
+   "scope": "default",
+   "value": "1123 GB",
+   "core": "1123",
+   "t": 43,
+   "session": 7,
+   "kind": "init"
+  },
+  {
+   "entity": "Raven",
+   "attr": "deploy branch",
+   "scope": "default",
+   "value": "release-890",
+   "core": "release-890",
+   "t": 44,
+   "session": 8,
+   "kind": "init"
+  },
+  {
+   "entity": "Birch",
+   "attr": "IP address",
+   "scope": "the GPU queue",
+   "value": "10.62.47.167",
+   "core": "10.62.47.167",
+   "t": 45,
+   "session": 8,
+   "kind": "exception"
+  },
+  {
+   "entity": "Kestrel",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "10:35",
+   "core": "10:35",
+   "t": 46,
+   "session": 8,
+   "kind": "init"
+  },
+  {
+   "entity": "Kestrel",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "64%",
+   "core": "64",
+   "t": 46,
+   "session": 8,
+   "kind": "init"
+  },
+  {
+   "entity": "Glacier",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "21:10",
+   "core": "21:10",
+   "t": 47,
+   "session": 8,
+   "kind": "update"
+  },
+  {
+   "entity": "Tundra",
+   "attr": "disk quota",
+   "scope": "default",
+   "value": "1246 GB",
+   "core": "1246",
+   "t": 50,
+   "session": 9,
+   "kind": "update"
+  },
+  {
+   "entity": "Rune",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "119 chars",
+   "core": "119",
+   "t": 51,
+   "session": 9,
+   "kind": "update"
+  },
+  {
+   "entity": "Helix",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "63%",
+   "core": "63",
+   "t": 52,
+   "session": 9,
+   "kind": "init"
+  },
+  {
+   "entity": "Zenith",
+   "attr": "IP address",
+   "scope": "default",
+   "value": "10.139.232.148",
+   "core": "10.139.232.148",
+   "t": 53,
+   "session": 9,
+   "kind": "init"
+  },
+  {
+   "entity": "Zenith",
+   "attr": "disk quota",
+   "scope": "default",
+   "value": "2351 GB",
+   "core": "2351",
+   "t": 53,
+   "session": 9,
+   "kind": "init"
+  },
+  {
+   "entity": "Helix",
+   "attr": "code review SLA",
+   "scope": "default",
+   "value": "54 hours",
+   "core": "54",
+   "t": 54,
+   "session": 10,
+   "kind": "init"
+  },
+  {
+   "entity": "Pegasus",
+   "attr": "SSH port",
+   "scope": "default",
+   "value": "3535",
+   "core": "3535",
+   "t": 55,
+   "session": 10,
+   "kind": "init"
+  },
+  {
+   "entity": "Lumen",
+   "attr": "code review SLA",
+   "scope": "default",
+   "value": "83 hours",
+   "core": "83",
+   "t": 56,
+   "session": 10,
+   "kind": "init"
+  },
+  {
+   "entity": "Pegasus",
+   "attr": "disk quota",
+   "scope": "default",
+   "value": "2680 GB",
+   "core": "2680",
+   "t": 57,
+   "session": 10,
+   "kind": "init"
+  },
+  {
+   "entity": "Helix",
+   "attr": "build cache size",
+   "scope": "default",
+   "value": "1399 GB",
+   "core": "1399",
+   "t": 58,
+   "session": 10,
+   "kind": "init"
+  },
+  {
+   "entity": "Lumen",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "141 chars",
+   "core": "141",
+   "t": 59,
+   "session": 11,
+   "kind": "init"
+  },
+  {
+   "entity": "Nordic",
+   "attr": "log retention",
+   "scope": "default",
+   "value": "91 days",
+   "core": "91",
+   "t": 61,
+   "session": 11,
+   "kind": "update"
+  },
+  {
+   "entity": "Flint",
+   "attr": "build cache size",
+   "scope": "default",
+   "value": "912 GB",
+   "core": "912",
+   "t": 62,
+   "session": 11,
+   "kind": "restate"
+  },
+  {
+   "entity": "Krypton",
+   "attr": "max upload size",
+   "scope": "default",
+   "value": "3032 MB",
+   "core": "3032",
+   "t": 63,
+   "session": 11,
+   "kind": "init"
+  },
+  {
+   "entity": "Raven",
+   "attr": "DB pool size",
+   "scope": "default",
+   "value": "300",
+   "core": "300",
+   "t": 64,
+   "session": 12,
+   "kind": "update"
+  },
+  {
+   "entity": "Marlin",
+   "attr": "DB pool size",
+   "scope": "default",
+   "value": "477",
+   "core": "477",
+   "t": 65,
+   "session": 12,
+   "kind": "init"
+  },
+  {
+   "entity": "Marlin",
+   "attr": "deploy branch",
+   "scope": "default",
+   "value": "release-925",
+   "core": "release-925",
+   "t": 66,
+   "session": 12,
+   "kind": "init"
+  },
+  {
+   "entity": "Lumen",
+   "attr": "build cache size",
+   "scope": "default",
+   "value": "2143 GB",
+   "core": "2143",
+   "t": 67,
+   "session": 12,
+   "kind": "init"
+  },
+  {
+   "entity": "Harbor",
+   "attr": "log retention",
+   "scope": "default",
+   "value": "325 days",
+   "core": "325",
+   "t": 68,
+   "session": 13,
+   "kind": "restate"
+  },
+  {
+   "entity": "Redwood",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "14:50",
+   "core": "14:50",
+   "t": 69,
+   "session": 13,
+   "kind": "init"
+  },
+  {
+   "entity": "Nordic",
+   "attr": "API port",
+   "scope": "the EU region",
+   "value": "6596",
+   "core": "6596",
+   "t": 70,
+   "session": 13,
+   "kind": "exception"
+  },
+  {
+   "entity": "Krypton",
+   "attr": "API port",
+   "scope": "default",
+   "value": "6987",
+   "core": "6987",
+   "t": 71,
+   "session": 13,
+   "kind": "init"
+  },
+  {
+   "entity": "Tundra",
+   "attr": "SSH port",
+   "scope": "default",
+   "value": "8648",
+   "core": "8648",
+   "t": 72,
+   "session": 13,
+   "kind": "update"
+  },
+  {
+   "entity": "Kestrel",
+   "attr": "code review SLA",
+   "scope": "default",
+   "value": "19 hours",
+   "core": "19",
+   "t": 73,
+   "session": 13,
+   "kind": "init"
+  },
+  {
+   "entity": "__note__",
+   "attr": "Jira tickets for infra work go to board {v}.",
+   "scope": "default",
+   "value": "9779",
+   "core": "9779",
+   "t": 74,
+   "session": 14,
+   "kind": "note"
+  },
+  {
+   "entity": "Kestrel",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "71%",
+   "core": "71",
+   "t": 75,
+   "session": 14,
+   "kind": "update"
+  },
+  {
+   "entity": "Cedar",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "65%",
+   "core": "65",
+   "t": 77,
+   "session": 14,
+   "kind": "update"
+  },
+  {
+   "entity": "Krypton",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "8800 ms",
+   "core": "8800",
+   "t": 78,
+   "session": 15,
+   "kind": "init"
+  },
+  {
+   "entity": "Zenith",
+   "attr": "SSH port",
+   "scope": "default",
+   "value": "2852",
+   "core": "2852",
+   "t": 79,
+   "session": 15,
+   "kind": "init"
+  },
+  {
+   "entity": "Vega",
+   "attr": "swap size",
+   "scope": "default",
+   "value": "2096 GB",
+   "core": "2096",
+   "t": 80,
+   "session": 15,
+   "kind": "init"
+  },
+  {
+   "entity": "Magma",
+   "attr": "monthly cloud budget",
+   "scope": "default",
+   "value": "$5170",
+   "core": "5170",
+   "t": 81,
+   "session": 15,
+   "kind": "init"
+  },
+  {
+   "entity": "Magma",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "148 chars",
+   "core": "148",
+   "t": 81,
+   "session": 15,
+   "kind": "init"
+  },
+  {
+   "entity": "Lumen",
+   "attr": "build cache size",
+   "scope": "the frontend squad",
+   "value": "2952 GB",
+   "core": "2952",
+   "t": 82,
+   "session": 15,
+   "kind": "exception"
+  },
+  {
+   "entity": "Wildfire",
+   "attr": "DB pool size",
+   "scope": "default",
+   "value": "167",
+   "core": "167",
+   "t": 83,
+   "session": 16,
+   "kind": "init"
+  },
+  {
+   "entity": "Redwood",
+   "attr": "build cache size",
+   "scope": "default",
+   "value": "2735 GB",
+   "core": "2735",
+   "t": 85,
+   "session": 16,
+   "kind": "init"
+  },
+  {
+   "entity": "Glacier",
+   "attr": "nightly backup time",
+   "scope": "staging",
+   "value": "18:35",
+   "core": "18:35",
+   "t": 86,
+   "session": 17,
+   "kind": "exception"
+  },
+  {
+   "entity": "Cedar",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "123 chars",
+   "core": "123",
+   "t": 87,
+   "session": 17,
+   "kind": "update"
+  },
+  {
+   "entity": "Pulsar",
+   "attr": "log retention",
+   "scope": "default",
+   "value": "46 days",
+   "core": "46",
+   "t": 88,
+   "session": 17,
+   "kind": "init"
+  },
+  {
+   "entity": "Pulsar",
+   "attr": "DB pool size",
+   "scope": "default",
+   "value": "61",
+   "core": "61",
+   "t": 88,
+   "session": 17,
+   "kind": "init"
+  },
+  {
+   "entity": "Marlin",
+   "attr": "deploy branch",
+   "scope": "__rejected__",
+   "value": "release-869",
+   "core": "release-869",
+   "t": 89,
+   "session": 17,
+   "kind": "rejected"
+  },
+  {
+   "entity": "Bramble",
+   "attr": "max containers",
+   "scope": "default",
+   "value": "313",
+   "core": "313",
+   "t": 90,
+   "session": 17,
+   "kind": "update"
+  },
+  {
+   "entity": "Redwood",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "130 chars",
+   "core": "130",
+   "t": 91,
+   "session": 18,
+   "kind": "init"
+  },
+  {
+   "entity": "Glacier",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "8350 ms",
+   "core": "8350",
+   "t": 92,
+   "session": 18,
+   "kind": "update"
+  },
+  {
+   "entity": "Raven",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "4350 ms",
+   "core": "4350",
+   "t": 93,
+   "session": 18,
+   "kind": "update"
+  },
+  {
+   "entity": "__note__",
+   "attr": "The flaky integration test passes reliably with a retry delay of {v} ms.",
+   "scope": "default",
+   "value": "5333",
+   "core": "5333",
+   "t": 94,
+   "session": 18,
+   "kind": "note"
+  },
+  {
+   "entity": "Raven",
+   "attr": "deploy branch",
+   "scope": "__rejected__",
+   "value": "release-353",
+   "core": "release-353",
+   "t": 95,
+   "session": 19,
+   "kind": "rejected"
+  },
+  {
+   "entity": "Kestrel",
+   "attr": "stand-up time",
+   "scope": "hotfix branches",
+   "value": "14:05",
+   "core": "14:05",
+   "t": 97,
+   "session": 19,
+   "kind": "exception"
+  },
+  {
+   "entity": "Zircon",
+   "attr": "code review SLA",
+   "scope": "default",
+   "value": "12 hours",
+   "core": "12",
+   "t": 98,
+   "session": 20,
+   "kind": "init"
+  },
+  {
+   "entity": "Vega",
+   "attr": "max containers",
+   "scope": "default",
+   "value": "58",
+   "core": "58",
+   "t": 99,
+   "session": 20,
+   "kind": "init"
+  },
+  {
+   "entity": "Marlin",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "20:55",
+   "core": "20:55",
+   "t": 100,
+   "session": 20,
+   "kind": "init"
+  },
+  {
+   "entity": "Bramble",
+   "attr": "SSH port",
+   "scope": "default",
+   "value": "3629",
+   "core": "3629",
+   "t": 101,
+   "session": 20,
+   "kind": "update"
+  },
+  {
+   "entity": "Wildfire",
+   "attr": "worker count",
+   "scope": "default",
+   "value": "286",
+   "core": "286",
+   "t": 102,
+   "session": 20,
+   "kind": "init"
+  },
+  {
+   "entity": "Zircon",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "129 chars",
+   "core": "129",
+   "t": 104,
+   "session": 21,
+   "kind": "init"
+  },
+  {
+   "entity": "Glacier",
+   "attr": "API port",
+   "scope": "default",
+   "value": "4390",
+   "core": "4390",
+   "t": 105,
+   "session": 21,
+   "kind": "update"
+  },
+  {
+   "entity": "Vega",
+   "attr": "maintenance window",
+   "scope": "default",
+   "value": "23:55",
+   "core": "23:55",
+   "t": 106,
+   "session": 21,
+   "kind": "init"
+  },
+  {
+   "entity": "Redwood",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "133 chars",
+   "core": "133",
+   "t": 107,
+   "session": 21,
+   "kind": "update"
+  },
+  {
+   "entity": "Bramble",
+   "attr": "maintenance window",
+   "scope": "default",
+   "value": "12:15",
+   "core": "12:15",
+   "t": 108,
+   "session": 22,
+   "kind": "update"
+  },
+  {
+   "entity": "Harbor",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "23:40",
+   "core": "23:40",
+   "t": 109,
+   "session": 22,
+   "kind": "restate"
+  },
+  {
+   "entity": "Raven",
+   "attr": "DB pool size",
+   "scope": "default",
+   "value": "300",
+   "core": "300",
+   "t": 110,
+   "session": 22,
+   "kind": "restate"
+  },
+  {
+   "entity": "Helix",
+   "attr": "build cache size",
+   "scope": "hotfix branches",
+   "value": "2214 GB",
+   "core": "2214",
+   "t": 111,
+   "session": 22,
+   "kind": "exception"
+  },
+  {
+   "entity": "Vega",
+   "attr": "swap size",
+   "scope": "weekend runs",
+   "value": "1079 GB",
+   "core": "1079",
+   "t": 112,
+   "session": 22,
+   "kind": "exception"
+  },
+  {
+   "entity": "Magma",
+   "attr": "build cache size",
+   "scope": "default",
+   "value": "2447 GB",
+   "core": "2447",
+   "t": 114,
+   "session": 23,
+   "kind": "init"
+  },
+  {
+   "entity": "Nordic",
+   "attr": "log retention",
+   "scope": "default",
+   "value": "362 days",
+   "core": "362",
+   "t": 115,
+   "session": 23,
+   "kind": "revert"
+  },
+  {
+   "entity": "Krypton",
+   "attr": "API port",
+   "scope": "default",
+   "value": "6322",
+   "core": "6322",
+   "t": 116,
+   "session": 23,
+   "kind": "update"
+  },
+  {
+   "entity": "Pulsar",
+   "attr": "deploy branch",
+   "scope": "default",
+   "value": "release-714",
+   "core": "release-714",
+   "t": 117,
+   "session": 23,
+   "kind": "init"
+  },
+  {
+   "entity": "Quasar",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "22:50",
+   "core": "22:50",
+   "t": 118,
+   "session": 24,
+   "kind": "update"
+  },
+  {
+   "entity": "Marlin",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "16:10",
+   "core": "16:10",
+   "t": 119,
+   "session": 24,
+   "kind": "update"
+  },
+  {
+   "entity": "Quasar",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "1400 ms",
+   "core": "1400",
+   "t": 120,
+   "session": 24,
+   "kind": "update"
+  },
+  {
+   "entity": "Pegasus",
+   "attr": "disk quota",
+   "scope": "default",
+   "value": "1622 GB",
+   "core": "1622",
+   "t": 121,
+   "session": 24,
+   "kind": "update"
+  },
+  {
+   "entity": "Lumen",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "141 chars",
+   "core": "141",
+   "t": 122,
+   "session": 24,
+   "kind": "restate"
+  },
+  {
+   "entity": "Helix",
+   "attr": "build cache size",
+   "scope": "default",
+   "value": "2863 GB",
+   "core": "2863",
+   "t": 123,
+   "session": 24,
+   "kind": "update"
+  },
+  {
+   "entity": "Lumen",
+   "attr": "build cache size",
+   "scope": "default",
+   "value": "1428 GB",
+   "core": "1428",
+   "t": 124,
+   "session": 25,
+   "kind": "update"
+  },
+  {
+   "entity": "Cedar",
+   "attr": "build cache size",
+   "scope": "default",
+   "value": "489 GB",
+   "core": "489",
+   "t": 125,
+   "session": 25,
+   "kind": "update"
+  },
+  {
+   "entity": "Zircon",
+   "attr": "monthly cloud budget",
+   "scope": "default",
+   "value": "$9260",
+   "core": "9260",
+   "t": 126,
+   "session": 25,
+   "kind": "init"
+  },
+  {
+   "entity": "Marlin",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "16:10",
+   "core": "16:10",
+   "t": 127,
+   "session": 25,
+   "kind": "restate"
+  },
+  {
+   "entity": "Wildfire",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "5450 ms",
+   "core": "5450",
+   "t": 128,
+   "session": 25,
+   "kind": "init"
+  },
+  {
+   "entity": "Bramble",
+   "attr": "maintenance window",
+   "scope": "the GPU queue",
+   "value": "19:20",
+   "core": "19:20",
+   "t": 129,
+   "session": 26,
+   "kind": "exception"
+  },
+  {
+   "entity": "Quasar",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "1400 ms",
+   "core": "1400",
+   "t": 130,
+   "session": 26,
+   "kind": "restate"
+  },
+  {
+   "entity": "Bramble",
+   "attr": "SSH port",
+   "scope": "default",
+   "value": "2303",
+   "core": "2303",
+   "t": 131,
+   "session": 26,
+   "kind": "update"
+  },
+  {
+   "entity": "Marlin",
+   "attr": "nightly backup time",
+   "scope": "batch jobs",
+   "value": "11:20",
+   "core": "11:20",
+   "t": 132,
+   "session": 26,
+   "kind": "exception"
+  },
+  {
+   "entity": "Tundra",
+   "attr": "disk quota",
+   "scope": "default",
+   "value": "1246 GB",
+   "core": "1246",
+   "t": 133,
+   "session": 26,
+   "kind": "restate"
+  },
+  {
+   "entity": "Tundra",
+   "attr": "disk quota",
+   "scope": "weekend runs",
+   "value": "457 GB",
+   "core": "457",
+   "t": 134,
+   "session": 26,
+   "kind": "exception"
+  },
+  {
+   "entity": "Kestrel",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "22:25",
+   "core": "22:25",
+   "t": 135,
+   "session": 27,
+   "kind": "update"
+  },
+  {
+   "entity": "Nordic",
+   "attr": "API port",
+   "scope": "default",
+   "value": "8465",
+   "core": "8465",
+   "t": 136,
+   "session": 27,
+   "kind": "update"
+  },
+  {
+   "entity": "Pulsar",
+   "attr": "deploy branch",
+   "scope": "the canary cluster",
+   "value": "release-870",
+   "core": "release-870",
+   "t": 137,
+   "session": 27,
+   "kind": "exception"
+  },
+  {
+   "entity": "Magma",
+   "attr": "max line length",
+   "scope": "Fridays",
+   "value": "202 chars",
+   "core": "202",
+   "t": 138,
+   "session": 27,
+   "kind": "exception"
+  },
+  {
+   "entity": "Nordic",
+   "attr": "deploy branch",
+   "scope": "batch jobs",
+   "value": "release-191",
+   "core": "release-191",
+   "t": 139,
+   "session": 28,
+   "kind": "exception"
+  },
+  {
+   "entity": "Wildfire",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "1300 ms",
+   "core": "1300",
+   "t": 140,
+   "session": 28,
+   "kind": "update"
+  },
+  {
+   "entity": "Quasar",
+   "attr": "API port",
+   "scope": "default",
+   "value": "6257",
+   "core": "6257",
+   "t": 141,
+   "session": 28,
+   "kind": "restate"
+  },
+  {
+   "entity": "Wildfire",
+   "attr": "DB pool size",
+   "scope": "the canary cluster",
+   "value": "229",
+   "core": "229",
+   "t": 142,
+   "session": 28,
+   "kind": "exception"
+  },
+  {
+   "entity": "Krypton",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "8800 ms",
+   "core": "8800",
+   "t": 143,
+   "session": 28,
+   "kind": "restate"
+  },
+  {
+   "entity": "Redwood",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "18:15",
+   "core": "18:15",
+   "t": 144,
+   "session": 29,
+   "kind": "update"
+  },
+  {
+   "entity": "Magma",
+   "attr": "build cache size",
+   "scope": "hotfix branches",
+   "value": "753 GB",
+   "core": "753",
+   "t": 145,
+   "session": 29,
+   "kind": "exception"
+  },
+  {
+   "entity": "Helix",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "52%",
+   "core": "52",
+   "t": 146,
+   "session": 29,
+   "kind": "update"
+  },
+  {
+   "entity": "Kestrel",
+   "attr": "test coverage threshold",
+   "scope": "Fridays",
+   "value": "85%",
+   "core": "85",
+   "t": 147,
+   "session": 29,
+   "kind": "exception"
+  },
+  {
+   "entity": "Pulsar",
+   "attr": "DB pool size",
+   "scope": "default",
+   "value": "61",
+   "core": "61",
+   "t": 148,
+   "session": 30,
+   "kind": "restate"
+  },
+  {
+   "entity": "__note__",
+   "attr": "Docker builds on the laptop need --memory={v}m to avoid OOM kills.",
+   "scope": "default",
+   "value": "9321",
+   "core": "9321",
+   "t": 150,
+   "session": 30,
+   "kind": "note"
+  },
+  {
+   "entity": "Wildfire",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "1300 ms",
+   "core": "1300",
+   "t": 151,
+   "session": 30,
+   "kind": "restate"
+  },
+  {
+   "entity": "Marlin",
+   "attr": "DB pool size",
+   "scope": "default",
+   "value": "334",
+   "core": "334",
+   "t": 152,
+   "session": 30,
+   "kind": "update"
+  },
+  {
+   "entity": "Raven",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "5500 ms",
+   "core": "5500",
+   "t": 153,
+   "session": 30,
+   "kind": "update"
+  },
+  {
+   "entity": "Lumen",
+   "attr": "max line length",
+   "scope": "hotfix branches",
+   "value": "183 chars",
+   "core": "183",
+   "t": 154,
+   "session": 31,
+   "kind": "exception"
+  },
+  {
+   "entity": "Wildfire",
+   "attr": "DB pool size",
+   "scope": "default",
+   "value": "167",
+   "core": "167",
+   "t": 155,
+   "session": 31,
+   "kind": "restate"
+  },
+  {
+   "entity": "Tundra",
+   "attr": "SSH port",
+   "scope": "weekend runs",
+   "value": "3933",
+   "core": "3933",
+   "t": 156,
+   "session": 31,
+   "kind": "exception"
+  },
+  {
+   "entity": "Rune",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "119 chars",
+   "core": "119",
+   "t": 157,
+   "session": 32,
+   "kind": "restate"
+  },
+  {
+   "entity": "Bramble",
+   "attr": "max containers",
+   "scope": "default",
+   "value": "313",
+   "core": "313",
+   "t": 158,
+   "session": 32,
+   "kind": "restate"
+  },
+  {
+   "entity": "Marlin",
+   "attr": "DB pool size",
+   "scope": "default",
+   "value": "30",
+   "core": "30",
+   "t": 159,
+   "session": 32,
+   "kind": "update"
+  },
+  {
+   "entity": "Pegasus",
+   "attr": "SSH port",
+   "scope": "default",
+   "value": "3241",
+   "core": "3241",
+   "t": 160,
+   "session": 32,
+   "kind": "update"
+  },
+  {
+   "entity": "Helix",
+   "attr": "test coverage threshold",
+   "scope": "__rejected__",
+   "value": "82%",
+   "core": "82",
+   "t": 161,
+   "session": 33,
+   "kind": "rejected"
+  },
+  {
+   "entity": "Marlin",
+   "attr": "deploy branch",
+   "scope": "batch jobs",
+   "value": "release-194",
+   "core": "release-194",
+   "t": 162,
+   "session": 33,
+   "kind": "exception"
+  },
+  {
+   "entity": "Pegasus",
+   "attr": "SSH port",
+   "scope": "the GPU queue",
+   "value": "6623",
+   "core": "6623",
+   "t": 163,
+   "session": 33,
+   "kind": "exception"
+  },
+  {
+   "entity": "Vega",
+   "attr": "max containers",
+   "scope": "weekend runs",
+   "value": "337",
+   "core": "337",
+   "t": 164,
+   "session": 33,
+   "kind": "exception"
+  },
+  {
+   "entity": "Wildfire",
+   "attr": "worker count",
+   "scope": "__rejected__",
+   "value": "92",
+   "core": "92",
+   "t": 165,
+   "session": 33,
+   "kind": "rejected"
+  },
+  {
+   "entity": "Kestrel",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "19:55",
+   "core": "19:55",
+   "t": 166,
+   "session": 33,
+   "kind": "update"
+  },
+  {
+   "entity": "Zircon",
+   "attr": "max line length",
+   "scope": "the intern cohort",
+   "value": "166 chars",
+   "core": "166",
+   "t": 167,
+   "session": 34,
+   "kind": "exception"
+  },
+  {
+   "entity": "Redwood",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "14:50",
+   "core": "14:50",
+   "t": 168,
+   "session": 34,
+   "kind": "revert"
+  },
+  {
+   "entity": "Zircon",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "129 chars",
+   "core": "129",
+   "t": 169,
+   "session": 34,
+   "kind": "restate"
+  },
+  {
+   "entity": "Redwood",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "14:50",
+   "core": "14:50",
+   "t": 170,
+   "session": 34,
+   "kind": "restate"
+  },
+  {
+   "entity": "__note__",
+   "attr": "Grafana dashboard #{v} is the one with the cluster health overview.",
+   "scope": "default",
+   "value": "6813",
+   "core": "6813",
+   "t": 171,
+   "session": 34,
+   "kind": "note"
+  },
+  {
+   "entity": "Pegasus",
+   "attr": "disk quota",
+   "scope": "default",
+   "value": "2444 GB",
+   "core": "2444",
+   "t": 172,
+   "session": 34,
+   "kind": "update"
+  },
+  {
+   "entity": "Redwood",
+   "attr": "build cache size",
+   "scope": "the intern cohort",
+   "value": "607 GB",
+   "core": "607",
+   "t": 173,
+   "session": 35,
+   "kind": "exception"
+  },
+  {
+   "entity": "Krypton",
+   "attr": "request timeout",
+   "scope": "the canary cluster",
+   "value": "1650 ms",
+   "core": "1650",
+   "t": 174,
+   "session": 35,
+   "kind": "exception"
+  },
+  {
+   "entity": "Pulsar",
+   "attr": "DB pool size",
+   "scope": "batch jobs",
+   "value": "465",
+   "core": "465",
+   "t": 175,
+   "session": 35,
+   "kind": "exception"
+  },
+  {
+   "entity": "Quasar",
+   "attr": "API port",
+   "scope": "the EU region",
+   "value": "4355",
+   "core": "4355",
+   "t": 176,
+   "session": 35,
+   "kind": "exception"
+  },
+  {
+   "entity": "Pulsar",
+   "attr": "deploy branch",
+   "scope": "default",
+   "value": "release-700",
+   "core": "release-700",
+   "t": 177,
+   "session": 36,
+   "kind": "update"
+  },
+  {
+   "entity": "Zenith",
+   "attr": "IP address",
+   "scope": "the GPU queue",
+   "value": "10.240.84.97",
+   "core": "10.240.84.97",
+   "t": 178,
+   "session": 36,
+   "kind": "exception"
+  },
+  {
+   "entity": "Redwood",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "133 chars",
+   "core": "133",
+   "t": 179,
+   "session": 36,
+   "kind": "restate"
+  }
+ ],
+ "questions": [
+  {
+   "qid": "note|9321|NOTE",
+   "qtype": "NOTE",
+   "entity": "__note__",
+   "attr": "Docker builds on the laptop need --memory={v}m to avoid OOM kills.",
+   "scope": "default",
+   "text": "What --memory value (in MB) do laptop Docker builds need?",
+   "gold": "9321",
+   "gold_display": "9321",
+   "has_exception": false,
+   "has_update": false,
+   "family": "note"
+  },
+  {
+   "qid": "Krypton|request timeout|CUR",
+   "qtype": "STABLE",
+   "entity": "Krypton",
+   "attr": "request timeout",
+   "scope": "default",
+   "text": "What is the current default request timeout of Krypton?",
+   "gold": "8800",
+   "gold_display": "8800 ms",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Kestrel|stand-up time|EXC",
+   "qtype": "EXC",
+   "entity": "Kestrel",
+   "attr": "stand-up time",
+   "scope": "hotfix branches",
+   "text": "What stand-up time does Kestrel use for hotfix branches?",
+   "gold": "14:05",
+   "gold_display": "14:05",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Rune|retro day|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Rune",
+   "attr": "retro day",
+   "scope": "default",
+   "text": "What is the current default retro day of Rune?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Helix|build cache size|EXC",
+   "qtype": "EXC",
+   "entity": "Helix",
+   "attr": "build cache size",
+   "scope": "hotfix branches",
+   "text": "What build cache size does Helix use for hotfix branches?",
+   "gold": "2214",
+   "gold_display": "2214 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Vega|swap size|CUR",
+   "qtype": "STABLE",
+   "entity": "Vega",
+   "attr": "swap size",
+   "scope": "default",
+   "text": "What is the current default swap space of Vega?",
+   "gold": "2096",
+   "gold_display": "2096 GB",
+   "has_exception": true,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Magma|max line length|EXC",
+   "qtype": "EXC",
+   "entity": "Magma",
+   "attr": "max line length",
+   "scope": "Fridays",
+   "text": "For Fridays, what is Magma's max line length?",
+   "gold": "202",
+   "gold_display": "202 chars",
+   "has_exception": true,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Zenith|IP address|EXC",
+   "qtype": "EXC",
+   "entity": "Zenith",
+   "attr": "IP address",
+   "scope": "the GPU queue",
+   "text": "What IP does Zenith use for the GPU queue?",
+   "gold": "10.240.84.97",
+   "gold_display": "10.240.84.97",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Raven|rate limit|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Raven",
+   "attr": "rate limit",
+   "scope": "default",
+   "text": "What is the current default rate limit of Raven?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Rune|max line length|CUR",
+   "qtype": "CUR",
+   "entity": "Rune",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "What is Rune's max line length right now (default setting)?",
+   "gold": "119",
+   "gold_display": "119 chars",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Wildfire|request timeout|PREV",
+   "qtype": "PREV",
+   "entity": "Wildfire",
+   "attr": "request timeout",
+   "scope": "default",
+   "text": "Before the latest change, what was Wildfire's default HTTP timeout?",
+   "gold": "5450",
+   "gold_display": "5450 ms",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Lumen|budget code|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Lumen",
+   "attr": "budget code",
+   "scope": "default",
+   "text": "What is the current default budget code of Lumen?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Redwood|max line length|EXCNEG",
+   "qtype": "EXCNEG",
+   "entity": "Redwood",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "For Fridays, what is Redwood's max line length?",
+   "gold": "133",
+   "gold_display": "133 chars",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Bramble|max containers|PREV",
+   "qtype": "PREV",
+   "entity": "Bramble",
+   "attr": "max containers",
+   "scope": "default",
+   "text": "Before the latest change, what was Bramble's default max containers?",
+   "gold": "23",
+   "gold_display": "23",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Tundra|SSH port|EXC",
+   "qtype": "EXC",
+   "entity": "Tundra",
+   "attr": "SSH port",
+   "scope": "weekend runs",
+   "text": "What SSH port does Tundra use for weekend runs?",
+   "gold": "3933",
+   "gold_display": "3933",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Wildfire|DB pool size|EXC",
+   "qtype": "EXC",
+   "entity": "Wildfire",
+   "attr": "DB pool size",
+   "scope": "the canary cluster",
+   "text": "For the canary cluster, what is Wildfire's DB pool size?",
+   "gold": "229",
+   "gold_display": "229",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Redwood|build cache size|CUR",
+   "qtype": "STABLE",
+   "entity": "Redwood",
+   "attr": "build cache size",
+   "scope": "default",
+   "text": "What is Redwood's build cache right now (default setting)?",
+   "gold": "2735",
+   "gold_display": "2735 GB",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Zircon|max line length|CUR",
+   "qtype": "STABLE",
+   "entity": "Zircon",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "What is Zircon's max line length right now (default setting)?",
+   "gold": "129",
+   "gold_display": "129 chars",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Magma|build cache size|CUR",
+   "qtype": "STABLE",
+   "entity": "Magma",
+   "attr": "build cache size",
+   "scope": "default",
+   "text": "What is Magma's build cache size right now (default setting)?",
+   "gold": "2447",
+   "gold_display": "2447 GB",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Zenith|disk quota|CUR",
+   "qtype": "STABLE",
+   "entity": "Zenith",
+   "attr": "disk quota",
+   "scope": "default",
+   "text": "What is Zenith's disk quota right now (default setting)?",
+   "gold": "2351",
+   "gold_display": "2351 GB",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Kestrel|stand-up time|PREV",
+   "qtype": "PREV",
+   "entity": "Kestrel",
+   "attr": "stand-up time",
+   "scope": "default",
+   "text": "Before the latest change, what was Kestrel's default daily stand-up?",
+   "gold": "22:25",
+   "gold_display": "22:25",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Marlin|nightly backup time|CUR",
+   "qtype": "CUR",
+   "entity": "Marlin",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What is Marlin's nightly backup time right now (default setting)?",
+   "gold": "16:10",
+   "gold_display": "16:10",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Bramble|SSH port|PREV",
+   "qtype": "PREV",
+   "entity": "Bramble",
+   "attr": "SSH port",
+   "scope": "default",
+   "text": "What was the default port for SSH of Bramble right before its most recent change?",
+   "gold": "3629",
+   "gold_display": "3629",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Nordic|deploy branch|CUR",
+   "qtype": "STABLE",
+   "entity": "Nordic",
+   "attr": "deploy branch",
+   "scope": "default",
+   "text": "What is the current default deploy branch of Nordic?",
+   "gold": "release-540",
+   "gold_display": "release-540",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Vega|max containers|CUR",
+   "qtype": "STABLE",
+   "entity": "Vega",
+   "attr": "max containers",
+   "scope": "default",
+   "text": "What is Vega's max containers right now (default setting)?",
+   "gold": "58",
+   "gold_display": "58",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Zircon|design review time|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Zircon",
+   "attr": "design review time",
+   "scope": "default",
+   "text": "What is the current default design review time of Zircon?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Raven|DB pool size|EXCNEG",
+   "qtype": "EXCNEG",
+   "entity": "Raven",
+   "attr": "DB pool size",
+   "scope": "default",
+   "text": "What DB connection pool does Raven use for staging?",
+   "gold": "300",
+   "gold_display": "300",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Tundra|swap size|PREV",
+   "qtype": "PREV",
+   "entity": "Tundra",
+   "attr": "swap size",
+   "scope": "default",
+   "text": "What was the default swap of Tundra right before its most recent change?",
+   "gold": "2636",
+   "gold_display": "2636 GB",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Helix|budget code|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Helix",
+   "attr": "budget code",
+   "scope": "default",
+   "text": "What is the current default budget code of Helix?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Zircon|monthly cloud budget|CUR",
+   "qtype": "STABLE",
+   "entity": "Zircon",
+   "attr": "monthly cloud budget",
+   "scope": "default",
+   "text": "What is Zircon's monthly cloud budget right now (default setting)?",
+   "gold": "9260",
+   "gold_display": "$9260",
+   "has_exception": false,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Vega|swap size|EXC",
+   "qtype": "EXC",
+   "entity": "Vega",
+   "attr": "swap size",
+   "scope": "weekend runs",
+   "text": "What swap space does Vega use for weekend runs?",
+   "gold": "1079",
+   "gold_display": "1079 GB",
+   "has_exception": true,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Helix|test coverage threshold|CUR",
+   "qtype": "CUR",
+   "entity": "Helix",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "text": "What is the current default test coverage threshold of Helix?",
+   "gold": "52",
+   "gold_display": "52%",
+   "has_exception": false,
+   "has_update": true,
+   "family": "rej"
+  },
+  {
+   "qid": "Harbor|worker count|EXCNEG",
+   "qtype": "EXCNEG",
+   "entity": "Harbor",
+   "attr": "worker count",
+   "scope": "default",
+   "text": "What worker count does Harbor use for the mobile API?",
+   "gold": "228",
+   "gold_display": "228",
+   "has_exception": false,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Glacier|cache TTL|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Glacier",
+   "attr": "cache TTL",
+   "scope": "default",
+   "text": "What is the current default cache TTL of Glacier?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Nordic|deploy branch|EXC",
+   "qtype": "EXC",
+   "entity": "Nordic",
+   "attr": "deploy branch",
+   "scope": "batch jobs",
+   "text": "For batch jobs, what is Nordic's deploy branch?",
+   "gold": "release-191",
+   "gold_display": "release-191",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Bramble|maintenance window|EXC",
+   "qtype": "EXC",
+   "entity": "Bramble",
+   "attr": "maintenance window",
+   "scope": "the GPU queue",
+   "text": "What maintenance window does Bramble use for the GPU queue?",
+   "gold": "19:20",
+   "gold_display": "19:20",
+   "has_exception": true,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Kestrel|test coverage threshold|CUR",
+   "qtype": "CUR",
+   "entity": "Kestrel",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "text": "What is the current default test coverage threshold of Kestrel?",
+   "gold": "71",
+   "gold_display": "71%",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "note|5333|NOTE",
+   "qtype": "NOTE",
+   "entity": "__note__",
+   "attr": "The flaky integration test passes reliably with a retry delay of {v} ms.",
+   "scope": "default",
+   "text": "What retry delay makes the flaky integration test pass (in ms)?",
+   "gold": "5333",
+   "gold_display": "5333",
+   "has_exception": false,
+   "has_update": false,
+   "family": "note"
+  },
+  {
+   "qid": "Pegasus|SSH port|PREV",
+   "qtype": "PREV",
+   "entity": "Pegasus",
+   "attr": "SSH port",
+   "scope": "default",
+   "text": "Before the latest change, what was Pegasus's default SSH port?",
+   "gold": "3535",
+   "gold_display": "3535",
+   "has_exception": true,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Rune|max line length|PREV",
+   "qtype": "PREV",
+   "entity": "Rune",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "What was the default max line length of Rune right before its most recent change?",
+   "gold": "87",
+   "gold_display": "87 chars",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Birch|IP address|EXC",
+   "qtype": "EXC",
+   "entity": "Birch",
+   "attr": "IP address",
+   "scope": "the GPU queue",
+   "text": "For the GPU queue, what is Birch's IP address?",
+   "gold": "10.62.47.167",
+   "gold_display": "10.62.47.167",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Bramble|maintenance window|PREV",
+   "qtype": "PREV",
+   "entity": "Bramble",
+   "attr": "maintenance window",
+   "scope": "default",
+   "text": "What was the default maintenance window of Bramble right before its most recent change?",
+   "gold": "12:25",
+   "gold_display": "12:25",
+   "has_exception": true,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Cedar|test coverage threshold|PREV",
+   "qtype": "PREV",
+   "entity": "Cedar",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "text": "What was the default test coverage threshold of Cedar right before its most recent change?",
+   "gold": "74",
+   "gold_display": "74%",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Redwood|stand-up time|CUR",
+   "qtype": "CUR",
+   "entity": "Redwood",
+   "attr": "stand-up time",
+   "scope": "default",
+   "text": "What is Redwood's stand-up time right now (default setting)?",
+   "gold": "14:50",
+   "gold_display": "14:50",
+   "has_exception": false,
+   "has_update": true,
+   "family": "rev"
+  },
+  {
+   "qid": "Pulsar|log retention|CUR",
+   "qtype": "STABLE",
+   "entity": "Pulsar",
+   "attr": "log retention",
+   "scope": "default",
+   "text": "What is Pulsar's log retention right now (default setting)?",
+   "gold": "46",
+   "gold_display": "46 days",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Krypton|API port|PREV",
+   "qtype": "PREV",
+   "entity": "Krypton",
+   "attr": "API port",
+   "scope": "default",
+   "text": "What was the default API port of Krypton right before its most recent change?",
+   "gold": "6987",
+   "gold_display": "6987",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Pegasus|swap size|CUR",
+   "qtype": "STABLE",
+   "entity": "Pegasus",
+   "attr": "swap size",
+   "scope": "default",
+   "text": "What is the current default swap space of Pegasus?",
+   "gold": "1123",
+   "gold_display": "1123 GB",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Birch|SSH port|PREV",
+   "qtype": "PREV",
+   "entity": "Birch",
+   "attr": "SSH port",
+   "scope": "default",
+   "text": "Before the latest change, what was Birch's default SSH port?",
+   "gold": "6803",
+   "gold_display": "6803",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Marlin|deploy branch|EXC",
+   "qtype": "EXC",
+   "entity": "Marlin",
+   "attr": "deploy branch",
+   "scope": "batch jobs",
+   "text": "What release branch does Marlin use for batch jobs?",
+   "gold": "release-194",
+   "gold_display": "release-194",
+   "has_exception": true,
+   "has_update": false,
+   "family": "rej"
+  },
+  {
+   "qid": "Zenith|SSH port|EXCNEG",
+   "qtype": "EXCNEG",
+   "entity": "Zenith",
+   "attr": "SSH port",
+   "scope": "default",
+   "text": "What port for SSH does Zenith use for the CI runner?",
+   "gold": "2852",
+   "gold_display": "2852",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Flint|build cache size|CUR",
+   "qtype": "CUR",
+   "entity": "Flint",
+   "attr": "build cache size",
+   "scope": "default",
+   "text": "What is the current default build cache size of Flint?",
+   "gold": "912",
+   "gold_display": "912 GB",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Cedar|build cache size|CUR",
+   "qtype": "CUR",
+   "entity": "Cedar",
+   "attr": "build cache size",
+   "scope": "default",
+   "text": "What is Cedar's build cache size right now (default setting)?",
+   "gold": "489",
+   "gold_display": "489 GB",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Bramble|SSH port|CUR",
+   "qtype": "CUR",
+   "entity": "Bramble",
+   "attr": "SSH port",
+   "scope": "default",
+   "text": "What is the current default SSH port of Bramble?",
+   "gold": "2303",
+   "gold_display": "2303",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Kestrel|test coverage threshold|PREV",
+   "qtype": "PREV",
+   "entity": "Kestrel",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "text": "Before the latest change, what was Kestrel's default minimum test coverage?",
+   "gold": "64",
+   "gold_display": "64%",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Redwood|build cache size|EXC",
+   "qtype": "EXC",
+   "entity": "Redwood",
+   "attr": "build cache size",
+   "scope": "the intern cohort",
+   "text": "For the intern cohort, what is Redwood's build cache size?",
+   "gold": "607",
+   "gold_display": "607 GB",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Flint|build cache size|PREV",
+   "qtype": "PREV",
+   "entity": "Flint",
+   "attr": "build cache size",
+   "scope": "default",
+   "text": "Before the latest change, what was Flint's default build cache?",
+   "gold": "1775",
+   "gold_display": "1775 GB",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Magma|monthly cloud budget|CUR",
+   "qtype": "STABLE",
+   "entity": "Magma",
+   "attr": "monthly cloud budget",
+   "scope": "default",
+   "text": "What is the current default monthly cloud budget of Magma?",
+   "gold": "5170",
+   "gold_display": "$5170",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Pulsar|deploy branch|EXC",
+   "qtype": "EXC",
+   "entity": "Pulsar",
+   "attr": "deploy branch",
+   "scope": "the canary cluster",
+   "text": "What deploy branch does Pulsar use for the canary cluster?",
+   "gold": "release-870",
+   "gold_display": "release-870",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Quasar|request timeout|PREV",
+   "qtype": "PREV",
+   "entity": "Quasar",
+   "attr": "request timeout",
+   "scope": "default",
+   "text": "Before the latest change, what was Quasar's default timeout for requests?",
+   "gold": "150",
+   "gold_display": "150 ms",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Quasar|API port|CUR",
+   "qtype": "STABLE",
+   "entity": "Quasar",
+   "attr": "API port",
+   "scope": "default",
+   "text": "What is Quasar's API port right now (default setting)?",
+   "gold": "6257",
+   "gold_display": "6257",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Kestrel|test coverage threshold|EXC",
+   "qtype": "EXC",
+   "entity": "Kestrel",
+   "attr": "test coverage threshold",
+   "scope": "Fridays",
+   "text": "What test coverage threshold does Kestrel use for Fridays?",
+   "gold": "85",
+   "gold_display": "85%",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Nordic|API port|EXC",
+   "qtype": "EXC",
+   "entity": "Nordic",
+   "attr": "API port",
+   "scope": "the EU region",
+   "text": "For the EU region, what is Nordic's API port?",
+   "gold": "6596",
+   "gold_display": "6596",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Birch|rack location|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Birch",
+   "attr": "rack location",
+   "scope": "default",
+   "text": "What is the current default rack location of Birch?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Rune|max line length|EXCNEG",
+   "qtype": "EXCNEG",
+   "entity": "Rune",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "For hotfix branches, what is Rune's max line length?",
+   "gold": "119",
+   "gold_display": "119 chars",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Zenith|SSH port|CUR",
+   "qtype": "STABLE",
+   "entity": "Zenith",
+   "attr": "SSH port",
+   "scope": "default",
+   "text": "What is the current default SSH port of Zenith?",
+   "gold": "2852",
+   "gold_display": "2852",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Vega|maintenance window|CUR",
+   "qtype": "STABLE",
+   "entity": "Vega",
+   "attr": "maintenance window",
+   "scope": "default",
+   "text": "What is the current default maintenance start time of Vega?",
+   "gold": "23:55",
+   "gold_display": "23:55",
+   "has_exception": false,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Rune|code review SLA|CUR",
+   "qtype": "CUR",
+   "entity": "Rune",
+   "attr": "code review SLA",
+   "scope": "default",
+   "text": "What is the current default code review SLA of Rune?",
+   "gold": "94",
+   "gold_display": "94 hours",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Tundra|disk quota|EXC",
+   "qtype": "EXC",
+   "entity": "Tundra",
+   "attr": "disk quota",
+   "scope": "weekend runs",
+   "text": "For weekend runs, what is Tundra's disk quota?",
+   "gold": "457",
+   "gold_display": "457 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Raven|deploy branch|CUR",
+   "qtype": "STABLE",
+   "entity": "Raven",
+   "attr": "deploy branch",
+   "scope": "default",
+   "text": "What is the current default deploy branch of Raven?",
+   "gold": "release-890",
+   "gold_display": "release-890",
+   "has_exception": false,
+   "has_update": false,
+   "family": "rej"
+  },
+  {
+   "qid": "Magma|max line length|CUR",
+   "qtype": "STABLE",
+   "entity": "Magma",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "What is Magma's maximum line width right now (default setting)?",
+   "gold": "148",
+   "gold_display": "148 chars",
+   "has_exception": true,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Bramble|max containers|CUR",
+   "qtype": "CUR",
+   "entity": "Bramble",
+   "attr": "max containers",
+   "scope": "default",
+   "text": "What is Bramble's max containers right now (default setting)?",
+   "gold": "313",
+   "gold_display": "313",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Flint|code review SLA|CUR",
+   "qtype": "STABLE",
+   "entity": "Flint",
+   "attr": "code review SLA",
+   "scope": "default",
+   "text": "What is Flint's code review SLA right now (default setting)?",
+   "gold": "17",
+   "gold_display": "17 hours",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Cedar|test coverage threshold|CUR",
+   "qtype": "CUR",
+   "entity": "Cedar",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "text": "What is the current default test coverage threshold of Cedar?",
+   "gold": "65",
+   "gold_display": "65%",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Marlin|nightly backup time|EXC",
+   "qtype": "EXC",
+   "entity": "Marlin",
+   "attr": "nightly backup time",
+   "scope": "batch jobs",
+   "text": "For batch jobs, what is Marlin's nightly backup time?",
+   "gold": "11:20",
+   "gold_display": "11:20",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Tundra|disk quota|PREV",
+   "qtype": "PREV",
+   "entity": "Tundra",
+   "attr": "disk quota",
+   "scope": "default",
+   "text": "Before the latest change, what was Tundra's default disk quota?",
+   "gold": "2000",
+   "gold_display": "2000 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Rune|code review SLA|PREV",
+   "qtype": "PREV",
+   "entity": "Rune",
+   "attr": "code review SLA",
+   "scope": "default",
+   "text": "What was the default code review SLA of Rune right before its most recent change?",
+   "gold": "27",
+   "gold_display": "27 hours",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Bramble|maintenance window|CUR",
+   "qtype": "CUR",
+   "entity": "Bramble",
+   "attr": "maintenance window",
+   "scope": "default",
+   "text": "What is the current default maintenance slot of Bramble?",
+   "gold": "12:15",
+   "gold_display": "12:15",
+   "has_exception": true,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Harbor|worker count|CUR",
+   "qtype": "STABLE",
+   "entity": "Harbor",
+   "attr": "worker count",
+   "scope": "default",
+   "text": "What is Harbor's worker count right now (default setting)?",
+   "gold": "228",
+   "gold_display": "228",
+   "has_exception": false,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Lumen|max line length|CUR",
+   "qtype": "STABLE",
+   "entity": "Lumen",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "What is the current default max line length of Lumen?",
+   "gold": "141",
+   "gold_display": "141 chars",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Zircon|max line length|EXC",
+   "qtype": "EXC",
+   "entity": "Zircon",
+   "attr": "max line length",
+   "scope": "the intern cohort",
+   "text": "What max line length does Zircon use for the intern cohort?",
+   "gold": "166",
+   "gold_display": "166 chars",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Pulsar|DB pool size|CUR",
+   "qtype": "STABLE",
+   "entity": "Pulsar",
+   "attr": "DB pool size",
+   "scope": "default",
+   "text": "What is Pulsar's DB pool size right now (default setting)?",
+   "gold": "61",
+   "gold_display": "61",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Marlin|DB pool size|CUR",
+   "qtype": "CUR",
+   "entity": "Marlin",
+   "attr": "DB pool size",
+   "scope": "default",
+   "text": "What is Marlin's DB pool size right now (default setting)?",
+   "gold": "30",
+   "gold_display": "30",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Marlin|deploy branch|CUR",
+   "qtype": "STABLE",
+   "entity": "Marlin",
+   "attr": "deploy branch",
+   "scope": "default",
+   "text": "What is the current default deploy branch of Marlin?",
+   "gold": "release-925",
+   "gold_display": "release-925",
+   "has_exception": true,
+   "has_update": false,
+   "family": "rej"
+  },
+  {
+   "qid": "Vega|max containers|EXC",
+   "qtype": "EXC",
+   "entity": "Vega",
+   "attr": "max containers",
+   "scope": "weekend runs",
+   "text": "For weekend runs, what is Vega's max containers?",
+   "gold": "337",
+   "gold_display": "337",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Lumen|build cache size|PREV",
+   "qtype": "PREV",
+   "entity": "Lumen",
+   "attr": "build cache size",
+   "scope": "default",
+   "text": "What was the default build cache size of Lumen right before its most recent change?",
+   "gold": "2143",
+   "gold_display": "2143 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Flint|test coverage threshold|CUR",
+   "qtype": "STABLE",
+   "entity": "Flint",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "text": "What is Flint's test coverage threshold right now (default setting)?",
+   "gold": "62",
+   "gold_display": "62%",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Wildfire|worker count|CUR",
+   "qtype": "STABLE",
+   "entity": "Wildfire",
+   "attr": "worker count",
+   "scope": "default",
+   "text": "What is Wildfire's worker count right now (default setting)?",
+   "gold": "286",
+   "gold_display": "286",
+   "has_exception": false,
+   "has_update": false,
+   "family": "syn+rej"
+  },
+  {
+   "qid": "Pulsar|deploy branch|PREV",
+   "qtype": "PREV",
+   "entity": "Pulsar",
+   "attr": "deploy branch",
+   "scope": "default",
+   "text": "What was the default release branch of Pulsar right before its most recent change?",
+   "gold": "release-714",
+   "gold_display": "release-714",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Pegasus|disk quota|CUR",
+   "qtype": "CUR",
+   "entity": "Pegasus",
+   "attr": "disk quota",
+   "scope": "default",
+   "text": "What is Pegasus's disk quota right now (default setting)?",
+   "gold": "2444",
+   "gold_display": "2444 GB",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Tundra|disk quota|CUR",
+   "qtype": "CUR",
+   "entity": "Tundra",
+   "attr": "disk quota",
+   "scope": "default",
+   "text": "What is the current default storage quota of Tundra?",
+   "gold": "1246",
+   "gold_display": "1246 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Helix|build cache size|PREV",
+   "qtype": "PREV",
+   "entity": "Helix",
+   "attr": "build cache size",
+   "scope": "default",
+   "text": "Before the latest change, what was Helix's default build cache size?",
+   "gold": "1399",
+   "gold_display": "1399 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Glacier|nightly backup time|PREV",
+   "qtype": "PREV",
+   "entity": "Glacier",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "Before the latest change, what was Glacier's default time of the nightly backup?",
+   "gold": "12:35",
+   "gold_display": "12:35",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Redwood|stand-up time|PREV",
+   "qtype": "PREV",
+   "entity": "Redwood",
+   "attr": "stand-up time",
+   "scope": "default",
+   "text": "What was the default stand-up time of Redwood right before its most recent change?",
+   "gold": "18:15",
+   "gold_display": "18:15",
+   "has_exception": false,
+   "has_update": true,
+   "family": "rev"
+  },
+  {
+   "qid": "Zenith|IP address|CUR",
+   "qtype": "STABLE",
+   "entity": "Zenith",
+   "attr": "IP address",
+   "scope": "default",
+   "text": "What is Zenith's address right now (default setting)?",
+   "gold": "10.139.232.148",
+   "gold_display": "10.139.232.148",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Pulsar|deploy branch|CUR",
+   "qtype": "CUR",
+   "entity": "Pulsar",
+   "attr": "deploy branch",
+   "scope": "default",
+   "text": "What is the current default deploy branch of Pulsar?",
+   "gold": "release-700",
+   "gold_display": "release-700",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Glacier|API port|PREV",
+   "qtype": "PREV",
+   "entity": "Glacier",
+   "attr": "API port",
+   "scope": "default",
+   "text": "What was the default API port of Glacier right before its most recent change?",
+   "gold": "2705",
+   "gold_display": "2705",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Wildfire|request timeout|CUR",
+   "qtype": "CUR",
+   "entity": "Wildfire",
+   "attr": "request timeout",
+   "scope": "default",
+   "text": "What is Wildfire's timeout for requests right now (default setting)?",
+   "gold": "1300",
+   "gold_display": "1300 ms",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Nordic|rate limit|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Nordic",
+   "attr": "rate limit",
+   "scope": "default",
+   "text": "What is the current default rate limit of Nordic?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Cedar|max line length|PREV",
+   "qtype": "PREV",
+   "entity": "Cedar",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "What was the default line-length limit of Cedar right before its most recent change?",
+   "gold": "120",
+   "gold_display": "120 chars",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Kestrel|code review SLA|CUR",
+   "qtype": "STABLE",
+   "entity": "Kestrel",
+   "attr": "code review SLA",
+   "scope": "default",
+   "text": "What is the current default code review SLA of Kestrel?",
+   "gold": "19",
+   "gold_display": "19 hours",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Cedar|build cache size|PREV",
+   "qtype": "PREV",
+   "entity": "Cedar",
+   "attr": "build cache size",
+   "scope": "default",
+   "text": "Before the latest change, what was Cedar's default build cache size?",
+   "gold": "2219",
+   "gold_display": "2219 GB",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Pulsar|DB pool size|EXC",
+   "qtype": "EXC",
+   "entity": "Pulsar",
+   "attr": "DB pool size",
+   "scope": "batch jobs",
+   "text": "For batch jobs, what is Pulsar's database pool size?",
+   "gold": "465",
+   "gold_display": "465",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Rune|monthly cloud budget|CUR",
+   "qtype": "STABLE",
+   "entity": "Rune",
+   "attr": "monthly cloud budget",
+   "scope": "default",
+   "text": "What is Rune's monthly cloud budget right now (default setting)?",
+   "gold": "6030",
+   "gold_display": "$6030",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Glacier|nightly backup time|CUR",
+   "qtype": "CUR",
+   "entity": "Glacier",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What is the current default nightly backup time of Glacier?",
+   "gold": "21:10",
+   "gold_display": "21:10",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Tundra|SSH port|PREV",
+   "qtype": "PREV",
+   "entity": "Tundra",
+   "attr": "SSH port",
+   "scope": "default",
+   "text": "What was the default SSH port of Tundra right before its most recent change?",
+   "gold": "8995",
+   "gold_display": "8995",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Nordic|API port|PREV",
+   "qtype": "PREV",
+   "entity": "Nordic",
+   "attr": "API port",
+   "scope": "default",
+   "text": "Before the latest change, what was Nordic's default API port?",
+   "gold": "3625",
+   "gold_display": "3625",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Quasar|request timeout|CUR",
+   "qtype": "CUR",
+   "entity": "Quasar",
+   "attr": "request timeout",
+   "scope": "default",
+   "text": "What is Quasar's timeout for requests right now (default setting)?",
+   "gold": "1400",
+   "gold_display": "1400 ms",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Tundra|SSH port|CUR",
+   "qtype": "CUR",
+   "entity": "Tundra",
+   "attr": "SSH port",
+   "scope": "default",
+   "text": "What is the current default SSH port of Tundra?",
+   "gold": "8648",
+   "gold_display": "8648",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Nordic|log retention|CUR",
+   "qtype": "CUR",
+   "entity": "Nordic",
+   "attr": "log retention",
+   "scope": "default",
+   "text": "What is the current default log retention of Nordic?",
+   "gold": "362",
+   "gold_display": "362 days",
+   "has_exception": false,
+   "has_update": true,
+   "family": "rev"
+  },
+  {
+   "qid": "Zircon|code review SLA|CUR",
+   "qtype": "STABLE",
+   "entity": "Zircon",
+   "attr": "code review SLA",
+   "scope": "default",
+   "text": "What is Zircon's code review SLA right now (default setting)?",
+   "gold": "12",
+   "gold_display": "12 hours",
+   "has_exception": false,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Lumen|code review SLA|CUR",
+   "qtype": "STABLE",
+   "entity": "Lumen",
+   "attr": "code review SLA",
+   "scope": "default",
+   "text": "What is Lumen's code review SLA right now (default setting)?",
+   "gold": "83",
+   "gold_display": "83 hours",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Magma|build cache size|EXC",
+   "qtype": "EXC",
+   "entity": "Magma",
+   "attr": "build cache size",
+   "scope": "hotfix branches",
+   "text": "What build cache size does Magma use for hotfix branches?",
+   "gold": "753",
+   "gold_display": "753 GB",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Harbor|log retention|CUR",
+   "qtype": "STABLE",
+   "entity": "Harbor",
+   "attr": "log retention",
+   "scope": "default",
+   "text": "What is Harbor's log retention right now (default setting)?",
+   "gold": "325",
+   "gold_display": "325 days",
+   "has_exception": false,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Raven|DB pool size|CUR",
+   "qtype": "CUR",
+   "entity": "Raven",
+   "attr": "DB pool size",
+   "scope": "default",
+   "text": "What is the current default DB pool size of Raven?",
+   "gold": "300",
+   "gold_display": "300",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Glacier|nightly backup time|EXC",
+   "qtype": "EXC",
+   "entity": "Glacier",
+   "attr": "nightly backup time",
+   "scope": "staging",
+   "text": "What nightly backup time does Glacier use for staging?",
+   "gold": "18:35",
+   "gold_display": "18:35",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Cedar|max line length|CUR",
+   "qtype": "CUR",
+   "entity": "Cedar",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "What is Cedar's max line length right now (default setting)?",
+   "gold": "123",
+   "gold_display": "123 chars",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Pegasus|SSH port|CUR",
+   "qtype": "CUR",
+   "entity": "Pegasus",
+   "attr": "SSH port",
+   "scope": "default",
+   "text": "What is the current default port for SSH of Pegasus?",
+   "gold": "3241",
+   "gold_display": "3241",
+   "has_exception": true,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Nordic|log retention|PREV",
+   "qtype": "PREV",
+   "entity": "Nordic",
+   "attr": "log retention",
+   "scope": "default",
+   "text": "Before the latest change, what was Nordic's default log retention period?",
+   "gold": "91",
+   "gold_display": "91 days",
+   "has_exception": false,
+   "has_update": true,
+   "family": "rev"
+  },
+  {
+   "qid": "Tundra|kernel version|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Tundra",
+   "attr": "kernel version",
+   "scope": "default",
+   "text": "What is the current default kernel version of Tundra?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Raven|request timeout|PREV",
+   "qtype": "PREV",
+   "entity": "Raven",
+   "attr": "request timeout",
+   "scope": "default",
+   "text": "What was the default HTTP timeout of Raven right before its most recent change?",
+   "gold": "4350",
+   "gold_display": "4350 ms",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Pegasus|SSH port|EXC",
+   "qtype": "EXC",
+   "entity": "Pegasus",
+   "attr": "SSH port",
+   "scope": "the GPU queue",
+   "text": "For the GPU queue, what is Pegasus's port for SSH?",
+   "gold": "6623",
+   "gold_display": "6623",
+   "has_exception": true,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Wildfire|rate limit|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Wildfire",
+   "attr": "rate limit",
+   "scope": "default",
+   "text": "What is the current default rate limit of Wildfire?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Lumen|max line length|EXC",
+   "qtype": "EXC",
+   "entity": "Lumen",
+   "attr": "max line length",
+   "scope": "hotfix branches",
+   "text": "For hotfix branches, what is Lumen's max line length?",
+   "gold": "183",
+   "gold_display": "183 chars",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Glacier|API port|CUR",
+   "qtype": "CUR",
+   "entity": "Glacier",
+   "attr": "API port",
+   "scope": "default",
+   "text": "What is Glacier's API port right now (default setting)?",
+   "gold": "4390",
+   "gold_display": "4390",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Birch|SSH port|CUR",
+   "qtype": "CUR",
+   "entity": "Birch",
+   "attr": "SSH port",
+   "scope": "default",
+   "text": "What is Birch's SSH port right now (default setting)?",
+   "gold": "6098",
+   "gold_display": "6098",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Krypton|API port|CUR",
+   "qtype": "CUR",
+   "entity": "Krypton",
+   "attr": "API port",
+   "scope": "default",
+   "text": "What is the current default API port of Krypton?",
+   "gold": "6322",
+   "gold_display": "6322",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Glacier|request timeout|CUR",
+   "qtype": "CUR",
+   "entity": "Glacier",
+   "attr": "request timeout",
+   "scope": "default",
+   "text": "What is Glacier's timeout for requests right now (default setting)?",
+   "gold": "8350",
+   "gold_display": "8350 ms",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Tundra|swap size|CUR",
+   "qtype": "CUR",
+   "entity": "Tundra",
+   "attr": "swap size",
+   "scope": "default",
+   "text": "What is Tundra's swap size right now (default setting)?",
+   "gold": "116",
+   "gold_display": "116 GB",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Helix|build cache size|CUR",
+   "qtype": "CUR",
+   "entity": "Helix",
+   "attr": "build cache size",
+   "scope": "default",
+   "text": "What is Helix's build cache size right now (default setting)?",
+   "gold": "2863",
+   "gold_display": "2863 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Harbor|nightly backup time|PREV",
+   "qtype": "PREV",
+   "entity": "Harbor",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What was the default nightly backup time of Harbor right before its most recent change?",
+   "gold": "13:05",
+   "gold_display": "13:05",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Raven|request timeout|CUR",
+   "qtype": "CUR",
+   "entity": "Raven",
+   "attr": "request timeout",
+   "scope": "default",
+   "text": "What is Raven's request timeout right now (default setting)?",
+   "gold": "5500",
+   "gold_display": "5500 ms",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Helix|test coverage threshold|PREV",
+   "qtype": "PREV",
+   "entity": "Helix",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "text": "What was the default coverage gate of Helix right before its most recent change?",
+   "gold": "63",
+   "gold_display": "63%",
+   "has_exception": false,
+   "has_update": true,
+   "family": "rej"
+  },
+  {
+   "qid": "Magma|budget code|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Magma",
+   "attr": "budget code",
+   "scope": "default",
+   "text": "What is the current default budget code of Magma?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Birch|maintenance window|CUR",
+   "qtype": "STABLE",
+   "entity": "Birch",
+   "attr": "maintenance window",
+   "scope": "default",
+   "text": "What is the current default maintenance window of Birch?",
+   "gold": "19:05",
+   "gold_display": "19:05",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Lumen|build cache size|EXC",
+   "qtype": "EXC",
+   "entity": "Lumen",
+   "attr": "build cache size",
+   "scope": "the frontend squad",
+   "text": "For the frontend squad, what is Lumen's build cache size?",
+   "gold": "2952",
+   "gold_display": "2952 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Pegasus|disk quota|PREV",
+   "qtype": "PREV",
+   "entity": "Pegasus",
+   "attr": "disk quota",
+   "scope": "default",
+   "text": "What was the default disk quota of Pegasus right before its most recent change?",
+   "gold": "1622",
+   "gold_display": "1622 GB",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "note|6813|NOTE",
+   "qtype": "NOTE",
+   "entity": "__note__",
+   "attr": "Grafana dashboard #{v} is the one with the cluster health overview.",
+   "scope": "default",
+   "text": "Which Grafana dashboard number shows the cluster health overview?",
+   "gold": "6813",
+   "gold_display": "6813",
+   "has_exception": false,
+   "has_update": false,
+   "family": "note"
+  },
+  {
+   "qid": "Wildfire|DB pool size|CUR",
+   "qtype": "STABLE",
+   "entity": "Wildfire",
+   "attr": "DB pool size",
+   "scope": "default",
+   "text": "What is Wildfire's DB pool size right now (default setting)?",
+   "gold": "167",
+   "gold_display": "167",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Kestrel|stand-up time|CUR",
+   "qtype": "CUR",
+   "entity": "Kestrel",
+   "attr": "stand-up time",
+   "scope": "default",
+   "text": "What is Kestrel's stand-up time right now (default setting)?",
+   "gold": "19:55",
+   "gold_display": "19:55",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Krypton|API port|EXCNEG",
+   "qtype": "EXCNEG",
+   "entity": "Krypton",
+   "attr": "API port",
+   "scope": "default",
+   "text": "For the mobile API, what is Krypton's API port?",
+   "gold": "6322",
+   "gold_display": "6322",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Raven|DB pool size|PREV",
+   "qtype": "PREV",
+   "entity": "Raven",
+   "attr": "DB pool size",
+   "scope": "default",
+   "text": "What was the default DB pool size of Raven right before its most recent change?",
+   "gold": "372",
+   "gold_display": "372",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Krypton|request timeout|EXC",
+   "qtype": "EXC",
+   "entity": "Krypton",
+   "attr": "request timeout",
+   "scope": "the canary cluster",
+   "text": "What HTTP timeout does Krypton use for the canary cluster?",
+   "gold": "1650",
+   "gold_display": "1650 ms",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Lumen|build cache size|CUR",
+   "qtype": "CUR",
+   "entity": "Lumen",
+   "attr": "build cache size",
+   "scope": "default",
+   "text": "What is Lumen's build cache size right now (default setting)?",
+   "gold": "1428",
+   "gold_display": "1428 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Birch|IP address|CUR",
+   "qtype": "STABLE",
+   "entity": "Birch",
+   "attr": "IP address",
+   "scope": "default",
+   "text": "What is the current default address of Birch?",
+   "gold": "10.107.224.32",
+   "gold_display": "10.107.224.32",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Quasar|API port|EXC",
+   "qtype": "EXC",
+   "entity": "Quasar",
+   "attr": "API port",
+   "scope": "the EU region",
+   "text": "What API port does Quasar use for the EU region?",
+   "gold": "4355",
+   "gold_display": "4355",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Bramble|kernel version|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Bramble",
+   "attr": "kernel version",
+   "scope": "default",
+   "text": "What is the current default kernel version of Bramble?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Marlin|DB pool size|PREV",
+   "qtype": "PREV",
+   "entity": "Marlin",
+   "attr": "DB pool size",
+   "scope": "default",
+   "text": "What was the default DB pool size of Marlin right before its most recent change?",
+   "gold": "334",
+   "gold_display": "334",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Glacier|request timeout|EXCNEG",
+   "qtype": "EXCNEG",
+   "entity": "Glacier",
+   "attr": "request timeout",
+   "scope": "default",
+   "text": "What request timeout does Glacier use for the canary cluster?",
+   "gold": "8350",
+   "gold_display": "8350 ms",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Glacier|request timeout|PREV",
+   "qtype": "PREV",
+   "entity": "Glacier",
+   "attr": "request timeout",
+   "scope": "default",
+   "text": "Before the latest change, what was Glacier's default timeout for requests?",
+   "gold": "550",
+   "gold_display": "550 ms",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "note|9779|NOTE",
+   "qtype": "NOTE",
+   "entity": "__note__",
+   "attr": "Jira tickets for infra work go to board {v}.",
+   "scope": "default",
+   "text": "Which Jira board number do infra tickets go to?",
+   "gold": "9779",
+   "gold_display": "9779",
+   "has_exception": false,
+   "has_update": false,
+   "family": "note"
+  },
+  {
+   "qid": "Quasar|nightly backup time|PREV",
+   "qtype": "PREV",
+   "entity": "Quasar",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "Before the latest change, what was Quasar's default nightly backup time?",
+   "gold": "17:35",
+   "gold_display": "17:35",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Harbor|nightly backup time|CUR",
+   "qtype": "CUR",
+   "entity": "Harbor",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What is Harbor's nightly backup time right now (default setting)?",
+   "gold": "23:40",
+   "gold_display": "23:40",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Pulsar|log retention|EXCNEG",
+   "qtype": "EXCNEG",
+   "entity": "Pulsar",
+   "attr": "log retention",
+   "scope": "default",
+   "text": "What log retention does Pulsar use for staging?",
+   "gold": "46",
+   "gold_display": "46 days",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Helix|code review SLA|CUR",
+   "qtype": "STABLE",
+   "entity": "Helix",
+   "attr": "code review SLA",
+   "scope": "default",
+   "text": "What is the current default review turnaround target of Helix?",
+   "gold": "54",
+   "gold_display": "54 hours",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Redwood|max line length|PREV",
+   "qtype": "PREV",
+   "entity": "Redwood",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "What was the default max line length of Redwood right before its most recent change?",
+   "gold": "130",
+   "gold_display": "130 chars",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Redwood|max line length|CUR",
+   "qtype": "CUR",
+   "entity": "Redwood",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "What is the current default max line length of Redwood?",
+   "gold": "133",
+   "gold_display": "133 chars",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Quasar|nightly backup time|CUR",
+   "qtype": "CUR",
+   "entity": "Quasar",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What is the current default nightly backup time of Quasar?",
+   "gold": "22:50",
+   "gold_display": "22:50",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Nordic|API port|CUR",
+   "qtype": "CUR",
+   "entity": "Nordic",
+   "attr": "API port",
+   "scope": "default",
+   "text": "What is Nordic's API port right now (default setting)?",
+   "gold": "8465",
+   "gold_display": "8465",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Marlin|nightly backup time|PREV",
+   "qtype": "PREV",
+   "entity": "Marlin",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What was the default time of the nightly backup of Marlin right before its most recent change?",
+   "gold": "20:55",
+   "gold_display": "20:55",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Krypton|max upload size|CUR",
+   "qtype": "STABLE",
+   "entity": "Krypton",
+   "attr": "max upload size",
+   "scope": "default",
+   "text": "What is the current default max upload size of Krypton?",
+   "gold": "3032",
+   "gold_display": "3032 MB",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  }
+ ],
+ "sessions": [
+  {
+   "session": 0,
+   "date": "2026-01-05",
+   "notes": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "session": 1,
+   "date": "2026-01-08",
+   "notes": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "session": 2,
+   "date": "2026-01-11",
+   "notes": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "session": 3,
+   "date": "2026-01-12",
+   "notes": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+   ]
+  },
+  {
+   "session": 4,
+   "date": "2026-01-15",
+   "notes": [
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+   ]
+  },
+  {
+   "session": 5,
+   "date": "2026-01-17",
+   "notes": [
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+   ]
+  },
+  {
+   "session": 6,
+   "date": "2026-01-20",
+   "notes": [
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+   ]
+  },
+  {
+   "session": 7,
+   "date": "2026-01-21",
+   "notes": [
+    41,
+    42,
+    43
+   ]
+  },
+  {
+   "session": 8,
+   "date": "2026-01-24",
+   "notes": [
+    44,
+    45,
+    46,
+    47,
+    48,
+    49
+   ]
+  },
+  {
+   "session": 9,
+   "date": "2026-01-26",
+   "notes": [
+    50,
+    51,
+    52,
+    53
+   ]
+  },
+  {
+   "session": 10,
+   "date": "2026-01-29",
+   "notes": [
+    54,
+    55,
+    56,
+    57,
+    58
+   ]
+  },
+  {
+   "session": 11,
+   "date": "2026-01-30",
+   "notes": [
+    59,
+    60,
+    61,
+    62,
+    63
+   ]
+  },
+  {
+   "session": 12,
+   "date": "2026-02-02",
+   "notes": [
+    64,
+    65,
+    66,
+    67
+   ]
+  },
+  {
+   "session": 13,
+   "date": "2026-02-04",
+   "notes": [
+    68,
+    69,
+    70,
+    71,
+    72,
+    73
+   ]
+  },
+  {
+   "session": 14,
+   "date": "2026-02-07",
+   "notes": [
+    74,
+    75,
+    76,
+    77
+   ]
+  },
+  {
+   "session": 15,
+   "date": "2026-02-09",
+   "notes": [
+    78,
+    79,
+    80,
+    81,
+    82
+   ]
+  },
+  {
+   "session": 16,
+   "date": "2026-02-11",
+   "notes": [
+    83,
+    84,
+    85
+   ]
+  },
+  {
+   "session": 17,
+   "date": "2026-02-14",
+   "notes": [
+    86,
+    87,
+    88,
+    89,
+    90
+   ]
+  },
+  {
+   "session": 18,
+   "date": "2026-02-17",
+   "notes": [
+    91,
+    92,
+    93,
+    94
+   ]
+  },
+  {
+   "session": 19,
+   "date": "2026-02-20",
+   "notes": [
+    95,
+    96,
+    97
+   ]
+  },
+  {
+   "session": 20,
+   "date": "2026-02-23",
+   "notes": [
+    98,
+    99,
+    100,
+    101,
+    102
+   ]
+  },
+  {
+   "session": 21,
+   "date": "2026-02-26",
+   "notes": [
+    103,
+    104,
+    105,
+    106,
+    107
+   ]
+  },
+  {
+   "session": 22,
+   "date": "2026-03-01",
+   "notes": [
+    108,
+    109,
+    110,
+    111,
+    112
+   ]
+  },
+  {
+   "session": 23,
+   "date": "2026-03-03",
+   "notes": [
+    113,
+    114,
+    115,
+    116,
+    117
+   ]
+  },
+  {
+   "session": 24,
+   "date": "2026-03-04",
+   "notes": [
+    118,
+    119,
+    120,
+    121,
+    122,
+    123
+   ]
+  },
+  {
+   "session": 25,
+   "date": "2026-03-07",
+   "notes": [
+    124,
+    125,
+    126,
+    127,
+    128
+   ]
+  },
+  {
+   "session": 26,
+   "date": "2026-03-09",
+   "notes": [
+    129,
+    130,
+    131,
+    132,
+    133,
+    134
+   ]
+  },
+  {
+   "session": 27,
+   "date": "2026-03-11",
+   "notes": [
+    135,
+    136,
+    137,
+    138
+   ]
+  },
+  {
+   "session": 28,
+   "date": "2026-03-12",
+   "notes": [
+    139,
+    140,
+    141,
+    142,
+    143
+   ]
+  },
+  {
+   "session": 29,
+   "date": "2026-03-15",
+   "notes": [
+    144,
+    145,
+    146,
+    147
+   ]
+  },
+  {
+   "session": 30,
+   "date": "2026-03-18",
+   "notes": [
+    148,
+    149,
+    150,
+    151,
+    152,
+    153
+   ]
+  },
+  {
+   "session": 31,
+   "date": "2026-03-21",
+   "notes": [
+    154,
+    155,
+    156
+   ]
+  },
+  {
+   "session": 32,
+   "date": "2026-03-23",
+   "notes": [
+    157,
+    158,
+    159,
+    160
+   ]
+  },
+  {
+   "session": 33,
+   "date": "2026-03-25",
+   "notes": [
+    161,
+    162,
+    163,
+    164,
+    165,
+    166
+   ]
+  },
+  {
+   "session": 34,
+   "date": "2026-03-26",
+   "notes": [
+    167,
+    168,
+    169,
+    170,
+    171,
+    172
+   ]
+  },
+  {
+   "session": 35,
+   "date": "2026-03-28",
+   "notes": [
+    173,
+    174,
+    175,
+    176
+   ]
+  },
+  {
+   "session": 36,
+   "date": "2026-03-30",
+   "notes": [
+    177,
+    178,
+    179
+   ]
+  }
+ ]
+}

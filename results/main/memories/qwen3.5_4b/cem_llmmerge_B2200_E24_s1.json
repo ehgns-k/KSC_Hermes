@@ -1,0 +1,40 @@
+{
+ "entries": [
+  "Vega | ssh port | default | 4829 | -; Vega | Jira board | default | ruff | -; Vega | maintenance window | default | 21:15 | -",
+  "Harbor | stand-up time | intern cohort | 22:40 | -",
+  "Delta | monthly cloud budget $3960 (was -; scope: default); Delta | build cache size | default | 1527 GB | -",
+  "Fjord | build cache size | default | 2521 GB | -; Fjord | max line length | default | 83 | -; Fjord | code review SLA | default | 7 hours | -",
+  "Comet | max line length | frontend squad | 185 chars | -; Comet | max line length | default | 93 chars | -",
+  "Solstice | deploy branch | default | release-764 | release-281; Solstice | backup start time | default | 19:15 | -",
+  "Prism | IP address | default | 10.220.84.209 | -; Prism | disk quota | default | 573 GB | -; Prism | disk quota | backup job | 1336 GB | -",
+  "DB connection pool default 89 (was -; scope: default); DB connection pool mobile API 472 (was -; scope: mobile API); max upload size default 1936 MB (was 1200 MB; scope: default); max upload size mobile API 3200 MB (was -; scope: mobile API); log retention period default 170 days (was -; scope: default)",
+  "Thistle | max line length | default | 82 | 187; Thistle | stand-up time | default | 13:05 | 15:50; Thistle | max upload size | default | 1072 MB | -; Thistle | HTTP port | default | 2855 | -; Thistle | API port | default | 2855 | -; Thistle | monthly cloud budget | default | $7250 | -; Thistle | test coverage threshold | default | 44% | -; Thistle | code review SLA | default | 70 hours | -",
+  "Sierra | request timeout | default | 5150 ms | -; Sierra | request timeout | canary cluster | 5650 ms | -; Sierra | worker count | default | 234 | 92",
+  "Dune | max containers | default | 114 | -; Dune | IP address | default | 10.246.49.137 | 10.64.69.30; Dune | swap space | default | 1848 GB | -; Dune | monthly cloud budget | default | $2350 | -; Dune | max line length | default | 93 | 213",
+  "Alder | deploy branch | batch jobs | release-636 | -",
+  "Basalt | IP address | weekend runs | 10.61.227.87 | -; Basalt | IP address | default | 10.44.212.224 | -; Basalt | sshd port | default | 8676 | 2306"
+ ],
+ "chars": 2102,
+ "usage": {
+  "calls": 76,
+  "prompt_tokens": 38632,
+  "gen_tokens": 19689,
+  "seconds": 1113.76,
+  "cache_hits": 0
+ },
+ "stats": {
+  "calls": 38,
+  "parse_errors": 0,
+  "merge_usage": {
+   "calls": 38,
+   "prompt_tokens": 12987,
+   "gen_tokens": 9455,
+   "seconds": 593.95,
+   "cache_hits": 0
+  },
+  "entities": 48,
+  "dropped_entities": 35
+ },
+ "wall_s": 594.0,
+ "raw_chars": 10325
+}

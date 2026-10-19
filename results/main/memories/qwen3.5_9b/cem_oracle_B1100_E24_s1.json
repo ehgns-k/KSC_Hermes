@@ -1,0 +1,43 @@
+{
+ "entries": [
+  "Vega: SSH port 7555",
+  "Indigo: IP address 10.80.112.130 (was 10.49.67.29); max containers 282 (was 379); disk quota 855 GB (was 876 GB)",
+  "Pulsar: worker count 183; DB pool size 319; log retention 283 days",
+  "Kestrel: swap size 390 GB (was 1170 GB); maintenance window 14:20 (was 21:40); max containers 218 (weekend runs: 211)",
+  "Ember: max upload size 1072 MB (was 2432 MB; EU region: 2512 MB); API port 4593 (was 2855)",
+  "Wren: request timeout 4950 ms; DB pool size 287; API port 2669 (mobile API: 3435)",
+  "Solstice: API port 3901",
+  "Prism: disk quota 573 GB (backup job: 1336 GB)",
+  "Jasper: log retention 170 days (was 267 days); max upload size 1936 MB (was 1200 MB; mobile API: 3200 MB); DB pool size 89 (mobile API: 472)",
+  "Maple: swap size 941 GB (was 2119 GB; CI runner: 2667 GB); maintenance window 10:45 (CI runner: 23:50)",
+  "Sierra: worker count 234 (was 92); request timeout 5150 ms",
+  "Dune: swap size 1848 GB (was 776 GB); max containers 114 (was 392); IP address 10.246.49.137 (was 10.64.69.30)",
+  "Alder: max upload size 1216 MB; worker count 436 (was 199)"
+ ],
+ "chars": 1058,
+ "usage": {
+  "calls": 0,
+  "prompt_tokens": 0,
+  "gen_tokens": 0,
+  "seconds": 0.0,
+  "cache_hits": 0
+ },
+ "stats": {
+  "dropped": {
+   "T1": 40,
+   "T2": 15,
+   "T3": 13,
+   "T0": 13
+  },
+  "kept": {
+   "T1": 32,
+   "T2": 8,
+   "T3": 16,
+   "T0": 0
+  },
+  "keys": 95,
+  "entities": 24
+ },
+ "wall_s": 0.0,
+ "raw_chars": 10325
+}

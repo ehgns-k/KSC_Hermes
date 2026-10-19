@@ -1,0 +1,47 @@
+{
+ "entries": [
+  "Birch: SSH port 6098, maintenance 19:05, GPU queue IP 10.62.47.167.",
+  "Harbor: nightly backup 23:40, log retention 325 days, workers 228.",
+  "Nordic: API port 8465, log retention 362 days, deploy branch release-540 (override batch: release-191).",
+  "Rune: code review SLA 27h, max line 119 chars.",
+  "Cedar: max line 123 chars, min test coverage 65%, build cache 489 GB.",
+  "Flint: test coverage 62%, build cache 912 GB, review SLA 17h.",
+  "Tundra: SSH port 8648, swap 116 GB, disk quota 1246 GB (weekend: 457 GB).",
+  "Quasar: HTTP timeout 1400 ms, backup 22:50, API port 6257 (EU: 4355).",
+  "Bramble: SSH port 2303, maintenance 12:15, max containers 313, GPU maintenance 19:20.",
+  "Raven: DB pool 300, review SLA 94h, request timeout 5500 ms, deploy release-890.",
+  "Pegasus: SSH port 3241 (GPU: 6623), disk quota 2444 GB.",
+  "Kestrel: stand-up 22:25 (hotfix: 14:05), review SLA 19h, min coverage 71% (Fri: 85%).",
+  "Helix: review SLA 54h, build cache 2863 GB (hotfix: 2214 GB), min coverage 52%.",
+  "Lumen: review SLA 83h, line 141 chars, build cache 1428 GB (hotfix: 183 chars).",
+  "Zenith: IP 10.139.232.148, disk 2351 GB, SSH 2852.",
+  "Vega: swap 2096 GB, maintenance 23:55, containers 58 (weekend: 337).",
+  "Magma: budget $5170, line 148 chars (Fri: 202 chars), cache 2447 GB (hotfix: 753 GB).",
+  "Zircon: review 12h, line 129 chars, intern cohort cache 607 GB.",
+  "Pulsar: deploy release-700 (canary: release-870), batch DB pool 465, log 46 days, DB 61.",
+  "Krypton: max upload 3032 MB, HTTP 8800 ms (canary: 1650 ms), API 6322.",
+  "Marlin: backup 16:10 (batch: 11:20), deploy release-925, DB pool 30.",
+  "Redwood: stand-up 14:50, line 133 chars, cache 2735 GB (intern: 607 GB).",
+  "Jira infra board: 9779.",
+  "Glacier: backup 21:10, listen 2705, API 4390, timeout 8350 ms.",
+  "User prefs: dates YYYY-MM-DD, concise answers with code blocks, no emojis in commits, works late.",
+  "Docker: no sudo needed; laptop builds need --memory=9321m.",
+  "Run 'make test' before push; avoid force-push to shared branches; prefer small PRs."
+ ],
+ "chars": 1982,
+ "usage": {
+  "calls": 1,
+  "prompt_tokens": 4031,
+  "gen_tokens": 865,
+  "seconds": 43.71,
+  "cache_hits": 0
+ },
+ "stats": {
+  "first_chars": 1982,
+  "retried": false,
+  "chars_before_cut": 1982,
+  "truncated": false
+ },
+ "wall_s": 43.7,
+ "raw_chars": 11139
+}

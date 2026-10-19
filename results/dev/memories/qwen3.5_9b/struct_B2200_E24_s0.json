@@ -1,0 +1,49 @@
+{
+ "entries": [
+  "Nordic — HTTP port: 6337 | nightly backup: 14:10",
+  "Jasper — API port: 2177 | max upload: 2448 MB (canary: 496 MB) | workers: 128",
+  "Lotus — HTTP port: 5454 | API port: 5991 | timeout: 6900 ms | workers: 467",
+  "Opal — stand-up: 18:45 (frontend: 11:35) | line length: 165 chars (frontend: 73) | SLA: 78h (Fri: 16h)",
+  "Comet — IP: 10.13.208.212 | swap: 785 GB | containers: 318 (CI: 400)",
+  "Tundra — IP: 10.74.157.140 | containers: 45 | SSH: 3802",
+  "Cobalt — workers: 52 | backup: 20:05 | log retention: 84d (batch: 333d)",
+  "Quartz — stand-up: 14:35 (Fri: 15:45) | cache: 2897 GB | line length: 240 (Fri: 95)",
+  "Redwood — maintenance: 22:05 (weekend: 14:50) | SSH: 7408 | containers: 364",
+  "Maple — stand-up: 12:15 (hotfix: 13:15) | coverage: 97% | SLA: 28h",
+  "Flint — branch: release-891 | workers: 34 | log retention: 119d",
+  "Quasar — API port: 3560 | deploy: release-631 (staging: release-631) | backup: 11:05",
+  "Delta — stand-up: 15:55 (Fri: 18:15) | SLA: 24h (was 74h) | cache: 1365 GB (Fri: 1961 GB)",
+  "Kestrel — stand-up: 12:50 | cache: 1161 GB | SLA: 19h",
+  "Zephyr — IP: 10.237.22.241 | SSH: 2500 (GPU: 8359)",
+  "Prism — workers: 69 | timeout: 1800 ms (mobile: 8450 ms) | DB pool: 317 (batch: 152)",
+  "Krypton — disk: 2061 GB | SSH: 8702 (CI: 8702) | swap: 2732 GB (backup: 2407 GB)",
+  "Vortex — SSH: 9164 | swap: 2732 GB | maintenance: 13:05",
+  "Falcon — branch: release-372 | log retention: 120d (staging: 50d) | backup: 20:50",
+  "Lumen — log retention: 27d | upload: 1152 MB (batch: 1032 MB) | timeout: 1600 ms",
+  "Ursa — cache: 181 GB (Fri: 1374 GB) | stand-up: 18:40 | budget: $5870",
+  "Harbor — budget: $5090 | coverage: 72% (Fri: 68%) | line length: 213 (Fri: 235)",
+  "Quill — stand-up: 10:20 (intern: 14:25) | budget: $5550 | line length: 83",
+  "Zircon — log retention: 352d | DB pool: 317 (batch: 152) | timeout: 9250 ms",
+  "Delta — stand-up: 15:55 (Fri: 18:15) | SLA: 24h (was 74h) | cache: 1365 GB (Fri: 1961 GB)",
+  "Kestrel — stand-up: 12:50 | cache: 1161 GB | SLA: 19h",
+  "Zephyr — IP: 10.237.22.241 | SSH: 2500 (GPU: 8359)",
+  "Prism — workers: 69 | timeout: 1800 ms (mobile: 8450 ms) | DB pool: 317 (batch: 152)",
+  "Krypton — disk: 2061 GB | SSH: 8702 (CI: 8702) | swap: 2732 GB (backup: 2407 GB)"
+ ],
+ "chars": 2174,
+ "usage": {
+  "calls": 2,
+  "prompt_tokens": 10614,
+  "gen_tokens": 2800,
+  "seconds": 58.82,
+  "cache_hits": 0
+ },
+ "stats": {
+  "first_chars": 3020,
+  "retried": true,
+  "chars_before_cut": 2687,
+  "truncated": true
+ },
+ "wall_s": 58.8,
+ "raw_chars": 12501
+}

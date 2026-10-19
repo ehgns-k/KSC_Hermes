@@ -1,0 +1,41 @@
+{
+ "entries": [
+  "Aurora — max containers: 402 (weekend: 76) | maintenance: 20:05 | IP: 10.155.243.141 (backup: 10.103.60.133) | GPU queue IP: 10.106.230.108",
+  "Cedar — SSH port: 3488 | IP: 10.193.60.28 | swap: 910 GB",
+  "Ember — request timeout: 5250 ms | deploy branch: release-747",
+  "Flint — build cache: 1627 GB | coverage gate: 63%",
+  "Fjord — DB pool: 243 | deploy branch: release-453 | API port: 2997",
+  "Iris — max containers: 156 | disk quota: 2983 GB | IP: 10.178.27.8",
+  "Jasper — nightly backup: 11:20 | API port: 4273 | DB pool: 240",
+  "Juniper — build cache: 1755 GB | coverage gate: 74% | stand-up: 14:45 (intern: 16:20)",
+  "Lumen — build cache: 1547 GB (frontend: 2647 GB) | test coverage: 45% | stand-up: 15:35 (intern: 11:55)",
+  "Lyra — test coverage: 57% | code review: 56 hours (hotfix: 50%)",
+  "Nimbus — request timeout: 9650 ms | backup: 18:25",
+  "Nova — code review: 83 hours | monthly budget: $8290 | stand-up: 21:40",
+  "Opal — request timeout: 4450 ms | HTTP port: 8421 (batch: 4952) | worker count: 179",
+  "Quill — build cache: 400 GB (hotfix: 2087 GB) | code review: 40 hours (intern: 40 hours) | stand-up: 10:40",
+  "Rune — swap: 39 GB | disk quota: 2469 GB (weekend only)",
+  "Thistle — nightly backup: 14:20 | API port: 2658 (staging: 8826) | deploy branch: release-541 (canary: release-916)",
+  "Ursa — API port: 6844 | DB pool: 318 | HTTP timeout: 7350 ms",
+  "Velvet — HTTP port: 6012 (mobile: 6412) | deploy branch: release-449 (canary: release-568) | worker count: 203 (staging: 237)",
+  "Yarrow — API port: 2653 (batch: 4091) | log retention: 61 days (batch: 244 days)",
+  "Zenith — maintenance: 10:15 (CI: 20:50) | IP: 10.87.160.167 | swap: 2679 GB",
+  "Yukon — API port: 8827 (mobile: 3080) | log retention: 13 days (canary: 36 days) | nightly backup: 20:55"
+ ],
+ "chars": 1732,
+ "usage": {
+  "calls": 2,
+  "prompt_tokens": 11087,
+  "gen_tokens": 2169,
+  "seconds": 117.28,
+  "cache_hits": 0
+ },
+ "stats": {
+  "first_chars": 2641,
+  "retried": true,
+  "chars_before_cut": 1732,
+  "truncated": false
+ },
+ "wall_s": 117.3,
+ "raw_chars": 13004
+}

@@ -1,0 +1,21 @@
+{
+ "entries": [
+  "Vega sshd: 7555, maint: 21:15. Orion test coverage: 91% (intern: 90%). Orion stand-up: 12:50. Bramble test coverage: 48% (Fri: 87%). Bramble line: 133 chars. Harbor build cache: 1933 GB (intern: 22:40 stand-up). Harbor max line: 105 chars. Falcon line: 240 chars (frontend stand-up: 22:05). Falcon stand-up: 21:25. Vesper test coverage: 44% (frontend stand-up: 17:20). Vesper stand-up: 19:40. Indigo IP: 10.80.112.130 (weekend: 10.214.67.54). Indigo containers: 282. Indigo disk: 855 GB. Kestrel swap: 390 GB, maint: 14:20, max containers: 218 (weekend: 211). Kestrel IP: 10.115.181.131. Pulsar DB pool: 319 (canary log: 225 days). Pulsar log: 283 days. Ember max upload: 1072 MB (frontend: 2439 GB cache, EU: 2512 MB, mobile: 3200 MB). Ember HTTP: 4593 (release-693). Ember deploy: release-499. Wren API: 3435 (mobile: 3901, timeout: 5150 ms). Wren DB: 287. Comet stand-up: 23:25. Comet line: 93 chars (frontend: 2439 GB cache). Comet budget: $2350. Solstice backup: 10:05 (was 15:55, now 19:15). Solstice deploy: release-764. Solstice API: 3901. Prism IP: 10.220.84.209, maint: 14:05, backup disk: 1336 GB. Prism disk: 573 GB. Sierra workers: 234 (was 92). Sierra timeout: 5650 ms (canary: 5150 ms). Sierra backup: 14:55. Sierra IP: 10.220.84.209. Jasper DB: 89 (mobile: 472). Jasper upload: 1936 MB (was 1200 MB, mobile: 3200 MB). Jasper log: 170 days (was 267, canary: 225). Jasper maint: 14:05. Umbra build cache: 2933 GB (Fri: 163 chars line, intern: 182 GB cache). Umbra review: 56 hours (Fri: 42 hours). Umbra line: 120 chars (was 187, reverted to 82). Umbra IP: 10.133.200.145. Thistle stand-up: 13:05 (was 15:50). Thistle line: 82 chars (was 187). Thistle review: 70 hours. Thistle IP: 10.133.200.145. Dune IP: 10.246.49.137 (was 10.64.69.30, weekend: 10.214.67.54). Dune containers: 114 (was 392, tested 215). Dune swap: 1848 GB (was 776). Dune backup: 10:05. Dune IP: 10.246.49.137. Basalt IP: 10.44.212.224 (weekend: 10.61.227.87). Basalt swap: 2903 GB (was 2306). Basalt SSH: 8676 (was 2306). Basalt containers: 392. Basalt deploy: release-636 (batch). Basalt swap: 2903 GB. Alder workers: 436 (was 199). Alder deploy: release-698 (batch: release-636). Alder upload: 1216 MB."
+ ],
+ "chars": 2189,
+ "usage": {
+  "calls": 2,
+  "prompt_tokens": 9126,
+  "gen_tokens": 2761,
+  "seconds": 146.54,
+  "cache_hits": 2
+ },
+ "stats": {
+  "first_chars": 2926,
+  "retried": true,
+  "chars_before_cut": 2710,
+  "truncated": true
+ },
+ "wall_s": 0.0,
+ "raw_chars": 10325
+}

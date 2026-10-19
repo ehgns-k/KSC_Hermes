@@ -1,0 +1,52 @@
+{
+ "entries": [
+  "(2026-01-05) Nordic HTTP port is 6337 and its nightly backup time is 14:10.",
+  "(2026-01-05) Learned that the Jasper service runs with API port 6459.",
+  "(2026-01-05) Jasper: max upload size = 1984 MB.",
+  "(2026-01-08) Lotus timeout for requests is 6900 ms and its worker count is 459.",
+  "(2026-01-08) Lotus request timeout: 6900 ms (unchanged).",
+  "(2026-01-08) User dislikes emoji in commit messages.",
+  "(2026-01-09) Jira tickets for infra work go to board 2626.",
+  "(2026-01-09) Noted: Jasper — number of workers: 128.",
+  "(2026-01-09) The Opal team uses daily stand-up 18:45; max line length is 82 chars.",
+  "(2026-01-09) For Opal, the code review SLA is set to 78 hours.",
+  "(2026-01-09) Config for Nordic has max upload size 2456 MB.",
+  "(2026-01-09) Avoid force-pushing to shared branches.",
+  "(2026-01-10) Reminder: Lotus number of workers is still 459.",
+  "(2026-01-10) Comet swap size is 1932 GB and its IP address is 10.13.208.212.",
+  "(2026-01-10) Tundra max containers is 327.",
+  "(2026-01-10) As of today, the API port for Jasper is 2177.",
+  "(2026-01-10) Cobalt worker count is 52 and its time of the nightly backup is 19:40.",
+  "(2026-01-10) For Quartz, the max line length is set to 240 chars.",
+  "(2026-01-13) Lotus: API port = 5991.",
+  "(2026-01-13) Zephyr: IP address = 10.159.26.215.",
+  "(2026-01-13) Config for Maple has stand-up time 19:15.",
+  "(2026-01-13) Quartz uses 14:35 as its stand-up time.",
+  "(2026-01-13) Redwood: maintenance start time = 22:35.",
+  "(2026-01-13) New worker count for Lotus: 467.",
+  "(2026-01-15) For Flint, the release branch is set to release-348.",
+  "(2026-01-15) Quartz daily stand-up is 19:45 on Fridays only; elsewhere the normal setting applies.",
+  "(2026-01-15) As of today, the max line length for Opal is 165 chars.",
+  "(2026-01-18) For Maple, the test coverage threshold is set to 94%.",
+  "(2026-01-18) Zephyr: max containers = 17.",
+  "(2026-01-18) Flint uses 144 as its worker count.",
+  "(2026-01-18) Config for Quasar has deploy branch release-689.",
+  "(2026-01-18) Maple code-review deadline is 28 hours.",
+  "(2026-01-18) Delta code review SLA is 74 hours and its stand-up time is 13:20.",
+  "(2026-01-21) Jasper HTTP port: 2177 (unchanged).",
+  "(2026-01-21) Flint log retention is 119 days."
+ ],
+ "chars": 2187,
+ "usage": {
+  "calls": 0,
+  "prompt_tokens": 0,
+  "gen_tokens": 0,
+  "seconds": 0.0,
+  "cache_hits": 0
+ },
+ "stats": {
+  "rejected_adds": 163
+ },
+ "wall_s": 0.3,
+ "raw_chars": 12501
+}

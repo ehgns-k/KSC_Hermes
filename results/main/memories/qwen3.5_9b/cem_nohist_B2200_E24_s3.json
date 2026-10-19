@@ -1,0 +1,60 @@
+{
+ "entries": [
+  "Birch: address 10.107.224.32; SSH port 6098; maintenance window 19:05; language Korean; GPU queue IP 10.62.47.167",
+  "Glacier: backup time 21:10 (staging: 18:35); listen port 2705; request timeout 8350; API port 4390",
+  "Rune: code review SLA 94 hours; line length 119; cloud budget $6030",
+  "Cedar: minimum test coverage 65%; line length 123; build cache size 489 GB",
+  "Harbor: backup time 23:40; workers 228; log retention 325 days",
+  "Nordic: log retention 362 days; branch release-540 (batch jobs: release-191); API port 8465",
+  "Tundra: SSH port 8648 (weekend runs: 3933); swap space 116 GB; disk quota 1246 GB (weekend runs: 457 GB)",
+  "Bramble: SSH port 2303; maintenance window 12:15 (GPU queue: 19:20); max containers 313",
+  "Quasar: listen port 6257; backup time 22:50; request timeout 1400 ms; API port 6257 (EU region: 4355)",
+  "Raven: request timeout 5500; DB pool size 300; deploy branch release-890",
+  "User: date format YYYY-MM-DD",
+  "Pegasus: swap space 1123 GB; SSH port 3241 (GPU queue: 6623); disk quota 2444 GB",
+  "Kestrel: stand-up time 19:55 (hotfix branches: 14:05); test coverage threshold 64%; code review SLA 19 hours; minimum test coverage 71% (Fridays: 85%)",
+  "default: jira board 9779",
+  "Zenith: IP address 10.139.232.148 (GPU queue: 10.240.84.97); disk quota 2351 GB; SSH port 2852",
+  "Lumen: code review SLA 83 hours; line length 141 chars (hotfix branches: 183); build cache size 1428 GB (frontend squad: 2952 GB)",
+  "Krypton: max upload size 3032 MB; listen port 6987; request timeout 8800 ms (canary cluster: 1650 ms); API port 6322",
+  "Marlin: DB pool size 30; deploy branch release-925 (batch jobs: release-194); backup time 16:10 (batch jobs: 11:20)",
+  "Redwood: stand-up time 14:50; build cache size 2735 GB (intern cohort: 607 GB); line length 133",
+  "Vega: swap space 2096 GB (weekend runs: 1079 GB); max containers 58 (weekend runs: 337); maintenance window 23:55",
+  "Magma: cloud budget $5170; line length 148 chars (Fridays: 202); build cache size 2447 GB (hotfix branches: 753 GB)",
+  "Wildfire: DB pool size 167 (canary cluster: 229); request timeout 1300; worker count 286",
+  "Pulsar: log retention 46; DB pool size 61 (batch jobs: 465); deploy branch release-700"
+ ],
+ "chars": 2168,
+ "usage": {
+  "calls": 37,
+  "prompt_tokens": 25841,
+  "gen_tokens": 8154,
+  "seconds": 521.2,
+  "cache_hits": 0
+ },
+ "stats": {
+  "dropped": {
+   "T1": 12,
+   "T2": 5,
+   "T3": 0,
+   "T0": 4
+  },
+  "kept": {
+   "T1": 74,
+   "T2": 22,
+   "T3": 0,
+   "T0": 0
+  },
+  "keys": 113,
+  "entities": 27,
+  "extract": {
+   "calls": 37,
+   "parse_errors": 0,
+   "facts": 183,
+   "ungrounded": 2,
+   "wall_s": 521.2
+  }
+ },
+ "wall_s": 0.0,
+ "raw_chars": 11139
+}

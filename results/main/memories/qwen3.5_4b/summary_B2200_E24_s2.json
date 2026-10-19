@@ -1,0 +1,49 @@
+{
+ "entries": [
+  "Aurora: max containers 76 (weekend), maintenance 20:05, IP 10.155.243.141.",
+  "Cedar: SSH port 3488, swap 910 GB, IP 10.193.60.28, GPU queue IP 10.106.230.108.",
+  "Ember: timeout 5250 ms, upload 192 MB, branch release-747.",
+  "Flint: coverage 63%, build cache 1627 GB, budget $7960.",
+  "Fjord: DB pool 243, branch release-453, API 2997.",
+  "Iris: containers 156, disk quota 2983 GB, IP 10.178.27.8.",
+  "Jasper: backup 11:20, API 4273, DB pool 240.",
+  "Juniper: coverage 74%, build cache 1755 GB, stand-up 14:45.",
+  "Lumen: coverage 45%, build cache 1547 GB, stand-up 20:25.",
+  "Lyra: coverage 57%, branch release-332, review 56 hours.",
+  "Nimbus: backup 18:25, timeout 9650 ms, API 3527.",
+  "Nova: SLA 83 hours, budget $8290, stand-up 21:40.",
+  "Onyx: workers 343, timeout 4300 ms.",
+  "Opal: timeout 4450 ms, API 8421, workers 179.",
+  "Quill: SLA 6 hours, build cache 400 GB, stand-up 10:40.",
+  "Rune: swap 39 GB, disk 2469 GB (weekend), container 24.",
+  "Thistle: branch release-541, backup 14:20, API 2658.",
+  "Umbra: timeout 6250 ms, workers 337, logs 213 days.",
+  "Ursa: API 6844, DB pool 318, timeout 7350 ms.",
+  "Velvet: branch release-449, workers 203, API 8861.",
+  "Yarrow: API 2653, logs 61 days.",
+  "Yukon: API 8827, backup 20:55, logs 13 days, swap 2766 GB.",
+  "Zenith: IP 10.87.160.167, maintenance 10:15, swap 2679 GB.",
+  "Alder: stand-up 19:40, coverage 99%, build cache 902 GB.",
+  "User: reads docs in English, chats in Korean, works late evening, dislikes emoji in commits.",
+  "Jira infra board: 8939.",
+  "Printer: room 5743.",
+  "VPN MTU: 4143.",
+  "Exceptions: Juniper intern stand-up 16:20; Lumen intern stand-up 11:55; Velvet staging workers 237; Velvet canary branch release-568; Yarrow batch logs 244 days; Yarrow mobile branch release-596; Iris mobile API branch release-596; Thistle staging API 8826; Aurora weekend containers 76; Iris weekend containers 76; Rune weekend disk 2469 GB; Iris backup disk 347 GB; Yukon canary logs 36 days; Thistle canary branch release-916; Jasper batch API 4952; Opal batch API 4952; Lyra hotfix coverage 50%; Quill intern SLA 40 hours; Nova Friday SLA 85 hours; Iris Friday coverage 98%; Rune weekend swap 2662 GB; Iris backup disk 347 GB; Yukon canary API 8827; Velvet mobile API 6412;"
+ ],
+ "chars": 2186,
+ "usage": {
+  "calls": 2,
+  "prompt_tokens": 11020,
+  "gen_tokens": 2800,
+  "seconds": 141.95,
+  "cache_hits": 0
+ },
+ "stats": {
+  "first_chars": 3801,
+  "retried": true,
+  "chars_before_cut": 3801,
+  "truncated": true
+ },
+ "wall_s": 142.0,
+ "raw_chars": 13004
+}

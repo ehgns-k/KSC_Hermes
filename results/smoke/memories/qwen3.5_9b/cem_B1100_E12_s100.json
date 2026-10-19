@@ -1,0 +1,50 @@
+{
+ "entries": [
+  "Raven — max line length: 102 | stand-up time: 22:10 | cloud budget: $7880",
+  "Nordic — nightly backup time: 18:40 | log retention: 333 days",
+  "Echo — log retention: 34 days",
+  "Lumen — log retention: 254 days | nightly backup time: 16:55 | API port: 6968",
+  "Acacia — IP address: 10.177.23.77 | SSH port: 7650 | maintenance window: 22:50",
+  "Cobalt — log retention: 20 days | API port: 8739 | request timeout: 1250 ms",
+  "Jade — max line length: 224 chars | test coverage threshold: 54% | stand-up time: 14:15",
+  "Thistle — test coverage threshold: unchanged (was 41%) | stand-up time: 16:40 | max line length: 194 chars",
+  "Wren — log retention: 328 days | nightly backup time: 20:55 | API port: 4097",
+  "Vortex — max containers: 439 | maintenance window: 20:05 | SSH port: 7965",
+  "Zephyr — disk quota: 1248 GB | swap size: 2915 GB | maintenance window: 14:20",
+  "Juniper — test coverage threshold: 47% | max line length: 97 | stand-up time: 21:10",
+  "Seoul — timezone: KST | utc_offset: UTC+9",
+  "User — summary_preference: summaries at the end of long answers | documentation_language: English | chat_language: Korean"
+ ],
+ "chars": 1096,
+ "usage": {
+  "calls": 20,
+  "prompt_tokens": 9213,
+  "gen_tokens": 4145,
+  "seconds": 92.23,
+  "cache_hits": 0
+ },
+ "stats": {
+  "dropped": {
+   "T1": 4,
+   "T2": 14,
+   "T3": 17,
+   "T0": 0
+  },
+  "items": {
+   "T1": 42,
+   "T2": 14,
+   "T3": 18,
+   "T0": 0
+  },
+  "keys": 56,
+  "entities": 15,
+  "extract": {
+   "calls": 20,
+   "parse_errors": 0,
+   "facts": 92,
+   "wall_s": 92.2
+  }
+ },
+ "wall_s": 92.2,
+ "raw_chars": 5382
+}

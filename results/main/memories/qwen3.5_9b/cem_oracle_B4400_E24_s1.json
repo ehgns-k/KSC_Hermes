@@ -1,0 +1,67 @@
+{
+ "entries": [
+  "Vega: maintenance window 21:15; IP address 10.115.181.131; SSH port 7555",
+  "Orion: test coverage threshold 91% (intern cohort: 90%); code review SLA 15 hours; stand-up time 12:50 (was 16:10)",
+  "Bramble: build cache size 2423 GB; test coverage threshold 87% (was 48%); max line length 133 chars",
+  "Delta: stand-up time 18:25; build cache size 1527 GB; monthly cloud budget $3960",
+  "Harbor: max line length 105 chars; build cache size 1933 GB (was 1724 GB; frontend squad: 2439 GB); stand-up time 14:25 (intern cohort: 22:40)",
+  "Falcon: max line length 240 chars; stand-up time 21:25 (frontend squad: 22:05); monthly cloud budget $3790",
+  "Vesper: monthly cloud budget $7250; test coverage threshold 44%; stand-up time 19:40 (was 16:55; frontend squad: 17:20)",
+  "Fjord: code review SLA 7 hours (intern cohort: 72 hours); build cache size 2521 GB (was 1231 GB); max line length 83 chars (was 75 chars)",
+  "Indigo: IP address 10.80.112.130 (was 10.49.67.29); max containers 282 (was 379); disk quota 855 GB (was 876 GB)",
+  "Pulsar: worker count 183; DB pool size 319; log retention 283 days (canary cluster: 225 days)",
+  "Kestrel: swap size 390 GB (was 1170 GB); maintenance window 14:20 (was 21:40); max containers 218 (weekend runs: 211)",
+  "Ember: max upload size 1072 MB (was 2432 MB; EU region: 2512 MB); deploy branch release-693 (was release-499); API port 4593 (was 2855)",
+  "Wren: request timeout 4950 ms; DB pool size 287; API port 2669 (mobile API: 3435)",
+  "Comet: stand-up time 23:25; max line length 93 chars (was 213 chars; frontend squad: 185 chars); monthly cloud budget $2350",
+  "Solstice: nightly backup time 19:15 (was 10:05); API port 3901; deploy branch release-764 (was release-281)",
+  "Prism: maintenance window 14:05; disk quota 573 GB (backup job: 1336 GB); IP address 10.220.84.209",
+  "Jasper: log retention 170 days (was 267 days); max upload size 1936 MB (was 1200 MB; mobile API: 3200 MB); DB pool size 89 (mobile API: 472)",
+  "Umbra: max line length 120 chars (Fridays: 163 chars); build cache size 2933 GB (intern cohort: 182 GB); code review SLA 56 hours (Fridays: 42 hours)",
+  "Maple: IP address 10.133.200.145; swap size 941 GB (was 2119 GB; CI runner: 2667 GB); maintenance window 10:45 (CI runner: 23:50)",
+  "Thistle: max line length 82 chars (was 187 chars); code review SLA 70 hours; stand-up time 13:05 (was 15:50)",
+  "Sierra: worker count 234 (was 92); nightly backup time 14:55; request timeout 5150 ms (canary cluster: 5650 ms)",
+  "Dune: swap size 1848 GB (was 776 GB); max containers 114 (was 392); IP address 10.246.49.137 (was 10.64.69.30; weekend runs: 10.214.67.54)",
+  "Alder: max upload size 1216 MB; worker count 436 (was 199); deploy branch release-698 (was release-655; batch jobs: release-636)",
+  "Basalt: SSH port 8676 (was 2306); swap size 2903 GB; IP address 10.44.212.224 (weekend runs: 10.61.227.87)",
+  "Run 'make test' before pushing any branch.",
+  "Jira tickets for infra work go to board 2531.",
+  "The license server answers on port 4656.",
+  "The flaky integration test passes reliably with a retry delay of 4829 ms.",
+  "Prefer small pull requests with clear titles.",
+  "Avoid force-pushing to shared branches.",
+  "Use ruff for linting Python code in all repos.",
+  "Grafana dashboard #5033 is the one with the cluster health overview.",
+  "Docker commands do not need sudo on this machine.",
+  "User likes summaries at the end of long answers.",
+  "User usually works late in the evening.",
+  "The user reads documentation in English but chats in Korean.",
+  "User wants dates written as YYYY-MM-DD."
+ ],
+ "chars": 3485,
+ "usage": {
+  "calls": 0,
+  "prompt_tokens": 0,
+  "gen_tokens": 0,
+  "seconds": 0.0,
+  "cache_hits": 0
+ },
+ "stats": {
+  "dropped": {
+   "T1": 0,
+   "T2": 0,
+   "T3": 0,
+   "T0": 0
+  },
+  "kept": {
+   "T1": 72,
+   "T2": 23,
+   "T3": 29,
+   "T0": 13
+  },
+  "keys": 95,
+  "entities": 24
+ },
+ "wall_s": 0.0,
+ "raw_chars": 10325
+}

@@ -1,0 +1,37 @@
+{
+ "entries": [
+  "Vega — sshd: 7555 | IP: 10.115.181.131",
+  "Orion — coverage: 91% (intern: 90%) | stand-up: 12:50",
+  "Bramble — coverage: 87% (was 48%) | cache: 2423 GB (Fri: 182)",
+  "Delta — cache: 1527 GB | budget: $3960",
+  "Falcon — line: 240 | stand-up: 21:25 (FE: 22:05) | spend: $3790",
+  "Fjord — SLA: 7h (intern: 72h) | cache: 2521 GB | line: 83",
+  "Vesper — coverage: 44% | stand-up: 19:40 (FE: 17:20) | budget: $7250",
+  "Indigo — IP: 10.80.112.130 (wknd: 10.214.67.54) | containers: 282 (was 379) | disk: 855 GB (was 876)",
+  "Kestrel — swap: 390 GB (was 1170) | maint: 14:20 | containers: 218",
+  "Harbor — line: 105 (was 113) | cache: 1933 GB",
+  "Prism — IP: 10.220.84.209 | maint: 14:05 | disk: 573 GB (bkp: 1336)",
+  "Solstice — deploy: release-764 (was release-281) | backup: 10:05 (was 15:55)",
+  "Wren — timeout: 4950 ms | DB: 287 | API: 3435 (mobile)",
+  "Comet — line: 93 (was 213) | stand-up: 23:25 | budget: $2350",
+  "Ember — upload: 1072 MB (EU: 2512; mobile: 3200) | deploy: release-693 | HTTP: 4593",
+  "Maple — IP: 10.133.200.145 | swap: 941 GB (CI: 2667) | maint: 10:45",
+  "Dune — IP: 10.246.49.137 (wknd: 10.214.67.54)"
+ ],
+ "chars": 1089,
+ "usage": {
+  "calls": 2,
+  "prompt_tokens": 8690,
+  "gen_tokens": 1700,
+  "seconds": 49.43,
+  "cache_hits": 0
+ },
+ "stats": {
+  "first_chars": 1816,
+  "retried": true,
+  "chars_before_cut": 1487,
+  "truncated": true
+ },
+ "wall_s": 49.4,
+ "raw_chars": 10325
+}

@@ -1,0 +1,48 @@
+{
+ "entries": [
+  "Birch: IP address 10.107.224.32 (GPU queue: 10.62.47.167); SSH port 6098 (was 6803); maintenance window 19:05",
+  "Glacier: nightly backup time 21:10 (was 12:35; staging: 18:35); API port 4390 (was 2705); request timeout 8350 ms (was 550 ms)",
+  "Cedar: max line length 123 chars (was 120 chars); test coverage threshold 65% (was 74%); build cache size 489 GB (was 2219 GB)",
+  "Harbor: nightly backup time 23:40 (was 13:05); worker count 228; log retention 325 days",
+  "Nordic: log retention 362 days (was 91 days); deploy branch release-540 (batch jobs: release-191); API port 8465 (was 3625; EU region: 6596)",
+  "Tundra: SSH port 8648 (was 8995; weekend runs: 3933); swap size 116 GB (was 2636 GB); disk quota 1246 GB (was 2000 GB; weekend runs: 457 GB)",
+  "Flint: build cache size 912 GB (was 1775 GB)",
+  "Bramble: SSH port 2303 (was 3629); maintenance window 12:15 (was 12:25; GPU queue: 19:20); max containers 313 (was 23)",
+  "Quasar: API port 6257 (EU region: 4355); nightly backup time 22:50 (was 17:35); request timeout 1400 ms (was 150 ms)",
+  "Raven: request timeout 5500 ms (was 4350 ms); DB pool size 300 (was 372); deploy branch release-890",
+  "Pegasus: swap size 1123 GB; SSH port 3241 (was 3535; GPU queue: 6623); disk quota 2444 GB (was 1622 GB)",
+  "Kestrel: stand-up time 19:55 (was 22:25; hotfix branches: 14:05); test coverage threshold 71% (was 64%; Fridays: 85%); code review SLA 19 hours",
+  "Zenith: IP address 10.139.232.148 (GPU queue: 10.240.84.97); disk quota 2351 GB; SSH port 2852",
+  "Krypton: max upload size 3032 MB; API port 6322 (was 6987); request timeout 8800 ms (canary cluster: 1650 ms)",
+  "Marlin: DB pool size 30 (was 334); deploy branch release-925 (batch jobs: release-194); nightly backup time 16:10 (was 20:55; batch jobs: 11:20)",
+  "Redwood: stand-up time 14:50 (was 18:15); build cache size 2735 GB (intern cohort: 607 GB); max line length 133 chars (was 130 chars)",
+  "Vega: swap size 2096 GB (weekend runs: 1079 GB); max containers 58 (weekend runs: 337); maintenance window 23:55",
+  "Wildfire: DB pool size 167 (canary cluster: 229); worker count 286; request timeout 1300 ms (was 5450 ms)"
+ ],
+ "chars": 2099,
+ "usage": {
+  "calls": 0,
+  "prompt_tokens": 0,
+  "gen_tokens": 0,
+  "seconds": 0.0,
+  "cache_hits": 0
+ },
+ "stats": {
+  "dropped": {
+   "T1": 17,
+   "T2": 6,
+   "T3": 5,
+   "T0": 13
+  },
+  "kept": {
+   "T1": 55,
+   "T2": 21,
+   "T3": 32,
+   "T0": 0
+  },
+  "keys": 99,
+  "entities": 24
+ },
+ "wall_s": 0.0,
+ "raw_chars": 11139
+}

@@ -1,0 +1,7 @@
+방법,seed,세션 수,최종 글자수,항목 수,도구 호출,실패 호출,용량초과 오류,무호출 세션,세션당 최대 손실(자),LLM 호출,주요 실패 메시지
+Hermes 에이전트 (도구호출),1,38,1991,41,60,23,9,0,970,98,Applying all N operations would put memory at N/N chars: free at least(9); operations must be a list of {actionN content?N old_text?} objects.(7)
+Hermes 에이전트 (도구호출),2,49,1309,25,107,63,17,0,1437,153,operations must be a list of {actionN content?N old_text?} objects.(27); Applying all N operations would put memory at N/N chars: free at least(17)
+Hermes 에이전트 (도구호출),3,37,2161,45,77,37,15,0,1115,114,Applying all N operations would put memory at N/N chars: free at least(15); operations must be a list of {actionN content?N old_text?} objects.(14)
+Hermes 에이전트 (JSON 제약),1,38,1978,46,53,26,9,8,575,61,Applying all N operations would put memory at N/N chars: free at least(9); Operation N (patch): content is required — set this operation object's(7)
+Hermes 에이전트 (JSON 제약),2,49,2186,42,69,33,9,9,1474,78,Applying all N operations would put memory at N/N chars: free at least(9); Operation N (patch): content is required — set this operation object's(7)
+Hermes 에이전트 (JSON 제약),3,37,2198,54,43,22,9,15,166,58,Applying all N operations would put memory at N/N chars: free at least(9); Operation N (patch): content is required — set this operation object's(3)

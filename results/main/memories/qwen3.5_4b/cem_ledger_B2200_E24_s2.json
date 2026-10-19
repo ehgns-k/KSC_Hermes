@@ -1,0 +1,74 @@
+{
+ "entries": [
+  "Aurora: max containers 402 (weekend runs: 76); maintenance start time 20:05; IP address 10.155.243.141 (was 10.208.116.17; backup job: 10.103.60.133); log handling Docker commands do not need sudo (was summarize)",
+  "Cedar: SSH port 3488; IP address 10.193.60.28 (GPU queue: 10.106.230.108); swap size 910 GB",
+  "Umbra: log retention 213 days (was 254 days); request timeout 6250 (was 6250 ms); worker count 337 (was 378)",
+  "Lyra: test coverage threshold 57% (hotfix branches: 50%); build cache size 365 GB; code-review deadline 91 hours; code review SLA 56 hours",
+  "Nimbus: API port 3527 (was 4343); nightly backup time 18:25 (was 10:50); request timeout 9650 ms",
+  "Ember: request timeout 5250 ms (was 3550 ms); upload limit 192 MB; deploy branch release-747 (was release-913)",
+  "Flint: build cache size 1627 GB (was 890 GB); monthly cloud budget $7960; test coverage threshold 63% (was 96%)",
+  "Yukon: log retention 13 days (was 304 days; canary cluster: 36 days); API port 8827 (was 3484; mobile API: 3080); nightly backup time 20:55 (was 20:45)",
+  "Velvet: branch release-449 (canary cluster: release-568); HTTP port 5988; worker count 203 (was 79; staging: 237); API port 8861 (was 6012; mobile: 6412)",
+  "Fjord: DB pool size 243; HTTP port 2997; deploy branch release-453 (canary cluster: release-544); API port 2997",
+  "Ursa: API port 5049; DB pool size 318; request timeout 7350 ms (was 8950 ms); HTTP port 6844 (was 5049)",
+  "Onyx: worker count 343; DB pool size 376; request timeout 4300 ms",
+  "Yarrow: branch release-332 (mobile API: release-596); API port 2653 (was 7590; batch: 4091); log retention 61 days (batch jobs: 244 days)",
+  "Rune: swap size 39 GB (was 2662 GB); disk quota 638 GB (weekend runs: 2469 GB); container limit 24",
+  "Thistle: API port 2658 (staging: 8826); deploy branch release-916 (was release-541; canary cluster: release-916); nightly backup time 14:20 (was 20:10)",
+  "Zenith: swap size 2679 GB (was 2763 GB); maintenance start time 10:15 (was 21:50; CI runner: 20:50); IP address 10.87.160.167 (was 10.55.205.15)",
+  "Alder: stand-up time 19:40 (was 22:35); test coverage threshold 99%; build cache size 902 (was 2572 GB; hotfix branches: 1143 GB)",
+  "Juniper: test coverage threshold 74% (Fridays: 98%); stand-up time 14:45 (intern cohort: 16:20); build cache size 1755 GB (was 659 GB)",
+  "Unknown: location room 5743; jira board 8939; MTU (office VPN: 4143)",
+  "Quill: code review SLA 6 hours (intern cohort: 40 hours); build cache size 400 (was 1495 GB; hotfix: 2087 GB); stand-up time 10:40 (was 23:40)",
+  "Iris: IP address 10.178.27.8; disk quota 2983 GB (was 2465 GB; backup job: 347 GB); max containers 156 (was 374)",
+  "Nova: code review SLA 83 hours (was 77 hours; Fridays: 85 hours); stand-up time 21:40 (was 14:50); monthly cloud budget $8290 (was $5690)",
+  "Jasper: API port 4273 (was 7975); DB pool size 240 (was 476); nightly backup time 11:20 (was 20:20)",
+  "Lumen: stand-up time 15:35 (was 20:25; intern cohort: 11:55); test coverage threshold 45% (was 41%); build cache size 1547 GB (was 1547)",
+  "Opal: request timeout 7950 (was 7950 ms); worker count 179 (was 167); HTTP port 5873; API port 8421 (was 5873; batch jobs: 4952)",
+  "User wants dates written as YYYY-MM-DD.",
+  "Run 'make test' before pushing any branch.",
+  "User usually works late in the evening.",
+  "Avoid force-pushing to shared branches.",
+  "The user reads documentation in English but chats in Korean.",
+  "Grafana dashboard #4024 is the one with the cluster health overview.",
+  "Prefer small pull requests with clear titles.",
+  "Considered changing Juniper test coverage threshold to 75%, but decided to keep 74%.",
+  "User likes summaries at the end of long answers.",
+  "Lumen size of the build cache is 2647 GB on the frontend squad only; elsewhere the normal setting applies.",
+  "User dislikes emoji in commit messages.",
+  "Considered changing Juniper build cache size to 2950 GB, but decided to keep 1755 GB."
+ ],
+ "chars": 3866,
+ "usage": {
+  "calls": 49,
+  "prompt_tokens": 33549,
+  "gen_tokens": 12816,
+  "seconds": 1042.32,
+  "cache_hits": 0
+ },
+ "stats": {
+  "dropped": {
+   "T1": 0,
+   "T2": 0,
+   "T3": 0,
+   "T0": 0
+  },
+  "kept": {
+   "T1": 80,
+   "T2": 27,
+   "T3": 44,
+   "T0": 12
+  },
+  "keys": 107,
+  "entities": 25,
+  "extract": {
+   "calls": 49,
+   "parse_errors": 0,
+   "facts": 197,
+   "ungrounded": 6,
+   "wall_s": 1042.3
+  }
+ },
+ "wall_s": 0.0,
+ "raw_chars": 13004
+}

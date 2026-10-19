@@ -1,0 +1,45 @@
+{
+ "entries": [
+  "(2026-03-18) New DB connection pool for Marlin: 334.",
+  "(2026-03-18) The HTTP timeout for Raven is no longer 4350 ms; it is now 5500 ms.",
+  "(2026-03-21) Special case — Lumen on hotfix branches: max line length 183 chars.",
+  "(2026-03-21) Double-checked Wildfire: the DB pool size remains 167.",
+  "(2026-03-21) Special case — Tundra on weekend runs: SSH port 3933.",
+  "(2026-03-23) Checked Rune again: line-length limit is 119 chars.",
+  "(2026-03-23) Bramble max containers: 313 (unchanged).",
+  "(2026-03-23) User switched Marlin to DB pool size 30.",
+  "(2026-03-23) Pegasus SSH port changed from 3535 to 3241.",
+  "(2026-03-25) Considered changing Helix test coverage threshold to 82%, but decided to keep 52%.",
+  "(2026-03-25) Special case — Marlin on batch jobs: deploy branch release-194.",
+  "(2026-03-25) Pegasus SSH port is 6623 on the GPU queue only; elsewhere the normal setting applies.",
+  "(2026-03-25) Exception: for weekend runs, Vega uses max containers 337.",
+  "(2026-03-25) Considered changing Wildfire worker count to 92, but decided to keep 286.",
+  "(2026-03-25) Kestrel now uses 19:55 as its time of the stand-up.",
+  "(2026-03-26) Except for the intern cohort, where it is 166 chars, Zircon keeps its usual maximum line width.",
+  "(2026-03-26) Redwood stand-up time reverted to 14:50 after problems with 18:15.",
+  "(2026-03-26) Reminder: Zircon max line length is still 129 chars.",
+  "(2026-03-26) Double-checked Redwood: the stand-up time remains 14:50.",
+  "(2026-03-26) Grafana dashboard #6813 is the one with the cluster health overview.",
+  "(2026-03-26) Update: Pegasus moved its disk quota from 1622 GB to 2444 GB.",
+  "(2026-03-28) Special case — Redwood on the intern cohort: size of the build cache 607 GB.",
+  "(2026-03-28) Krypton HTTP timeout is 1650 ms on the canary cluster only; elsewhere the normal setting applies.",
+  "(2026-03-28) Special case — Pulsar on batch jobs: DB connection pool 465.",
+  "(2026-03-28) Special case — Quasar on the EU region: API port 4355.",
+  "(2026-03-30) Pulsar's deploy branch has been updated to release-700.",
+  "(2026-03-30) Exception: for the GPU queue, Zenith uses address 10.240.84.97.",
+  "(2026-03-30) Redwood line-length limit: 133 chars (unchanged)."
+ ],
+ "chars": 2163,
+ "usage": {
+  "calls": 0,
+  "prompt_tokens": 0,
+  "gen_tokens": 0,
+  "seconds": 0.0,
+  "cache_hits": 0
+ },
+ "stats": {
+  "kept_notes": 28
+ },
+ "wall_s": 0.0,
+ "raw_chars": 11139
+}

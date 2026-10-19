@@ -1,0 +1,47 @@
+{
+ "entries": [
+  "Birch — address: 10.107.224.32 (GPU: 10.62.47.167) | SSH port: 6098 (was 6803) | maint: 19:05",
+  "Cedar — line width: 123 (was 120; was 77) | coverage: 65% | cache: 489 GB (was 2219)",
+  "Flint — SLA: 17h | coverage: 62% | cache: 912 GB (was 1775)",
+  "Harbor — backup: 23:40 (was 13:05) | retention: 325d | workers: 228",
+  "Helix — SLA: 54h | cache: 2863 GB (was 1399; hotfix: 2214) | coverage: 52%",
+  "Kestrel — stand-up: 22:25 (hotfix: 14:05) | coverage: 71% (Fri: 85%)",
+  "Krypton — port: 6322 (was 6987) | upload: 3032 MB | timeout: 8800ms (canary: 1650)",
+  "Lumen — SLA: 83h | line: 141 (hotfix: 183) | cache: 1428 GB (was 2143)",
+  "Marlin — pool: 30 (was 477; was 334) | branch: release-925 (batch: release-194) | backup: 16:10 (batch: 11:20)",
+  "Magma — budget: $5170 | line: 148 (Fri: 202) | cache: 2447 GB (hotfix: 753)",
+  "Nordic — retention: 362d (was 91) | port: 8465 (was 3625; EU: 6596) | branch: release-540 (batch: release-191)",
+  "Pegasus — port: 3241 (was 3535; GPU: 6623) | quota: 2444 GB (was 1622)",
+  "Quasar — port: 6257 (EU: 4355) | backup: 22:50 (was 17:35) | timeout: 1400ms (was 150)",
+  "Raven — pool: 300 (was 372; was 409) | branch: release-890 | timeout: 5500ms (was 4350)",
+  "Redwood — stand-up: 14:50 (was 18:15) | cache: 2735 GB | line: 133 chars",
+  "Rune — SLA: 94h (was 27) | line: 119 (was 87)",
+  "Tundra — port: 8648 (was 8995) | swap: 116 GB (was 2636) | quota: 1246 GB (was 2000; wknd: 457)",
+  "Vega — swap: 2096 GB | maint: 23:55 | containers: 58 (wknd: 337)",
+  "Wildfire — pool: 167 | timeout: 1300ms (was 5450) | workers: 286",
+  "Zenith — IP: 10.139.232.148 (GPU: 10.240.84.97) | quota: 2351 GB",
+  "Glacier — backup: 21:10 (staging: 18:35) | timeout: 8350ms (was 550) | port: 4390",
+  "Zircon — line: 129 (intern: 166) | cap: $9260",
+  "Pulsar — branch: release-700 (canary: release-870) | pool: 61 (batch: 465)",
+  "Lumen — SLA: 83h | line: 141 (hotfix: 183) | cache: 1428 GB (was 2143)",
+  "Marlin — pool: 30 (was 477; was 334) | branch: release-925 (batch: release-194) | backup: 16:10 (batch: 11:20)",
+  "Magma — budget: $5170 | line: 148 (Fri: 202) | cache: 2447 GB (hotfix: 753)",
+  "Nordic — retention: 362d (was 91) | port: 8465 (was 3625; EU: 6596) | branch: release-540 (batch: release-191)"
+ ],
+ "chars": 2182,
+ "usage": {
+  "calls": 2,
+  "prompt_tokens": 9632,
+  "gen_tokens": 2800,
+  "seconds": 80.41,
+  "cache_hits": 0
+ },
+ "stats": {
+  "first_chars": 2919,
+  "retried": true,
+  "chars_before_cut": 2502,
+  "truncated": true
+ },
+ "wall_s": 80.4,
+ "raw_chars": 11139
+}

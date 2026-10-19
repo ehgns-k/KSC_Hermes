@@ -1,0 +1,58 @@
+{
+ "entries": [
+  "Birch: address 10.107.224.32; SSH port 6098 (was 6803); maintenance window 19:05; language Korean (was English); GPU queue IP 10.62.47.167",
+  "Glacier: backup time 18:35 (was 21:10); listen port 2705; request timeout 8350 (was 550 ms); API port 4390",
+  "Rune: code review SLA 94 hours (was 27 hours); line length 119 (was 119 chars); cloud budget $6030",
+  "Cedar: minimum test coverage 65% (was 74%); line length 123 (was 120); build cache size 489 GB (was 2219 GB)",
+  "Harbor: backup time 23:40 (was 13:05); workers 228; log retention 325 days",
+  "Nordic: log retention 362 days (was 91); branch release-191 (was release-540); API port 8465 (was 3625); listen port 6596",
+  "Tundra: SSH port 3933 (was 8648); swap space 116 GB (was 2636 GB); disk quota 457 GB (was 1246 GB)",
+  "Bramble: SSH port 2303 (was 3629); maintenance window 19:20 (was 12:15); max containers 313 (was 23)",
+  "Quasar: listen port 6257; backup time 22:50 (was 17:35); request timeout 1400 ms (was 150 ms); API port 4355 (was 6257)",
+  "Raven: request timeout 5500 (was 4350); DB pool size 300 (was 372); deploy branch release-890",
+  "Pegasus: swap space 1123 GB; SSH port 6623 (was 3241); disk quota 2444 GB (was 1622 GB)",
+  "default: jira board 9779; build memory limit 9321m",
+  "Zenith: IP address 10.240.84.97 (was 10.139.232.148); disk quota 2351 GB; SSH port 2852",
+  "Lumen: code review SLA 83 hours; line length 183 (was 141 chars); build cache size 1428 GB (was 2952 GB)",
+  "Krypton: max upload size 3032 MB; listen port 6987; request timeout 1650 ms (was 8800 ms); API port 6322 (was 6987)",
+  "Marlin: DB pool size 30 (was 334); deploy branch release-194 (was release-925); backup time 11:20 (was 16:10)",
+  "Redwood: stand-up time 14:50 (was 18:15); build cache size 607 GB (was 2735 GB); line length 133 (was 130)",
+  "Vega: swap space 1079 GB (was 2096 GB); max containers 337 (was 58); maintenance window 23:55",
+  "Magma: cloud budget $5170; line length 202 (was 148 chars); build cache size 753 GB (was 2447 GB)",
+  "Wildfire: DB pool size 167 (was 229); request timeout 1300 (was 1300 ms); worker count 286",
+  "Pulsar: log retention 46; DB pool size 465 (was 61); deploy branch release-700 (was release-870)"
+ ],
+ "chars": 2149,
+ "usage": {
+  "calls": 37,
+  "prompt_tokens": 25841,
+  "gen_tokens": 8154,
+  "seconds": 521.2,
+  "cache_hits": 0
+ },
+ "stats": {
+  "dropped": {
+   "T1": 18,
+   "T2": 0,
+   "T3": 6,
+   "T0": 4
+  },
+  "kept": {
+   "T1": 71,
+   "T2": 0,
+   "T3": 46,
+   "T0": 0
+  },
+  "keys": 89,
+  "entities": 27,
+  "extract": {
+   "calls": 37,
+   "parse_errors": 0,
+   "facts": 183,
+   "ungrounded": 2,
+   "wall_s": 521.2
+  }
+ },
+ "wall_s": 0.0,
+ "raw_chars": 11139
+}

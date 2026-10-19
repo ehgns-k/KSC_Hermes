@@ -1,0 +1,42 @@
+{
+ "entries": [
+  "Vega — maintenance window: 21:15 | sshd port: 7555",
+  "Orion — test coverage threshold: 91% | stand-up time: 12:50 | intern cohort: 90%",
+  "Bramble — build cache size: 2423 GB | test coverage threshold: 48% | intern cohort: 87%",
+  "Falcon — max line length: 240 chars | stand-up time: 21:25 | frontend squad: 22:05",
+  "Delta — build cache size: 1527 GB | monthly cloud budget: $3960",
+  "Indigo — IP address: 10.80.112.130 | max containers: 282 | disk quota: 855 GB | weekend runs: 10.214.67.54",
+  "Kestrel — swap space: 390 GB | maintenance window: 14:20 | max containers: 218 | weekend runs: usual",
+  "Harbor — build cache size: 1933 GB | max line length: 105 chars | intern cohort: 22:40",
+  "Fjord — code review SLA: 7 hours | build cache size: 2521 GB | max line length: 83 chars | intern cohort: 72 hours",
+  "Vesper — monthly cloud budget: $7250 | stand-up time: 19:40 | frontend squad: 17:20",
+  "Pulsar — worker count: 183 | DB connection pool: 319 | log retention: 283 days | canary cluster: 225 days",
+  "Solstice — nightly backup time: 10:05 | deploy branch: release-764 | API port: 3901",
+  "Prism — maintenance window: 14:05 | disk quota: 573 GB | backup job: 1336 GB | IP address: 10.220.84.209",
+  "Wren — request timeout: 4950 ms | DB pool size: 287 | API port: 3435 (mobile only)",
+  "Comet — max line length: 93 chars | stand-up time: 23:25 | monthly cloud budget: $2350 | canary cluster: 5650 ms",
+  "Sierra — number of workers: 234 | nightly backup time: 14:55 | request timeout: 5150 ms",
+  "Jasper — max upload size: 1936 MB | log retention: 170 days | DB pool size: 89 | mobile API: 472 | mobile API: 3200 MB",
+  "Umbra — max line length: 120 chars | build cache size: 2933 GB | code review SLA: 56 hours | Fridays: 163 chars | Fridays: 42 hours",
+  "Thistle — max line length: 82 chars | code review SLA: 70 hours | stand-up time: 13:05",
+  "Maple — IP address: 10.133.200.145 | maintenance window: 10:45 | swap size: 941 GB | CI runner: 2667 GB | CI runner: 23:50",
+  "Alder — max upload size: 1216 MB | worker count: 436 | deploy branch: release-698 | batch jobs: release-636",
+  "Basalt — max line length: 240 chars | swap space: 2903 GB | IP address: 10.44.212.224 | SSH port: 8676 | weekend runs: 10.61.227.87"
+ ],
+ "chars": 2182,
+ "usage": {
+  "calls": 2,
+  "prompt_tokens": 9239,
+  "gen_tokens": 2800,
+  "seconds": 100.12,
+  "cache_hits": 0
+ },
+ "stats": {
+  "first_chars": 3364,
+  "retried": true,
+  "chars_before_cut": 3520,
+  "truncated": true
+ },
+ "wall_s": 100.1,
+ "raw_chars": 10325
+}

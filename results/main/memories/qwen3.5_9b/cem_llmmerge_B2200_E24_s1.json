@@ -1,0 +1,36 @@
+{
+ "entries": [
+  "Vega: maintenance window 21:15 (was -; scope: default); IP address 10.115.181.131 (was -; scope: default); pre-push test command make test (was -; scope: default); Jira board ID 2531 (was -; scope: default); sshd port 7555 (was -; scope: default); pre-push test command retry delay of 4829 ms (was -; scope: default); pull request size small (was -; scope: default); pre-push test command ruff (was -; scope: default)",
+  "Harbor: build cache size 2439 GB (was -; scope: frontend squad); build cache size 1933 GB (was -; scope: default); stand-up time 22:40 (was -; scope: intern cohort)",
+  "Fjord: max line length 83 (was -; scope: default); build cache size 2521 GB (was -; scope: default); code review SLA 7 hours (was -; scope: default); build cache size 1231 GB (was -; scope: intern cohort); code review SLA 72 hours (was -; scope: intern cohort); line length limit 83 (was -; scope: default)",
+  "Comet: stand-up time 23:25 (was -; scope: default); line length limit 93 chars (was 213 chars; scope: default); monthly cloud budget $2350 (was -; scope: default); line length limit 185 chars (was -; scope: frontend squad)",
+  "Jasper: max upload size 1936 MB (was 1200 MB; scope: default); log retention period 267 days (was -; scope: default); DB pool size 89 (was -; scope: default); DB pool size 3200 MB (was -; scope: mobile API); log retention period 170 (was -; scope: default)",
+  "Thistle: stand-up time 13:05 (was 15:50; scope: default); code review SLA 70 hours (was -; scope: default); stand-up time 15:50 (was -; scope: default)",
+  "Sierra: worker count 234 (was 92; scope: default); nightly backup time 14:55 (was -; scope: default); request timeout 5150 ms (was -; scope: default); request timeout 5650 ms (was -; scope: canary cluster)",
+  "Alder: worker count 436 (was -; scope: default); max_upload_size 1216 MB (was -; scope: default); deploy branch release-698 (was release-655; scope: default); deploy branch release-636 (was -; scope: batch jobs)",
+  "Basalt: IP address 10.44.212.224 (was -; scope: default); sshd port 8676 (was 2306; scope: default); swap space 2903 GB (was -; scope: default); IP address 10.61.227.87 (was -; scope: weekend runs)"
+ ],
+ "chars": 2153,
+ "usage": {
+  "calls": 76,
+  "prompt_tokens": 41332,
+  "gen_tokens": 18408,
+  "seconds": 930.91,
+  "cache_hits": 0
+ },
+ "stats": {
+  "calls": 38,
+  "parse_errors": 0,
+  "merge_usage": {
+   "calls": 38,
+   "prompt_tokens": 14937,
+   "gen_tokens": 11464,
+   "seconds": 565.75,
+   "cache_hits": 0
+  },
+  "entities": 25,
+  "dropped_entities": 16
+ },
+ "wall_s": 565.8,
+ "raw_chars": 10325
+}

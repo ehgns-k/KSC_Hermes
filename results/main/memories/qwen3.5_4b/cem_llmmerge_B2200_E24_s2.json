@@ -1,0 +1,41 @@
+{
+ "entries": [
+  "Aurora | maintenance start time | default | 20:05 | -; Aurora | max containers | weekend runs | 76 | -; Aurora | stand-up time | default | 22:35 | -; Aurora | test coverage threshold | default | 99% | -; Aurora | IP address | backup job | 10.155.243.141 | 10.208.116.17",
+  "Nimbus: nightly backup time default 18:25 (was 10:50; scope: default); API port default 3527; request timeout default 9650 ms",
+  "4273 (was -; scope: default)",
+  "API port 6412 (was -; scope: mobile); API port 8861 (was -; scope: default); API port 6012 (was 5988; scope: default); deploy branch release-449 (was -; scope: default); deploy branch release-568 (was -; scope: canary cluster); worker count 203 (was 203; scope: default); worker count 237 (was -; scope: staging)",
+  "Fjord | deploy branch | default | release-453 | -; Fjord | deploy branch | canary cluster | release-544 | -",
+  "20:20 (was 10:35; scope: default); 20:20 (was -; scope: default)",
+  "Yarrow | API port | batch | 4091 | -; Yarrow | API port | default | 2653 | 7590; Yarrow | log retention | default | 61 days | -; Yarrow | log retention | batch jobs | 244 days | -; Yarrow | deploy branch | mobile API | release-596 | -",
+  "Zenith | maintenance start time | default | 10:15 | 21:50; Zenith | maintenance start time | CI runner | 20:50 | -; Zenith | swap size | default | 2679 GB | -; Zenith | IP address | default | 10.87.160.167 | -",
+  "Juniper | test coverage threshold | default | 74% | -",
+  "max containers 156 (was -; scope: default); disk quota 2983 GB (was 2465 GB; scope: default); disk quota 347 GB (was -; scope: backup job); code review SLA 6 hours (was -; scope: default)",
+  "nightly backup time 11:20 (was 20:20; scope: default)",
+  "request timeout 7950 ms (was 4450 ms; scope: default); worker count 179 (was -; scope: default); HTTP port 5873 (was -; scope: default); API port batch jobs 4952 (was -; scope: default); API port 8421 (was 5873; scope: default)",
+  "stand-up time 14:45 (was -; scope: default); stand-up time 16:20 (was -; scope: intern cohort)",
+  "240 (was -; scope: default)"
+ ],
+ "chars": 2028,
+ "usage": {
+  "calls": 98,
+  "prompt_tokens": 50634,
+  "gen_tokens": 24899,
+  "seconds": 2022.59,
+  "cache_hits": 0
+ },
+ "stats": {
+  "calls": 49,
+  "parse_errors": 0,
+  "merge_usage": {
+   "calls": 49,
+   "prompt_tokens": 17085,
+   "gen_tokens": 12083,
+   "seconds": 980.27,
+   "cache_hits": 0
+  },
+  "entities": 45,
+  "dropped_entities": 31
+ },
+ "wall_s": 980.3,
+ "raw_chars": 13004
+}

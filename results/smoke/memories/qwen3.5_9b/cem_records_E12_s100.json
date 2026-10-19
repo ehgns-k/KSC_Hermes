@@ -1,0 +1,753 @@
+{
+ "records": [
+  {
+   "t": 0,
+   "entity": "Python",
+   "attribute": "linting tool",
+   "scope": "default",
+   "value": "ruff",
+   "previous_value": ""
+  },
+  {
+   "t": 1,
+   "entity": "Raven",
+   "attribute": "max line length",
+   "scope": "default",
+   "value": "126",
+   "previous_value": ""
+  },
+  {
+   "t": 1,
+   "entity": "Raven",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "20:10",
+   "previous_value": ""
+  },
+  {
+   "t": 2,
+   "entity": "Nordic",
+   "attribute": "nightly backup time",
+   "scope": "default",
+   "value": "10:20",
+   "previous_value": ""
+  },
+  {
+   "t": 2,
+   "entity": "Nordic",
+   "attribute": "deploy branch",
+   "scope": "default",
+   "value": "release-558",
+   "previous_value": ""
+  },
+  {
+   "t": 3,
+   "entity": "Raven",
+   "attribute": "cloud budget",
+   "scope": "default",
+   "value": "$1750",
+   "previous_value": ""
+  },
+  {
+   "t": 4,
+   "entity": "Echo",
+   "attribute": "DB pool size",
+   "scope": "default",
+   "value": "447",
+   "previous_value": ""
+  },
+  {
+   "t": 5,
+   "entity": "Echo",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "9150 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 6,
+   "entity": "Echo",
+   "attribute": "log retention",
+   "scope": "default",
+   "value": "34 days",
+   "previous_value": ""
+  },
+  {
+   "t": 7,
+   "entity": "Nordic",
+   "attribute": "log retention",
+   "scope": "default",
+   "value": "333 days",
+   "previous_value": ""
+  },
+  {
+   "t": 8,
+   "entity": "Echo",
+   "attribute": "log retention",
+   "scope": "canary cluster",
+   "value": "124 days",
+   "previous_value": "34 days"
+  },
+  {
+   "t": 9,
+   "entity": "Lumen",
+   "attribute": "log retention",
+   "scope": "default",
+   "value": "135 days",
+   "previous_value": ""
+  },
+  {
+   "t": 10,
+   "entity": "Lumen",
+   "attribute": "nightly backup time",
+   "scope": "default",
+   "value": "21:45",
+   "previous_value": ""
+  },
+  {
+   "t": 11,
+   "entity": "Raven",
+   "attribute": "max line length",
+   "scope": "default",
+   "value": "usual",
+   "previous_value": ""
+  },
+  {
+   "t": 11,
+   "entity": "Raven",
+   "attribute": "max line length",
+   "scope": "Fridays",
+   "value": "166 chars",
+   "previous_value": "usual"
+  },
+  {
+   "t": 12,
+   "entity": "Lumen",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "6968",
+   "previous_value": ""
+  },
+  {
+   "t": 13,
+   "entity": "Raven",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "15:05",
+   "previous_value": "20:10"
+  },
+  {
+   "t": 14,
+   "entity": "Lumen",
+   "attribute": "nightly backup time",
+   "scope": "default",
+   "value": "12:35",
+   "previous_value": ""
+  },
+  {
+   "t": 15,
+   "entity": "Acacia",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.136.175.89",
+   "previous_value": ""
+  },
+  {
+   "t": 16,
+   "entity": "Cobalt",
+   "attribute": "log retention",
+   "scope": "default",
+   "value": "20 days",
+   "previous_value": ""
+  },
+  {
+   "t": 16,
+   "entity": "Cobalt",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "8739",
+   "previous_value": ""
+  },
+  {
+   "t": 17,
+   "entity": "Acacia",
+   "attribute": "SSH port",
+   "scope": "default",
+   "value": "7650",
+   "previous_value": ""
+  },
+  {
+   "t": 18,
+   "entity": "Jade",
+   "attribute": "max line length",
+   "scope": "default",
+   "value": "224 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 18,
+   "entity": "Jade",
+   "attribute": "test coverage threshold",
+   "scope": "default",
+   "value": "54%",
+   "previous_value": ""
+  },
+  {
+   "t": 19,
+   "entity": "Acacia",
+   "attribute": "maintenance window",
+   "scope": "default",
+   "value": "22:50",
+   "previous_value": ""
+  },
+  {
+   "t": 20,
+   "entity": "Thistle",
+   "attribute": "test coverage threshold",
+   "scope": "default",
+   "value": "43%",
+   "previous_value": ""
+  },
+  {
+   "t": 21,
+   "entity": "Thistle",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "12:05",
+   "previous_value": ""
+  },
+  {
+   "t": 22,
+   "entity": "Wren",
+   "attribute": "log retention",
+   "scope": "default",
+   "value": "240 days",
+   "previous_value": ""
+  },
+  {
+   "t": 23,
+   "entity": "Cobalt",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "7250 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 24,
+   "entity": "Raven",
+   "attribute": "cloud budget",
+   "scope": "default",
+   "value": "$7880",
+   "previous_value": ""
+  },
+  {
+   "t": 25,
+   "entity": "Raven",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "22:10",
+   "previous_value": ""
+  },
+  {
+   "t": 26,
+   "entity": "Lumen",
+   "attribute": "log retention",
+   "scope": "default",
+   "value": "254 days",
+   "previous_value": "135 days"
+  },
+  {
+   "t": 27,
+   "entity": "Thistle",
+   "attribute": "max line length",
+   "scope": "default",
+   "value": "194 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 28,
+   "entity": "Nordic",
+   "attribute": "nightly backup time",
+   "scope": "default",
+   "value": "18:40",
+   "previous_value": ""
+  },
+  {
+   "t": 29,
+   "entity": "Vortex",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "98",
+   "previous_value": ""
+  },
+  {
+   "t": 30,
+   "entity": "Raven",
+   "attribute": "max line length",
+   "scope": "default",
+   "value": "102",
+   "previous_value": ""
+  },
+  {
+   "t": 31,
+   "entity": "Zephyr",
+   "attribute": "disk quota",
+   "scope": "default",
+   "value": "1248 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 32,
+   "entity": "Juniper",
+   "attribute": "test coverage threshold",
+   "scope": "default",
+   "value": "47%",
+   "previous_value": ""
+  },
+  {
+   "t": 33,
+   "entity": "Zephyr",
+   "attribute": "swap size",
+   "scope": "default",
+   "value": "2915 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 34,
+   "entity": "Wren",
+   "attribute": "nightly backup time",
+   "scope": "default",
+   "value": "20:55",
+   "previous_value": ""
+  },
+  {
+   "t": 35,
+   "entity": "Vortex",
+   "attribute": "maintenance window",
+   "scope": "default",
+   "value": "22:40",
+   "previous_value": ""
+  },
+  {
+   "t": 36,
+   "entity": "Acacia",
+   "attribute": "maintenance window",
+   "scope": "default",
+   "value": "22:50",
+   "previous_value": ""
+  },
+  {
+   "t": 37,
+   "entity": "Lumen",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "6968",
+   "previous_value": ""
+  },
+  {
+   "t": 38,
+   "entity": "Zephyr",
+   "attribute": "maintenance window",
+   "scope": "default",
+   "value": "14:20",
+   "previous_value": ""
+  },
+  {
+   "t": 39,
+   "entity": "Juniper",
+   "attribute": "max line length",
+   "scope": "default",
+   "value": "84",
+   "previous_value": ""
+  },
+  {
+   "t": 40,
+   "entity": "Jade",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "10:40",
+   "previous_value": ""
+  },
+  {
+   "t": 41,
+   "entity": "Wren",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "6296",
+   "previous_value": ""
+  },
+  {
+   "t": 42,
+   "entity": "Nordic",
+   "attribute": "deploy branch",
+   "scope": "default",
+   "value": "release-558",
+   "previous_value": ""
+  },
+  {
+   "t": 43,
+   "entity": "Vortex",
+   "attribute": "SSH port",
+   "scope": "default",
+   "value": "7312",
+   "previous_value": ""
+  },
+  {
+   "t": 44,
+   "entity": "Python",
+   "attribute": "linting tool",
+   "scope": "default",
+   "value": "ruff",
+   "previous_value": ""
+  },
+  {
+   "t": 45,
+   "entity": "Juniper",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "16:25",
+   "previous_value": ""
+  },
+  {
+   "t": 46,
+   "entity": "Thistle",
+   "attribute": "stand-up time",
+   "scope": "frontend squad",
+   "value": "21:25",
+   "previous_value": ""
+  },
+  {
+   "t": 47,
+   "entity": "Cobalt",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "1250 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 48,
+   "entity": "Echo",
+   "attribute": "request timeout",
+   "scope": "staging",
+   "value": "9550 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 49,
+   "entity": "Wren",
+   "attribute": "log retention",
+   "scope": "default",
+   "value": "328 days",
+   "previous_value": ""
+  },
+  {
+   "t": 50,
+   "entity": "Vortex",
+   "attribute": "maintenance window",
+   "scope": "default",
+   "value": "20:05",
+   "previous_value": "22:40"
+  },
+  {
+   "t": 51,
+   "entity": "Acacia",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.6.145.41",
+   "previous_value": "10.136.175.89"
+  },
+  {
+   "t": 52,
+   "entity": "Jade",
+   "attribute": "max line length",
+   "scope": "frontend squad",
+   "value": "112 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 53,
+   "entity": "Jade",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "14:15",
+   "previous_value": "10:40"
+  },
+  {
+   "t": 54,
+   "entity": "Echo",
+   "attribute": "log retention",
+   "scope": "default",
+   "value": "34 days",
+   "previous_value": ""
+  },
+  {
+   "t": 55,
+   "entity": "Lumen",
+   "attribute": "nightly backup time",
+   "scope": "default",
+   "value": "16:55",
+   "previous_value": "12:35"
+  },
+  {
+   "t": 56,
+   "entity": "Seoul",
+   "attribute": "timezone",
+   "scope": "default",
+   "value": "KST",
+   "previous_value": ""
+  },
+  {
+   "t": 56,
+   "entity": "Seoul",
+   "attribute": "utc_offset",
+   "scope": "default",
+   "value": "UTC+9",
+   "previous_value": ""
+  },
+  {
+   "t": 57,
+   "entity": "Thistle",
+   "attribute": "test coverage threshold",
+   "scope": "default",
+   "value": "43%",
+   "previous_value": ""
+  },
+  {
+   "t": 58,
+   "entity": "Juniper",
+   "attribute": "max line length",
+   "scope": "default",
+   "value": "84 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 59,
+   "entity": "Wren",
+   "attribute": "nightly backup time",
+   "scope": "mobile API",
+   "value": "21:20",
+   "previous_value": ""
+  },
+  {
+   "t": 60,
+   "entity": "Acacia",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.6.145.41",
+   "previous_value": ""
+  },
+  {
+   "t": 61,
+   "entity": "Vortex",
+   "attribute": "SSH port",
+   "scope": "default",
+   "value": "7965",
+   "previous_value": "7312"
+  },
+  {
+   "t": 62,
+   "entity": "Lumen",
+   "attribute": "log retention",
+   "scope": "canary cluster",
+   "value": "215 days",
+   "previous_value": ""
+  },
+  {
+   "t": 63,
+   "entity": "Acacia",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.177.23.77",
+   "previous_value": "10.6.145.41"
+  },
+  {
+   "t": 64,
+   "entity": "Cobalt",
+   "attribute": "request timeout",
+   "scope": "batch jobs",
+   "value": "8000 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 65,
+   "entity": "User",
+   "attribute": "summary_preference",
+   "scope": "default",
+   "value": "summaries at the end of long answers",
+   "previous_value": ""
+  },
+  {
+   "t": 66,
+   "entity": "Acacia",
+   "attribute": "SSH port",
+   "scope": "backup job",
+   "value": "5522",
+   "previous_value": "usual SSH port"
+  },
+  {
+   "t": 67,
+   "entity": "Thistle",
+   "attribute": "max line length",
+   "scope": "hotfix branches",
+   "value": "192",
+   "previous_value": ""
+  },
+  {
+   "t": 68,
+   "entity": "Vortex",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "439",
+   "previous_value": "98"
+  },
+  {
+   "t": 69,
+   "entity": "Thistle",
+   "attribute": "test coverage threshold",
+   "scope": "default",
+   "value": "41%",
+   "previous_value": ""
+  },
+  {
+   "t": 70,
+   "entity": "Thistle",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "16:40",
+   "previous_value": "12:05"
+  },
+  {
+   "t": 71,
+   "entity": "Nordic",
+   "attribute": "nightly backup time",
+   "scope": "batch jobs",
+   "value": "13:20",
+   "previous_value": ""
+  },
+  {
+   "t": 72,
+   "entity": "Wren",
+   "attribute": "log retention",
+   "scope": "canary cluster",
+   "value": "163 days",
+   "previous_value": ""
+  },
+  {
+   "t": 73,
+   "entity": "Vortex",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "439",
+   "previous_value": ""
+  },
+  {
+   "t": 74,
+   "entity": "Wren",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "8983",
+   "previous_value": ""
+  },
+  {
+   "t": 75,
+   "entity": "Juniper",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "21:10",
+   "previous_value": "16:25"
+  },
+  {
+   "t": 76,
+   "entity": "Juniper",
+   "attribute": "max line length",
+   "scope": "default",
+   "value": "92",
+   "previous_value": "84"
+  },
+  {
+   "t": 77,
+   "entity": "Zephyr",
+   "attribute": "disk quota",
+   "scope": "weekend runs",
+   "value": "717 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 78,
+   "entity": "Seoul",
+   "attribute": "timezone",
+   "scope": "default",
+   "value": "KST",
+   "previous_value": ""
+  },
+  {
+   "t": 78,
+   "entity": "Seoul",
+   "attribute": "utc_offset",
+   "scope": "default",
+   "value": "UTC+9",
+   "previous_value": ""
+  },
+  {
+   "t": 79,
+   "entity": "Wren",
+   "attribute": "API port",
+   "scope": "mobile API",
+   "value": "6293",
+   "previous_value": ""
+  },
+  {
+   "t": 80,
+   "entity": "Wren",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "4097",
+   "previous_value": "6293"
+  },
+  {
+   "t": 81,
+   "entity": "User",
+   "attribute": "documentation_language",
+   "scope": "default",
+   "value": "English",
+   "previous_value": ""
+  },
+  {
+   "t": 81,
+   "entity": "User",
+   "attribute": "chat_language",
+   "scope": "default",
+   "value": "Korean",
+   "previous_value": ""
+  },
+  {
+   "t": 82,
+   "entity": "Juniper",
+   "attribute": "max line length",
+   "scope": "default",
+   "value": "97",
+   "previous_value": "92"
+  },
+  {
+   "t": 83,
+   "entity": "Thistle",
+   "attribute": "test coverage threshold",
+   "scope": "default",
+   "value": "unchanged",
+   "previous_value": ""
+  }
+ ],
+ "usage": {
+  "calls": 20,
+  "prompt_tokens": 9213,
+  "gen_tokens": 4145,
+  "seconds": 92.23,
+  "cache_hits": 0
+ },
+ "stats": {
+  "calls": 20,
+  "parse_errors": 0,
+  "facts": 92,
+  "wall_s": 92.2
+ }
+}

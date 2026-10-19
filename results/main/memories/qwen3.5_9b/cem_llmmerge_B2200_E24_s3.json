@@ -1,0 +1,35 @@
+{
+ "entries": [
+  "Quasar: request timeout 1400 ms (was -; scope: default); backup time 22:50 (was 17:35; scope: default); API port 4355 (was -; scope: EU region); API port 6257 (was -; scope: default)",
+  "Pegasus: SSH port 3241 (was 3535; scope: default); disk quota 2444 GB (was 1622 GB; scope: default); swap space 1123 GB (was -; scope: default); SSH port 6623 (was -; scope: GPU queue)",
+  "Kestrel: stand-up time 10:35 (was -; scope: default); test coverage threshold 64% (was -; scope: default); minimum test coverage 71% (was -; scope: default); stand-up time 14:05 (was -; scope: hotfix branches); stand-up time 22:25 (was -; scope: default); minimum test coverage 85% (was -; scope: Fridays); stand-up time 19:55 (was -; scope: default)",
+  "Zenith: IP address 10.139.232.148 (was -; scope: default); disk quota 2351 GB (was -; scope: default); SSH port 2852 (was -; scope: default); address GPU queue 10.240.84.97 (was -; scope: GPU queue)",
+  "Krypton: max upload size 3032 MB (was -; scope: default); listen port 6987 (was -; scope: default); request timeout 1650 ms (was -; scope: canary cluster); request timeout 8800 ms (was -; scope: default); API port 6322 (was 6987; scope: default)",
+  "Redwood: build cache size 607 GB (was -; scope: intern cohort); build cache size 2735 GB (was -; scope: default); stand-up time 14:50 (was 18:15; scope: default); backup time 21:10 (was 12:35; scope: default); request timeout 550 ms (was -; scope: default); backup time 18:35 (was -; scope: staging); stand-up time 18:15 (was -; scope: default); line length 133 (was -; scope: default)",
+  "Pulsar: DB pool size 465 (was -; scope: batch jobs); DB pool size 61 (was -; scope: default); deploy branch release-714 (was -; scope: default); deploy branch release-870 (was -; scope: canary cluster); deploy branch release-700 (was -; scope: default)",
+  "Zircon: code review SLA 12 hours (was -; scope: default); line length 129 (was -; scope: default); cloud budget $9260 (was -; scope: default); maximum line width 166 chars (was -; scope: intern cohort)"
+ ],
+ "chars": 2018,
+ "usage": {
+  "calls": 74,
+  "prompt_tokens": 40221,
+  "gen_tokens": 19211,
+  "seconds": 1389.59,
+  "cache_hits": 0
+ },
+ "stats": {
+  "calls": 37,
+  "parse_errors": 0,
+  "merge_usage": {
+   "calls": 37,
+   "prompt_tokens": 14380,
+   "gen_tokens": 11057,
+   "seconds": 868.39,
+   "cache_hits": 0
+  },
+  "entities": 31,
+  "dropped_entities": 23
+ },
+ "wall_s": 868.4,
+ "raw_chars": 11139
+}

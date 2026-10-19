@@ -1,0 +1,60 @@
+{
+ "entries": [
+  "Aurora: max containers 402 (weekend runs: 76); IP address 10.155.243.141 (backup job: 10.103.60.133)",
+  "Cedar: SSH port 3488; IP address 10.193.60.28 (GPU queue: 10.106.230.108); swap size 910 GB",
+  "Umbra: request_timeout 6250; worker_count 337",
+  "Lyra: test_coverage_threshold 57% (hotfix branches: 50%); build_cache_size 365 GB",
+  "Nimbus: API port 4343; backup_time 18:25; request_timeout 9650 ms; HTTP port 3527",
+  "Ember: request_timeout 5250 ms; upload_limit 192 MB; branch release-747",
+  "Yukon: backup_time 20:55; log_retention 13 days (canary cluster: 36 days); API port 8827 (mobile API: 3080)",
+  "Velvet: branch release-449; HTTP port 6012; worker_count 203 (staging: 237); API port 8861 (mobile API: 6412)",
+  "Fjord: db_pool_size 243; HTTP port 2997; branch release-453 (deploy: release-453; canary cluster: release-544); API port 2997",
+  "Ursa: API port 5049; db_pool_size 318; request_timeout 7350 ms; HTTP port 6844",
+  "Onyx: worker_count 343; db_pool_size 376; request_timeout 4300 ms",
+  "Yarrow: branch release-596; API port 2653 (batch jobs: 4091); log retention 61 days (batch jobs: 244 days)",
+  "Rune: swap size 39 GB; disk quota 638 GB (weekend runs: 2469 GB); container_limit 24",
+  "Thistle: API port 2658 (staging: 8826); branch release-916; backup_time 14:20",
+  "Zenith: swap size 2679 GB; maintenance start time 10:15 (CI runner: 20:50); IP address 10.87.160.167",
+  "Alder: stand-up time 19:40; test_coverage_threshold 99%; build_cache_size 902 (hotfix branches: 1143 GB)",
+  "Juniper: test_coverage_threshold 74% (Fridays: 98%); stand-up time 14:45 (intern cohort: 16:20); build_cache_size 1755 GB",
+  "default: printer_room 5743; stand-up time evening; branch shared; chat_language Korean; grafana_dashboard_id 4024; MTU (office VPN: 4143)",
+  "Quill: build_cache_size 400 GB (hotfix branches: 2087 GB); stand-up time 10:40",
+  "Iris: IP address 10.178.27.8; disk_quota 2983 GB (backup job: 347 GB); max containers 156",
+  "Nova: stand-up time 21:40; monthly_cloud_budget $8290",
+  "Jasper: API port 4273; db_pool_size 240; backup_time 11:20",
+  "Lumen: stand-up time 15:35 (intern cohort: 11:55); test_coverage_threshold 45%; build_cache_size 1547 GB (frontend squad: 2647 GB)"
+ ],
+ "chars": 2156,
+ "usage": {
+  "calls": 49,
+  "prompt_tokens": 33882,
+  "gen_tokens": 9340,
+  "seconds": 512.99,
+  "cache_hits": 0
+ },
+ "stats": {
+  "dropped": {
+   "T1": 11,
+   "T2": 5,
+   "T3": 0,
+   "T0": 7
+  },
+  "kept": {
+   "T1": 74,
+   "T2": 24,
+   "T3": 0,
+   "T0": 0
+  },
+  "keys": 114,
+  "entities": 25,
+  "extract": {
+   "calls": 49,
+   "parse_errors": 0,
+   "facts": 208,
+   "ungrounded": 3,
+   "wall_s": 513.0
+  }
+ },
+ "wall_s": 0.0,
+ "raw_chars": 13004
+}

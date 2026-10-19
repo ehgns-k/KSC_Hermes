@@ -1,0 +1,16 @@
+[13:32:41] qwen3.5:9b E=24 s=1 B=2200 cem          chars=  2173 acc=0.669 build= 365.2s qa= 328.3s
+[13:38:58] qwen3.5:9b E=24 s=1 B=2200 cem_nohist   chars=  2143 acc=0.595 build=   0.0s qa= 377.0s
+[13:45:27] qwen3.5:9b E=24 s=1 B=2200 cem_noscope  chars=  2149 acc=0.601 build=   0.0s qa= 389.7s
+[13:53:21] qwen3.5:9b E=24 s=1 B=2200 cem_oracle   chars=  2175 acc=0.689 build=   0.0s qa= 473.9s
+[14:12:33] qwen3.5:9b E=24 s=1 B=2200 cem_llmmerge chars=  2153 acc=0.318 build= 565.8s qa= 585.7s
+[14:34:08] qwen3.5:9b E=24 s=2 B=2200 cem          chars=  2116 acc=0.587 build= 513.0s qa= 782.4s
+[14:45:12] qwen3.5:9b E=24 s=2 B=2200 cem_nohist   chars=  2156 acc=0.545 build=   0.0s qa= 664.1s
+[14:51:11] qwen3.5:9b E=24 s=2 B=2200 cem_noscope  chars=  2131 acc=0.551 build=   0.0s qa= 358.6s
+[14:56:56] qwen3.5:9b E=24 s=2 B=2200 cem_oracle   chars=  2131 acc=0.695 build=   0.0s qa= 345.1s
+[15:14:33] qwen3.5:9b E=24 s=2 B=2200 cem_llmmerge chars=  2083 acc=0.234 build= 737.8s qa= 319.4s
+[15:30:27] qwen3.5:9b E=24 s=3 B=2200 cem          chars=  2151 acc=0.669 build= 521.2s qa= 432.7s
+[15:37:30] qwen3.5:9b E=24 s=3 B=2200 cem_nohist   chars=  2168 acc=0.581 build=   0.0s qa= 422.5s
+[15:48:19] qwen3.5:9b E=24 s=3 B=2200 cem_noscope  chars=  2149 acc=0.588 build=   0.0s qa= 649.2s
+[15:57:17] qwen3.5:9b E=24 s=3 B=2200 cem_oracle   chars=  2099 acc=0.656 build=   0.0s qa= 538.0s
+[16:16:15] qwen3.5:9b E=24 s=3 B=2200 cem_llmmerge chars=  2018 acc=0.281 build= 868.4s qa= 269.5s
+LLM usage: {'calls': 2623, 'prompt_tokens': 2747892, 'gen_tokens': 71727, 'seconds': 24194.12, 'cache_hits': 0}

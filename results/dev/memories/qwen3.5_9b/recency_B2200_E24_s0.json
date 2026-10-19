@@ -1,0 +1,47 @@
+{
+ "entries": [
+  "(2026-02-06) Quill: stand-up time = 19:10.",
+  "(2026-03-20) Update: Ursa moved its build cache size from 2884 GB to 181 GB.",
+  "(2026-03-20) Special case — Zircon on batch jobs: database pool size 152.",
+  "(2026-03-23) The time of the nightly backup for Falcon is no longer 11:15; it is now 20:50.",
+  "(2026-03-23) Rolled back the stand-up time change on Quartz; it is 14:35 again.",
+  "(2026-03-23) Update: Vortex moved its maintenance window from 16:55 to 13:05.",
+  "(2026-03-23) Considered changing Ursa build cache to 1250 GB, but decided to keep 181 GB.",
+  "(2026-03-23) Checked Quartz again: stand-up time is 14:35.",
+  "(2026-03-26) The user reads documentation in English but chats in Korean.",
+  "(2026-03-26) User switched Harbor to monthly cloud budget $5090.",
+  "(2026-03-26) The max containers for Comet is no longer 35; it is now 318.",
+  "(2026-03-28) Quill max line length changed from 227 chars to 83 chars.",
+  "(2026-03-28) User usually works late in the evening.",
+  "(2026-03-28) Delta build cache size changed from 2162 GB to 1365 GB.",
+  "(2026-03-28) Exception: for the GPU queue, Zephyr uses sshd port 8359.",
+  "(2026-03-28) Reminder: Zircon log retention is still 352 days.",
+  "(2026-03-29) Except for staging, where it is 50 days, Falcon keeps its usual how long logs are kept.",
+  "(2026-03-29) Quasar deploy branch is release-631 on staging only; elsewhere the normal setting applies.",
+  "(2026-03-29) Confirmed again that Prism uses worker count 69.",
+  "(2026-03-29) Large log files should be summarized, not pasted.",
+  "(2026-03-29) Except for the CI runner, where it is 400, Comet keeps its usual max containers.",
+  "(2026-04-01) Reminder: Flint worker count is still 34.",
+  "(2026-04-01) Double-checked Jasper: the max upload size remains 2448 MB.",
+  "(2026-04-01) Note that Fridays of Ursa overrides the build cache size with 1374 GB.",
+  "(2026-04-01) Checked Lotus again: API port is 5454.",
+  "(2026-04-01) Prefer pnpm over npm for JavaScript projects.",
+  "(2026-04-04) The user reads documentation in English but chats in Korean.",
+  "(2026-04-04) Nordic nightly backup time: 14:10 (unchanged).",
+  "(2026-04-04) Double-checked Vortex: the swap space remains 2732 GB.",
+  "(2026-04-04) Maple test coverage threshold: 97% (unchanged)."
+ ],
+ "chars": 2200,
+ "usage": {
+  "calls": 0,
+  "prompt_tokens": 0,
+  "gen_tokens": 0,
+  "seconds": 0.0,
+  "cache_hits": 0
+ },
+ "stats": {
+  "kept_notes": 30
+ },
+ "wall_s": 0.0,
+ "raw_chars": 12501
+}

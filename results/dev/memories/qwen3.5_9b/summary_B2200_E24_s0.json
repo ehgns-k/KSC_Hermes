@@ -1,0 +1,46 @@
+{
+ "entries": [
+  "Nordic HTTP port: 6337; backup: 14:10.",
+  "Jasper API port: 2177; upload: 2448 MB (canary: 496 MB); workers: 128.",
+  "Lotus timeout: 6900 ms; workers: 467; HTTP port: 5454; API port: 5991.",
+  "Opal stand-up: 18:45 (frontend: 11:35); line length: 165 (frontend: 73); review (Fri): 16h.",
+  "Quartz stand-up: 14:35 (Fri: 15:45); cache: 2897 GB; line length: 240 (Fri: 95).",
+  "Redwood maintenance: 22:35 (weekend: 14:50); SSH: 7408; containers: 364.",
+  "Maple stand-up: 12:15 (hotfix: 13:15); coverage: 97%; SLA: 28h; branch: release-348.",
+  "Flint branch: release-891; workers: 34; logs: 119 days.",
+  "Delta SLA: 74h (Fri: 18:15); stand-up: 15:55; cache: 1365 GB (Fri: 1961 GB); turnaround: 24h.",
+  "Cobalt workers: 52 (staging: 468); backup: 20:05; logs: 84 days (batch: 333).",
+  "Comet swap: 785 GB; IP: 10.13.208.212 (weekend: 10.113.241.54); containers: 318 (CI: 400).",
+  "Tundra containers: 45; IP: 10.205.203.31; SSH: 3802.",
+  "Zephyr IP: 10.237.22.241; SSH: 2500 (GPU: 8359).",
+  "Quasar port: 3560; backup: 11:05; branch: release-631 (staging: release-689).",
+  "Prism workers: 69; timeout: 1800 ms (mobile: 8450 ms); DB pool: 443.",
+  "Kestrel cache: 1161 GB; stand-up: 12:50; SLA: 19h.",
+  "Falcon branch: release-372 (staging: release-243); logs: 120 days (staging: 50); backup: 20:50.",
+  "Vortex SSH: 9164; swap: 2732 GB; maintenance: 13:05.",
+  "Krypton disk: 2061 GB; SSH: 8702 (CI); swap: 2732 GB (backup: 2407 GB).",
+  "Lumen logs: 27 days; upload: 1152 MB (batch: 1032 MB); timeout: 1600 ms.",
+  "Ursa budget: $5870; cache: 181 GB (Fri: 1374 GB); stand-up: 18:40.",
+  "Harbor coverage: 72% (Fri: 68%); budget: $5090; line length: 213 (Fri: 235).",
+  "Quill stand-up: 10:20 (intern: 14:25); budget: $9440 (frontend cap: $2960); line length: 83.",
+  "Zircon DB pool: 317 (batch: 152); logs: 352 days; timeout: 9250 ms.",
+  "User prefs: YYYY-MM-DD; concise/code blocks; pnpm; small PRs; no force-push; ruff lint.",
+  "User: Seoul (KST); late evening; docs EN/chat KO."
+ ],
+ "chars": 1917,
+ "usage": {
+  "calls": 2,
+  "prompt_tokens": 10235,
+  "gen_tokens": 2109,
+  "seconds": 46.48,
+  "cache_hits": 0
+ },
+ "stats": {
+  "first_chars": 2735,
+  "retried": true,
+  "chars_before_cut": 1917,
+  "truncated": false
+ },
+ "wall_s": 46.5,
+ "raw_chars": 12501
+}

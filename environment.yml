@@ -1,0 +1,11 @@
+# conda env create -f environment.yml && conda activate ksc
+# Hermes Agent 코드는 third_party/hermes-agent(커밋 67481b6)에서 직접 import (설치 불필요)
+# LLM: Ollama 0.32.5 + qwen3.5:9b, qwen3.5:4b (conda 패키지 아님)
+name: ksc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - -r requirements.txt

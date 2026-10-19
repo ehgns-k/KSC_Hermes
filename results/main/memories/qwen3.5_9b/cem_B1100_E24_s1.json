@@ -1,0 +1,51 @@
+{
+ "entries": [
+  "Vega: Jira board ID 2531; sshd port 7555; pull request size small",
+  "license: port 4656",
+  "Fjord: code review SLA 7 hours; build cache size 2521 GB (was 1231 GB); max line length 83 (was 75 chars); line length limit 83",
+  "Indigo: max containers 282 (was 379); disk quota 855 GB (was 876 GB)",
+  "Pulsar: worker count 183; DB connection pool 319",
+  "Ember: max upload size 1072 MB (was 2432 MB; EU region: 2512 MB); HTTP port 4593 (was 2855); API port 2855",
+  "Wren: request timeout 4950 ms; DB pool size 287; API port 2669 (mobile API: 3435)",
+  "Solstice: API port 3901",
+  "Prism: disk quota 573 GB (backup job: 1336 GB)",
+  "Jasper: log retention period 170 (was 267 days); max upload size 1936 MB (was 1200 MB; mobile API: 3200 MB); DB pool size 89 (mobile API: 472)",
+  "Maple: swap space 941 GB (was 2119 GB; CI runner: 2667 GB)",
+  "Sierra: worker count 234 (was 92); request timeout 5150 ms",
+  "Dune: swap space 1848 GB (was 776 GB); max containers 114 (was 392); IP address 10.246.49.137 (was 10.64.69.30)",
+  "Alder: max_upload_size 1216 MB; worker count 436 (was 199)"
+ ],
+ "chars": 1048,
+ "usage": {
+  "calls": 38,
+  "prompt_tokens": 26395,
+  "gen_tokens": 6944,
+  "seconds": 365.16,
+  "cache_hits": 0
+ },
+ "stats": {
+  "dropped": {
+   "T1": 46,
+   "T2": 17,
+   "T3": 15,
+   "T0": 6
+  },
+  "kept": {
+   "T1": 34,
+   "T2": 6,
+   "T3": 15,
+   "T0": 0
+  },
+  "keys": 103,
+  "entities": 26,
+  "extract": {
+   "calls": 38,
+   "parse_errors": 0,
+   "facts": 163,
+   "ungrounded": 2,
+   "wall_s": 365.2
+  }
+ },
+ "wall_s": 0.0,
+ "raw_chars": 10325
+}

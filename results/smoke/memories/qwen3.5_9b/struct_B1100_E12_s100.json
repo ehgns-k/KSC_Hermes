@@ -1,0 +1,33 @@
+{
+ "entries": [
+  "Raven — max line length: 102 chars (was 126) | stand-up: 15:05 (was 20:10; frontend: 22:10) | budget: $7880",
+  "Echo — log retention: 34 days (canary: 124) | timeout: 9150 ms (staging: 9550)",
+  "Lumen — retention: 254 days (canary: 215) | backup: 16:55 (was 12:35) | port: 6968",
+  "Cobalt — timeout: 1250 ms (batch: 8000) | port: 8739",
+  "Acacia — IP: 10.177.23.77 (was 10.6.145.41; was 10.136.175.89) | maint: 22:50",
+  "Jade — line: 224 (frontend: 112) | coverage: 54% | stand-up: 14:15 (was 10:40)",
+  "Thistle — coverage: 41% (frontend: 43%; hotfix: 192) | stand-up: 16:40 (was 12:05)",
+  "Wren — retention: 328 days (canary: 163) | port: 4097 (mobile: 6293; was 6296) | backup: 21:20 (mobile only)",
+  "Vortex — containers: 439 (was 98) | maint: 20:05 (was 22:40) | SSH: 7965 (was 7312)",
+  "Nordic — backup: 18:40 (batch: 13:20) | deploy: release-558",
+  "Juniper — line: 97 (was 84) | stand-up: 21:10 (was 16:25)",
+  "Zephyr — disk: 1248 GB (weekend: 717) | swap: 2915 GB | maint: 14:20",
+  "User — loc: Seoul (KST) | lang: EN docs, KR chat"
+ ],
+ "chars": 1015,
+ "usage": {
+  "calls": 2,
+  "prompt_tokens": 4959,
+  "gen_tokens": 1156,
+  "seconds": 24.41,
+  "cache_hits": 0
+ },
+ "stats": {
+  "first_chars": 1409,
+  "retried": true,
+  "chars_before_cut": 1015,
+  "truncated": false
+ },
+ "wall_s": 24.4,
+ "raw_chars": 5382
+}

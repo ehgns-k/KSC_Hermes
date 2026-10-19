@@ -1,0 +1,1506 @@
+{
+ "records": [
+  {
+   "t": 0,
+   "entity": "Birch",
+   "attribute": "address",
+   "scope": "default",
+   "value": "10.107.224.32",
+   "previous_value": ""
+  },
+  {
+   "t": 2,
+   "entity": "Glacier",
+   "attribute": "backup time",
+   "scope": "default",
+   "value": "12:35",
+   "previous_value": ""
+  },
+  {
+   "t": 3,
+   "entity": "Birch",
+   "attribute": "SSH port",
+   "scope": "default",
+   "value": "6803",
+   "previous_value": ""
+  },
+  {
+   "t": 4,
+   "entity": "Birch",
+   "attribute": "maintenance window",
+   "scope": "default",
+   "value": "19:05",
+   "previous_value": ""
+  },
+  {
+   "t": 1,
+   "misc": "Prefer small pull requests with clear titles."
+  },
+  {
+   "t": 5,
+   "entity": "Rune",
+   "attribute": "code review SLA",
+   "scope": "default",
+   "value": "27 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 6,
+   "entity": "Cedar",
+   "attribute": "maximum line width",
+   "scope": "default",
+   "value": "77 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 6,
+   "entity": "Cedar",
+   "attribute": "minimum test coverage",
+   "scope": "default",
+   "value": "74%",
+   "previous_value": ""
+  },
+  {
+   "t": 7,
+   "entity": "Harbor",
+   "attribute": "backup time",
+   "scope": "default",
+   "value": "13:05",
+   "previous_value": ""
+  },
+  {
+   "t": 9,
+   "entity": "Nordic",
+   "attribute": "log retention",
+   "scope": "default",
+   "value": "362 days",
+   "previous_value": ""
+  },
+  {
+   "t": 10,
+   "entity": "Glacier",
+   "attribute": "listen port",
+   "scope": "default",
+   "value": "2705",
+   "previous_value": ""
+  },
+  {
+   "t": 8,
+   "misc": "Avoid force-pushing to shared branches."
+  },
+  {
+   "t": 11,
+   "entity": "Harbor",
+   "attribute": "workers",
+   "scope": "default",
+   "value": "228",
+   "previous_value": ""
+  },
+  {
+   "t": 12,
+   "entity": "Nordic",
+   "attribute": "branch",
+   "scope": "default",
+   "value": "release-540",
+   "previous_value": ""
+  },
+  {
+   "t": 13,
+   "entity": "Rune",
+   "attribute": "line length",
+   "scope": "default",
+   "value": "87",
+   "previous_value": ""
+  },
+  {
+   "t": 14,
+   "entity": "Cedar",
+   "attribute": "line length",
+   "scope": "default",
+   "value": "120",
+   "previous_value": ""
+  },
+  {
+   "t": 15,
+   "entity": "Birch",
+   "attribute": "SSH port",
+   "scope": "default",
+   "value": "6098",
+   "previous_value": "6803"
+  },
+  {
+   "t": 16,
+   "entity": "Rune",
+   "attribute": "cloud budget",
+   "scope": "default",
+   "value": "$6030",
+   "previous_value": ""
+  },
+  {
+   "t": 17,
+   "entity": "Tundra",
+   "attribute": "SSH port",
+   "scope": "default",
+   "value": "8995",
+   "previous_value": ""
+  },
+  {
+   "t": 17,
+   "entity": "Tundra",
+   "attribute": "swap space",
+   "scope": "default",
+   "value": "2636 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 18,
+   "entity": "Cedar",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "2219 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 19,
+   "entity": "Harbor",
+   "attribute": "backup time",
+   "scope": "default",
+   "value": "23:40",
+   "previous_value": "13:05"
+  },
+  {
+   "t": 20,
+   "entity": "Tundra",
+   "attribute": "disk quota",
+   "scope": "default",
+   "value": "2000 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 21,
+   "entity": "Nordic",
+   "attribute": "branch",
+   "scope": "default",
+   "value": "release-540",
+   "previous_value": ""
+  },
+  {
+   "t": 22,
+   "entity": "Glacier",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "550 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 23,
+   "entity": "Birch",
+   "attribute": "language",
+   "scope": "default",
+   "value": "English",
+   "previous_value": ""
+  },
+  {
+   "t": 23,
+   "entity": "Birch",
+   "attribute": "chat_language",
+   "scope": "default",
+   "value": "Korean",
+   "previous_value": ""
+  },
+  {
+   "t": 24,
+   "entity": "Nordic",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "3625",
+   "previous_value": ""
+  },
+  {
+   "t": 25,
+   "entity": "Flint",
+   "attribute": "test coverage threshold",
+   "scope": "default",
+   "value": "62%",
+   "previous_value": ""
+  },
+  {
+   "t": 25,
+   "entity": "Flint",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "1775 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 26,
+   "entity": "Harbor",
+   "attribute": "log retention",
+   "scope": "default",
+   "value": "325 days",
+   "previous_value": ""
+  },
+  {
+   "t": 27,
+   "entity": "Bramble",
+   "attribute": "SSH port",
+   "scope": "default",
+   "value": "3563",
+   "previous_value": ""
+  },
+  {
+   "t": 28,
+   "entity": "Bramble",
+   "attribute": "maintenance window",
+   "scope": "default",
+   "value": "12:25",
+   "previous_value": ""
+  },
+  {
+   "t": 29,
+   "entity": "Quasar",
+   "attribute": "listen port",
+   "scope": "default",
+   "value": "6257",
+   "previous_value": ""
+  },
+  {
+   "t": 30,
+   "entity": "Rune",
+   "attribute": "code review SLA",
+   "scope": "default",
+   "value": "94 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 31,
+   "entity": "Raven",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "7750 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 32,
+   "entity": "Flint",
+   "attribute": "code review SLA",
+   "scope": "default",
+   "value": "17 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 33,
+   "entity": "User",
+   "attribute": "work schedule",
+   "scope": "default",
+   "value": "late in the evening",
+   "previous_value": ""
+  },
+  {
+   "t": 34,
+   "entity": "Raven",
+   "attribute": "DB pool size",
+   "scope": "default",
+   "value": "409",
+   "previous_value": ""
+  },
+  {
+   "t": 35,
+   "entity": "Bramble",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "23",
+   "previous_value": ""
+  },
+  {
+   "t": 36,
+   "entity": "Tundra",
+   "attribute": "SSH port",
+   "scope": "default",
+   "value": "8995",
+   "previous_value": ""
+  },
+  {
+   "t": 37,
+   "entity": "Flint",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "912 GB",
+   "previous_value": "1775 GB"
+  },
+  {
+   "t": 38,
+   "entity": "Quasar",
+   "attribute": "backup time",
+   "scope": "default",
+   "value": "17:35",
+   "previous_value": ""
+  },
+  {
+   "t": 39,
+   "entity": "Tundra",
+   "attribute": "swap space",
+   "scope": "default",
+   "value": "116 GB",
+   "previous_value": "2636 GB"
+  },
+  {
+   "t": 40,
+   "entity": "Tundra",
+   "attribute": "swap space",
+   "scope": "default",
+   "value": "116 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 41,
+   "entity": "Quasar",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "150 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 42,
+   "entity": "Raven",
+   "attribute": "DB pool size",
+   "scope": "default",
+   "value": "372",
+   "previous_value": ""
+  },
+  {
+   "t": 43,
+   "entity": "Pegasus",
+   "attribute": "swap space",
+   "scope": "default",
+   "value": "1123 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 44,
+   "entity": "Raven",
+   "attribute": "deploy branch",
+   "scope": "default",
+   "value": "release-890",
+   "previous_value": ""
+  },
+  {
+   "t": 45,
+   "entity": "Birch",
+   "attribute": "GPU queue IP",
+   "scope": "default",
+   "value": "10.62.47.167",
+   "previous_value": ""
+  },
+  {
+   "t": 46,
+   "entity": "Kestrel",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "10:35",
+   "previous_value": ""
+  },
+  {
+   "t": 46,
+   "entity": "Kestrel",
+   "attribute": "test coverage threshold",
+   "scope": "default",
+   "value": "64%",
+   "previous_value": ""
+  },
+  {
+   "t": 47,
+   "entity": "Glacier",
+   "attribute": "backup time",
+   "scope": "default",
+   "value": "21:10",
+   "previous_value": "12:35"
+  },
+  {
+   "t": 48,
+   "entity": "default",
+   "attribute": "pre-push action",
+   "scope": "default",
+   "value": "make test",
+   "previous_value": ""
+  },
+  {
+   "t": 49,
+   "entity": "default",
+   "attribute": "pull request preference",
+   "scope": "default",
+   "value": "small pull requests with clear titles",
+   "previous_value": ""
+  },
+  {
+   "t": 50,
+   "entity": "Tundra",
+   "attribute": "disk quota",
+   "scope": "default",
+   "value": "1246 GB",
+   "previous_value": "2000 GB"
+  },
+  {
+   "t": 51,
+   "entity": "Rune",
+   "attribute": "line length",
+   "scope": "default",
+   "value": "119 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 52,
+   "entity": "Helix",
+   "attribute": "test coverage threshold",
+   "scope": "default",
+   "value": "63%",
+   "previous_value": ""
+  },
+  {
+   "t": 53,
+   "entity": "Zenith",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.139.232.148",
+   "previous_value": ""
+  },
+  {
+   "t": 53,
+   "entity": "Zenith",
+   "attribute": "disk quota",
+   "scope": "default",
+   "value": "2351 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 54,
+   "entity": "Helix",
+   "attribute": "code review SLA",
+   "scope": "default",
+   "value": "54 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 55,
+   "entity": "Pegasus",
+   "attribute": "SSH port",
+   "scope": "default",
+   "value": "3535",
+   "previous_value": ""
+  },
+  {
+   "t": 56,
+   "entity": "Lumen",
+   "attribute": "code review SLA",
+   "scope": "default",
+   "value": "83 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 57,
+   "entity": "Pegasus",
+   "attribute": "disk quota",
+   "scope": "default",
+   "value": "2680 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 58,
+   "entity": "Helix",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "1399 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 59,
+   "entity": "Lumen",
+   "attribute": "line length",
+   "scope": "default",
+   "value": "141",
+   "previous_value": ""
+  },
+  {
+   "t": 61,
+   "entity": "Nordic",
+   "attribute": "log retention",
+   "scope": "default",
+   "value": "91",
+   "previous_value": ""
+  },
+  {
+   "t": 62,
+   "entity": "Flint",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "912 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 63,
+   "entity": "Krypton",
+   "attribute": "max upload size",
+   "scope": "default",
+   "value": "3032 MB",
+   "previous_value": ""
+  },
+  {
+   "t": 60,
+   "misc": "Avoid force-pushing to shared branches."
+  },
+  {
+   "t": 64,
+   "entity": "Raven",
+   "attribute": "DB pool size",
+   "scope": "default",
+   "value": "300",
+   "previous_value": "372"
+  },
+  {
+   "t": 65,
+   "entity": "Marlin",
+   "attribute": "DB pool size",
+   "scope": "default",
+   "value": "477",
+   "previous_value": ""
+  },
+  {
+   "t": 66,
+   "entity": "Marlin",
+   "attribute": "deploy branch",
+   "scope": "default",
+   "value": "release-925",
+   "previous_value": ""
+  },
+  {
+   "t": 67,
+   "entity": "Lumen",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "2143 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 68,
+   "entity": "Harbor",
+   "attribute": "log retention",
+   "scope": "default",
+   "value": "325 days",
+   "previous_value": ""
+  },
+  {
+   "t": 69,
+   "entity": "Redwood",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "14:50",
+   "previous_value": ""
+  },
+  {
+   "t": 70,
+   "entity": "Nordic",
+   "attribute": "listen port",
+   "scope": "EU region",
+   "value": "6596",
+   "previous_value": ""
+  },
+  {
+   "t": 71,
+   "entity": "Krypton",
+   "attribute": "listen port",
+   "scope": "default",
+   "value": "6987",
+   "previous_value": ""
+  },
+  {
+   "t": 72,
+   "entity": "Tundra",
+   "attribute": "SSH port",
+   "scope": "default",
+   "value": "8648",
+   "previous_value": "8995"
+  },
+  {
+   "t": 73,
+   "entity": "Kestrel",
+   "attribute": "code review SLA",
+   "scope": "default",
+   "value": "19 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 74,
+   "entity": "default",
+   "attribute": "jira board",
+   "scope": "default",
+   "value": "9779",
+   "previous_value": ""
+  },
+  {
+   "t": 75,
+   "entity": "Kestrel",
+   "attribute": "minimum test coverage",
+   "scope": "default",
+   "value": "71%",
+   "previous_value": ""
+  },
+  {
+   "t": 76,
+   "entity": "default",
+   "attribute": "pre-push action",
+   "scope": "default",
+   "value": "make test",
+   "previous_value": ""
+  },
+  {
+   "t": 77,
+   "entity": "Cedar",
+   "attribute": "minimum test coverage",
+   "scope": "default",
+   "value": "65%",
+   "previous_value": ""
+  },
+  {
+   "t": 78,
+   "entity": "Krypton",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "8800 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 79,
+   "entity": "Zenith",
+   "attribute": "SSH port",
+   "scope": "default",
+   "value": "2852",
+   "previous_value": ""
+  },
+  {
+   "t": 80,
+   "entity": "Vega",
+   "attribute": "swap space",
+   "scope": "default",
+   "value": "2096 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 81,
+   "entity": "Magma",
+   "attribute": "cloud budget",
+   "scope": "default",
+   "value": "$5170",
+   "previous_value": ""
+  },
+  {
+   "t": 81,
+   "entity": "Magma",
+   "attribute": "line length",
+   "scope": "default",
+   "value": "148 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 82,
+   "entity": "Lumen",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "usual size",
+   "previous_value": ""
+  },
+  {
+   "t": 82,
+   "entity": "Lumen",
+   "attribute": "build cache size",
+   "scope": "frontend squad",
+   "value": "2952 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 83,
+   "entity": "Wildfire",
+   "attribute": "DB pool size",
+   "scope": "default",
+   "value": "167",
+   "previous_value": ""
+  },
+  {
+   "t": 85,
+   "entity": "Redwood",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "2735 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 84,
+   "misc": "Prefer small pull requests with clear titles."
+  },
+  {
+   "t": 86,
+   "entity": "Glacier",
+   "attribute": "backup time",
+   "scope": "staging",
+   "value": "18:35",
+   "previous_value": ""
+  },
+  {
+   "t": 87,
+   "entity": "Cedar",
+   "attribute": "line length",
+   "scope": "default",
+   "value": "123",
+   "previous_value": "120"
+  },
+  {
+   "t": 88,
+   "entity": "Pulsar",
+   "attribute": "log retention",
+   "scope": "default",
+   "value": "46",
+   "previous_value": ""
+  },
+  {
+   "t": 88,
+   "entity": "Pulsar",
+   "attribute": "DB pool size",
+   "scope": "default",
+   "value": "61",
+   "previous_value": ""
+  },
+  {
+   "t": 89,
+   "entity": "Marlin",
+   "attribute": "deploy branch",
+   "scope": "default",
+   "value": "release-925",
+   "previous_value": ""
+  },
+  {
+   "t": 90,
+   "entity": "Bramble",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "313",
+   "previous_value": ""
+  },
+  {
+   "t": 91,
+   "entity": "Redwood",
+   "attribute": "line length",
+   "scope": "default",
+   "value": "130",
+   "previous_value": ""
+  },
+  {
+   "t": 92,
+   "entity": "Glacier",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "8350",
+   "previous_value": "550"
+  },
+  {
+   "t": 93,
+   "entity": "Raven",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "4350",
+   "previous_value": ""
+  },
+  {
+   "t": 94,
+   "entity": "default",
+   "attribute": "pre-push action",
+   "scope": "default",
+   "value": "retry delay of 5333 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 95,
+   "entity": "Raven",
+   "attribute": "deploy branch",
+   "scope": "default",
+   "value": "release-890",
+   "previous_value": "release-353"
+  },
+  {
+   "t": 97,
+   "entity": "Kestrel",
+   "attribute": "stand-up time",
+   "scope": "hotfix branches",
+   "value": "14:05",
+   "previous_value": ""
+  },
+  {
+   "t": 96,
+   "misc": "User dislikes emoji in commit messages."
+  },
+  {
+   "t": 98,
+   "entity": "Zircon",
+   "attribute": "code review SLA",
+   "scope": "default",
+   "value": "12 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 99,
+   "entity": "Vega",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "58",
+   "previous_value": ""
+  },
+  {
+   "t": 100,
+   "entity": "Marlin",
+   "attribute": "backup time",
+   "scope": "default",
+   "value": "20:55",
+   "previous_value": ""
+  },
+  {
+   "t": 101,
+   "entity": "Bramble",
+   "attribute": "SSH port",
+   "scope": "default",
+   "value": "3629",
+   "previous_value": "3563"
+  },
+  {
+   "t": 102,
+   "entity": "Wildfire",
+   "attribute": "DB pool size",
+   "scope": "default",
+   "value": "286",
+   "previous_value": ""
+  },
+  {
+   "t": 103,
+   "entity": "User",
+   "attribute": "preference",
+   "scope": "default",
+   "value": "concise answers with code blocks",
+   "previous_value": ""
+  },
+  {
+   "t": 104,
+   "entity": "Zircon",
+   "attribute": "line length",
+   "scope": "default",
+   "value": "129",
+   "previous_value": ""
+  },
+  {
+   "t": 105,
+   "entity": "Glacier",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "4390",
+   "previous_value": ""
+  },
+  {
+   "t": 106,
+   "entity": "Vega",
+   "attribute": "maintenance window",
+   "scope": "default",
+   "value": "23:55",
+   "previous_value": ""
+  },
+  {
+   "t": 107,
+   "entity": "Redwood",
+   "attribute": "line length",
+   "scope": "default",
+   "value": "133",
+   "previous_value": ""
+  },
+  {
+   "t": 108,
+   "entity": "Bramble",
+   "attribute": "maintenance window",
+   "scope": "default",
+   "value": "12:15",
+   "previous_value": "12:25"
+  },
+  {
+   "t": 109,
+   "entity": "Harbor",
+   "attribute": "backup time",
+   "scope": "default",
+   "value": "23:40",
+   "previous_value": ""
+  },
+  {
+   "t": 110,
+   "entity": "Raven",
+   "attribute": "DB pool size",
+   "scope": "default",
+   "value": "300",
+   "previous_value": ""
+  },
+  {
+   "t": 111,
+   "entity": "Helix",
+   "attribute": "build cache size",
+   "scope": "hotfix branches",
+   "value": "2214 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 112,
+   "entity": "Vega",
+   "attribute": "swap space",
+   "scope": "weekend runs",
+   "value": "1079 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 113,
+   "entity": "User",
+   "attribute": "date format",
+   "scope": "default",
+   "value": "YYYY-MM-DD",
+   "previous_value": ""
+  },
+  {
+   "t": 114,
+   "entity": "Magma",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "2447 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 115,
+   "entity": "Nordic",
+   "attribute": "log retention",
+   "scope": "default",
+   "value": "362 days",
+   "previous_value": "91 days"
+  },
+  {
+   "t": 116,
+   "entity": "Krypton",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "6322",
+   "previous_value": "6987"
+  },
+  {
+   "t": 117,
+   "entity": "Pulsar",
+   "attribute": "deploy branch",
+   "scope": "default",
+   "value": "release-714",
+   "previous_value": ""
+  },
+  {
+   "t": 118,
+   "entity": "Quasar",
+   "attribute": "backup time",
+   "scope": "default",
+   "value": "22:50",
+   "previous_value": "17:35"
+  },
+  {
+   "t": 119,
+   "entity": "Marlin",
+   "attribute": "backup time",
+   "scope": "default",
+   "value": "16:10",
+   "previous_value": ""
+  },
+  {
+   "t": 120,
+   "entity": "Quasar",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "1400 ms",
+   "previous_value": "150 ms"
+  },
+  {
+   "t": 121,
+   "entity": "Pegasus",
+   "attribute": "disk quota",
+   "scope": "default",
+   "value": "1622 GB",
+   "previous_value": "2680 GB"
+  },
+  {
+   "t": 122,
+   "entity": "Lumen",
+   "attribute": "line length",
+   "scope": "default",
+   "value": "141 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 123,
+   "entity": "Helix",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "2863 GB",
+   "previous_value": "1399 GB"
+  },
+  {
+   "t": 124,
+   "entity": "Lumen",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "1428 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 125,
+   "entity": "Cedar",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "489 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 126,
+   "entity": "Zircon",
+   "attribute": "cloud budget",
+   "scope": "default",
+   "value": "$9260",
+   "previous_value": ""
+  },
+  {
+   "t": 127,
+   "entity": "Marlin",
+   "attribute": "backup time",
+   "scope": "default",
+   "value": "16:10",
+   "previous_value": ""
+  },
+  {
+   "t": 128,
+   "entity": "Wildfire",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "5450 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 129,
+   "entity": "Bramble",
+   "attribute": "maintenance window",
+   "scope": "GPU queue",
+   "value": "19:20",
+   "previous_value": ""
+  },
+  {
+   "t": 130,
+   "entity": "Quasar",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "1400 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 131,
+   "entity": "Bramble",
+   "attribute": "SSH port",
+   "scope": "default",
+   "value": "2303",
+   "previous_value": "3629"
+  },
+  {
+   "t": 132,
+   "entity": "Marlin",
+   "attribute": "backup time",
+   "scope": "batch jobs",
+   "value": "11:20",
+   "previous_value": ""
+  },
+  {
+   "t": 133,
+   "entity": "Tundra",
+   "attribute": "disk quota",
+   "scope": "default",
+   "value": "1246 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 134,
+   "entity": "Tundra",
+   "attribute": "disk quota",
+   "scope": "weekend runs",
+   "value": "457 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 135,
+   "entity": "Kestrel",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "22:25",
+   "previous_value": ""
+  },
+  {
+   "t": 136,
+   "entity": "Nordic",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "8465",
+   "previous_value": "3625"
+  },
+  {
+   "t": 137,
+   "entity": "Pulsar",
+   "attribute": "deploy branch",
+   "scope": "canary cluster",
+   "value": "release-870",
+   "previous_value": ""
+  },
+  {
+   "t": 138,
+   "entity": "Magma",
+   "attribute": "line length",
+   "scope": "Fridays",
+   "value": "202",
+   "previous_value": ""
+  },
+  {
+   "t": 139,
+   "entity": "Nordic",
+   "attribute": "deploy branch",
+   "scope": "batch jobs",
+   "value": "release-191",
+   "previous_value": ""
+  },
+  {
+   "t": 140,
+   "entity": "Wildfire",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "1300 ms",
+   "previous_value": "5450 ms"
+  },
+  {
+   "t": 141,
+   "entity": "Quasar",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "6257",
+   "previous_value": ""
+  },
+  {
+   "t": 142,
+   "entity": "Wildfire",
+   "attribute": "DB pool size",
+   "scope": "canary cluster",
+   "value": "229",
+   "previous_value": ""
+  },
+  {
+   "t": 143,
+   "entity": "Krypton",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "8800 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 144,
+   "entity": "Redwood",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "18:15",
+   "previous_value": ""
+  },
+  {
+   "t": 145,
+   "entity": "Magma",
+   "attribute": "build cache size",
+   "scope": "hotfix branches",
+   "value": "753 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 146,
+   "entity": "Helix",
+   "attribute": "test coverage threshold",
+   "scope": "default",
+   "value": "52%",
+   "previous_value": ""
+  },
+  {
+   "t": 147,
+   "entity": "Kestrel",
+   "attribute": "minimum test coverage",
+   "scope": "Fridays",
+   "value": "85%",
+   "previous_value": ""
+  },
+  {
+   "t": 148,
+   "entity": "Pulsar",
+   "attribute": "DB pool size",
+   "scope": "default",
+   "value": "61",
+   "previous_value": ""
+  },
+  {
+   "t": 150,
+   "entity": "default",
+   "attribute": "build memory limit",
+   "scope": "laptop",
+   "value": "9321m",
+   "previous_value": ""
+  },
+  {
+   "t": 151,
+   "entity": "Wildfire",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "1300",
+   "previous_value": ""
+  },
+  {
+   "t": 152,
+   "entity": "Marlin",
+   "attribute": "DB pool size",
+   "scope": "default",
+   "value": "334",
+   "previous_value": ""
+  },
+  {
+   "t": 153,
+   "entity": "Raven",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "5500",
+   "previous_value": "4350"
+  },
+  {
+   "t": 149,
+   "misc": "Docker commands do not need sudo on this machine."
+  },
+  {
+   "t": 154,
+   "entity": "Lumen",
+   "attribute": "line length",
+   "scope": "hotfix branches",
+   "value": "183",
+   "previous_value": ""
+  },
+  {
+   "t": 155,
+   "entity": "Wildfire",
+   "attribute": "DB pool size",
+   "scope": "default",
+   "value": "167",
+   "previous_value": ""
+  },
+  {
+   "t": 156,
+   "entity": "Tundra",
+   "attribute": "SSH port",
+   "scope": "weekend runs",
+   "value": "3933",
+   "previous_value": ""
+  },
+  {
+   "t": 157,
+   "entity": "Rune",
+   "attribute": "line length",
+   "scope": "default",
+   "value": "119",
+   "previous_value": ""
+  },
+  {
+   "t": 158,
+   "entity": "Bramble",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "313",
+   "previous_value": ""
+  },
+  {
+   "t": 159,
+   "entity": "Marlin",
+   "attribute": "DB pool size",
+   "scope": "default",
+   "value": "30",
+   "previous_value": ""
+  },
+  {
+   "t": 160,
+   "entity": "Pegasus",
+   "attribute": "SSH port",
+   "scope": "default",
+   "value": "3241",
+   "previous_value": "3535"
+  },
+  {
+   "t": 161,
+   "entity": "Helix",
+   "attribute": "test coverage threshold",
+   "scope": "default",
+   "value": "52%",
+   "previous_value": "52%"
+  },
+  {
+   "t": 162,
+   "entity": "Marlin",
+   "attribute": "deploy branch",
+   "scope": "batch jobs",
+   "value": "release-194",
+   "previous_value": ""
+  },
+  {
+   "t": 163,
+   "entity": "Pegasus",
+   "attribute": "SSH port",
+   "scope": "GPU queue",
+   "value": "6623",
+   "previous_value": ""
+  },
+  {
+   "t": 164,
+   "entity": "Vega",
+   "attribute": "max containers",
+   "scope": "weekend runs",
+   "value": "337",
+   "previous_value": ""
+  },
+  {
+   "t": 165,
+   "entity": "Wildfire",
+   "attribute": "worker count",
+   "scope": "default",
+   "value": "286",
+   "previous_value": "286"
+  },
+  {
+   "t": 166,
+   "entity": "Kestrel",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "19:55",
+   "previous_value": ""
+  },
+  {
+   "t": 167,
+   "entity": "Zircon",
+   "attribute": "maximum line width",
+   "scope": "intern cohort",
+   "value": "166 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 168,
+   "entity": "Redwood",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "14:50",
+   "previous_value": "18:15"
+  },
+  {
+   "t": 169,
+   "entity": "Zircon",
+   "attribute": "line length",
+   "scope": "default",
+   "value": "129 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 170,
+   "entity": "Redwood",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "14:50",
+   "previous_value": ""
+  },
+  {
+   "t": 171,
+   "entity": "Grafana dashboard #6813",
+   "attribute": "dashboard purpose",
+   "scope": "default",
+   "value": "cluster health overview",
+   "previous_value": ""
+  },
+  {
+   "t": 172,
+   "entity": "Pegasus",
+   "attribute": "disk quota",
+   "scope": "default",
+   "value": "2444 GB",
+   "previous_value": "1622 GB"
+  },
+  {
+   "t": 173,
+   "entity": "Redwood",
+   "attribute": "build cache size",
+   "scope": "intern cohort",
+   "value": "607 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 174,
+   "entity": "Krypton",
+   "attribute": "request timeout",
+   "scope": "canary cluster",
+   "value": "1650 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 175,
+   "entity": "Pulsar",
+   "attribute": "DB pool size",
+   "scope": "batch jobs",
+   "value": "465",
+   "previous_value": ""
+  },
+  {
+   "t": 176,
+   "entity": "Quasar",
+   "attribute": "API port",
+   "scope": "EU region",
+   "value": "4355",
+   "previous_value": ""
+  },
+  {
+   "t": 177,
+   "entity": "Pulsar",
+   "attribute": "deploy branch",
+   "scope": "default",
+   "value": "release-700",
+   "previous_value": ""
+  },
+  {
+   "t": 178,
+   "entity": "Zenith",
+   "attribute": "address",
+   "scope": "GPU queue",
+   "value": "10.240.84.97",
+   "previous_value": ""
+  },
+  {
+   "t": 179,
+   "entity": "Redwood",
+   "attribute": "line length",
+   "scope": "default",
+   "value": "133",
+   "previous_value": ""
+  }
+ ],
+ "usage": {
+  "calls": 37,
+  "prompt_tokens": 25841,
+  "gen_tokens": 8154,
+  "seconds": 521.2,
+  "cache_hits": 0
+ },
+ "stats": {
+  "calls": 37,
+  "parse_errors": 0,
+  "facts": 183,
+  "ungrounded": 2,
+  "wall_s": 521.2
+ }
+}

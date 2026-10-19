@@ -1,0 +1,47 @@
+{
+ "entries": [
+  "Vega — sshd: 7555 | maintenance: 21:15 | IP: 10.115.181.131",
+  "Orion — coverage: 91% | stand-up: 12:50 | code review: 15h | intern: 90%",
+  "Bramble — coverage: 87% | build cache: 2423 GB | line length: 133 chars",
+  "Falcon — line length: 240 chars | stand-up: 21:25 | cloud budget: $3790 | frontend: 22:05",
+  "Delta — build cache: 1527 GB | cloud budget: $3960",
+  "Harbor — build cache: 1933 GB | line length: 105 chars | stand-up: 14:25 | intern: 22:40",
+  "Indigo — IP: 10.80.112.130 | containers: 282 | disk quota: 855 GB | weekend: 10.214.67.54",
+  "Kestrel — maintenance: 14:20 | swap: 390 GB | containers: 218 | max: 379 | weekend: 218",
+  "Pulsar — DB pool: 319 | log retention: 283 days | canary: 225 days | test: 373",
+  "Prism — IP: 10.220.84.209 | maintenance: 14:05 | disk quota: 573 GB | backup: 1336 GB",
+  "Sierra — workers: 234 | timeout: 5150 ms | backup: 14:55 | canary: 5650 ms",
+  "Comet — stand-up: 23:25 | line length: 93 chars | cloud budget: $2350 | frontend: 185 chars",
+  "Solstice — backup: 10:05 | deploy: release-764 | API: 3901",
+  "Vesper — coverage: 44% | stand-up: 19:40 | frontend: 17:20 | cloud budget: $7250",
+  "Fjord — line length: 83 chars | build cache: 2521 GB | code review: 7h | intern: 72h",
+  "Ember — upload: 1072 MB | HTTP: 2855 | deploy: release-499 | EU: 2512 MB",
+  "Wren — timeout: 4950 ms | DB pool: 287 | API: 3435 (mobile)",
+  "Maple — IP: 10.133.200.145 | maintenance: 10:45 | swap: 941 GB | CI: 23:50",
+  "Basalt — IP: 10.44.212.224 | swap: 2903 GB | SSH: 8676 | weekend: 10.61.227.87",
+  "Thistle — line length: 82 chars | stand-up: 13:05 | code review: 70h",
+  "Umbra — build cache: 2933 GB | code review: 56h | line length: 163 (Fri) | intern: 182 GB",
+  "Jasper — upload: 1936 MB | DB pool: 89 | log retention: 170 days | mobile: 3200 MB",
+  "Alder — upload: 1216 MB | workers: 436 | deploy: release-698 | batch: release-636",
+  "Dune — IP: 10.246.49.137 | containers: 114 | swap: 1848 GB | weekend: 10.214.67.54",
+  "Harbor — build cache: 1933 GB | line length: 105 chars | stand-up: 14:25 | intern: 22:40",
+  "Indigo — IP: 10.80.112.130 | containers: 282 | disk quota: 855 GB | weekend: 10.214.67.54",
+  "Kestrel — maintenance: 14:20 | swap: 390 GB | containers: 218 | max: 379 | weekend: 218"
+ ],
+ "chars": 2182,
+ "usage": {
+  "calls": 2,
+  "prompt_tokens": 9240,
+  "gen_tokens": 2800,
+  "seconds": 98.36,
+  "cache_hits": 1
+ },
+ "stats": {
+  "first_chars": 2917,
+  "retried": true,
+  "chars_before_cut": 2912,
+  "truncated": true
+ },
+ "wall_s": 48.2,
+ "raw_chars": 10325
+}

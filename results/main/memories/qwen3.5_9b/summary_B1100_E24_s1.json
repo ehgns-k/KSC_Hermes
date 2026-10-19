@@ -1,0 +1,40 @@
+{
+ "entries": [
+  "Vega: IP 10.115.181.131, maint 21:15, sshd 7555.",
+  "Orion: cov 91%, stand-up 12:50, intern cov 90%.",
+  "Bramble: cov 87%, cache 2423 GB, line 133.",
+  "Delta: cache 1527 GB.",
+  "Falcon: line 240, stand-up 21:25, frontend 22:05.",
+  "Fjord: SLA 7h, cache 2521 GB, line 83.",
+  "Indigo: IP 10.80.112.130, containers 282, quota 855 GB, wknd IP 10.214.67.54.",
+  "Kestrel: swap 390 GB, maint 14:20, containers 218 (wknd exc).",
+  "Harbor: cache 1933 GB, line 105, intern stand-up 22:40.",
+  "Jasper: upload 1936 MB, log 170d, pool 89 (mobile 472).",
+  "Maple: IP 10.133.200.145, maint 10:45, swap 941 GB (CI 2667).",
+  "Prism: maint 14:05, quota 573 GB (backup 1336), IP 10.220.84.209.",
+  "Pulsar: workers 183, pool 319, log 283d (canary 225).",
+  "Sierra: workers 234, timeout 5150 ms (canary 5650).",
+  "Solstice: backup 19:15, deploy release-764, API 3901.",
+  "Thistle: line 82, stand-up 13:05, SLA 70h.",
+  "Umbra: line 120, cache 2933 GB (intern 182), Fri line 163, Fri SLA 42h.",
+  "Vesper: budget $7250, stand-up 19:40 (frontend 17:20).",
+  "Wren: timeout 4950 ms, API 3435 (mobile).",
+  "Alder: upload 1216 MB, workers 436,"
+ ],
+ "chars": 1076,
+ "usage": {
+  "calls": 2,
+  "prompt_tokens": 8576,
+  "gen_tokens": 1634,
+  "seconds": 49.49,
+  "cache_hits": 0
+ },
+ "stats": {
+  "first_chars": 1833,
+  "retried": true,
+  "chars_before_cut": 1428,
+  "truncated": true
+ },
+ "wall_s": 49.5,
+ "raw_chars": 10325
+}

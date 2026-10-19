@@ -1,0 +1,18 @@
+[17:25:13] qwen3.5:9b E=24 s=1 B=0 cem_ledger   chars=  3362 acc=0.811 build=   0.0s qa= 147.4s
+[17:29:11] qwen3.5:9b E=24 s=1 B=0 compact1     chars=  9151 acc=0.682 build=  87.8s qa= 149.9s
+[17:35:40] qwen3.5:9b E=24 s=1 B=0 compact3     chars=  8321 acc=0.757 build= 238.2s qa= 150.7s
+[17:44:33] qwen3.5:9b E=24 s=1 B=0 compact5     chars=  9154 acc=0.642 build= 379.2s qa= 154.0s
+[18:03:00] qwen3.5:9b E=24 s=1 B=0 compact10    chars=  9137 acc=0.649 build= 959.2s qa= 148.1s
+LLM usage: {'calls': 759, 'prompt_tokens': 2150698, 'gen_tokens': 56314, 'seconds': 3897.04, 'cache_hits': 0}
+[19:12:59] qwen3.5:9b E=24 s=2 B=0 cem_ledger   chars=  3692 acc=0.802 build=   0.0s qa= 178.7s
+[19:17:52] qwen3.5:9b E=24 s=2 B=0 compact1     chars=  8500 acc=0.683 build= 121.5s qa= 171.3s
+[19:24:59] qwen3.5:9b E=24 s=2 B=0 compact3     chars=  7948 acc=0.617 build= 258.0s qa= 168.7s
+[19:35:06] qwen3.5:9b E=24 s=2 B=0 compact5     chars=  8546 acc=0.515 build= 439.1s qa= 167.9s
+[19:51:31] qwen3.5:9b E=24 s=2 B=0 compact10    chars=  8686 acc=0.515 build= 816.9s qa= 168.2s
+LLM usage: {'calls': 854, 'prompt_tokens': 2447534, 'gen_tokens': 57545, 'seconds': 4183.7, 'cache_hits': 0}
+[19:57:58] qwen3.5:9b E=24 s=3 B=0 cem_ledger   chars=  3536 acc=0.750 build=   0.0s qa= 121.0s
+[20:01:08] qwen3.5:9b E=24 s=3 B=0 compact1     chars=  8791 acc=0.681 build=  65.7s qa= 124.6s
+[20:06:10] qwen3.5:9b E=24 s=3 B=0 compact3     chars=  9629 acc=0.719 build= 177.6s qa= 124.3s
+[20:13:25] qwen3.5:9b E=24 s=3 B=0 compact5     chars=  8223 acc=0.656 build= 310.0s qa= 124.3s
+[20:25:36] qwen3.5:9b E=24 s=3 B=0 compact10    chars=  7673 acc=0.412 build= 609.8s qa= 121.5s
+LLM usage: {'calls': 819, 'prompt_tokens': 2329190, 'gen_tokens': 57013, 'seconds': 2998.36, 'cache_hits': 0}

@@ -1,0 +1,1350 @@
+{
+ "records": [
+  {
+   "t": 0,
+   "entity": "Vega",
+   "attribute": "maintenance window",
+   "scope": "default",
+   "value": "21:15",
+   "previous_value": ""
+  },
+  {
+   "t": 0,
+   "entity": "Vega",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.115.181.131",
+   "previous_value": ""
+  },
+  {
+   "t": 1,
+   "entity": "Vega",
+   "attribute": "pre-push test command",
+   "scope": "default",
+   "value": "make test",
+   "previous_value": ""
+  },
+  {
+   "t": 2,
+   "entity": "Vega",
+   "attribute": "Jira board ID",
+   "scope": "default",
+   "value": "2531",
+   "previous_value": ""
+  },
+  {
+   "t": 3,
+   "entity": "Vega",
+   "attribute": "sshd port",
+   "scope": "default",
+   "value": "7555",
+   "previous_value": ""
+  },
+  {
+   "t": 4,
+   "entity": "Orion",
+   "attribute": "test coverage threshold",
+   "scope": "default",
+   "value": "91%",
+   "previous_value": ""
+  },
+  {
+   "t": 5,
+   "entity": "license server",
+   "attribute": "port",
+   "scope": "default",
+   "value": "4656",
+   "previous_value": ""
+  },
+  {
+   "t": 6,
+   "entity": "Orion team",
+   "attribute": "code review SLA",
+   "scope": "default",
+   "value": "15 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 7,
+   "entity": "Bramble team",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "2423 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 8,
+   "entity": "Orion",
+   "attribute": "test coverage threshold",
+   "scope": "default",
+   "value": "91%",
+   "previous_value": "94%"
+  },
+  {
+   "t": 9,
+   "entity": "Orion",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "16:10",
+   "previous_value": ""
+  },
+  {
+   "t": 10,
+   "entity": "Orion",
+   "attribute": "test coverage threshold",
+   "scope": "default",
+   "value": "91%",
+   "previous_value": ""
+  },
+  {
+   "t": 11,
+   "entity": "Bramble",
+   "attribute": "test coverage threshold",
+   "scope": "default",
+   "value": "48%",
+   "previous_value": ""
+  },
+  {
+   "t": 12,
+   "entity": "Orion",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "1527 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 13,
+   "entity": "Vega",
+   "attribute": "pre-push test command",
+   "scope": "default",
+   "value": "retry delay of 4829 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 14,
+   "entity": "Harbor",
+   "attribute": "max line length",
+   "scope": "default",
+   "value": "105 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 15,
+   "entity": "Orion",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "12:50",
+   "previous_value": ""
+  },
+  {
+   "t": 16,
+   "entity": "Vega",
+   "attribute": "pull request size",
+   "scope": "default",
+   "value": "small",
+   "previous_value": ""
+  },
+  {
+   "t": 17,
+   "entity": "Falcon",
+   "attribute": "line length limit",
+   "scope": "default",
+   "value": "240 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 18,
+   "entity": "Bramble",
+   "attribute": "line length limit",
+   "scope": "default",
+   "value": "133 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 19,
+   "entity": "Delta",
+   "attribute": "monthly cloud budget",
+   "scope": "default",
+   "value": "$3960",
+   "previous_value": ""
+  },
+  {
+   "t": 20,
+   "entity": "Falcon",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "21:25",
+   "previous_value": ""
+  },
+  {
+   "t": 21,
+   "entity": "Falcon",
+   "attribute": "monthly cloud spend limit",
+   "scope": "default",
+   "value": "$3790",
+   "previous_value": ""
+  },
+  {
+   "t": 22,
+   "entity": "Vesper",
+   "attribute": "monthly cloud budget",
+   "scope": "default",
+   "value": "$7250",
+   "previous_value": ""
+  },
+  {
+   "t": 23,
+   "entity": "Orion",
+   "attribute": "test coverage threshold",
+   "scope": "intern cohort",
+   "value": "90%",
+   "previous_value": ""
+  },
+  {
+   "t": 24,
+   "entity": "Fjord",
+   "attribute": "code review SLA",
+   "scope": "default",
+   "value": "7 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 24,
+   "entity": "Fjord",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "1231 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 25,
+   "entity": "Vesper",
+   "attribute": "test coverage threshold",
+   "scope": "default",
+   "value": "44%",
+   "previous_value": ""
+  },
+  {
+   "t": 26,
+   "entity": "Indigo",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.49.67.29",
+   "previous_value": ""
+  },
+  {
+   "t": 27,
+   "entity": "Pulsar",
+   "attribute": "worker count",
+   "scope": "default",
+   "value": "183",
+   "previous_value": ""
+  },
+  {
+   "t": 28,
+   "entity": "Vesper",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "16:55",
+   "previous_value": ""
+  },
+  {
+   "t": 29,
+   "entity": "Harbor",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "1724 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 30,
+   "entity": "Harbor",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "14:25",
+   "previous_value": ""
+  },
+  {
+   "t": 31,
+   "entity": "Indigo",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "379",
+   "previous_value": ""
+  },
+  {
+   "t": 32,
+   "entity": "Kestrel",
+   "attribute": "swap space",
+   "scope": "default",
+   "value": "1014 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 32,
+   "entity": "Kestrel",
+   "attribute": "maintenance slot",
+   "scope": "default",
+   "value": "21:40",
+   "previous_value": ""
+  },
+  {
+   "t": 33,
+   "entity": "Pulsar",
+   "attribute": "DB connection pool",
+   "scope": "default",
+   "value": "319",
+   "previous_value": ""
+  },
+  {
+   "t": 34,
+   "misc": "Avoid force-pushing to shared branches."
+  },
+  {
+   "t": 35,
+   "entity": "Ember",
+   "attribute": "max upload size",
+   "scope": "default",
+   "value": "2432 MB",
+   "previous_value": ""
+  },
+  {
+   "t": 36,
+   "entity": "Falcon",
+   "attribute": "stand-up time",
+   "scope": "frontend squad",
+   "value": "22:05",
+   "previous_value": ""
+  },
+  {
+   "t": 37,
+   "entity": "Wren",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "4950 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 38,
+   "entity": "Comet",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "23:25",
+   "previous_value": ""
+  },
+  {
+   "t": 39,
+   "entity": "Solstice",
+   "attribute": "nightly backup time",
+   "scope": "default",
+   "value": "15:55",
+   "previous_value": ""
+  },
+  {
+   "t": 40,
+   "entity": "Fjord",
+   "attribute": "max line length",
+   "scope": "default",
+   "value": "75 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 41,
+   "entity": "Vega",
+   "attribute": "pre-push test command",
+   "scope": "default",
+   "value": "ruff",
+   "previous_value": ""
+  },
+  {
+   "t": 42,
+   "entity": "Prism",
+   "attribute": "maintenance window",
+   "scope": "default",
+   "value": "14:05",
+   "previous_value": ""
+  },
+  {
+   "t": 43,
+   "entity": "Ember",
+   "attribute": "deploy branch",
+   "scope": "default",
+   "value": "release-499",
+   "previous_value": ""
+  },
+  {
+   "t": 44,
+   "entity": "Orion",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "12:50",
+   "previous_value": "12:10"
+  },
+  {
+   "t": 45,
+   "entity": "Solstice",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "3901",
+   "previous_value": ""
+  },
+  {
+   "t": 46,
+   "entity": "Wren",
+   "attribute": "DB pool size",
+   "scope": "default",
+   "value": "287",
+   "previous_value": ""
+  },
+  {
+   "t": 47,
+   "entity": "Pulsar",
+   "attribute": "log retention period",
+   "scope": "default",
+   "value": "283 days",
+   "previous_value": ""
+  },
+  {
+   "t": 48,
+   "entity": "Indigo",
+   "attribute": "disk quota",
+   "scope": "default",
+   "value": "876 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 49,
+   "entity": "Kestrel",
+   "attribute": "swap space",
+   "scope": "default",
+   "value": "1170 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 50,
+   "entity": "Prism",
+   "attribute": "disk quota",
+   "scope": "default",
+   "value": "573 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 51,
+   "entity": "Vega",
+   "attribute": "pre-push test command",
+   "scope": "default",
+   "value": "make test",
+   "previous_value": ""
+  },
+  {
+   "t": 52,
+   "entity": "Solstice",
+   "attribute": "deploy branch",
+   "scope": "default",
+   "value": "release-375",
+   "previous_value": ""
+  },
+  {
+   "t": 53,
+   "entity": "Bramble",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "2423 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 54,
+   "entity": "Harbor",
+   "attribute": "max line length",
+   "scope": "default",
+   "value": "105 chars",
+   "previous_value": "113 chars"
+  },
+  {
+   "t": 55,
+   "misc": "Avoid force-pushing to shared branches."
+  },
+  {
+   "t": 56,
+   "entity": "Kestrel",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "218",
+   "previous_value": ""
+  },
+  {
+   "t": 57,
+   "entity": "Jasper",
+   "attribute": "log retention period",
+   "scope": "default",
+   "value": "267 days",
+   "previous_value": ""
+  },
+  {
+   "t": 58,
+   "entity": "Umbra",
+   "attribute": "max line length",
+   "scope": "default",
+   "value": "120 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 59,
+   "entity": "Maple",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.133.200.145",
+   "previous_value": ""
+  },
+  {
+   "t": 60,
+   "entity": "Bramble",
+   "attribute": "line length limit",
+   "scope": "default",
+   "value": "133",
+   "previous_value": ""
+  },
+  {
+   "t": 61,
+   "entity": "Kestrel",
+   "attribute": "swap space",
+   "scope": "default",
+   "value": "390 GB",
+   "previous_value": "1170 GB"
+  },
+  {
+   "t": 62,
+   "entity": "Grafana dashboard #5033",
+   "attribute": "dashboard type",
+   "scope": "default",
+   "value": "cluster health overview",
+   "previous_value": ""
+  },
+  {
+   "t": 63,
+   "entity": "Thistle",
+   "attribute": "line length limit",
+   "scope": "default",
+   "value": "82",
+   "previous_value": ""
+  },
+  {
+   "t": 64,
+   "entity": "Ember",
+   "attribute": "HTTP port",
+   "scope": "default",
+   "value": "2855",
+   "previous_value": ""
+  },
+  {
+   "t": 65,
+   "entity": "Prism",
+   "attribute": "maintenance window",
+   "scope": "default",
+   "value": "14:05",
+   "previous_value": ""
+  },
+  {
+   "t": 66,
+   "entity": "Sierra",
+   "attribute": "worker count",
+   "scope": "default",
+   "value": "92",
+   "previous_value": ""
+  },
+  {
+   "t": 67,
+   "entity": "Comet",
+   "attribute": "line length limit",
+   "scope": "default",
+   "value": "213",
+   "previous_value": ""
+  },
+  {
+   "t": 68,
+   "entity": "Umbra",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "2933 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 69,
+   "entity": "Umbra",
+   "attribute": "code review SLA",
+   "scope": "default",
+   "value": "56 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 70,
+   "entity": "Thistle",
+   "attribute": "code review SLA",
+   "scope": "default",
+   "value": "70 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 71,
+   "entity": "Jasper",
+   "attribute": "max upload size",
+   "scope": "default",
+   "value": "368 MB",
+   "previous_value": ""
+  },
+  {
+   "t": 72,
+   "entity": "Comet",
+   "attribute": "monthly cloud budget",
+   "scope": "default",
+   "value": "$2350",
+   "previous_value": ""
+  },
+  {
+   "t": 73,
+   "entity": "Sierra",
+   "attribute": "nightly backup time",
+   "scope": "default",
+   "value": "14:55",
+   "previous_value": ""
+  },
+  {
+   "t": 74,
+   "entity": "Wren",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "2669",
+   "previous_value": ""
+  },
+  {
+   "t": 75,
+   "entity": "Kestrel",
+   "attribute": "max containers",
+   "scope": "weekend runs",
+   "value": "211",
+   "previous_value": ""
+  },
+  {
+   "t": 76,
+   "entity": "Prism",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.220.84.209",
+   "previous_value": ""
+  },
+  {
+   "t": 77,
+   "entity": "Sierra",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "5150 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 78,
+   "entity": "Jasper",
+   "attribute": "DB pool size",
+   "scope": "default",
+   "value": "89",
+   "previous_value": ""
+  },
+  {
+   "t": 79,
+   "entity": "Umbra",
+   "attribute": "build cache size",
+   "scope": "intern cohort",
+   "value": "182 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 80,
+   "entity": "Indigo",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "282",
+   "previous_value": "379"
+  },
+  {
+   "t": 81,
+   "entity": "Kestrel",
+   "attribute": "maintenance window",
+   "scope": "default",
+   "value": "14:20",
+   "previous_value": ""
+  },
+  {
+   "t": 82,
+   "entity": "Dune",
+   "attribute": "swap space",
+   "scope": "default",
+   "value": "776 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 83,
+   "entity": "Thistle",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "15:50",
+   "previous_value": ""
+  },
+  {
+   "t": 85,
+   "entity": "Prism",
+   "attribute": "disk_quota",
+   "scope": "default",
+   "value": "573 GB",
+   "previous_value": "573 GB"
+  },
+  {
+   "t": 86,
+   "entity": "Bramble",
+   "attribute": "test_coverage_threshold",
+   "scope": "default",
+   "value": "48%",
+   "previous_value": ""
+  },
+  {
+   "t": 87,
+   "entity": "Alder",
+   "attribute": "max_upload_size",
+   "scope": "default",
+   "value": "1216 MB",
+   "previous_value": ""
+  },
+  {
+   "t": 84,
+   "misc": "Docker commands do not need sudo on this machine."
+  },
+  {
+   "t": 88,
+   "entity": "Pulsar",
+   "attribute": "log retention period",
+   "scope": "canary cluster",
+   "value": "225 days",
+   "previous_value": ""
+  },
+  {
+   "t": 89,
+   "entity": "Comet",
+   "attribute": "line length limit",
+   "scope": "default",
+   "value": "93 chars",
+   "previous_value": "213 chars"
+  },
+  {
+   "t": 90,
+   "entity": "Maple",
+   "attribute": "swap space",
+   "scope": "default",
+   "value": "2119 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 91,
+   "entity": "Harbor",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "1933 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 92,
+   "entity": "Vega",
+   "attribute": "pull request size",
+   "scope": "default",
+   "value": "small",
+   "previous_value": ""
+  },
+  {
+   "t": 93,
+   "entity": "Maple",
+   "attribute": "maintenance window",
+   "scope": "default",
+   "value": "10:45",
+   "previous_value": ""
+  },
+  {
+   "t": 94,
+   "entity": "Basalt",
+   "attribute": "sshd port",
+   "scope": "default",
+   "value": "2306",
+   "previous_value": ""
+  },
+  {
+   "t": 95,
+   "entity": "Alder",
+   "attribute": "worker count",
+   "scope": "default",
+   "value": "199",
+   "previous_value": ""
+  },
+  {
+   "t": 96,
+   "entity": "Dune",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "392",
+   "previous_value": ""
+  },
+  {
+   "t": 97,
+   "entity": "Indigo",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.80.112.130",
+   "previous_value": "10.49.67.29"
+  },
+  {
+   "t": 98,
+   "entity": "Dune",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.64.69.30",
+   "previous_value": ""
+  },
+  {
+   "t": 99,
+   "entity": "Alder",
+   "attribute": "deploy branch",
+   "scope": "default",
+   "value": "release-655",
+   "previous_value": ""
+  },
+  {
+   "t": 100,
+   "entity": "Indigo",
+   "attribute": "disk quota",
+   "scope": "default",
+   "value": "855 GB",
+   "previous_value": "876 GB"
+  },
+  {
+   "t": 101,
+   "entity": "Thistle",
+   "attribute": "line length limit",
+   "scope": "default",
+   "value": "187 chars",
+   "previous_value": "82 chars"
+  },
+  {
+   "t": 102,
+   "entity": "Basalt",
+   "attribute": "swap space",
+   "scope": "default",
+   "value": "2903 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 104,
+   "entity": "Ember",
+   "attribute": "max upload size",
+   "scope": "default",
+   "value": "1072 MB",
+   "previous_value": ""
+  },
+  {
+   "t": 103,
+   "misc": "User likes summaries at the end of long answers."
+  },
+  {
+   "t": 105,
+   "entity": "Fjord",
+   "attribute": "code review SLA",
+   "scope": "intern cohort",
+   "value": "72 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 106,
+   "entity": "Pulsar",
+   "attribute": "DB connection pool",
+   "scope": "default",
+   "value": "319",
+   "previous_value": "373"
+  },
+  {
+   "t": 107,
+   "entity": "Umbra",
+   "attribute": "max line length",
+   "scope": "Fridays",
+   "value": "163 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 108,
+   "entity": "Bramble",
+   "attribute": "test coverage threshold",
+   "scope": "default",
+   "value": "87%",
+   "previous_value": ""
+  },
+  {
+   "t": 109,
+   "entity": "Harbor",
+   "attribute": "build cache size",
+   "scope": "frontend squad",
+   "value": "2439 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 110,
+   "entity": "Basalt",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.44.212.224",
+   "previous_value": ""
+  },
+  {
+   "t": 111,
+   "entity": "Alder",
+   "attribute": "worker count",
+   "scope": "default",
+   "value": "436",
+   "previous_value": ""
+  },
+  {
+   "t": 112,
+   "entity": "Vesper",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "19:40",
+   "previous_value": ""
+  },
+  {
+   "t": 113,
+   "entity": "Ember",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "2855",
+   "previous_value": ""
+  },
+  {
+   "t": 114,
+   "entity": "Fjord",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "2521 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 115,
+   "entity": "Solstice",
+   "attribute": "deploy branch",
+   "scope": "default",
+   "value": "release-281",
+   "previous_value": ""
+  },
+  {
+   "t": 116,
+   "entity": "Maple",
+   "attribute": "swap space",
+   "scope": "CI runner",
+   "value": "2667 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 117,
+   "entity": "Dune",
+   "attribute": "IP address",
+   "scope": "weekend runs",
+   "value": "10.214.67.54",
+   "previous_value": ""
+  },
+  {
+   "t": 118,
+   "entity": "Umbra",
+   "attribute": "code review SLA",
+   "scope": "default",
+   "value": "56 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 119,
+   "entity": "Dune",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.64.69.30",
+   "previous_value": ""
+  },
+  {
+   "t": 120,
+   "entity": "Solstice",
+   "attribute": "nightly backup time",
+   "scope": "default",
+   "value": "10:05",
+   "previous_value": "15:55"
+  },
+  {
+   "t": 121,
+   "entity": "Wren",
+   "attribute": "API port",
+   "scope": "mobile API",
+   "value": "3435",
+   "previous_value": ""
+  },
+  {
+   "t": 122,
+   "entity": "Umbra",
+   "attribute": "code review SLA",
+   "scope": "Fridays",
+   "value": "42 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 123,
+   "entity": "Prism",
+   "attribute": "disk quota",
+   "scope": "backup job",
+   "value": "1336 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 124,
+   "entity": "Maple",
+   "attribute": "maintenance window",
+   "scope": "CI runner",
+   "value": "23:50",
+   "previous_value": ""
+  },
+  {
+   "t": 125,
+   "entity": "Basalt",
+   "attribute": "IP address",
+   "scope": "weekend runs",
+   "value": "10.61.227.87",
+   "previous_value": ""
+  },
+  {
+   "t": 126,
+   "entity": "Solstice",
+   "attribute": "nightly backup time",
+   "scope": "default",
+   "value": "10:05",
+   "previous_value": ""
+  },
+  {
+   "t": 127,
+   "entity": "Thistle",
+   "attribute": "line length limit",
+   "scope": "default",
+   "value": "82",
+   "previous_value": "187"
+  },
+  {
+   "t": 128,
+   "entity": "Ember",
+   "attribute": "HTTP port",
+   "scope": "default",
+   "value": "4593",
+   "previous_value": ""
+  },
+  {
+   "t": 129,
+   "entity": "Vesper",
+   "attribute": "stand-up time",
+   "scope": "frontend squad",
+   "value": "17:20",
+   "previous_value": ""
+  },
+  {
+   "t": 130,
+   "misc": "User usually works late in the evening."
+  },
+  {
+   "t": 131,
+   "entity": "Fjord",
+   "attribute": "max line length",
+   "scope": "default",
+   "value": "83",
+   "previous_value": ""
+  },
+  {
+   "t": 132,
+   "entity": "Sierra",
+   "attribute": "request timeout",
+   "scope": "canary cluster",
+   "value": "5650 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 133,
+   "entity": "Jasper",
+   "attribute": "max upload size",
+   "scope": "default",
+   "value": "1200 MB",
+   "previous_value": ""
+  },
+  {
+   "t": 134,
+   "entity": "Ember",
+   "attribute": "deploy branch",
+   "scope": "default",
+   "value": "release-693",
+   "previous_value": ""
+  },
+  {
+   "t": 136,
+   "entity": "Sierra",
+   "attribute": "worker count",
+   "scope": "default",
+   "value": "234",
+   "previous_value": "92"
+  },
+  {
+   "t": 135,
+   "misc": "The user reads documentation in English but chats in Korean."
+  },
+  {
+   "t": 137,
+   "entity": "Dune",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "114",
+   "previous_value": ""
+  },
+  {
+   "t": 138,
+   "entity": "Fjord",
+   "attribute": "line length limit",
+   "scope": "default",
+   "value": "83",
+   "previous_value": ""
+  },
+  {
+   "t": 139,
+   "entity": "Thistle",
+   "attribute": "code review SLA",
+   "scope": "default",
+   "value": "70 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 140,
+   "entity": "Dune",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.246.49.137",
+   "previous_value": "10.64.69.30"
+  },
+  {
+   "t": 141,
+   "entity": "Ember",
+   "attribute": "max upload size",
+   "scope": "EU region",
+   "value": "2512 MB",
+   "previous_value": ""
+  },
+  {
+   "t": 143,
+   "entity": "Solstice",
+   "attribute": "deploy branch",
+   "scope": "default",
+   "value": "release-764",
+   "previous_value": "release-281"
+  },
+  {
+   "t": 144,
+   "entity": "Maple",
+   "attribute": "swap space",
+   "scope": "default",
+   "value": "941 GB",
+   "previous_value": "2119 GB"
+  },
+  {
+   "t": 145,
+   "entity": "Delta",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "1527 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 142,
+   "misc": "User wants dates written as YYYY-MM-DD."
+  },
+  {
+   "t": 146,
+   "entity": "Prism",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.220.84.209",
+   "previous_value": ""
+  },
+  {
+   "t": 147,
+   "entity": "Jasper",
+   "attribute": "DB pool size",
+   "scope": "mobile API",
+   "value": "472",
+   "previous_value": ""
+  },
+  {
+   "t": 148,
+   "entity": "Basalt",
+   "attribute": "sshd port",
+   "scope": "default",
+   "value": "8676",
+   "previous_value": "2306"
+  },
+  {
+   "t": 149,
+   "entity": "Jasper",
+   "attribute": "log retention period",
+   "scope": "default",
+   "value": "170",
+   "previous_value": ""
+  },
+  {
+   "t": 150,
+   "entity": "Dune",
+   "attribute": "swap space",
+   "scope": "default",
+   "value": "1848 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 151,
+   "entity": "Jasper",
+   "attribute": "max upload size",
+   "scope": "mobile API",
+   "value": "3200 MB",
+   "previous_value": ""
+  },
+  {
+   "t": 152,
+   "entity": "Solstice",
+   "attribute": "nightly backup time",
+   "scope": "default",
+   "value": "19:15",
+   "previous_value": ""
+  },
+  {
+   "t": 153,
+   "entity": "Thistle",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "13:05",
+   "previous_value": "15:50"
+  },
+  {
+   "t": 154,
+   "entity": "Fjord",
+   "attribute": "code review SLA",
+   "scope": "default",
+   "value": "7 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 155,
+   "entity": "Harbor",
+   "attribute": "stand-up time",
+   "scope": "intern cohort",
+   "value": "22:40",
+   "previous_value": ""
+  },
+  {
+   "t": 156,
+   "entity": "Dune",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "114",
+   "previous_value": ""
+  },
+  {
+   "t": 157,
+   "entity": "Comet",
+   "attribute": "line length limit",
+   "scope": "frontend squad",
+   "value": "185 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 158,
+   "entity": "Comet",
+   "attribute": "line length limit",
+   "scope": "default",
+   "value": "93 chars",
+   "previous_value": ""
+  },
+  {
+   "t": 159,
+   "entity": "Sierra",
+   "attribute": "request timeout",
+   "scope": "default",
+   "value": "5150 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 160,
+   "entity": "Vega",
+   "attribute": "maintenance window",
+   "scope": "default",
+   "value": "21:15",
+   "previous_value": ""
+  },
+  {
+   "t": 161,
+   "entity": "Basalt",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.44.212.224",
+   "previous_value": ""
+  },
+  {
+   "t": 162,
+   "entity": "Jasper",
+   "attribute": "max upload size",
+   "scope": "default",
+   "value": "1936 MB",
+   "previous_value": ""
+  },
+  {
+   "t": 163,
+   "entity": "Jasper",
+   "attribute": "max upload size",
+   "scope": "default",
+   "value": "1936 MB",
+   "previous_value": ""
+  },
+  {
+   "t": 164,
+   "entity": "Alder",
+   "attribute": "deploy branch",
+   "scope": "default",
+   "value": "release-698",
+   "previous_value": ""
+  },
+  {
+   "t": 165,
+   "entity": "Fjord",
+   "attribute": "build cache size",
+   "scope": "default",
+   "value": "2521 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 166,
+   "entity": "Alder",
+   "attribute": "deploy branch",
+   "scope": "batch jobs",
+   "value": "release-636",
+   "previous_value": ""
+  }
+ ],
+ "usage": {
+  "calls": 38,
+  "prompt_tokens": 26395,
+  "gen_tokens": 6944,
+  "seconds": 365.16,
+  "cache_hits": 0
+ },
+ "stats": {
+  "calls": 38,
+  "parse_errors": 0,
+  "facts": 163,
+  "ungrounded": 2,
+  "wall_s": 365.2
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "entries": [
+  "(2026-02-10) The stand-up time for Thistle is no longer 12:05; it is now 16:40.",
+  "(2026-02-10) Exception: for batch jobs, Nordic uses nightly backup time 13:20.",
+  "(2026-02-10) Note that the canary cluster of Wren overrides the log retention with 163 days.",
+  "(2026-02-10) Double-checked Vortex: the max containers remains 439.",
+  "(2026-02-11) User switched Wren to API port 8983.",
+  "(2026-02-11) Update: Juniper moved its stand-up time from 16:25 to 21:10.",
+  "(2026-02-11) The max line length for Juniper is no longer 84 chars; it is now 92 chars.",
+  "(2026-02-11) Except for weekend runs, where it is 717 GB, Zephyr keeps its usual disk quota.",
+  "(2026-02-13) The user is based in Seoul (KST, UTC+9).",
+  "(2026-02-13) Special case — Wren on the mobile API: API port 6293.",
+  "(2026-02-13) Wren's API port has been updated to 4097.",
+  "(2026-02-13) The user reads documentation in English but chats in Korean.",
+  "(2026-02-15) Juniper max line length changed from 92 chars to 97 chars.",
+  "(2026-02-15) Except for the frontend squad, where it is 68%, Thistle keeps its usual test coverage threshold."
+ ],
+ "chars": 1082,
+ "usage": {
+  "calls": 0,
+  "prompt_tokens": 0,
+  "gen_tokens": 0,
+  "seconds": 0.0,
+  "cache_hits": 0
+ },
+ "stats": {
+  "kept_notes": 14
+ },
+ "wall_s": 0.0,
+ "raw_chars": 5382
+}

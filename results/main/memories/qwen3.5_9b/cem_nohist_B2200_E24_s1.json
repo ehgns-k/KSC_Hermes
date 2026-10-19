@@ -1,0 +1,59 @@
+{
+ "entries": [
+  "Vega: maintenance window 21:15; IP address 10.115.181.131; Jira board ID 2531; sshd port 7555; pull request size small",
+  "Orion: test coverage threshold 91% (intern cohort: 90%); code review SLA 15 hours; stand-up time 12:50; build cache size 1527 GB",
+  "license: port 4656",
+  "Bramble: build cache size 2423 GB; line length limit 133",
+  "Harbor: max line length 105 chars; build cache size 1933 GB (frontend squad: 2439 GB); stand-up time 14:25 (intern cohort: 22:40)",
+  "Falcon: line length limit 240 chars; stand-up time 21:25 (frontend squad: 22:05)",
+  "Vesper: monthly cloud budget $7250; test coverage threshold 44%; stand-up time 19:40 (frontend squad: 17:20)",
+  "Fjord: code review SLA 7 hours (intern cohort: 72 hours); build cache size 2521 GB; max line length 83; line length limit 83",
+  "Indigo: IP address 10.80.112.130; max containers 282; disk quota 855 GB",
+  "Pulsar: worker count 183; DB connection pool 319",
+  "Kestrel: swap space 390 GB; maintenance slot 21:40; max containers 218 (weekend runs: 211); maintenance window 14:20",
+  "Ember: max upload size 1072 MB (EU region: 2512 MB); deploy branch release-693; HTTP port 4593; API port 2855",
+  "Wren: request timeout 4950 ms; DB pool size 287; API port 2669 (mobile API: 3435)",
+  "Comet: stand-up time 23:25; line length limit 93 chars (frontend squad: 185 chars); monthly cloud budget $2350",
+  "Solstice: nightly backup time 19:15; API port 3901; deploy branch release-764",
+  "Prism: maintenance window 14:05; disk quota 573 GB (backup job: 1336 GB); IP address 10.220.84.209",
+  "Jasper: log retention period 170; max upload size 1936 MB (mobile API: 3200 MB); DB pool size 89 (mobile API: 472)",
+  "Maple: IP address 10.133.200.145; swap space 941 GB (CI runner: 2667 GB); maintenance window 10:45 (CI runner: 23:50)",
+  "Thistle: line length limit 82; code review SLA 70 hours; stand-up time 13:05",
+  "Sierra: worker count 234; nightly backup time 14:55; request timeout 5150 ms (canary cluster: 5650 ms)",
+  "Dune: swap space 1848 GB; max containers 114; IP address 10.246.49.137 (weekend runs: 10.214.67.54)",
+  "Alder: max_upload_size 1216 MB; worker count 436; deploy branch release-698 (batch jobs: release-636)"
+ ],
+ "chars": 2143,
+ "usage": {
+  "calls": 38,
+  "prompt_tokens": 26395,
+  "gen_tokens": 6944,
+  "seconds": 365.16,
+  "cache_hits": 0
+ },
+ "stats": {
+  "dropped": {
+   "T1": 10,
+   "T2": 4,
+   "T3": 0,
+   "T0": 6
+  },
+  "kept": {
+   "T1": 70,
+   "T2": 19,
+   "T3": 0,
+   "T0": 0
+  },
+  "keys": 103,
+  "entities": 26,
+  "extract": {
+   "calls": 38,
+   "parse_errors": 0,
+   "facts": 163,
+   "ungrounded": 2,
+   "wall_s": 365.2
+  }
+ },
+ "wall_s": 0.0,
+ "raw_chars": 10325
+}

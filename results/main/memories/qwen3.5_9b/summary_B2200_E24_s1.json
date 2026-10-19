@@ -1,0 +1,47 @@
+{
+ "entries": [
+  "Vega host maintenance window: 21:15; IP: 10.115.181.131; sshd port: 7555.",
+  "Orion test coverage: 91% (intern: 90%); stand-up: 12:50; code review SLA: 15h.",
+  "Bramble coverage: 87% (intern: 48%); build cache: 2423 GB; line length: 133 chars.",
+  "Delta build cache: 1527 GB.",
+  "Falcon line length: 240 chars; stand-up: 21:25 (frontend: 22:05); budget: $3790.",
+  "Fjord SLA: 7h; cache: 2521 GB; line length: 83 chars.",
+  "Indigo IP: 10.80.112.130; containers: 282; disk: 855 GB (weekend: 10.214.67.54).",
+  "Kestrel maintenance: 14:20; swap: 390 GB; containers: 218 (weekend override).",
+  "Maple IP: 10.133.200.145; maintenance: 10:45; swap: 941 GB (CI: 2667 GB); CI maint: 23:50.",
+  "Prism maintenance: 14:05; disk: 573 GB (backup: 1336 GB); IP: 10.220.84.209.",
+  "Pulsar workers: 183; DB pool: 319; log retention: 283 days (canary: 225).",
+  "Sierra workers: 234; timeout: 5150 ms (canary: 5650 ms); backup: 14:55.",
+  "Solstice backup: 10:05 (recently 19:15); deploy: release-764; API: 3901.",
+  "Umbra line length: 120 chars (Fri: 163); SLA: 56h (Fri: 42h); cache: 182 GB (intern).",
+  "Wren timeout: 4950 ms; API: 3435 (mobile only).",
+  "Harbor line length: 105 chars; cache: 1933 GB (frontend: 2439 GB).",
+  "Jasper upload: 1200 MB (recently 1936 MB); DB pool: 89 (mobile: 472); log: 170 days.",
+  "Ember upload: 1072 MB (EU: 2512 MB); deploy: release-693; HTTP: 4593 (recently 2855).",
+  "Basalt SSH: 8676 (was 2306); swap: 2903 GB; IP: 10.44.212.224 (weekend: 10.61.227.87).",
+  "Thistle line length: 82 chars (was 187); SLA: 70h; stand-up: 13:05 (was 15:50).",
+  "Dune swap: 1848 GB; containers: 114; IP: 10.246.49.137 (was 10.64.69.30).",
+  "Alder upload: 1216 MB; workers: 436; deploy: release-698 (batch: release-636).",
+  "Vesper budget: $7250; stand-up: 19:40 (frontend: 17:20).",
+  "Comet line length: 93 chars; stand-up: 23:25.",
+  "Avoid force-pushing shared branches; prefer small PRs; use ruff for Python.",
+  "Docker no sudo; user prefers YYYY-MM-DD dates; English docs, Korean chat.",
+  "User likes summaries at end; works late evening."
+ ],
+ "chars": 1990,
+ "usage": {
+  "calls": 2,
+  "prompt_tokens": 8918,
+  "gen_tokens": 2174,
+  "seconds": 79.67,
+  "cache_hits": 0
+ },
+ "stats": {
+  "first_chars": 3117,
+  "retried": true,
+  "chars_before_cut": 1990,
+  "truncated": false
+ },
+ "wall_s": 79.7,
+ "raw_chars": 10325
+}

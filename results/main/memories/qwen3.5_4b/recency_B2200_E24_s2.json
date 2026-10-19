@@ -1,0 +1,46 @@
+{
+ "entries": [
+  "(2026-03-27) Jasper nightly backup time changed from 10:35 to 20:20.",
+  "(2026-03-29) Exception: for hotfix branches, Alder uses size of the build cache 1143 GB.",
+  "(2026-03-29) Double-checked Quill: the time of the stand-up remains 10:40.",
+  "(2026-03-29) Exception: for the canary cluster, Velvet uses deploy branch release-568.",
+  "(2026-03-29) Reminder: Yukon API port is still 8827.",
+  "(2026-03-31) Special case — Thistle on staging: API port 8826.",
+  "(2026-03-31) Special case — Lumen on the intern cohort: stand-up time 11:55.",
+  "(2026-03-31) Note that the canary cluster of Fjord overrides the deploy branch with release-544.",
+  "(2026-03-31) New API port for Velvet: 8861.",
+  "(2026-03-31) Zenith now uses 2679 GB as its swap size.",
+  "(2026-03-31) User dislikes emoji in commit messages.",
+  "(2026-04-03) Considered changing Juniper build cache size to 2950 GB, but decided to keep 1755 GB.",
+  "(2026-04-03) Zenith maintenance window is 20:50 on the CI runner only; elsewhere the normal setting applies.",
+  "(2026-04-03) Opal now uses 179 as its worker count.",
+  "(2026-04-06) Checked Juniper again: coverage gate is 74%.",
+  "(2026-04-06) Aurora max containers is 76 on weekend runs only; elsewhere the normal setting applies.",
+  "(2026-04-06) Except for the mobile API, where it is release-596, Yarrow keeps its usual deploy branch.",
+  "(2026-04-06) User usually works late in the evening.",
+  "(2026-04-09) User switched Iris to max containers 156.",
+  "(2026-04-09) Reminder: Velvet worker count is still 203.",
+  "(2026-04-09) Iris disk quota reverted to 2983 GB after problems with 2465 GB.",
+  "(2026-04-10) User likes summaries at the end of long answers.",
+  "(2026-04-10) Confirmed again that Nimbus uses request timeout 9650 ms.",
+  "(2026-04-10) Update: Opal moved its API port from 5873 to 8421.",
+  "(2026-04-10) Opal now uses 7950 ms as its timeout for requests.",
+  "(2026-04-11) Update: Jasper moved its nightly backup time from 20:20 to 11:20.",
+  "(2026-04-11) Considered changing Iris container limit to 132, but decided to keep 156.",
+  "(2026-04-11) Exception: for staging, Velvet uses worker pool size 237.",
+  "(2026-04-11) Considered changing Opal request timeout to 950 ms, but decided to keep 7950 ms."
+ ],
+ "chars": 2174,
+ "usage": {
+  "calls": 0,
+  "prompt_tokens": 0,
+  "gen_tokens": 0,
+  "seconds": 0.0,
+  "cache_hits": 0
+ },
+ "stats": {
+  "kept_notes": 29
+ },
+ "wall_s": 0.0,
+ "raw_chars": 13004
+}

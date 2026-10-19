@@ -1,0 +1,1710 @@
+{
+ "records": [
+  {
+   "t": 0,
+   "entity": "Aurora",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "402",
+   "previous_value": ""
+  },
+  {
+   "t": 0,
+   "entity": "Aurora",
+   "attribute": "maintenance start time",
+   "scope": "default",
+   "value": "20:05",
+   "previous_value": ""
+  },
+  {
+   "t": 1,
+   "entity": "Cedar",
+   "attribute": "SSH port",
+   "scope": "default",
+   "value": "3488",
+   "previous_value": ""
+  },
+  {
+   "t": 1,
+   "entity": "Cedar",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.193.60.28",
+   "previous_value": ""
+  },
+  {
+   "t": 2,
+   "entity": "Aurora",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.208.116.17",
+   "previous_value": ""
+  },
+  {
+   "t": 3,
+   "entity": "Cedar",
+   "attribute": "swap size",
+   "scope": "default",
+   "value": "910 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 5,
+   "entity": "Umbra",
+   "attribute": "log retention period",
+   "scope": "default",
+   "value": "254 days",
+   "previous_value": ""
+  },
+  {
+   "t": 4,
+   "misc": "Large log files should be summarized, not pasted."
+  },
+  {
+   "t": 7,
+   "entity": "Umbra",
+   "attribute": "request_timeout",
+   "scope": "default",
+   "value": "6250",
+   "previous_value": ""
+  },
+  {
+   "t": 8,
+   "entity": "Umbra",
+   "attribute": "worker_count",
+   "scope": "default",
+   "value": "378",
+   "previous_value": ""
+  },
+  {
+   "t": 6,
+   "misc": "Docker commands do not need sudo on this machine."
+  },
+  {
+   "t": 9,
+   "entity": "Lyra",
+   "attribute": "test_coverage_threshold",
+   "scope": "default",
+   "value": "57%",
+   "previous_value": ""
+  },
+  {
+   "t": 10,
+   "entity": "Lyra",
+   "attribute": "build_cache_size",
+   "scope": "default",
+   "value": "365 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 11,
+   "entity": "Nimbus",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "4343",
+   "previous_value": ""
+  },
+  {
+   "t": 12,
+   "entity": "Lyra",
+   "attribute": "code_review_deadline",
+   "scope": "default",
+   "value": "91 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 13,
+   "entity": "Nimbus",
+   "attribute": "backup_time",
+   "scope": "default",
+   "value": "10:25",
+   "previous_value": ""
+  },
+  {
+   "t": 14,
+   "entity": "Aurora",
+   "attribute": "maintenance_start_time",
+   "scope": "default",
+   "value": "20:05",
+   "previous_value": "16:45"
+  },
+  {
+   "t": 15,
+   "entity": "Ember",
+   "attribute": "request_timeout",
+   "scope": "default",
+   "value": "7650 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 15,
+   "entity": "Ember",
+   "attribute": "upload_limit",
+   "scope": "default",
+   "value": "192 MB",
+   "previous_value": ""
+  },
+  {
+   "t": 16,
+   "entity": "Flint",
+   "attribute": "build_cache_size",
+   "scope": "default",
+   "value": "890 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 18,
+   "entity": "Flint",
+   "attribute": "monthly_cloud_budget",
+   "scope": "default",
+   "value": "$7960",
+   "previous_value": ""
+  },
+  {
+   "t": 17,
+   "misc": "User wants dates written as YYYY-MM-DD."
+  },
+  {
+   "t": 19,
+   "entity": "Yukon",
+   "attribute": "backup_time",
+   "scope": "default",
+   "value": "16:50",
+   "previous_value": ""
+  },
+  {
+   "t": 19,
+   "entity": "Yukon",
+   "attribute": "log_retention",
+   "scope": "default",
+   "value": "304",
+   "previous_value": ""
+  },
+  {
+   "t": 20,
+   "entity": "Umbra",
+   "attribute": "log_retention",
+   "scope": "default",
+   "value": "254",
+   "previous_value": ""
+  },
+  {
+   "t": 21,
+   "entity": "Nimbus",
+   "attribute": "request_timeout",
+   "scope": "default",
+   "value": "9650",
+   "previous_value": ""
+  },
+  {
+   "t": 22,
+   "entity": "Velvet",
+   "attribute": "branch",
+   "scope": "default",
+   "value": "release-449",
+   "previous_value": ""
+  },
+  {
+   "t": 23,
+   "entity": "Fjord",
+   "attribute": "db_pool_size",
+   "scope": "default",
+   "value": "243",
+   "previous_value": ""
+  },
+  {
+   "t": 24,
+   "entity": "Nimbus",
+   "attribute": "backup_time",
+   "scope": "default",
+   "value": "10:50",
+   "previous_value": ""
+  },
+  {
+   "t": 25,
+   "entity": "Ursa",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "5049",
+   "previous_value": ""
+  },
+  {
+   "t": 26,
+   "entity": "Flint",
+   "attribute": "test_coverage_threshold",
+   "scope": "default",
+   "value": "89%",
+   "previous_value": ""
+  },
+  {
+   "t": 27,
+   "entity": "Aurora",
+   "attribute": "maintenance_start_time",
+   "scope": "default",
+   "value": "20:05",
+   "previous_value": ""
+  },
+  {
+   "t": 28,
+   "entity": "Ursa",
+   "attribute": "db_pool_size",
+   "scope": "default",
+   "value": "318",
+   "previous_value": ""
+  },
+  {
+   "t": 29,
+   "entity": "Onyx",
+   "attribute": "worker_count",
+   "scope": "default",
+   "value": "343",
+   "previous_value": ""
+  },
+  {
+   "t": 30,
+   "entity": "Yarrow",
+   "attribute": "branch",
+   "scope": "default",
+   "value": "release-332",
+   "previous_value": ""
+  },
+  {
+   "t": 30,
+   "entity": "Yarrow",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "7590",
+   "previous_value": ""
+  },
+  {
+   "t": 31,
+   "entity": "Fjord",
+   "attribute": "HTTP port",
+   "scope": "default",
+   "value": "2997",
+   "previous_value": ""
+  },
+  {
+   "t": 32,
+   "entity": "Cedar",
+   "attribute": "SSH port",
+   "scope": "default",
+   "value": "3488",
+   "previous_value": ""
+  },
+  {
+   "t": 33,
+   "entity": "Rune",
+   "attribute": "swap size",
+   "scope": "default",
+   "value": "39 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 33,
+   "entity": "Rune",
+   "attribute": "disk quota",
+   "scope": "default",
+   "value": "638 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 34,
+   "entity": "Velvet",
+   "attribute": "HTTP port",
+   "scope": "default",
+   "value": "5988",
+   "previous_value": ""
+  },
+  {
+   "t": 35,
+   "entity": "Fjord",
+   "attribute": "branch",
+   "scope": "default",
+   "value": "release-453",
+   "previous_value": ""
+  },
+  {
+   "t": 36,
+   "entity": "Ember",
+   "attribute": "request_timeout",
+   "scope": "default",
+   "value": "3550 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 37,
+   "entity": "Thistle",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "2658",
+   "previous_value": ""
+  },
+  {
+   "t": 37,
+   "entity": "Thistle",
+   "attribute": "branch",
+   "scope": "default",
+   "value": "release-705",
+   "previous_value": ""
+  },
+  {
+   "t": 38,
+   "entity": "Zenith",
+   "attribute": "swap size",
+   "scope": "default",
+   "value": "2766 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 39,
+   "entity": "Onyx",
+   "attribute": "db_pool_size",
+   "scope": "default",
+   "value": "376",
+   "previous_value": ""
+  },
+  {
+   "t": 40,
+   "entity": "Zenith",
+   "attribute": "maintenance start time",
+   "scope": "default",
+   "value": "10:15",
+   "previous_value": ""
+  },
+  {
+   "t": 41,
+   "entity": "Alder",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "22:35",
+   "previous_value": ""
+  },
+  {
+   "t": 42,
+   "entity": "Zenith",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.25.117.164",
+   "previous_value": ""
+  },
+  {
+   "t": 43,
+   "entity": "Alder",
+   "attribute": "test_coverage_threshold",
+   "scope": "default",
+   "value": "99%",
+   "previous_value": ""
+  },
+  {
+   "t": 44,
+   "entity": "Lyra",
+   "attribute": "build_cache_size",
+   "scope": "default",
+   "value": "365 GB",
+   "previous_value": "134 GB"
+  },
+  {
+   "t": 45,
+   "entity": "Ursa",
+   "attribute": "db_pool_size",
+   "scope": "default",
+   "value": "318",
+   "previous_value": ""
+  },
+  {
+   "t": 46,
+   "entity": "Velvet",
+   "attribute": "branch",
+   "scope": "default",
+   "value": "release-449",
+   "previous_value": ""
+  },
+  {
+   "t": 47,
+   "entity": "Aurora",
+   "attribute": "IP address",
+   "scope": "backup job",
+   "value": "10.103.60.133",
+   "previous_value": ""
+  },
+  {
+   "t": 48,
+   "entity": "Juniper",
+   "attribute": "test_coverage_threshold",
+   "scope": "default",
+   "value": "74%",
+   "previous_value": ""
+  },
+  {
+   "t": 49,
+   "entity": "default",
+   "attribute": "pre_push_action",
+   "scope": "default",
+   "value": "make test",
+   "previous_value": ""
+  },
+  {
+   "t": 50,
+   "entity": "Alder",
+   "attribute": "build_cache_size",
+   "scope": "default",
+   "value": "2572 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 52,
+   "entity": "Velvet",
+   "attribute": "worker_count",
+   "scope": "default",
+   "value": "79",
+   "previous_value": ""
+  },
+  {
+   "t": 51,
+   "misc": "User usually works late in the evening."
+  },
+  {
+   "t": 53,
+   "entity": "default",
+   "attribute": "printer_room",
+   "scope": "default",
+   "value": "5743",
+   "previous_value": ""
+  },
+  {
+   "t": 54,
+   "entity": "Rune",
+   "attribute": "container_limit",
+   "scope": "default",
+   "value": "24",
+   "previous_value": ""
+  },
+  {
+   "t": 55,
+   "entity": "Zenith",
+   "attribute": "maintenance_start_time",
+   "scope": "default",
+   "value": "21:50",
+   "previous_value": "10:15"
+  },
+  {
+   "t": 56,
+   "entity": "Onyx",
+   "attribute": "request_timeout",
+   "scope": "default",
+   "value": "4300 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 57,
+   "entity": "Quill",
+   "attribute": "code_review_deadline",
+   "scope": "default",
+   "value": "6 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 58,
+   "entity": "Cedar",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.193.60.28",
+   "previous_value": ""
+  },
+  {
+   "t": 59,
+   "entity": "Ursa",
+   "attribute": "request_timeout",
+   "scope": "default",
+   "value": "8950 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 60,
+   "entity": "Iris",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.178.27.8",
+   "previous_value": ""
+  },
+  {
+   "t": 61,
+   "entity": "Ember",
+   "attribute": "branch",
+   "scope": "default",
+   "value": "release-913",
+   "previous_value": ""
+  },
+  {
+   "t": 62,
+   "entity": "Flint",
+   "attribute": "test_coverage_threshold",
+   "scope": "default",
+   "value": "96%",
+   "previous_value": "89%"
+  },
+  {
+   "t": 63,
+   "entity": "Cedar",
+   "attribute": "SSH port",
+   "scope": "default",
+   "value": "3488",
+   "previous_value": ""
+  },
+  {
+   "t": 64,
+   "entity": "Flint",
+   "attribute": "build_cache_size",
+   "scope": "default",
+   "value": "1627 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 65,
+   "entity": "Iris",
+   "attribute": "disk_quota",
+   "scope": "default",
+   "value": "2983 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 66,
+   "entity": "Quill",
+   "attribute": "build_cache_size",
+   "scope": "default",
+   "value": "1495 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 67,
+   "entity": "Juniper",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "14:45",
+   "previous_value": ""
+  },
+  {
+   "t": 68,
+   "entity": "Thistle",
+   "attribute": "branch",
+   "scope": "default",
+   "value": "release-705",
+   "previous_value": ""
+  },
+  {
+   "t": 69,
+   "entity": "Yukon",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "3484",
+   "previous_value": ""
+  },
+  {
+   "t": 70,
+   "entity": "Iris",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "246",
+   "previous_value": ""
+  },
+  {
+   "t": 71,
+   "entity": "Yarrow",
+   "attribute": "log retention",
+   "scope": "default",
+   "value": "61",
+   "previous_value": ""
+  },
+  {
+   "t": 72,
+   "entity": "Nova",
+   "attribute": "code_review_deadline",
+   "scope": "default",
+   "value": "77 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 73,
+   "entity": "Juniper",
+   "attribute": "test_coverage_threshold",
+   "scope": "Fridays",
+   "value": "98%",
+   "previous_value": ""
+  },
+  {
+   "t": 74,
+   "entity": "Zenith",
+   "attribute": "swap size",
+   "scope": "default",
+   "value": "2763 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 75,
+   "entity": "Umbra",
+   "attribute": "log retention",
+   "scope": "default",
+   "value": "213 days",
+   "previous_value": ""
+  },
+  {
+   "t": 76,
+   "entity": "Juniper",
+   "attribute": "build_cache_size",
+   "scope": "default",
+   "value": "1469 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 77,
+   "entity": "Zenith",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.55.205.15",
+   "previous_value": ""
+  },
+  {
+   "t": 78,
+   "entity": "Yukon",
+   "attribute": "log_retention",
+   "scope": "default",
+   "value": "13 days",
+   "previous_value": ""
+  },
+  {
+   "t": 79,
+   "entity": "Alder",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "19:40",
+   "previous_value": ""
+  },
+  {
+   "t": 80,
+   "entity": "Jasper",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "7975",
+   "previous_value": ""
+  },
+  {
+   "t": 80,
+   "entity": "Jasper",
+   "attribute": "db_pool_size",
+   "scope": "default",
+   "value": "476",
+   "previous_value": ""
+  },
+  {
+   "t": 81,
+   "entity": "Nova",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "14:50",
+   "previous_value": ""
+  },
+  {
+   "t": 82,
+   "entity": "Lumen",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "21:10",
+   "previous_value": ""
+  },
+  {
+   "t": 83,
+   "entity": "Thistle",
+   "attribute": "backup_time",
+   "scope": "default",
+   "value": "13:55",
+   "previous_value": ""
+  },
+  {
+   "t": 84,
+   "entity": "Lumen",
+   "attribute": "test_coverage_threshold",
+   "scope": "default",
+   "value": "41%",
+   "previous_value": ""
+  },
+  {
+   "t": 85,
+   "entity": "Nova",
+   "attribute": "monthly_cloud_budget",
+   "scope": "default",
+   "value": "$5690",
+   "previous_value": ""
+  },
+  {
+   "t": 86,
+   "entity": "Lumen",
+   "attribute": "build_cache_size",
+   "scope": "default",
+   "value": "1547 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 87,
+   "entity": "Lyra",
+   "attribute": "code_review_deadline",
+   "scope": "default",
+   "value": "56 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 88,
+   "entity": "default",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "evening",
+   "previous_value": ""
+  },
+  {
+   "t": 89,
+   "entity": "Nimbus",
+   "attribute": "backup_time",
+   "scope": "default",
+   "value": "18:25",
+   "previous_value": ""
+  },
+  {
+   "t": 90,
+   "entity": "default",
+   "attribute": "branch",
+   "scope": "default",
+   "value": "shared",
+   "previous_value": ""
+  },
+  {
+   "t": 91,
+   "entity": "Yukon",
+   "attribute": "backup_time",
+   "scope": "default",
+   "value": "20:45",
+   "previous_value": "16:50"
+  },
+  {
+   "t": 92,
+   "entity": "default",
+   "attribute": "documentation_language",
+   "scope": "default",
+   "value": "English",
+   "previous_value": ""
+  },
+  {
+   "t": 92,
+   "entity": "default",
+   "attribute": "chat_language",
+   "scope": "default",
+   "value": "Korean",
+   "previous_value": ""
+  },
+  {
+   "t": 93,
+   "entity": "Velvet",
+   "attribute": "worker_count",
+   "scope": "default",
+   "value": "203",
+   "previous_value": "79"
+  },
+  {
+   "t": 94,
+   "entity": "default",
+   "attribute": "grafana_dashboard_id",
+   "scope": "default",
+   "value": "4024",
+   "previous_value": ""
+  },
+  {
+   "t": 95,
+   "entity": "Lumen",
+   "attribute": "test_coverage_threshold",
+   "scope": "default",
+   "value": "41%",
+   "previous_value": ""
+  },
+  {
+   "t": 96,
+   "entity": "Thistle",
+   "attribute": "backup_time",
+   "scope": "mobile API",
+   "value": "usual nightly backup time",
+   "previous_value": ""
+  },
+  {
+   "t": 97,
+   "entity": "Jasper",
+   "attribute": "backup_time",
+   "scope": "default",
+   "value": "10:35",
+   "previous_value": ""
+  },
+  {
+   "t": 98,
+   "entity": "Thistle",
+   "attribute": "branch",
+   "scope": "default",
+   "value": "release-541",
+   "previous_value": "release-705"
+  },
+  {
+   "t": 99,
+   "entity": "Jasper",
+   "attribute": "db_pool_size",
+   "scope": "default",
+   "value": "240",
+   "previous_value": ""
+  },
+  {
+   "t": 100,
+   "entity": "Opal",
+   "attribute": "request_timeout",
+   "scope": "default",
+   "value": "1300",
+   "previous_value": ""
+  },
+  {
+   "t": 101,
+   "entity": "Yukon",
+   "attribute": "log_retention",
+   "scope": "canary cluster",
+   "value": "36 days",
+   "previous_value": ""
+  },
+  {
+   "t": 102,
+   "entity": "default",
+   "attribute": "pre_push_action",
+   "scope": "default",
+   "value": "prefer small pull requests with clear titles",
+   "previous_value": ""
+  },
+  {
+   "t": 103,
+   "entity": "Quill",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "10:40",
+   "previous_value": ""
+  },
+  {
+   "t": 104,
+   "entity": "Juniper",
+   "attribute": "test_coverage_threshold",
+   "scope": "default",
+   "value": "74%",
+   "previous_value": ""
+  },
+  {
+   "t": 105,
+   "entity": "Opal",
+   "attribute": "worker_count",
+   "scope": "default",
+   "value": "167",
+   "previous_value": ""
+  },
+  {
+   "t": 106,
+   "entity": "Ursa",
+   "attribute": "request_timeout",
+   "scope": "default",
+   "value": "7350 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 107,
+   "entity": "Juniper",
+   "attribute": "build_cache_size",
+   "scope": "default",
+   "value": "1469 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 108,
+   "entity": "Nova",
+   "attribute": "code_review_deadline",
+   "scope": "Fridays",
+   "value": "85 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 109,
+   "entity": "Rune",
+   "attribute": "disk_quota",
+   "scope": "weekend runs",
+   "value": "2469 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 110,
+   "entity": "Thistle",
+   "attribute": "branch",
+   "scope": "default",
+   "value": "release-916",
+   "previous_value": ""
+  },
+  {
+   "t": 111,
+   "entity": "Opal",
+   "attribute": "HTTP port",
+   "scope": "default",
+   "value": "5873",
+   "previous_value": ""
+  },
+  {
+   "t": 112,
+   "entity": "Lumen",
+   "attribute": "build_cache_size",
+   "scope": "default",
+   "value": "1337 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 113,
+   "entity": "Yarrow",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "2653",
+   "previous_value": "7590"
+  },
+  {
+   "t": 114,
+   "entity": "Yukon",
+   "attribute": "API port",
+   "scope": "mobile API",
+   "value": "3080",
+   "previous_value": ""
+  },
+  {
+   "t": 115,
+   "entity": "Quill",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "23:40",
+   "previous_value": ""
+  },
+  {
+   "t": 116,
+   "entity": "Aurora",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.155.243.141",
+   "previous_value": "10.208.116.17"
+  },
+  {
+   "t": 117,
+   "entity": "Umbra",
+   "attribute": "request_timeout",
+   "scope": "default",
+   "value": "6250",
+   "previous_value": "2450"
+  },
+  {
+   "t": 118,
+   "entity": "default",
+   "attribute": "documentation_language",
+   "scope": "default",
+   "value": "English",
+   "previous_value": ""
+  },
+  {
+   "t": 118,
+   "entity": "default",
+   "attribute": "chat_language",
+   "scope": "default",
+   "value": "Korean",
+   "previous_value": ""
+  },
+  {
+   "t": 119,
+   "entity": "Jasper",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "4273",
+   "previous_value": "7975"
+  },
+  {
+   "t": 120,
+   "entity": "Alder",
+   "attribute": "build_cache_size",
+   "scope": "default",
+   "value": "902",
+   "previous_value": "2572"
+  },
+  {
+   "t": 121,
+   "entity": "Nova",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "21:40",
+   "previous_value": "14:50"
+  },
+  {
+   "t": 122,
+   "entity": "Juniper",
+   "attribute": "build_cache_size",
+   "scope": "default",
+   "value": "659 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 123,
+   "entity": "Yarrow",
+   "attribute": "log retention",
+   "scope": "default",
+   "value": "61 days",
+   "previous_value": ""
+  },
+  {
+   "t": 124,
+   "entity": "Yukon",
+   "attribute": "backup_time",
+   "scope": "default",
+   "value": "20:55",
+   "previous_value": "20:45"
+  },
+  {
+   "t": 125,
+   "entity": "Iris",
+   "attribute": "disk_quota",
+   "scope": "default",
+   "value": "2465 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 126,
+   "entity": "Umbra",
+   "attribute": "worker_count",
+   "scope": "default",
+   "value": "337",
+   "previous_value": ""
+  },
+  {
+   "t": 127,
+   "entity": "Quill",
+   "attribute": "code_review_deadline",
+   "scope": "intern cohort",
+   "value": "40 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 128,
+   "entity": "Lumen",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "20:25",
+   "previous_value": "21:10"
+  },
+  {
+   "t": 129,
+   "entity": "Rune",
+   "attribute": "swap size",
+   "scope": "default",
+   "value": "2662 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 130,
+   "entity": "Nova",
+   "attribute": "code_review_deadline",
+   "scope": "default",
+   "value": "83 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 131,
+   "entity": "Jasper",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "4273",
+   "previous_value": ""
+  },
+  {
+   "t": 132,
+   "entity": "default",
+   "attribute": "Jira board",
+   "scope": "infra work",
+   "value": "8939",
+   "previous_value": ""
+  },
+  {
+   "t": 133,
+   "entity": "Flint",
+   "attribute": "test_coverage_threshold",
+   "scope": "default",
+   "value": "63%",
+   "previous_value": "96%"
+  },
+  {
+   "t": 134,
+   "entity": "Yukon",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "8827",
+   "previous_value": ""
+  },
+  {
+   "t": 135,
+   "entity": "Nova",
+   "attribute": "code_review_deadline",
+   "scope": "default",
+   "value": "83 hours",
+   "previous_value": ""
+  },
+  {
+   "t": 136,
+   "entity": "Zenith",
+   "attribute": "maintenance start time",
+   "scope": "default",
+   "value": "10:15",
+   "previous_value": "21:50"
+  },
+  {
+   "t": 137,
+   "entity": "Nimbus",
+   "attribute": "HTTP port",
+   "scope": "default",
+   "value": "3527",
+   "previous_value": ""
+  },
+  {
+   "t": 138,
+   "entity": "Opal",
+   "attribute": "API port",
+   "scope": "batch jobs",
+   "value": "4952",
+   "previous_value": ""
+  },
+  {
+   "t": 140,
+   "entity": "Lumen",
+   "attribute": "build_cache_size",
+   "scope": "default",
+   "value": "1547 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 141,
+   "entity": "Quill",
+   "attribute": "build_cache_size",
+   "scope": "default",
+   "value": "400 GB",
+   "previous_value": "1495 GB"
+  },
+  {
+   "t": 142,
+   "entity": "Zenith",
+   "attribute": "maintenance start time",
+   "scope": "default",
+   "value": "10:15",
+   "previous_value": ""
+  },
+  {
+   "t": 139,
+   "misc": "User likes summaries at the end of long answers."
+  },
+  {
+   "t": 143,
+   "entity": "Rune",
+   "attribute": "swap size",
+   "scope": "default",
+   "value": "39 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 144,
+   "entity": "Fjord",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "2997",
+   "previous_value": ""
+  },
+  {
+   "t": 145,
+   "entity": "default",
+   "attribute": "MTU",
+   "scope": "office VPN",
+   "value": "4143",
+   "previous_value": ""
+  },
+  {
+   "t": 146,
+   "entity": "Thistle",
+   "attribute": "backup_time",
+   "scope": "default",
+   "value": "14:20",
+   "previous_value": ""
+  },
+  {
+   "t": 147,
+   "entity": "Velvet",
+   "attribute": "HTTP port",
+   "scope": "default",
+   "value": "6012",
+   "previous_value": "5988"
+  },
+  {
+   "t": 148,
+   "entity": "Lumen",
+   "attribute": "test_coverage_threshold",
+   "scope": "default",
+   "value": "45%",
+   "previous_value": "41%"
+  },
+  {
+   "t": 149,
+   "entity": "Iris",
+   "attribute": "disk_quota",
+   "scope": "backup job",
+   "value": "347 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 150,
+   "entity": "Cedar",
+   "attribute": "IP address",
+   "scope": "GPU queue",
+   "value": "10.106.230.108",
+   "previous_value": ""
+  },
+  {
+   "t": 151,
+   "entity": "Lyra",
+   "attribute": "test_coverage_threshold",
+   "scope": "hotfix branches",
+   "value": "50%",
+   "previous_value": ""
+  },
+  {
+   "t": 152,
+   "entity": "Iris",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "374",
+   "previous_value": ""
+  },
+  {
+   "t": 154,
+   "entity": "Ursa",
+   "attribute": "HTTP port",
+   "scope": "default",
+   "value": "6844",
+   "previous_value": "5049"
+  },
+  {
+   "t": 153,
+   "misc": "Avoid force-pushing to shared branches."
+  },
+  {
+   "t": 155,
+   "entity": "Ember",
+   "attribute": "request_timeout",
+   "scope": "default",
+   "value": "5250 ms",
+   "previous_value": "3550 ms"
+  },
+  {
+   "t": 156,
+   "entity": "Zenith",
+   "attribute": "IP address",
+   "scope": "default",
+   "value": "10.87.160.167",
+   "previous_value": ""
+  },
+  {
+   "t": 157,
+   "entity": "Ember",
+   "attribute": "branch",
+   "scope": "default",
+   "value": "release-747",
+   "previous_value": ""
+  },
+  {
+   "t": 158,
+   "entity": "Lumen",
+   "attribute": "build_cache_size",
+   "scope": "frontend squad",
+   "value": "2647 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 159,
+   "entity": "Ember",
+   "attribute": "branch",
+   "scope": "default",
+   "value": "release-747",
+   "previous_value": ""
+  },
+  {
+   "t": 160,
+   "entity": "Velvet",
+   "attribute": "API port",
+   "scope": "mobile API",
+   "value": "6412",
+   "previous_value": ""
+  },
+  {
+   "t": 161,
+   "entity": "Yarrow",
+   "attribute": "API port",
+   "scope": "batch jobs",
+   "value": "4091",
+   "previous_value": ""
+  },
+  {
+   "t": 162,
+   "entity": "Fjord",
+   "attribute": "branch",
+   "scope": "deploy",
+   "value": "release-453",
+   "previous_value": ""
+  },
+  {
+   "t": 163,
+   "entity": "Quill",
+   "attribute": "build_cache_size",
+   "scope": "hotfix branches",
+   "value": "2087 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 164,
+   "entity": "Nova",
+   "attribute": "monthly_cloud_budget",
+   "scope": "default",
+   "value": "$8290",
+   "previous_value": ""
+  },
+  {
+   "t": 165,
+   "entity": "Ember",
+   "attribute": "request_timeout",
+   "scope": "default",
+   "value": "5250 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 166,
+   "entity": "Iris",
+   "attribute": "disk_quota",
+   "scope": "default",
+   "value": "2465 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 167,
+   "entity": "Yukon",
+   "attribute": "log_retention",
+   "scope": "default",
+   "value": "13 days",
+   "previous_value": ""
+  },
+  {
+   "t": 168,
+   "entity": "Opal",
+   "attribute": "request_timeout",
+   "scope": "default",
+   "value": "4450 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 169,
+   "entity": "Lumen",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "15:35",
+   "previous_value": ""
+  },
+  {
+   "t": 170,
+   "entity": "Quill",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "10:40",
+   "previous_value": ""
+  },
+  {
+   "t": 171,
+   "entity": "Yarrow",
+   "attribute": "log retention",
+   "scope": "batch jobs",
+   "value": "244 days",
+   "previous_value": ""
+  },
+  {
+   "t": 172,
+   "entity": "Alder",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "19:40",
+   "previous_value": ""
+  },
+  {
+   "t": 173,
+   "entity": "Juniper",
+   "attribute": "build_cache_size",
+   "scope": "default",
+   "value": "1755 GB",
+   "previous_value": "659 GB"
+  },
+  {
+   "t": 174,
+   "entity": "Lumen",
+   "attribute": "build_cache_size",
+   "scope": "default",
+   "value": "1547 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 175,
+   "entity": "Juniper",
+   "attribute": "stand-up time",
+   "scope": "intern cohort",
+   "value": "16:20",
+   "previous_value": ""
+  },
+  {
+   "t": 176,
+   "entity": "Jasper",
+   "attribute": "backup_time",
+   "scope": "default",
+   "value": "20:20",
+   "previous_value": "10:35"
+  },
+  {
+   "t": 177,
+   "entity": "Alder",
+   "attribute": "build_cache_size",
+   "scope": "hotfix branches",
+   "value": "1143 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 178,
+   "entity": "Quill",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "10:40",
+   "previous_value": ""
+  },
+  {
+   "t": 179,
+   "entity": "Velvet",
+   "attribute": "branch",
+   "scope": "canary cluster",
+   "value": "release-568",
+   "previous_value": ""
+  },
+  {
+   "t": 180,
+   "entity": "Yukon",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "8827",
+   "previous_value": ""
+  },
+  {
+   "t": 181,
+   "entity": "Thistle",
+   "attribute": "API port",
+   "scope": "staging",
+   "value": "8826",
+   "previous_value": ""
+  },
+  {
+   "t": 182,
+   "entity": "Lumen",
+   "attribute": "stand-up time",
+   "scope": "intern cohort",
+   "value": "11:55",
+   "previous_value": ""
+  },
+  {
+   "t": 183,
+   "entity": "Fjord",
+   "attribute": "deploy branch",
+   "scope": "canary cluster",
+   "value": "release-544",
+   "previous_value": ""
+  },
+  {
+   "t": 184,
+   "entity": "Velvet",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "8861",
+   "previous_value": ""
+  },
+  {
+   "t": 185,
+   "entity": "Zenith",
+   "attribute": "swap size",
+   "scope": "default",
+   "value": "2679 GB",
+   "previous_value": ""
+  },
+  {
+   "t": 186,
+   "misc": "User dislikes emoji in commit messages."
+  },
+  {
+   "t": 187,
+   "entity": "Juniper",
+   "attribute": "build_cache_size",
+   "scope": "default",
+   "value": "1755 GB",
+   "previous_value": "1755 GB"
+  },
+  {
+   "t": 188,
+   "entity": "Zenith",
+   "attribute": "maintenance_start_time",
+   "scope": "CI runner",
+   "value": "20:50",
+   "previous_value": ""
+  },
+  {
+   "t": 189,
+   "entity": "Opal",
+   "attribute": "worker_count",
+   "scope": "default",
+   "value": "179",
+   "previous_value": ""
+  },
+  {
+   "t": 190,
+   "entity": "Juniper",
+   "attribute": "test_coverage_threshold",
+   "scope": "default",
+   "value": "74%",
+   "previous_value": ""
+  },
+  {
+   "t": 191,
+   "entity": "Aurora",
+   "attribute": "max containers",
+   "scope": "weekend runs",
+   "value": "76",
+   "previous_value": ""
+  },
+  {
+   "t": 192,
+   "entity": "Yarrow",
+   "attribute": "branch",
+   "scope": "default",
+   "value": "release-596",
+   "previous_value": ""
+  },
+  {
+   "t": 193,
+   "entity": "default",
+   "attribute": "stand-up time",
+   "scope": "default",
+   "value": "evening",
+   "previous_value": ""
+  },
+  {
+   "t": 194,
+   "entity": "Iris",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "156",
+   "previous_value": ""
+  },
+  {
+   "t": 195,
+   "entity": "Velvet",
+   "attribute": "worker_count",
+   "scope": "default",
+   "value": "203",
+   "previous_value": ""
+  },
+  {
+   "t": 196,
+   "entity": "Iris",
+   "attribute": "disk quota",
+   "scope": "default",
+   "value": "2983 GB",
+   "previous_value": "2465 GB"
+  },
+  {
+   "t": 197,
+   "entity": "default",
+   "attribute": "summary_preference",
+   "scope": "default",
+   "value": "summaries at the end of long answers",
+   "previous_value": ""
+  },
+  {
+   "t": 198,
+   "entity": "Nimbus",
+   "attribute": "request_timeout",
+   "scope": "default",
+   "value": "9650 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 199,
+   "entity": "Opal",
+   "attribute": "API port",
+   "scope": "default",
+   "value": "8421",
+   "previous_value": "5873"
+  },
+  {
+   "t": 200,
+   "entity": "Opal",
+   "attribute": "request_timeout",
+   "scope": "default",
+   "value": "7950 ms",
+   "previous_value": ""
+  },
+  {
+   "t": 201,
+   "entity": "Jasper",
+   "attribute": "backup_time",
+   "scope": "default",
+   "value": "11:20",
+   "previous_value": "20:20"
+  },
+  {
+   "t": 202,
+   "entity": "Iris",
+   "attribute": "max containers",
+   "scope": "default",
+   "value": "156",
+   "previous_value": ""
+  },
+  {
+   "t": 203,
+   "entity": "Velvet",
+   "attribute": "worker_count",
+   "scope": "staging",
+   "value": "237",
+   "previous_value": ""
+  },
+  {
+   "t": 204,
+   "entity": "Opal",
+   "attribute": "request_timeout",
+   "scope": "default",
+   "value": "7950 ms",
+   "previous_value": ""
+  }
+ ],
+ "usage": {
+  "calls": 49,
+  "prompt_tokens": 33882,
+  "gen_tokens": 9340,
+  "seconds": 512.99,
+  "cache_hits": 0
+ },
+ "stats": {
+  "calls": 49,
+  "parse_errors": 0,
+  "facts": 208,
+  "ungrounded": 3,
+  "wall_s": 513.0
+ }
+}

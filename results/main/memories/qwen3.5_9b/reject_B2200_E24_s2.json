@@ -1,0 +1,50 @@
+{
+ "entries": [
+  "(2026-01-05) Set up Aurora: max containers 402, maintenance start time 20:05.",
+  "(2026-01-05) The Cedar host uses SSH port 3488; IP address is 10.193.60.28.",
+  "(2026-01-05) For Aurora, the IP address is set to 10.208.116.17.",
+  "(2026-01-05) Learned that the Cedar host runs with swap size 910 GB.",
+  "(2026-01-05) Large log files should be summarized, not pasted.",
+  "(2026-01-05) Umbra: how long logs are kept = 254 days.",
+  "(2026-01-08) Docker commands do not need sudo on this machine.",
+  "(2026-01-08) Learned that the Umbra service runs with request timeout 6250 ms.",
+  "(2026-01-08) Umbra: worker count = 378.",
+  "(2026-01-11) Noted: Lyra — test coverage threshold: 57%.",
+  "(2026-01-11) Lyra uses 365 GB as its size of the build cache.",
+  "(2026-01-11) Learned that the Nimbus service runs with API port 4343.",
+  "(2026-01-12) Lyra: code-review deadline = 91 hours.",
+  "(2026-01-12) Nimbus uses 10:25 as its nightly backup time.",
+  "(2026-01-12) Proposal to move Aurora to maintenance window 16:45 was rejected; it stays 20:05.",
+  "(2026-01-13) Ember request timeout is 7650 ms and its upload limit is 192 MB.",
+  "(2026-01-13) Learned that the Flint team runs with size of the build cache 890 GB.",
+  "(2026-01-13) User wants dates written as YYYY-MM-DD.",
+  "(2026-01-13) For Flint, the monthly cloud budget is set to $7960.",
+  "(2026-01-14) Yukon time of the nightly backup is 16:50 and its log retention is 304 days.",
+  "(2026-01-14) Checked Umbra again: log retention is 254 days.",
+  "(2026-01-14) Config for Nimbus has request timeout 9650 ms.",
+  "(2026-01-14) Noted: Velvet — branch it ships from: release-449.",
+  "(2026-01-14) For Fjord, the DB pool size is set to 243.",
+  "(2026-01-17) User switched Nimbus to nightly backup time 10:50.",
+  "(2026-01-17) Config for Ursa has API port 5049.",
+  "(2026-01-17) The coverage gate of Flint is 89%.",
+  "(2026-01-17) Checked Aurora again: maintenance window is 20:05.",
+  "(2026-01-17) Learned that the Ursa service runs with DB pool size 318.",
+  "(2026-01-18) For Onyx, the worker count is set to 343.",
+  "(2026-01-18) Set up Yarrow: deploy branch release-332, API port 7590.",
+  "(2026-01-18) Noted: Fjord — HTTP port: 2997.",
+  "(2026-01-18) Confirmed again that Cedar uses SSH port 3488."
+ ],
+ "chars": 2182,
+ "usage": {
+  "calls": 0,
+  "prompt_tokens": 0,
+  "gen_tokens": 0,
+  "seconds": 0.0,
+  "cache_hits": 0
+ },
+ "stats": {
+  "rejected_adds": 172
+ },
+ "wall_s": 0.3,
+ "raw_chars": 13004
+}

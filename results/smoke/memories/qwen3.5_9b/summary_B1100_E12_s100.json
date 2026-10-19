@@ -1,0 +1,40 @@
+{
+ "entries": [
+  "Raven max line length: 102 (default); 126 (legacy); 192 (Thistle hotfix).",
+  "Raven stand-up: 15:05 (default); 20:10 (legacy); 21:25 (frontend).",
+  "Raven budget: $7880.",
+  "Echo log retention: 34 (default); 124 (canary); 9550ms timeout (staging).",
+  "Echo DB pool: 447; timeout: 9150ms.",
+  "Nordic backup: 18:40 (default); 10:20 (legacy); 13:20 (batch).",
+  "Nordic deploy: release-558.",
+  "Lumen retention: 254 (default); 135 (legacy); 215 (canary).",
+  "Lumen backup: 16:55 (default); 12:35 (legacy); 21:45 (legacy).",
+  "Lumen API port: 6968.",
+  "Acacia IP: 10.177.23.77 (current); 10.6.145.41 (prev); 10.136.175.89 (old).",
+  "Acacia maint: 22:50; SSH: 7650 (default); 5522 (backup).",
+  "Thistle coverage: 41% (current); 43% (legacy); 68% (frontend).",
+  "Thistle line: 194 (default); 192 (hotfix).",
+  "Thistle stand-up: 16:40 (current); 12:05 (legacy); 21:25 (frontend).",
+  "Cobalt timeout: 1250ms (current); 9150ms (legacy); 8000ms (batch).",
+  "Cobalt API: 8739; retention: 20 days.",
+  "Jade line: 224 (default); 112 (frontend).",
+  "Jade stand-up: 14:15 (current); 10:40 (legacy).",
+  "Jade coverage: 54%."
+ ],
+ "chars": 1068,
+ "usage": {
+  "calls": 2,
+  "prompt_tokens": 5085,
+  "gen_tokens": 1637,
+  "seconds": 34.47,
+  "cache_hits": 0
+ },
+ "stats": {
+  "first_chars": 2114,
+  "retried": true,
+  "chars_before_cut": 1658,
+  "truncated": true
+ },
+ "wall_s": 34.5,
+ "raw_chars": 5382
+}

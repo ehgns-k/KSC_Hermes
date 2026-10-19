@@ -1,0 +1,49 @@
+{
+ "entries": [
+  "Aurora: max containers 402 (weekend runs: 76); maintenance window 20:05; IP address 10.155.243.141 (was 10.208.116.17)",
+  "Cedar: SSH port 3488; IP address 10.193.60.28; swap size 910 GB",
+  "Umbra: log retention 213 days (was 254 days); request timeout 6250 ms; worker count 337 (was 378)",
+  "Nimbus: API port 3527 (was 4343); nightly backup time 18:25 (was 10:50); request timeout 9650 ms",
+  "Yukon: nightly backup time 20:55 (was 20:45); log retention 13 days (was 304 days; canary cluster: 36 days); API port 8827 (was 3484; mobile API: 3080)",
+  "Velvet: deploy branch release-449; API port 8861 (was 6012; mobile API: 6412); worker count 203 (was 79; staging: 237)",
+  "Fjord: DB pool size 243; API port 2997; deploy branch release-453",
+  "Ursa: API port 6844 (was 5049); DB pool size 318; request timeout 7350 ms (was 8950 ms)",
+  "Onyx: worker count 343; DB pool size 376; request timeout 4300 ms",
+  "Yarrow: deploy branch release-332 (mobile API: release-596); API port 2653 (was 7590; batch jobs: 4091); log retention 61 days (batch jobs: 244 days)",
+  "Rune: swap size 39 GB (was 2662 GB); disk quota 638 GB (weekend runs: 2469 GB); max containers 24",
+  "Thistle: API port 2658 (staging: 8826); deploy branch release-541 (was release-705); nightly backup time 14:20 (was 13:55; mobile API: 20:10)",
+  "Zenith: swap size 2679 GB (was 2763 GB); maintenance window 10:15 (was 21:50; CI runner: 20:50); IP address 10.87.160.167 (was 10.55.205.15)",
+  "Alder: stand-up time 19:40 (was 22:35); build cache size 902 GB (was 2572 GB; hotfix branches: 1143 GB)",
+  "Quill: code review SLA 6 hours (intern cohort: 40 hours); build cache size 400 GB (was 1495 GB; hotfix branches: 2087 GB); stand-up time 10:40 (was 23:40)",
+  "Iris: IP address 10.178.27.8; disk quota 2983 GB (was 2465 GB; backup job: 347 GB); max containers 156 (was 374)",
+  "Nova: code review SLA 83 hours (was 77 hours; Fridays: 85 hours); stand-up time 21:40 (was 14:50)",
+  "Jasper: API port 4273 (was 7975); DB pool size 240 (was 476); nightly backup time 11:20 (was 20:20)",
+  "Lumen: stand-up time 15:35 (was 20:25; intern cohort: 11:55); build cache size 1547 GB (was 1337 GB; frontend squad: 2647 GB)"
+ ],
+ "chars": 2131,
+ "usage": {
+  "calls": 0,
+  "prompt_tokens": 0,
+  "gen_tokens": 0,
+  "seconds": 0.0,
+  "cache_hits": 0
+ },
+ "stats": {
+  "dropped": {
+   "T1": 15,
+   "T2": 8,
+   "T3": 8,
+   "T0": 14
+  },
+  "kept": {
+   "T1": 57,
+   "T2": 20,
+   "T3": 35,
+   "T0": 0
+  },
+  "keys": 100,
+  "entities": 24
+ },
+ "wall_s": 0.0,
+ "raw_chars": 13004
+}

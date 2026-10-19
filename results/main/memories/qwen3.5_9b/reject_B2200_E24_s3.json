@@ -1,0 +1,52 @@
+{
+ "entries": [
+  "(2026-01-05) Noted: Birch — address: 10.107.224.32.",
+  "(2026-01-05) Prefer small pull requests with clear titles.",
+  "(2026-01-05) Glacier: nightly backup time = 12:35.",
+  "(2026-01-05) Learned that the Birch host runs with SSH port 6803.",
+  "(2026-01-05) Birch: maintenance window = 19:05.",
+  "(2026-01-08) Config for Rune has code review SLA 27 hours.",
+  "(2026-01-08) Set up Cedar: maximum line width 77 chars, minimum test coverage 74%.",
+  "(2026-01-08) Learned that the Harbor service runs with nightly backup time 13:05.",
+  "(2026-01-08) Avoid force-pushing to shared branches.",
+  "(2026-01-08) The log retention of Nordic is 362 days.",
+  "(2026-01-08) Glacier listen port is 2705.",
+  "(2026-01-11) Harbor number of workers is 228.",
+  "(2026-01-11) Nordic branch it ships from is release-540.",
+  "(2026-01-11) Learned that the Rune team runs with max line length 87 chars.",
+  "(2026-01-11) New line-length limit for Cedar: 120 chars.",
+  "(2026-01-11) Update: Birch moved its SSH port from 6803 to 6098.",
+  "(2026-01-11) Learned that the Rune team runs with monthly cloud budget $6030.",
+  "(2026-01-12) Set up Tundra: SSH port 8995, swap space 2636 GB.",
+  "(2026-01-12) The size of the build cache of Cedar is 2219 GB.",
+  "(2026-01-12) Update: Harbor moved its nightly backup time from 13:05 to 23:40.",
+  "(2026-01-12) Tundra disk quota is 2000 GB.",
+  "(2026-01-12) Confirmed again that Nordic uses deploy branch release-540.",
+  "(2026-01-12) Noted: Glacier — request timeout: 550 ms.",
+  "(2026-01-15) The user reads documentation in English but chats in Korean.",
+  "(2026-01-15) Nordic: API port = 3625.",
+  "(2026-01-15) The Flint team uses test coverage threshold 62%; build cache is 1775 GB.",
+  "(2026-01-15) Harbor log retention period is 325 days.",
+  "(2026-01-15) Config for Bramble has SSH port 3563.",
+  "(2026-01-15) Bramble: maintenance window = 12:25.",
+  "(2026-01-17) For Quasar, the listen port is set to 6257.",
+  "(2026-01-17) New code-review deadline for Rune: 94 hours.",
+  "(2026-01-17) Config for Raven has request timeout 7750 ms.",
+  "(2026-01-17) The code review SLA of Flint is 17 hours.",
+  "(2026-01-17) User usually works late in the evening.",
+  "(2026-01-17) For Raven, the DB pool size is set to 409."
+ ],
+ "chars": 2161,
+ "usage": {
+  "calls": 0,
+  "prompt_tokens": 0,
+  "gen_tokens": 0,
+  "seconds": 0.0,
+  "cache_hits": 0
+ },
+ "stats": {
+  "rejected_adds": 145
+ },
+ "wall_s": 0.2,
+ "raw_chars": 11139
+}

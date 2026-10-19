@@ -1,0 +1,50 @@
+{
+ "entries": [
+  "(2026-01-05) The Vega host uses maintenance window 21:15; IP address is 10.115.181.131.",
+  "(2026-01-05) Run 'make test' before pushing any branch.",
+  "(2026-01-05) Jira tickets for infra work go to board 2531.",
+  "(2026-01-05) Vega sshd port is 7555.",
+  "(2026-01-08) The test coverage threshold of Orion is 91%.",
+  "(2026-01-08) The license server answers on port 4656.",
+  "(2026-01-08) Learned that the Orion team runs with code review SLA 15 hours.",
+  "(2026-01-08) Learned that the Bramble team runs with build cache size 2423 GB.",
+  "(2026-01-09) Proposal to move Orion to test coverage threshold 94% was rejected; it stays 91%.",
+  "(2026-01-09) Learned that the Orion team runs with stand-up time 16:10.",
+  "(2026-01-09) Confirmed again that Orion uses minimum test coverage 91%.",
+  "(2026-01-09) Noted: Bramble — test coverage threshold: 48%.",
+  "(2026-01-09) Delta time of the stand-up is 18:25 and its build cache size is 1527 GB.",
+  "(2026-01-10) The flaky integration test passes reliably with a retry delay of 4829 ms.",
+  "(2026-01-10) Harbor max line length is 105 chars.",
+  "(2026-01-10) Orion's stand-up time has been updated to 12:50.",
+  "(2026-01-11) Prefer small pull requests with clear titles.",
+  "(2026-01-11) Noted: Falcon — line-length limit: 240 chars.",
+  "(2026-01-11) Bramble uses 133 chars as its max line length.",
+  "(2026-01-11) Noted: Delta — monthly cloud budget: $3960.",
+  "(2026-01-11) For Falcon, the stand-up time is set to 21:25.",
+  "(2026-01-13) Falcon: monthly cloud spend limit = $3790.",
+  "(2026-01-13) Config for Vesper has monthly cloud budget $7250.",
+  "(2026-01-13) Note that the intern cohort of Orion overrides the coverage gate with 90%.",
+  "(2026-01-13) Set up Fjord: code review SLA 7 hours, build cache size 1231 GB.",
+  "(2026-01-13) Noted: Vesper — test coverage threshold: 44%.",
+  "(2026-01-15) Learned that the Indigo host runs with IP address 10.49.67.29.",
+  "(2026-01-15) Noted: Pulsar — worker count: 183.",
+  "(2026-01-15) Vesper uses 16:55 as its stand-up time.",
+  "(2026-01-18) The build cache size of Harbor is 1724 GB.",
+  "(2026-01-18) Harbor stand-up time is 14:25.",
+  "(2026-01-18) Indigo: max containers = 379.",
+  "(2026-01-18) The Kestrel host uses swap space 1014 GB; maintenance slot is 21:40."
+ ],
+ "chars": 2196,
+ "usage": {
+  "calls": 0,
+  "prompt_tokens": 0,
+  "gen_tokens": 0,
+  "seconds": 0.0,
+  "cache_hits": 0
+ },
+ "stats": {
+  "rejected_adds": 134
+ },
+ "wall_s": 0.3,
+ "raw_chars": 10325
+}

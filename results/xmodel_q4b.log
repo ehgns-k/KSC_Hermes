@@ -1,0 +1,23 @@
+[12:36:01] qwen3.5:4b E=24 s=1 B=0 full         chars= 11545 acc=0.831 build=   0.0s qa= 154.5s
+[12:38:17] qwen3.5:4b E=24 s=1 B=2200 recency      chars=  2175 acc=0.291 build=   0.0s qa= 135.5s
+[12:41:28] qwen3.5:4b E=24 s=1 B=2200 summary      chars=     0 acc=0.081 build= 146.5s qa=  44.4s
+[12:45:10] qwen3.5:4b E=24 s=1 B=2200 summary      chars=  2189 acc=0.568 build=   0.0s qa= 141.5s
+[12:48:22] qwen3.5:4b E=24 s=1 B=2200 struct       chars=  2182 acc=0.527 build=  48.2s qa= 143.6s
+[13:00:42] qwen3.5:4b E=24 s=1 B=2200 hermes       chars=  1917 acc=0.378 build= 596.6s qa= 143.0s
+[13:14:18] qwen3.5:4b E=24 s=1 B=2200 hermes_ic    chars=   529 acc=0.162 build= 139.2s qa=  68.2s
+[13:17:08] qwen3.5:4b E=24 s=1 B=2200 bm25         chars=     0 acc=0.764 build=   0.0s qa= 170.1s
+[13:20:13] qwen3.5:4b E=24 s=2 B=0 full         chars= 14443 acc=0.796 build=   0.0s qa= 185.2s
+[13:31:08] qwen3.5:4b E=24 s=2 B=2200 recency      chars=  2174 acc=0.222 build=   0.0s qa= 655.4s
+[13:44:24] qwen3.5:4b E=24 s=2 B=2200 summary      chars=  2186 acc=0.587 build= 142.0s qa= 653.1s
+[13:53:02] qwen3.5:4b E=24 s=2 B=2200 struct       chars=  1732 acc=0.521 build= 117.3s qa= 401.2s
+[14:30:13] qwen3.5:4b E=24 s=2 B=2200 hermes       chars=  2137 acc=0.431 build=1859.1s qa= 371.8s
+[15:03:08] qwen3.5:4b E=24 s=2 B=2200 hermes_ic    chars=  1936 acc=0.371 build=1679.1s qa= 296.0s
+[15:14:28] qwen3.5:4b E=24 s=2 B=2200 bm25         chars=     0 acc=0.713 build=   0.0s qa= 680.1s
+[15:20:39] qwen3.5:4b E=24 s=3 B=0 full         chars= 12553 acc=0.825 build=   0.0s qa= 370.5s
+[15:31:51] qwen3.5:4b E=24 s=3 B=2200 recency      chars=  2163 acc=0.281 build=   0.0s qa= 672.4s
+[15:38:02] qwen3.5:4b E=24 s=3 B=2200 summary      chars=  1982 acc=0.569 build=  43.7s qa= 327.8s
+[15:43:27] qwen3.5:4b E=24 s=3 B=2200 struct       chars=  1925 acc=0.531 build=  92.3s qa= 232.5s
+[16:00:39] qwen3.5:4b E=24 s=3 B=2200 hermes       chars=  2196 acc=0.500 build= 888.0s qa= 144.1s
+[16:22:49] qwen3.5:4b E=24 s=3 B=2200 hermes_ic    chars=  2156 acc=0.369 build=1191.1s qa= 138.6s
+[16:25:40] qwen3.5:4b E=24 s=3 B=2200 bm25         chars=     0 acc=0.769 build=   0.0s qa= 170.6s
+LLM usage: {'calls': 3036, 'prompt_tokens': 5391681, 'gen_tokens': 140788, 'seconds': 17733.02, 'cache_hits': 42}

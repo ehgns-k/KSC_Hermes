@@ -1,0 +1,44 @@
+{
+ "entries": [
+  "Use ruff for linting Python code in all repos.",
+  "Jade stand-up time: 10:40.",
+  "Vortex SSH port: 7965.",
+  "Juniper stand-up time: 16:25.",
+  "Thistle stand-up time: 16:40.",
+  "Cobalt request timeout: 1250 ms (default).",
+  "User location: Seoul (KST, UTC+9).",
+  "Thistle test coverage threshold: 43% (confirmed).",
+  "Juniper max line length: 84 chars (confirmed).",
+  "Acacia IP: 10.177.23.77.",
+  "Cobalt batch jobs: request timeout 8000 ms (overrides default).",
+  "Acacia default SSH port: 22 (except backup job, which uses 5522).",
+  "Thistle hotfix branches override max line length to 192 chars.",
+  "Juniper stand-up time: 21:10 (moved from 16:25).",
+  "Juniper max line length: 92 chars (updated from 84).",
+  "Zephyr disk quota: usual limit except weekend runs (717 GB).",
+  "Wren API port: 4097 (updated from 6293 for mobile API; normal setting applies elsewhere).",
+  "User language: reads documentation in English, chats in Korean.",
+  "Juniper max line length: 97 chars (updated from 92).",
+  "Thistle test coverage threshold: 41% (default); frontend squad exception: 68%."
+ ],
+ "chars": 1036,
+ "usage": {
+  "calls": 53,
+  "prompt_tokens": 108033,
+  "gen_tokens": 8477,
+  "seconds": 205.49,
+  "cache_hits": 0
+ },
+ "stats": {
+  "sessions": 20,
+  "tool_calls": 35,
+  "ok_calls": 23,
+  "failed_calls": 12,
+  "overflow_errors": 0,
+  "silent_sessions": 0,
+  "text_only_claims": 0,
+  "ops": 151
+ },
+ "wall_s": 205.6,
+ "raw_chars": 5382
+}

@@ -1,0 +1,47 @@
+{
+ "entries": [
+  "Aurora: max containers 402, maintenance 20:05. Backup IP: 10.103.60.133. CI runner maint: 20:50. Normal IP: 10.155.243.141.",
+  "Cedar: SSH port 3488. GPU queue IP: 10.106.230.108.",
+  "Ember: timeout 5250 ms, upload 192 MB, branch release-747.",
+  "Fjord: API port 2997, branch release-453. Canary branch: release-544.",
+  "Flint: deadline 91h, coverage 63%, cache 1627 GB, budget $7960.",
+  "Iris: containers 156, quota 2983 GB. Backup job quota: 347 GB.",
+  "Jasper: API port 4273, DB pool 240, backup 11:20.",
+  "Juniper: coverage 74%, cache 1755 GB. Intern stand-up: 16:20.",
+  "Lumen: stand-up 20:25, coverage 45%, cache 1547 GB. Intern stand-up: 11:55. Frontend cache: 2647 GB.",
+  "Lyra: coverage 57%, cache 365 GB, deadline 56h. Hotfix coverage: 50%.",
+  "Nimbus: API port 4343, timeout 9650 ms, backup 18:25.",
+  "Nova: SLA 83h, budget $8290, stand-up 21:40. Friday SLA: 85h.",
+  "Onyx: DB pool 376, timeout 4300 ms.",
+  "Opal: timeout 1300 ms, workers 179, HTTP 5873. Batch API: 4952.",
+  "Quill: SLA 6h, cache 400 GB. Intern SLA: 40h. Stand-up 10:40.",
+  "Rune: swap 39 GB, quota 638 GB. Weekend quota: 2469 GB.",
+  "Thistle: backup 14:20, branch release-541. Staging API: 8826.",
+  "Umbra: timeout 6250 ms, workers 337, logs 213 days.",
+  "Ursa: API 5049, DB pool 318, HTTP timeout 7350 ms.",
+  "Velvet: HTTP 5988, branch release-449, workers 203. Mobile API: 6412. Canary branch: release-568. Staging workers: 237. Listen port: 6012.",
+  "Yukon: backup 20:55, logs 13 days. API 8827. Canary logs: 36 days.",
+  "Yarrow: branch release-332, API 2653, logs 61 days. Batch API: 4091.",
+  "Zenith: swap 2763 GB, maint 10:15. IP 10.87.160.167.",
+  "Alder: stand-up 19:40, coverage 99%, cache 902 GB. Hotfix cache: 1143 GB.",
+  "User prefs: YYYY-MM-DD dates, summaries at end, no emoji commits. English docs, Korean chat. Works late.",
+  "Infra: Printer room 5743, VPN MTU 4143, Grafana #4024.",
+  "Rules: No force-push shared branches, run 'make test' before push."
+ ],
+ "chars": 1894,
+ "usage": {
+  "calls": 2,
+  "prompt_tokens": 10701,
+  "gen_tokens": 1972,
+  "seconds": 98.91,
+  "cache_hits": 0
+ },
+ "stats": {
+  "first_chars": 2924,
+  "retried": true,
+  "chars_before_cut": 1894,
+  "truncated": false
+ },
+ "wall_s": 98.9,
+ "raw_chars": 13004
+}

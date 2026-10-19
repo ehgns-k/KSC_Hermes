@@ -1,0 +1,69 @@
+{
+ "entries": [
+  "Aurora: max containers 402 (weekend runs: 76); maintenance start time 20:05; IP address 10.155.243.141 (was 10.208.116.17; backup job: 10.103.60.133)",
+  "Cedar: SSH port 3488; IP address 10.193.60.28 (GPU queue: 10.106.230.108); swap size 910 GB",
+  "Umbra: log retention period 213 days (was 254); request_timeout 6250; worker_count 337 (was 378)",
+  "Lyra: test_coverage_threshold 57% (hotfix branches: 50%); build_cache_size 365 GB; code_review_deadline 56 hours (was 91 hours)",
+  "Nimbus: API port 4343; backup_time 18:25 (was 10:50); request_timeout 9650 ms (was 9650); HTTP port 3527",
+  "Ember: request_timeout 5250 ms (was 3550 ms); upload_limit 192 MB; branch release-747 (was release-913)",
+  "Flint: build_cache_size 1627 GB (was 890 GB); monthly_cloud_budget $7960; test_coverage_threshold 63% (was 96%)",
+  "Yukon: backup_time 20:55 (was 20:45); log_retention 13 days (was 304; canary cluster: 36 days); API port 8827 (was 3484; mobile API: 3080)",
+  "Velvet: branch release-449 (canary cluster: release-568); HTTP port 6012 (was 5988); worker_count 203 (was 79; staging: 237); API port 8861 (mobile API: 6412)",
+  "Fjord: db_pool_size 243; HTTP port 2997; branch release-453 (deploy: release-453; canary cluster: release-544); API port 2997",
+  "Ursa: API port 5049; db_pool_size 318; request_timeout 7350 ms (was 8950 ms); HTTP port 6844 (was 5049)",
+  "Onyx: worker_count 343; db_pool_size 376; request_timeout 4300 ms",
+  "Yarrow: branch release-596 (was release-332); API port 2653 (was 7590; batch jobs: 4091); log retention 61 days (was 61; batch jobs: 244 days)",
+  "Rune: swap size 39 GB (was 2662 GB); disk quota 638 GB (weekend runs: 2469 GB); container_limit 24",
+  "Thistle: API port 2658 (staging: 8826); branch release-916 (was release-541); backup_time 14:20 (was 13:55; mobile API: usual nightly backup time)",
+  "Zenith: swap size 2679 GB (was 2763 GB); maintenance start time 10:15 (was 21:50; CI runner: 20:50); IP address 10.87.160.167 (was 10.55.205.15)",
+  "Alder: stand-up time 19:40 (was 22:35); test_coverage_threshold 99%; build_cache_size 902 (was 2572 GB; hotfix branches: 1143 GB)",
+  "Juniper: test_coverage_threshold 74% (Fridays: 98%); stand-up time 14:45 (intern cohort: 16:20); build_cache_size 1755 GB (was 659 GB)",
+  "default: pre_push_action prefer small pull requests with clear titles (was make test); printer_room 5743; stand-up time evening; branch shared; documentation_language English; chat_language Korean; grafana_dashboard_id 4024; Jira board (infra work: 8939); MTU (office VPN: 4143); summary_preference summaries at the end of long answers",
+  "Quill: code_review_deadline 6 hours (intern cohort: 40 hours); build_cache_size 400 GB (was 1495 GB; hotfix branches: 2087 GB); stand-up time 10:40 (was 23:40)",
+  "Iris: IP address 10.178.27.8; disk_quota 2983 GB (was 2465 GB; backup job: 347 GB); max containers 156 (was 374)",
+  "Nova: code_review_deadline 83 hours (was 77 hours; Fridays: 85 hours); stand-up time 21:40 (was 14:50); monthly_cloud_budget $8290 (was $5690)",
+  "Jasper: API port 4273 (was 7975); db_pool_size 240 (was 476); backup_time 11:20 (was 20:20)",
+  "Lumen: stand-up time 15:35 (was 20:25; intern cohort: 11:55); test_coverage_threshold 45% (was 41%); build_cache_size 1547 GB (was 1337 GB; frontend squad: 2647 GB)",
+  "Opal: request_timeout 7950 ms (was 4450 ms); worker_count 179 (was 167); HTTP port 5873; API port 8421 (was 5873; batch jobs: 4952)",
+  "Large log files should be summarized, not pasted.",
+  "Docker commands do not need sudo on this machine.",
+  "User wants dates written as YYYY-MM-DD.",
+  "User usually works late in the evening.",
+  "User likes summaries at the end of long answers.",
+  "Avoid force-pushing to shared branches.",
+  "User dislikes emoji in commit messages."
+ ],
+ "chars": 3692,
+ "usage": {
+  "calls": 49,
+  "prompt_tokens": 33882,
+  "gen_tokens": 9340,
+  "seconds": 512.99,
+  "cache_hits": 0
+ },
+ "stats": {
+  "dropped": {
+   "T1": 0,
+   "T2": 0,
+   "T3": 0,
+   "T0": 0
+  },
+  "kept": {
+   "T1": 85,
+   "T2": 29,
+   "T3": 46,
+   "T0": 7
+  },
+  "keys": 114,
+  "entities": 25,
+  "extract": {
+   "calls": 49,
+   "parse_errors": 0,
+   "facts": 208,
+   "ungrounded": 3,
+   "wall_s": 513.0
+  }
+ },
+ "wall_s": 0.0,
+ "raw_chars": 13004
+}

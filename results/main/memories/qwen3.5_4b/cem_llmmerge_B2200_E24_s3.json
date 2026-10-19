@@ -1,0 +1,47 @@
+{
+ "entries": [
+  "backup_time 11:20 (was -; scope: default)",
+  "Quasar | API port | EU region | 4355 | -",
+  "Pegasus | ssh_port | GPU queue | 6623 | -; Pegasus | disk_quota | default | 2444 GB | 1622 GB",
+  "Kestrel | stand_up_time | default | 19:55 | -",
+  "Helix | test_coverage_threshold | default | 52 | -",
+  "Zenith: disk_quota 2351 GB (was -; scope: default), ssh_port default 2852 (was -; scope: default), address GPU queue 10.240.84.97 (was -)",
+  "Krypton | request_timeout | canary cluster | 1650 ms | -",
+  "Marlin | deploy_branch | batch jobs | release-194 | -",
+  "Redwood | stand-up time | default | 14:50 | -; Redwood | build_cache_size | intern cohort | 607 GB | -; Redwood | max_upload_size | default | 3032 MB | -; Redwood | listen_port | default | 6987 | -; Redwood | request_timeout | default | 8800 ms | -; Redwood | API port | default | 6322 | -; Redwood | max_line_length | default | 133 | -",
+  "Vega: maintenance_window 23:55 (was -; scope: default); Vega: max_containers 337 (was -; scope: weekend runs)",
+  "Wildfire | db_pool_size | default | 167 | -; Wildfire | workers | default | 286 | -",
+  "Pulsar | db_pool_size | batch jobs | 465 | -; Pulsar | deploy branch | default | release-700 | -",
+  "Zircon | cloud_spending_cap | default | $9260 | -; max_line_length 129 (was 129; scope: default); max_line_length 129 (was -; scope: default)",
+  "swap_space 1123 GB (was -; scope: default)",
+  "test_coverage_threshold 85% (was -; scope: Fridays)",
+  "db_pool_size 334 (was -; scope: default); db_pool_size 167 (was -; scope: Wildfire)",
+  "ssh_port 3535 (was -; scope: default); ssh_port 6623 (was -; scope: GPU queue)",
+  "disk_quota 1622 GB (was 2680 GB; scope: default)",
+  "Grafana | dashboard_id | default | 6813 | -",
+  "stand-up time 14:50 (was 18:15; scope: default); max_line_length 133 (was 130; scope: default); max_line_length Fridays 202 (was -; scope: Fridays); build_cache_size 2447 GB (was -; scope: default); monthly_budget default $5170 (was -; scope: default); max_line_length default 148 chars (was -; scope: default)"
+ ],
+ "chars": 1992,
+ "usage": {
+  "calls": 74,
+  "prompt_tokens": 38125,
+  "gen_tokens": 21595,
+  "seconds": 1038.2,
+  "cache_hits": 0
+ },
+ "stats": {
+  "calls": 37,
+  "parse_errors": 1,
+  "merge_usage": {
+   "calls": 37,
+   "prompt_tokens": 13076,
+   "gen_tokens": 10698,
+   "seconds": 501.53,
+   "cache_hits": 0
+  },
+  "entities": 47,
+  "dropped_entities": 27
+ },
+ "wall_s": 501.6,
+ "raw_chars": 11139
+}

@@ -1,0 +1,59 @@
+{
+ "entries": [
+  "Aurora: max containers 76 (was 402); IP address 10.155.243.141 (was 10.103.60.133)",
+  "Cedar: SSH port 3488; IP address 10.106.230.108 (was 10.193.60.28); swap size 910 GB",
+  "Umbra: request_timeout 6250; worker_count 337 (was 378)",
+  "Nimbus: API port 4343; backup_time 18:25 (was 10:50); request_timeout 9650 ms (was 9650); HTTP port 3527",
+  "Ember: request_timeout 5250 ms (was 3550 ms); upload_limit 192 MB; branch release-747 (was release-913)",
+  "Yukon: backup_time 20:55 (was 20:45); log_retention 13 days (was 36 days); API port 8827 (was 3080)",
+  "Velvet: branch release-568 (was release-449); HTTP port 6012 (was 5988); worker_count 237 (was 203); API port 8861 (was 6412)",
+  "Fjord: db_pool_size 243; HTTP port 2997; branch release-544 (was release-453); API port 2997",
+  "Ursa: API port 5049; db_pool_size 318; request_timeout 7350 ms (was 8950 ms); HTTP port 6844 (was 5049)",
+  "Onyx: worker_count 343; db_pool_size 376; request_timeout 4300 ms",
+  "Yarrow: branch release-596 (was release-332); API port 4091 (was 2653); log retention 244 days (was 61 days)",
+  "Rune: swap size 39 GB (was 2662 GB); disk quota 2469 GB (was 638 GB); container_limit 24",
+  "Thistle: API port 8826 (was 2658); branch release-916 (was release-541); backup_time 14:20",
+  "Zenith: swap size 2679 GB (was 2763 GB); IP address 10.87.160.167 (was 10.55.205.15)",
+  "Alder: stand-up time 19:40 (was 22:35); build_cache_size 1143 GB (was 902)",
+  "Juniper: test_coverage_threshold 74% (was 98%); stand-up time 16:20 (was 14:45); build_cache_size 1755 GB (was 659 GB)",
+  "default: printer_room 5743; stand-up time evening; branch shared; chat_language Korean; grafana_dashboard_id 4024; Jira board 8939; MTU 4143",
+  "Quill: build_cache_size 2087 GB (was 400 GB); stand-up time 10:40 (was 23:40)",
+  "Iris: IP address 10.178.27.8; disk_quota 2983 GB (was 2465 GB); max containers 156 (was 374)",
+  "Nova: stand-up time 21:40 (was 14:50); monthly_cloud_budget $8290 (was $5690)",
+  "Jasper: API port 4273 (was 7975); db_pool_size 240 (was 476); backup_time 11:20 (was 20:20)",
+  "Lumen: stand-up time 11:55 (was 15:35); test_coverage_threshold 45% (was 41%); build_cache_size 1547 GB (was 2647 GB)"
+ ],
+ "chars": 2131,
+ "usage": {
+  "calls": 49,
+  "prompt_tokens": 33882,
+  "gen_tokens": 9340,
+  "seconds": 512.99,
+  "cache_hits": 0
+ },
+ "stats": {
+  "dropped": {
+   "T1": 15,
+   "T2": 0,
+   "T3": 10,
+   "T0": 7
+  },
+  "kept": {
+   "T1": 72,
+   "T2": 0,
+   "T3": 47,
+   "T0": 0
+  },
+  "keys": 87,
+  "entities": 25,
+  "extract": {
+   "calls": 49,
+   "parse_errors": 0,
+   "facts": 208,
+   "ungrounded": 3,
+   "wall_s": 513.0
+  }
+ },
+ "wall_s": 0.0,
+ "raw_chars": 13004
+}

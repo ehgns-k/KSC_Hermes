@@ -1,0 +1,46 @@
+{
+ "entries": [
+  "Birch — SSH: 6098 (was 6803) | GPU IP: 10.62.47.167 | maint: 19:05 | GPU maint: 19:20",
+  "Cedar — len: 123 | cov: 65% | cache: 489 GB",
+  "Flint — cov: 62% | cache: 912 GB | SLA: 17h",
+  "Glacier — backup: 21:10 | port: 2705 | timeout: 8350ms | API: 4390 | staging backup: 18:35",
+  "Harbor — backup: 23:40 | logs: 325d | workers: 228",
+  "Helix — SLA: 54h | cache: 2863 GB | cov: 52% | hotfix cache: 2214 GB",
+  "Kestrel — standup: 22:25 | SLA: 19h | cov: 71% | hotfix standup: 14:05 | Fri cov: 85%",
+  "Krypton — port: 6322 | upload: 3032 MB | timeout: 8800ms | canary timeout: 1650ms",
+  "Lumen — SLA: 83h | len: 141 | cache: 1428 GB | hotfix len: 183",
+  "Marlin — backup: 16:10 | batch backup: 11:20 | branch: release-925 | batch branch: release-194 | pool: 30 | batch pool: 465",
+  "Nordic — API: 8465 | logs: 362d | branch: release-540 | batch branch: release-191 | EU port: 6596",
+  "Pegasus — SSH: 3241 | quota: 2444 GB | GPU SSH: 6623",
+  "Quasar — backup: 22:50 | timeout: 1400ms | API: 6257 | EU API: 4355",
+  "Raven — branch: release-890 | pool: 300 | timeout: 5500ms",
+  "Redwood — standup: 14:50 | len: 133 | cache: 2735 GB | intern cache: 607 GB",
+  "Tundra — SSH: 8648 | swap: 116 GB | quota: 1246 GB | weekend quota: 457 GB | weekend SSH: 3933",
+  "Vega — swap: 2096 GB | maint: 23:55 | containers: 58 | weekend containers: 337",
+  "Zenith — IP: 10.139.232.148 | quota: 2351 GB | GPU IP: 10.240.84.97 | SSH: 2852",
+  "Zircon — SLA: 12h | len: 129 | intern len: 166",
+  "Magma — budget: $5170 | len: 148 | Fri len: 202 | hotfix cache: 753 GB",
+  "Pulsar — branch: release-700 | pool: 61 | batch pool: 465 | canary branch: release-870",
+  "Wildfire — timeout: 1300ms | pool: 167 | canary pool: 229 | workers: 286",
+  "Bramble — SSH: 2303 | maint: 12:15 | containers: 313 | GPU maint: 19:20 | Fri maint: 12:25",
+  "Rune — SLA: 27h | len: 119 | budget: $6030",
+  "User — language: EN/ko | dates: YYYY-MM-DD | no emojis | small PRs | run make test",
+  "Omit: considered/rejected values."
+ ],
+ "chars": 1925,
+ "usage": {
+  "calls": 2,
+  "prompt_tokens": 9632,
+  "gen_tokens": 2350,
+  "seconds": 92.27,
+  "cache_hits": 0
+ },
+ "stats": {
+  "first_chars": 3321,
+  "retried": true,
+  "chars_before_cut": 1925,
+  "truncated": false
+ },
+ "wall_s": 92.3,
+ "raw_chars": 11139
+}

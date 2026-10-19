@@ -1,0 +1,57 @@
+{
+ "entries": [
+  "Birch: address 10.107.224.32; ssh_port 6098 (was 6803; GPU queue: 10.62.47.167); maintenance_window 19:05",
+  "Glacier: backup_time 21:10 (was 12:35; staging: 18:35); listen_port 2705; request_timeout 8350 (was 550 ms); API port 4390",
+  "Rune: code_review_sla 94 (was 27 hours); max_line_length 119 (was 119 chars); monthly_budget 6030",
+  "Cedar: max_line_width 120 (was 77 chars); min_test_coverage 65% (was 74%); build_cache_size 489 GB (was 2219 GB); max_line_length 123 (was 120)",
+  "Harbor: backup_time 23:40 (was 13:05; nightly: 13:05); workers 228",
+  "Nordic: log_retention 362 days (was 91 days); branch release-191 (was release-540); API port 8465 (was 3625)",
+  "Tundra: ssh_port 8648 (was 8995; weekend runs: 3933); swap_space 116 GB (was 2636 GB); disk_quota 1246 (was 1246 GB; weekend runs: 457)",
+  "Flint: build cache size 912 GB (was 1775 GB); code_review_sla 17",
+  "Bramble: SSH port 2303 (was 3629); maintenance window 12:15 (was 12:25; GPU queue: 19:20); max_containers 313 (was 23)",
+  "Quasar: listen_port 6257; backup_time 22:50 (was 17:35); request_timeout 1400 (was 150 ms); API port 6257 (EU region: 4355)",
+  "Raven: request_timeout 5500 (was 4350); db_pool_size 300 (was 372)",
+  "Pegasus: swap_space 1123 GB; ssh_port 3241 (was 3535; GPU queue: 6623); disk_quota 2444 GB (was 1622)",
+  "Zenith: disk_quota 2351 GB; ssh_port 2852",
+  "Lumen: build_cache_size 1428 GB (was 2143 GB; frontend squad: 2952 GB); max_line_length 141 (hotfix branches: 183)",
+  "Krypton: max_upload_size 3032 MB; listen_port 6987; request_timeout 8800 (was 8800 ms; canary cluster: 1650 ms); API port 6322 (was 6987)",
+  "Marlin: db_pool_size 30 (was 334); deploy_branch release-925 (batch jobs: release-194); backup_time 16:10 (was 20:55; batch jobs: 11:20)",
+  "Vega: swap_space 2096 GB; max_containers 58 (weekend runs: 337); maintenance_window 23:55",
+  "Magma: monthly_budget $5170; max_line_length 148 chars (Fridays: 202); build_cache_size 2447 GB (hotfix branches: 753 GB)",
+  "Wildfire: db_pool_size 167 (canary cluster: 229); workers 286; request_timeout 1300 (was 5450 ms)",
+  "Pulsar: log_retention 46 days; db_pool_size 61 (batch jobs: 465); deploy branch release-700 (was release-714)"
+ ],
+ "chars": 2149,
+ "usage": {
+  "calls": 37,
+  "prompt_tokens": 25049,
+  "gen_tokens": 10897,
+  "seconds": 536.67,
+  "cache_hits": 0
+ },
+ "stats": {
+  "dropped": {
+   "T1": 13,
+   "T2": 9,
+   "T3": 7,
+   "T0": 12
+  },
+  "kept": {
+   "T1": 63,
+   "T2": 18,
+   "T3": 33,
+   "T0": 0
+  },
+  "keys": 103,
+  "entities": 26,
+  "extract": {
+   "calls": 37,
+   "parse_errors": 0,
+   "facts": 170,
+   "ungrounded": 4,
+   "wall_s": 536.7
+  }
+ },
+ "wall_s": 536.7,
+ "raw_chars": 11139
+}

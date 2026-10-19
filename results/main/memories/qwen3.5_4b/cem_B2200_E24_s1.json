@@ -1,0 +1,58 @@
+{
+ "entries": [
+  "Vega: maintenance window 21:15; Jira board ruff (was 2531); sshd port 4829 (was 7555)",
+  "Orion: code review SLA 15 hours; stand-up time 12:50 (was 18:25)",
+  "license: answer port 4656",
+  "Harbor: max line length 105; build cache size 2439 GB (was 1933 GB; frontend squad: 2439 GB); stand-up time 14:25 (intern cohort: 22:40)",
+  "Falcon: stand-up time 21:25 (frontend squad: 22:05)",
+  "Vesper: stand-up time 19:40 (was 16:55; frontend squad: 17:20)",
+  "Fjord: code review SLA 7 hours (intern cohort: 72 hours); build cache size 2521 GB (was 1231 GB); max line length 83 (was 75 chars)",
+  "Indigo: IP address 10.80.112.130 (was 10.49.67.29); max containers 282 (was 379); disk quota 855 GB (was 876 GB)",
+  "Pulsar: worker count 183; DB connection pool 319",
+  "Kestrel: swap space 390 (was 1170 GB); maintenance slot 21:40; max containers 218 (weekend runs: 211); maintenance window 14:20",
+  "Ember: max upload size 1072 MB (was 2432 MB; EU region: 2512 MB); deploy branch release-693 (was release-499); HTTP port 4593 (was 2855); API port 2855",
+  "Wren: request timeout 4950 ms; DB connection pool 287; API port 2669 (mobile API: 3435)",
+  "Comet: stand-up time 23:25; max line length 93 chars (was 213)",
+  "Solstice: nightly backup time 10:05 (was 15:55); API port 3901; deploy branch release-764 (was release-281); backup start time 19:15 (was 10:05)",
+  "Prism: maintenance window 14:05; disk quota 573 GB (backup job: 1336 GB); IP address 10.220.84.209",
+  "Umbra: max line length 120 (Fridays: 163 chars); build cache size 2933 GB (intern cohort: 182 GB); code review SLA 56 hours (Fridays: 42 hours)",
+  "Maple: IP address 10.133.200.145; swap space 941 GB (was 2119 GB; CI runner: 2667 GB); maintenance window 10:45",
+  "Thistle: max line length 82 (was 187 chars); code review SLA 70 hours; stand-up time 13:05 (was 15:50)",
+  "Sierra: worker count 234 (was 92); nightly backup time 14:55; request timeout 5150 ms (was 5150; canary cluster: 5650)",
+  "Dune: swap space 1848 GB (was 776 GB); max containers 114 (was 392); IP address 10.246.49.137 (was 10.64.69.30)",
+  "Alder: max upload size 1216 MB; worker count 436 (was 199); deploy branch release-698 (was release-655; batch jobs: release-636)"
+ ],
+ "chars": 2156,
+ "usage": {
+  "calls": 38,
+  "prompt_tokens": 25645,
+  "gen_tokens": 10234,
+  "seconds": 519.81,
+  "cache_hits": 0
+ },
+ "stats": {
+  "dropped": {
+   "T1": 16,
+   "T2": 8,
+   "T3": 5,
+   "T0": 9
+  },
+  "kept": {
+   "T1": 60,
+   "T2": 15,
+   "T3": 29,
+   "T0": 0
+  },
+  "keys": 99,
+  "entities": 25,
+  "extract": {
+   "calls": 38,
+   "parse_errors": 0,
+   "facts": 160,
+   "ungrounded": 1,
+   "wall_s": 519.8
+  }
+ },
+ "wall_s": 519.8,
+ "raw_chars": 10325
+}

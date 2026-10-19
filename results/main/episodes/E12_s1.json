@@ -1,0 +1,3237 @@
+{
+ "seed": 1,
+ "n_entities": 12,
+ "notes": [
+  {
+   "idx": 0,
+   "session": 0,
+   "date": "2026-01-05",
+   "text": "The Vega host uses SSH port 6320; disk limit is 708 GB.",
+   "facts": [
+    0,
+    1
+   ]
+  },
+  {
+   "idx": 1,
+   "session": 0,
+   "date": "2026-01-05",
+   "text": "Indigo uses 5710 as its API port.",
+   "facts": [
+    2
+   ]
+  },
+  {
+   "idx": 2,
+   "session": 0,
+   "date": "2026-01-05",
+   "text": "Noted: Indigo — nightly backup time: 22:25.",
+   "facts": [
+    3
+   ]
+  },
+  {
+   "idx": 3,
+   "session": 0,
+   "date": "2026-01-05",
+   "text": "Vega: swap size = 2709 GB.",
+   "facts": [
+    4
+   ]
+  },
+  {
+   "idx": 4,
+   "session": 0,
+   "date": "2026-01-05",
+   "text": "The Maple service uses nightly backup time 10:20; max upload size is 2224 MB.",
+   "facts": [
+    5,
+    6
+   ]
+  },
+  {
+   "idx": 5,
+   "session": 0,
+   "date": "2026-01-05",
+   "text": "Indigo HTTP port: 5710 (unchanged).",
+   "facts": [
+    7
+   ]
+  },
+  {
+   "idx": 6,
+   "session": 1,
+   "date": "2026-01-08",
+   "text": "Maple now uses 16:50 as its nightly backup time.",
+   "facts": [
+    8
+   ]
+  },
+  {
+   "idx": 7,
+   "session": 1,
+   "date": "2026-01-08",
+   "text": "Indigo: max upload size = 464 MB.",
+   "facts": [
+    9
+   ]
+  },
+  {
+   "idx": 8,
+   "session": 1,
+   "date": "2026-01-08",
+   "text": "The branch it ships from of Maple is release-980.",
+   "facts": [
+    10
+   ]
+  },
+  {
+   "idx": 9,
+   "session": 1,
+   "date": "2026-01-08",
+   "text": "Avoid force-pushing to shared branches.",
+   "facts": []
+  },
+  {
+   "idx": 10,
+   "session": 1,
+   "date": "2026-01-08",
+   "text": "Set up Dune: nightly backup time 18:55, worker count 408.",
+   "facts": [
+    11,
+    12
+   ]
+  },
+  {
+   "idx": 11,
+   "session": 2,
+   "date": "2026-01-09",
+   "text": "New number of workers for Dune: 167.",
+   "facts": [
+    13
+   ]
+  },
+  {
+   "idx": 12,
+   "session": 2,
+   "date": "2026-01-09",
+   "text": "The HTTP timeout of Dune is 7950 ms.",
+   "facts": [
+    14
+   ]
+  },
+  {
+   "idx": 13,
+   "session": 2,
+   "date": "2026-01-09",
+   "text": "Indigo time of the nightly backup changed from 22:25 to 20:45.",
+   "facts": [
+    15
+   ]
+  },
+  {
+   "idx": 14,
+   "session": 2,
+   "date": "2026-01-09",
+   "text": "Run 'make test' before pushing any branch.",
+   "facts": []
+  },
+  {
+   "idx": 15,
+   "session": 2,
+   "date": "2026-01-09",
+   "text": "Config for Comet has SSH port 6669.",
+   "facts": [
+    16
+   ]
+  },
+  {
+   "idx": 16,
+   "session": 2,
+   "date": "2026-01-09",
+   "text": "For Jasper, the IP address is set to 10.49.78.74.",
+   "facts": [
+    17
+   ]
+  },
+  {
+   "idx": 17,
+   "session": 3,
+   "date": "2026-01-10",
+   "text": "Config for Jasper has maintenance window 18:40.",
+   "facts": [
+    18
+   ]
+  },
+  {
+   "idx": 18,
+   "session": 3,
+   "date": "2026-01-10",
+   "text": "Indigo API port changed from 5710 to 6862.",
+   "facts": [
+    19
+   ]
+  },
+  {
+   "idx": 19,
+   "session": 3,
+   "date": "2026-01-10",
+   "text": "Sierra: daily stand-up = 20:35.",
+   "facts": [
+    20
+   ]
+  },
+  {
+   "idx": 20,
+   "session": 3,
+   "date": "2026-01-10",
+   "text": "Jasper disk limit is 2065 GB.",
+   "facts": [
+    21
+   ]
+  },
+  {
+   "idx": 21,
+   "session": 4,
+   "date": "2026-01-11",
+   "text": "The swap size of Comet is 1990 GB.",
+   "facts": [
+    22
+   ]
+  },
+  {
+   "idx": 22,
+   "session": 4,
+   "date": "2026-01-11",
+   "text": "Maple time of the nightly backup is 21:45 on the canary cluster only; elsewhere the normal setting applies.",
+   "facts": [
+    23
+   ]
+  },
+  {
+   "idx": 23,
+   "session": 4,
+   "date": "2026-01-11",
+   "text": "The max containers of Comet is 224.",
+   "facts": [
+    24
+   ]
+  },
+  {
+   "idx": 24,
+   "session": 5,
+   "date": "2026-01-13",
+   "text": "Double-checked Maple: the nightly backup time remains 16:50.",
+   "facts": [
+    25
+   ]
+  },
+  {
+   "idx": 25,
+   "session": 5,
+   "date": "2026-01-13",
+   "text": "Screenshots go to ~/Pictures/shots by default.",
+   "facts": []
+  },
+  {
+   "idx": 26,
+   "session": 5,
+   "date": "2026-01-13",
+   "text": "Comet SSH port changed from 6669 to 8371.",
+   "facts": [
+    26
+   ]
+  },
+  {
+   "idx": 27,
+   "session": 5,
+   "date": "2026-01-13",
+   "text": "Config for Sierra has max line length 116 chars.",
+   "facts": [
+    27
+   ]
+  },
+  {
+   "idx": 28,
+   "session": 6,
+   "date": "2026-01-16",
+   "text": "Falcon: nightly backup time = 22:50.",
+   "facts": [
+    28
+   ]
+  },
+  {
+   "idx": 29,
+   "session": 6,
+   "date": "2026-01-16",
+   "text": "Config for Falcon has HTTP port 3480.",
+   "facts": [
+    29
+   ]
+  },
+  {
+   "idx": 30,
+   "session": 6,
+   "date": "2026-01-16",
+   "text": "Solstice: swap = 141 GB.",
+   "facts": [
+    30
+   ]
+  },
+  {
+   "idx": 31,
+   "session": 7,
+   "date": "2026-01-19",
+   "text": "The max containers of Solstice is 195.",
+   "facts": [
+    31
+   ]
+  },
+  {
+   "idx": 32,
+   "session": 7,
+   "date": "2026-01-19",
+   "text": "Noted: Falcon — deploy branch: release-936.",
+   "facts": [
+    32
+   ]
+  },
+  {
+   "idx": 33,
+   "session": 7,
+   "date": "2026-01-19",
+   "text": "Jira tickets for infra work go to board 4052.",
+   "facts": [
+    33
+   ]
+  },
+  {
+   "idx": 34,
+   "session": 7,
+   "date": "2026-01-19",
+   "text": "Config for Pulsar has code review SLA 95 hours.",
+   "facts": [
+    34
+   ]
+  },
+  {
+   "idx": 35,
+   "session": 7,
+   "date": "2026-01-19",
+   "text": "Special case — Jasper on the backup job: IP address 10.231.73.6.",
+   "facts": [
+    35
+   ]
+  },
+  {
+   "idx": 36,
+   "session": 7,
+   "date": "2026-01-19",
+   "text": "Note that the mobile API of Dune overrides the nightly backup time with 23:55.",
+   "facts": [
+    36
+   ]
+  },
+  {
+   "idx": 37,
+   "session": 8,
+   "date": "2026-01-21",
+   "text": "Config for Sierra has test coverage threshold 97%.",
+   "facts": [
+    37
+   ]
+  },
+  {
+   "idx": 38,
+   "session": 8,
+   "date": "2026-01-21",
+   "text": "Noted: Kestrel — nightly backup time: 18:10.",
+   "facts": [
+    38
+   ]
+  },
+  {
+   "idx": 39,
+   "session": 8,
+   "date": "2026-01-21",
+   "text": "Reminder: Solstice swap size is still 141 GB.",
+   "facts": [
+    39
+   ]
+  },
+  {
+   "idx": 40,
+   "session": 8,
+   "date": "2026-01-21",
+   "text": "Umbra: max line length = 207 chars.",
+   "facts": [
+    40
+   ]
+  },
+  {
+   "idx": 41,
+   "session": 9,
+   "date": "2026-01-22",
+   "text": "Double-checked Dune: the request timeout remains 7950 ms.",
+   "facts": [
+    41
+   ]
+  },
+  {
+   "idx": 42,
+   "session": 9,
+   "date": "2026-01-22",
+   "text": "Vega now uses 1297 GB as its disk quota.",
+   "facts": [
+    42
+   ]
+  },
+  {
+   "idx": 43,
+   "session": 9,
+   "date": "2026-01-22",
+   "text": "Sierra max line length is 93 chars on the frontend squad only; elsewhere the normal setting applies.",
+   "facts": [
+    43
+   ]
+  },
+  {
+   "idx": 44,
+   "session": 9,
+   "date": "2026-01-22",
+   "text": "The stand-up time of Umbra is 18:20.",
+   "facts": [
+    44
+   ]
+  },
+  {
+   "idx": 45,
+   "session": 9,
+   "date": "2026-01-22",
+   "text": "Except for Fridays, where it is 101 chars, Umbra keeps its usual max line length.",
+   "facts": [
+    45
+   ]
+  },
+  {
+   "idx": 46,
+   "session": 9,
+   "date": "2026-01-22",
+   "text": "User likes summaries at the end of long answers.",
+   "facts": []
+  },
+  {
+   "idx": 47,
+   "session": 10,
+   "date": "2026-01-25",
+   "text": "For Solstice, the IP address is set to 10.79.181.219.",
+   "facts": [
+    46
+   ]
+  },
+  {
+   "idx": 48,
+   "session": 10,
+   "date": "2026-01-25",
+   "text": "Kestrel's nightly backup time has been updated to 11:10.",
+   "facts": [
+    47
+   ]
+  },
+  {
+   "idx": 49,
+   "session": 10,
+   "date": "2026-01-25",
+   "text": "Pulsar uses $7250 as its monthly cloud budget.",
+   "facts": [
+    48
+   ]
+  },
+  {
+   "idx": 50,
+   "session": 10,
+   "date": "2026-01-25",
+   "text": "Solstice's IP address has been updated to 10.106.30.213.",
+   "facts": [
+    49
+   ]
+  },
+  {
+   "idx": 51,
+   "session": 10,
+   "date": "2026-01-25",
+   "text": "Except for the GPU queue, where it is 8252, Vega keeps its usual SSH port.",
+   "facts": [
+    50
+   ]
+  },
+  {
+   "idx": 52,
+   "session": 11,
+   "date": "2026-01-26",
+   "text": "Special case — Jasper on the backup job: disk quota 892 GB.",
+   "facts": [
+    51
+   ]
+  },
+  {
+   "idx": 53,
+   "session": 11,
+   "date": "2026-01-26",
+   "text": "Update: Maple moved its max upload size from 2224 MB to 2984 MB.",
+   "facts": [
+    52
+   ]
+  },
+  {
+   "idx": 54,
+   "session": 11,
+   "date": "2026-01-26",
+   "text": "Config for Kestrel has worker count 219.",
+   "facts": [
+    53
+   ]
+  },
+  {
+   "idx": 55,
+   "session": 12,
+   "date": "2026-01-29",
+   "text": "The DB pool size of Kestrel is 376.",
+   "facts": [
+    54
+   ]
+  },
+  {
+   "idx": 56,
+   "session": 12,
+   "date": "2026-01-29",
+   "text": "Pulsar: coverage gate = 70%.",
+   "facts": [
+    55
+   ]
+  },
+  {
+   "idx": 57,
+   "session": 12,
+   "date": "2026-01-29",
+   "text": "Falcon now uses release-124 as its release branch.",
+   "facts": [
+    56
+   ]
+  },
+  {
+   "idx": 58,
+   "session": 13,
+   "date": "2026-02-01",
+   "text": "The flaky integration test passes reliably with a retry delay of 9714 ms.",
+   "facts": [
+    57
+   ]
+  },
+  {
+   "idx": 59,
+   "session": 13,
+   "date": "2026-02-01",
+   "text": "Umbra uses 69% as its test coverage threshold.",
+   "facts": [
+    58
+   ]
+  },
+  {
+   "idx": 60,
+   "session": 13,
+   "date": "2026-02-01",
+   "text": "Note that the canary cluster of Indigo overrides the API port with 5258.",
+   "facts": [
+    59
+   ]
+  },
+  {
+   "idx": 61,
+   "session": 13,
+   "date": "2026-02-01",
+   "text": "Confirmed again that Solstice uses IP address 10.106.30.213.",
+   "facts": [
+    60
+   ]
+  },
+  {
+   "idx": 62,
+   "session": 14,
+   "date": "2026-02-02",
+   "text": "Confirmed again that Jasper uses disk quota 2065 GB.",
+   "facts": [
+    61
+   ]
+  },
+  {
+   "idx": 63,
+   "session": 14,
+   "date": "2026-02-02",
+   "text": "Note that the frontend squad of Sierra overrides the time of the stand-up with 15:05.",
+   "facts": [
+    62
+   ]
+  },
+  {
+   "idx": 64,
+   "session": 14,
+   "date": "2026-02-02",
+   "text": "The test coverage threshold for Umbra is no longer 69%; it is now 98%.",
+   "facts": [
+    63
+   ]
+  },
+  {
+   "idx": 65,
+   "session": 14,
+   "date": "2026-02-02",
+   "text": "The deploy branch for Maple is no longer release-980; it is now release-566.",
+   "facts": [
+    64
+   ]
+  },
+  {
+   "idx": 66,
+   "session": 14,
+   "date": "2026-02-02",
+   "text": "New IP for Jasper: 10.111.152.51.",
+   "facts": [
+    65
+   ]
+  },
+  {
+   "idx": 67,
+   "session": 15,
+   "date": "2026-02-03",
+   "text": "Pulsar test coverage threshold: 70% (unchanged).",
+   "facts": [
+    66
+   ]
+  },
+  {
+   "idx": 68,
+   "session": 15,
+   "date": "2026-02-03",
+   "text": "Update: Kestrel moved its nightly backup time from 11:10 to 21:15.",
+   "facts": [
+    67
+   ]
+  },
+  {
+   "idx": 69,
+   "session": 15,
+   "date": "2026-02-03",
+   "text": "Sierra coverage gate changed from 97% to 57%.",
+   "facts": [
+    68
+   ]
+  },
+  {
+   "idx": 70,
+   "session": 15,
+   "date": "2026-02-03",
+   "text": "Indigo now uses 13:20 as its nightly backup time.",
+   "facts": [
+    69
+   ]
+  },
+  {
+   "idx": 71,
+   "session": 15,
+   "date": "2026-02-03",
+   "text": "User switched Solstice to swap size 1112 GB.",
+   "facts": [
+    70
+   ]
+  },
+  {
+   "idx": 72,
+   "session": 15,
+   "date": "2026-02-03",
+   "text": "Except for the CI runner, where it is 696 GB, Vega keeps its usual disk quota.",
+   "facts": [
+    71
+   ]
+  },
+  {
+   "idx": 73,
+   "session": 16,
+   "date": "2026-02-04",
+   "text": "Solstice IP address is 10.202.253.152 on weekend runs only; elsewhere the normal setting applies.",
+   "facts": [
+    72
+   ]
+  },
+  {
+   "idx": 74,
+   "session": 16,
+   "date": "2026-02-04",
+   "text": "Use ruff for linting Python code in all repos.",
+   "facts": []
+  },
+  {
+   "idx": 75,
+   "session": 16,
+   "date": "2026-02-04",
+   "text": "The stand-up time for Umbra is no longer 18:20; it is now 20:50.",
+   "facts": [
+    73
+   ]
+  },
+  {
+   "idx": 76,
+   "session": 16,
+   "date": "2026-02-04",
+   "text": "Checked Sierra again: max line length is 116 chars.",
+   "facts": [
+    74
+   ]
+  },
+  {
+   "idx": 77,
+   "session": 17,
+   "date": "2026-02-05",
+   "text": "Tried branch it ships from release-732 on Maple for a test, reverted immediately; release-566 remains the setting.",
+   "facts": [
+    75
+   ]
+  },
+  {
+   "idx": 78,
+   "session": 17,
+   "date": "2026-02-05",
+   "text": "Umbra test coverage threshold: 98% (unchanged).",
+   "facts": [
+    76
+   ]
+  },
+  {
+   "idx": 79,
+   "session": 17,
+   "date": "2026-02-05",
+   "text": "Considered changing Falcon API port to 4025, but decided to keep 3480.",
+   "facts": [
+    77
+   ]
+  },
+  {
+   "idx": 80,
+   "session": 17,
+   "date": "2026-02-05",
+   "text": "Except for the GPU queue, where it is 284, Comet keeps its usual max containers.",
+   "facts": [
+    78
+   ]
+  },
+  {
+   "idx": 81,
+   "session": 17,
+   "date": "2026-02-05",
+   "text": "Except for the GPU queue, where it is 320, Solstice keeps its usual container limit.",
+   "facts": [
+    79
+   ]
+  },
+  {
+   "idx": 82,
+   "session": 17,
+   "date": "2026-02-05",
+   "text": "Comet's swap has been updated to 1665 GB.",
+   "facts": [
+    80
+   ]
+  },
+  {
+   "idx": 83,
+   "session": 18,
+   "date": "2026-02-08",
+   "text": "Except for staging, where it is 18:05, Kestrel keeps its usual nightly backup time.",
+   "facts": [
+    81
+   ]
+  },
+  {
+   "idx": 84,
+   "session": 18,
+   "date": "2026-02-08",
+   "text": "The GPU node pool autoscaler caps at 393 nodes.",
+   "facts": [
+    82
+   ]
+  },
+  {
+   "idx": 85,
+   "session": 18,
+   "date": "2026-02-08",
+   "text": "As of today, the container limit for Comet is 463.",
+   "facts": [
+    83
+   ]
+  },
+  {
+   "idx": 86,
+   "session": 18,
+   "date": "2026-02-08",
+   "text": "As of today, the swap size for Comet is 310 GB.",
+   "facts": [
+    84
+   ]
+  },
+  {
+   "idx": 87,
+   "session": 19,
+   "date": "2026-02-11",
+   "text": "Umbra stand-up time: 20:50 (unchanged).",
+   "facts": [
+    85
+   ]
+  },
+  {
+   "idx": 88,
+   "session": 19,
+   "date": "2026-02-11",
+   "text": "New IP address for Jasper: 10.100.76.131.",
+   "facts": [
+    86
+   ]
+  },
+  {
+   "idx": 89,
+   "session": 19,
+   "date": "2026-02-11",
+   "text": "Note that the GPU queue of Comet overrides the swap with 1211 GB.",
+   "facts": [
+    87
+   ]
+  },
+  {
+   "idx": 90,
+   "session": 19,
+   "date": "2026-02-11",
+   "text": "Exception: for weekend runs, Comet uses port for SSH 3471.",
+   "facts": [
+    88
+   ]
+  },
+  {
+   "idx": 91,
+   "session": 19,
+   "date": "2026-02-11",
+   "text": "Update: Umbra moved its test coverage threshold from 98% to 79%.",
+   "facts": [
+    89
+   ]
+  },
+  {
+   "idx": 92,
+   "session": 20,
+   "date": "2026-02-14",
+   "text": "As of today, the monthly cloud budget for Pulsar is $1410.",
+   "facts": [
+    90
+   ]
+  },
+  {
+   "idx": 93,
+   "session": 20,
+   "date": "2026-02-14",
+   "text": "Except for the intern cohort, where it is 56%, Sierra keeps its usual test coverage threshold.",
+   "facts": [
+    91
+   ]
+  },
+  {
+   "idx": 94,
+   "session": 20,
+   "date": "2026-02-14",
+   "text": "Except for the GPU queue, where it is 1895 GB, Solstice keeps its usual swap space.",
+   "facts": [
+    92
+   ]
+  },
+  {
+   "idx": 95,
+   "session": 20,
+   "date": "2026-02-14",
+   "text": "The database pool size for Kestrel is no longer 376; it is now 405.",
+   "facts": [
+    93
+   ]
+  },
+  {
+   "idx": 96,
+   "session": 21,
+   "date": "2026-02-17",
+   "text": "Reminder: Kestrel backup start time is still 21:15.",
+   "facts": [
+    94
+   ]
+  },
+  {
+   "idx": 97,
+   "session": 21,
+   "date": "2026-02-17",
+   "text": "Except for staging, where it is 7587, Falcon keeps its usual API port.",
+   "facts": [
+    95
+   ]
+  },
+  {
+   "idx": 98,
+   "session": 21,
+   "date": "2026-02-17",
+   "text": "User usually works late in the evening.",
+   "facts": []
+  },
+  {
+   "idx": 99,
+   "session": 21,
+   "date": "2026-02-17",
+   "text": "The user reads documentation in English but chats in Korean.",
+   "facts": []
+  }
+ ],
+ "facts": [
+  {
+   "entity": "Vega",
+   "attr": "SSH port",
+   "scope": "default",
+   "value": "6320",
+   "core": "6320",
+   "t": 0,
+   "session": 0,
+   "kind": "init"
+  },
+  {
+   "entity": "Vega",
+   "attr": "disk quota",
+   "scope": "default",
+   "value": "708 GB",
+   "core": "708",
+   "t": 0,
+   "session": 0,
+   "kind": "init"
+  },
+  {
+   "entity": "Indigo",
+   "attr": "API port",
+   "scope": "default",
+   "value": "5710",
+   "core": "5710",
+   "t": 1,
+   "session": 0,
+   "kind": "init"
+  },
+  {
+   "entity": "Indigo",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "22:25",
+   "core": "22:25",
+   "t": 2,
+   "session": 0,
+   "kind": "init"
+  },
+  {
+   "entity": "Vega",
+   "attr": "swap size",
+   "scope": "default",
+   "value": "2709 GB",
+   "core": "2709",
+   "t": 3,
+   "session": 0,
+   "kind": "init"
+  },
+  {
+   "entity": "Maple",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "10:20",
+   "core": "10:20",
+   "t": 4,
+   "session": 0,
+   "kind": "init"
+  },
+  {
+   "entity": "Maple",
+   "attr": "max upload size",
+   "scope": "default",
+   "value": "2224 MB",
+   "core": "2224",
+   "t": 4,
+   "session": 0,
+   "kind": "init"
+  },
+  {
+   "entity": "Indigo",
+   "attr": "API port",
+   "scope": "default",
+   "value": "5710",
+   "core": "5710",
+   "t": 5,
+   "session": 0,
+   "kind": "restate"
+  },
+  {
+   "entity": "Maple",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "16:50",
+   "core": "16:50",
+   "t": 6,
+   "session": 1,
+   "kind": "update"
+  },
+  {
+   "entity": "Indigo",
+   "attr": "max upload size",
+   "scope": "default",
+   "value": "464 MB",
+   "core": "464",
+   "t": 7,
+   "session": 1,
+   "kind": "init"
+  },
+  {
+   "entity": "Maple",
+   "attr": "deploy branch",
+   "scope": "default",
+   "value": "release-980",
+   "core": "release-980",
+   "t": 8,
+   "session": 1,
+   "kind": "init"
+  },
+  {
+   "entity": "Dune",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "18:55",
+   "core": "18:55",
+   "t": 10,
+   "session": 1,
+   "kind": "init"
+  },
+  {
+   "entity": "Dune",
+   "attr": "worker count",
+   "scope": "default",
+   "value": "408",
+   "core": "408",
+   "t": 10,
+   "session": 1,
+   "kind": "init"
+  },
+  {
+   "entity": "Dune",
+   "attr": "worker count",
+   "scope": "default",
+   "value": "167",
+   "core": "167",
+   "t": 11,
+   "session": 2,
+   "kind": "update"
+  },
+  {
+   "entity": "Dune",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "7950 ms",
+   "core": "7950",
+   "t": 12,
+   "session": 2,
+   "kind": "init"
+  },
+  {
+   "entity": "Indigo",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "20:45",
+   "core": "20:45",
+   "t": 13,
+   "session": 2,
+   "kind": "update"
+  },
+  {
+   "entity": "Comet",
+   "attr": "SSH port",
+   "scope": "default",
+   "value": "6669",
+   "core": "6669",
+   "t": 15,
+   "session": 2,
+   "kind": "init"
+  },
+  {
+   "entity": "Jasper",
+   "attr": "IP address",
+   "scope": "default",
+   "value": "10.49.78.74",
+   "core": "10.49.78.74",
+   "t": 16,
+   "session": 2,
+   "kind": "init"
+  },
+  {
+   "entity": "Jasper",
+   "attr": "maintenance window",
+   "scope": "default",
+   "value": "18:40",
+   "core": "18:40",
+   "t": 17,
+   "session": 3,
+   "kind": "init"
+  },
+  {
+   "entity": "Indigo",
+   "attr": "API port",
+   "scope": "default",
+   "value": "6862",
+   "core": "6862",
+   "t": 18,
+   "session": 3,
+   "kind": "update"
+  },
+  {
+   "entity": "Sierra",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "20:35",
+   "core": "20:35",
+   "t": 19,
+   "session": 3,
+   "kind": "init"
+  },
+  {
+   "entity": "Jasper",
+   "attr": "disk quota",
+   "scope": "default",
+   "value": "2065 GB",
+   "core": "2065",
+   "t": 20,
+   "session": 3,
+   "kind": "init"
+  },
+  {
+   "entity": "Comet",
+   "attr": "swap size",
+   "scope": "default",
+   "value": "1990 GB",
+   "core": "1990",
+   "t": 21,
+   "session": 4,
+   "kind": "init"
+  },
+  {
+   "entity": "Maple",
+   "attr": "nightly backup time",
+   "scope": "the canary cluster",
+   "value": "21:45",
+   "core": "21:45",
+   "t": 22,
+   "session": 4,
+   "kind": "exception"
+  },
+  {
+   "entity": "Comet",
+   "attr": "max containers",
+   "scope": "default",
+   "value": "224",
+   "core": "224",
+   "t": 23,
+   "session": 4,
+   "kind": "init"
+  },
+  {
+   "entity": "Maple",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "16:50",
+   "core": "16:50",
+   "t": 24,
+   "session": 5,
+   "kind": "restate"
+  },
+  {
+   "entity": "Comet",
+   "attr": "SSH port",
+   "scope": "default",
+   "value": "8371",
+   "core": "8371",
+   "t": 26,
+   "session": 5,
+   "kind": "update"
+  },
+  {
+   "entity": "Sierra",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "116 chars",
+   "core": "116",
+   "t": 27,
+   "session": 5,
+   "kind": "init"
+  },
+  {
+   "entity": "Falcon",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "22:50",
+   "core": "22:50",
+   "t": 28,
+   "session": 6,
+   "kind": "init"
+  },
+  {
+   "entity": "Falcon",
+   "attr": "API port",
+   "scope": "default",
+   "value": "3480",
+   "core": "3480",
+   "t": 29,
+   "session": 6,
+   "kind": "init"
+  },
+  {
+   "entity": "Solstice",
+   "attr": "swap size",
+   "scope": "default",
+   "value": "141 GB",
+   "core": "141",
+   "t": 30,
+   "session": 6,
+   "kind": "init"
+  },
+  {
+   "entity": "Solstice",
+   "attr": "max containers",
+   "scope": "default",
+   "value": "195",
+   "core": "195",
+   "t": 31,
+   "session": 7,
+   "kind": "init"
+  },
+  {
+   "entity": "Falcon",
+   "attr": "deploy branch",
+   "scope": "default",
+   "value": "release-936",
+   "core": "release-936",
+   "t": 32,
+   "session": 7,
+   "kind": "init"
+  },
+  {
+   "entity": "__note__",
+   "attr": "Jira tickets for infra work go to board {v}.",
+   "scope": "default",
+   "value": "4052",
+   "core": "4052",
+   "t": 33,
+   "session": 7,
+   "kind": "note"
+  },
+  {
+   "entity": "Pulsar",
+   "attr": "code review SLA",
+   "scope": "default",
+   "value": "95 hours",
+   "core": "95",
+   "t": 34,
+   "session": 7,
+   "kind": "init"
+  },
+  {
+   "entity": "Jasper",
+   "attr": "IP address",
+   "scope": "the backup job",
+   "value": "10.231.73.6",
+   "core": "10.231.73.6",
+   "t": 35,
+   "session": 7,
+   "kind": "exception"
+  },
+  {
+   "entity": "Dune",
+   "attr": "nightly backup time",
+   "scope": "the mobile API",
+   "value": "23:55",
+   "core": "23:55",
+   "t": 36,
+   "session": 7,
+   "kind": "exception"
+  },
+  {
+   "entity": "Sierra",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "97%",
+   "core": "97",
+   "t": 37,
+   "session": 8,
+   "kind": "init"
+  },
+  {
+   "entity": "Kestrel",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "18:10",
+   "core": "18:10",
+   "t": 38,
+   "session": 8,
+   "kind": "init"
+  },
+  {
+   "entity": "Solstice",
+   "attr": "swap size",
+   "scope": "default",
+   "value": "141 GB",
+   "core": "141",
+   "t": 39,
+   "session": 8,
+   "kind": "restate"
+  },
+  {
+   "entity": "Umbra",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "207 chars",
+   "core": "207",
+   "t": 40,
+   "session": 8,
+   "kind": "init"
+  },
+  {
+   "entity": "Dune",
+   "attr": "request timeout",
+   "scope": "default",
+   "value": "7950 ms",
+   "core": "7950",
+   "t": 41,
+   "session": 9,
+   "kind": "restate"
+  },
+  {
+   "entity": "Vega",
+   "attr": "disk quota",
+   "scope": "default",
+   "value": "1297 GB",
+   "core": "1297",
+   "t": 42,
+   "session": 9,
+   "kind": "update"
+  },
+  {
+   "entity": "Sierra",
+   "attr": "max line length",
+   "scope": "the frontend squad",
+   "value": "93 chars",
+   "core": "93",
+   "t": 43,
+   "session": 9,
+   "kind": "exception"
+  },
+  {
+   "entity": "Umbra",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "18:20",
+   "core": "18:20",
+   "t": 44,
+   "session": 9,
+   "kind": "init"
+  },
+  {
+   "entity": "Umbra",
+   "attr": "max line length",
+   "scope": "Fridays",
+   "value": "101 chars",
+   "core": "101",
+   "t": 45,
+   "session": 9,
+   "kind": "exception"
+  },
+  {
+   "entity": "Solstice",
+   "attr": "IP address",
+   "scope": "default",
+   "value": "10.79.181.219",
+   "core": "10.79.181.219",
+   "t": 47,
+   "session": 10,
+   "kind": "init"
+  },
+  {
+   "entity": "Kestrel",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "11:10",
+   "core": "11:10",
+   "t": 48,
+   "session": 10,
+   "kind": "update"
+  },
+  {
+   "entity": "Pulsar",
+   "attr": "monthly cloud budget",
+   "scope": "default",
+   "value": "$7250",
+   "core": "7250",
+   "t": 49,
+   "session": 10,
+   "kind": "init"
+  },
+  {
+   "entity": "Solstice",
+   "attr": "IP address",
+   "scope": "default",
+   "value": "10.106.30.213",
+   "core": "10.106.30.213",
+   "t": 50,
+   "session": 10,
+   "kind": "update"
+  },
+  {
+   "entity": "Vega",
+   "attr": "SSH port",
+   "scope": "the GPU queue",
+   "value": "8252",
+   "core": "8252",
+   "t": 51,
+   "session": 10,
+   "kind": "exception"
+  },
+  {
+   "entity": "Jasper",
+   "attr": "disk quota",
+   "scope": "the backup job",
+   "value": "892 GB",
+   "core": "892",
+   "t": 52,
+   "session": 11,
+   "kind": "exception"
+  },
+  {
+   "entity": "Maple",
+   "attr": "max upload size",
+   "scope": "default",
+   "value": "2984 MB",
+   "core": "2984",
+   "t": 53,
+   "session": 11,
+   "kind": "update"
+  },
+  {
+   "entity": "Kestrel",
+   "attr": "worker count",
+   "scope": "default",
+   "value": "219",
+   "core": "219",
+   "t": 54,
+   "session": 11,
+   "kind": "init"
+  },
+  {
+   "entity": "Kestrel",
+   "attr": "DB pool size",
+   "scope": "default",
+   "value": "376",
+   "core": "376",
+   "t": 55,
+   "session": 12,
+   "kind": "init"
+  },
+  {
+   "entity": "Pulsar",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "70%",
+   "core": "70",
+   "t": 56,
+   "session": 12,
+   "kind": "init"
+  },
+  {
+   "entity": "Falcon",
+   "attr": "deploy branch",
+   "scope": "default",
+   "value": "release-124",
+   "core": "release-124",
+   "t": 57,
+   "session": 12,
+   "kind": "update"
+  },
+  {
+   "entity": "__note__",
+   "attr": "The flaky integration test passes reliably with a retry delay of {v} ms.",
+   "scope": "default",
+   "value": "9714",
+   "core": "9714",
+   "t": 58,
+   "session": 13,
+   "kind": "note"
+  },
+  {
+   "entity": "Umbra",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "69%",
+   "core": "69",
+   "t": 59,
+   "session": 13,
+   "kind": "init"
+  },
+  {
+   "entity": "Indigo",
+   "attr": "API port",
+   "scope": "the canary cluster",
+   "value": "5258",
+   "core": "5258",
+   "t": 60,
+   "session": 13,
+   "kind": "exception"
+  },
+  {
+   "entity": "Solstice",
+   "attr": "IP address",
+   "scope": "default",
+   "value": "10.106.30.213",
+   "core": "10.106.30.213",
+   "t": 61,
+   "session": 13,
+   "kind": "restate"
+  },
+  {
+   "entity": "Jasper",
+   "attr": "disk quota",
+   "scope": "default",
+   "value": "2065 GB",
+   "core": "2065",
+   "t": 62,
+   "session": 14,
+   "kind": "restate"
+  },
+  {
+   "entity": "Sierra",
+   "attr": "stand-up time",
+   "scope": "the frontend squad",
+   "value": "15:05",
+   "core": "15:05",
+   "t": 63,
+   "session": 14,
+   "kind": "exception"
+  },
+  {
+   "entity": "Umbra",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "98%",
+   "core": "98",
+   "t": 64,
+   "session": 14,
+   "kind": "update"
+  },
+  {
+   "entity": "Maple",
+   "attr": "deploy branch",
+   "scope": "default",
+   "value": "release-566",
+   "core": "release-566",
+   "t": 65,
+   "session": 14,
+   "kind": "update"
+  },
+  {
+   "entity": "Jasper",
+   "attr": "IP address",
+   "scope": "default",
+   "value": "10.111.152.51",
+   "core": "10.111.152.51",
+   "t": 66,
+   "session": 14,
+   "kind": "update"
+  },
+  {
+   "entity": "Pulsar",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "70%",
+   "core": "70",
+   "t": 67,
+   "session": 15,
+   "kind": "restate"
+  },
+  {
+   "entity": "Kestrel",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "21:15",
+   "core": "21:15",
+   "t": 68,
+   "session": 15,
+   "kind": "update"
+  },
+  {
+   "entity": "Sierra",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "57%",
+   "core": "57",
+   "t": 69,
+   "session": 15,
+   "kind": "update"
+  },
+  {
+   "entity": "Indigo",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "13:20",
+   "core": "13:20",
+   "t": 70,
+   "session": 15,
+   "kind": "update"
+  },
+  {
+   "entity": "Solstice",
+   "attr": "swap size",
+   "scope": "default",
+   "value": "1112 GB",
+   "core": "1112",
+   "t": 71,
+   "session": 15,
+   "kind": "update"
+  },
+  {
+   "entity": "Vega",
+   "attr": "disk quota",
+   "scope": "the CI runner",
+   "value": "696 GB",
+   "core": "696",
+   "t": 72,
+   "session": 15,
+   "kind": "exception"
+  },
+  {
+   "entity": "Solstice",
+   "attr": "IP address",
+   "scope": "weekend runs",
+   "value": "10.202.253.152",
+   "core": "10.202.253.152",
+   "t": 73,
+   "session": 16,
+   "kind": "exception"
+  },
+  {
+   "entity": "Umbra",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "20:50",
+   "core": "20:50",
+   "t": 75,
+   "session": 16,
+   "kind": "update"
+  },
+  {
+   "entity": "Sierra",
+   "attr": "max line length",
+   "scope": "default",
+   "value": "116 chars",
+   "core": "116",
+   "t": 76,
+   "session": 16,
+   "kind": "restate"
+  },
+  {
+   "entity": "Maple",
+   "attr": "deploy branch",
+   "scope": "__rejected__",
+   "value": "release-732",
+   "core": "release-732",
+   "t": 77,
+   "session": 17,
+   "kind": "rejected"
+  },
+  {
+   "entity": "Umbra",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "98%",
+   "core": "98",
+   "t": 78,
+   "session": 17,
+   "kind": "restate"
+  },
+  {
+   "entity": "Falcon",
+   "attr": "API port",
+   "scope": "__rejected__",
+   "value": "4025",
+   "core": "4025",
+   "t": 79,
+   "session": 17,
+   "kind": "rejected"
+  },
+  {
+   "entity": "Comet",
+   "attr": "max containers",
+   "scope": "the GPU queue",
+   "value": "284",
+   "core": "284",
+   "t": 80,
+   "session": 17,
+   "kind": "exception"
+  },
+  {
+   "entity": "Solstice",
+   "attr": "max containers",
+   "scope": "the GPU queue",
+   "value": "320",
+   "core": "320",
+   "t": 81,
+   "session": 17,
+   "kind": "exception"
+  },
+  {
+   "entity": "Comet",
+   "attr": "swap size",
+   "scope": "default",
+   "value": "1665 GB",
+   "core": "1665",
+   "t": 82,
+   "session": 17,
+   "kind": "update"
+  },
+  {
+   "entity": "Kestrel",
+   "attr": "nightly backup time",
+   "scope": "staging",
+   "value": "18:05",
+   "core": "18:05",
+   "t": 83,
+   "session": 18,
+   "kind": "exception"
+  },
+  {
+   "entity": "__note__",
+   "attr": "The GPU node pool autoscaler caps at {v} nodes.",
+   "scope": "default",
+   "value": "393",
+   "core": "393",
+   "t": 84,
+   "session": 18,
+   "kind": "note"
+  },
+  {
+   "entity": "Comet",
+   "attr": "max containers",
+   "scope": "default",
+   "value": "463",
+   "core": "463",
+   "t": 85,
+   "session": 18,
+   "kind": "update"
+  },
+  {
+   "entity": "Comet",
+   "attr": "swap size",
+   "scope": "default",
+   "value": "310 GB",
+   "core": "310",
+   "t": 86,
+   "session": 18,
+   "kind": "update"
+  },
+  {
+   "entity": "Umbra",
+   "attr": "stand-up time",
+   "scope": "default",
+   "value": "20:50",
+   "core": "20:50",
+   "t": 87,
+   "session": 19,
+   "kind": "restate"
+  },
+  {
+   "entity": "Jasper",
+   "attr": "IP address",
+   "scope": "default",
+   "value": "10.100.76.131",
+   "core": "10.100.76.131",
+   "t": 88,
+   "session": 19,
+   "kind": "update"
+  },
+  {
+   "entity": "Comet",
+   "attr": "swap size",
+   "scope": "the GPU queue",
+   "value": "1211 GB",
+   "core": "1211",
+   "t": 89,
+   "session": 19,
+   "kind": "exception"
+  },
+  {
+   "entity": "Comet",
+   "attr": "SSH port",
+   "scope": "weekend runs",
+   "value": "3471",
+   "core": "3471",
+   "t": 90,
+   "session": 19,
+   "kind": "exception"
+  },
+  {
+   "entity": "Umbra",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "value": "79%",
+   "core": "79",
+   "t": 91,
+   "session": 19,
+   "kind": "update"
+  },
+  {
+   "entity": "Pulsar",
+   "attr": "monthly cloud budget",
+   "scope": "default",
+   "value": "$1410",
+   "core": "1410",
+   "t": 92,
+   "session": 20,
+   "kind": "update"
+  },
+  {
+   "entity": "Sierra",
+   "attr": "test coverage threshold",
+   "scope": "the intern cohort",
+   "value": "56%",
+   "core": "56",
+   "t": 93,
+   "session": 20,
+   "kind": "exception"
+  },
+  {
+   "entity": "Solstice",
+   "attr": "swap size",
+   "scope": "the GPU queue",
+   "value": "1895 GB",
+   "core": "1895",
+   "t": 94,
+   "session": 20,
+   "kind": "exception"
+  },
+  {
+   "entity": "Kestrel",
+   "attr": "DB pool size",
+   "scope": "default",
+   "value": "405",
+   "core": "405",
+   "t": 95,
+   "session": 20,
+   "kind": "update"
+  },
+  {
+   "entity": "Kestrel",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "value": "21:15",
+   "core": "21:15",
+   "t": 96,
+   "session": 21,
+   "kind": "restate"
+  },
+  {
+   "entity": "Falcon",
+   "attr": "API port",
+   "scope": "staging",
+   "value": "7587",
+   "core": "7587",
+   "t": 97,
+   "session": 21,
+   "kind": "exception"
+  }
+ ],
+ "questions": [
+  {
+   "qid": "Kestrel|nightly backup time|CUR",
+   "qtype": "CUR",
+   "entity": "Kestrel",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What is the current default nightly backup time of Kestrel?",
+   "gold": "21:15",
+   "gold_display": "21:15",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Maple|rate limit|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Maple",
+   "attr": "rate limit",
+   "scope": "default",
+   "text": "What is the current default rate limit of Maple?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Vega|SSH port|EXC",
+   "qtype": "EXC",
+   "entity": "Vega",
+   "attr": "SSH port",
+   "scope": "the GPU queue",
+   "text": "What SSH port does Vega use for the GPU queue?",
+   "gold": "8252",
+   "gold_display": "8252",
+   "has_exception": true,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Solstice|swap size|EXC",
+   "qtype": "EXC",
+   "entity": "Solstice",
+   "attr": "swap size",
+   "scope": "the GPU queue",
+   "text": "What swap size does Solstice use for the GPU queue?",
+   "gold": "1895",
+   "gold_display": "1895 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Indigo|API port|CUR",
+   "qtype": "CUR",
+   "entity": "Indigo",
+   "attr": "API port",
+   "scope": "default",
+   "text": "What is Indigo's listen port right now (default setting)?",
+   "gold": "6862",
+   "gold_display": "6862",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Comet|SSH port|PREV",
+   "qtype": "PREV",
+   "entity": "Comet",
+   "attr": "SSH port",
+   "scope": "default",
+   "text": "Before the latest change, what was Comet's default SSH port?",
+   "gold": "6669",
+   "gold_display": "6669",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Vega|swap size|CUR",
+   "qtype": "STABLE",
+   "entity": "Vega",
+   "attr": "swap size",
+   "scope": "default",
+   "text": "What is Vega's swap space right now (default setting)?",
+   "gold": "2709",
+   "gold_display": "2709 GB",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Pulsar|test coverage threshold|CUR",
+   "qtype": "STABLE",
+   "entity": "Pulsar",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "text": "What is Pulsar's test coverage threshold right now (default setting)?",
+   "gold": "70",
+   "gold_display": "70%",
+   "has_exception": false,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Solstice|swap size|PREV",
+   "qtype": "PREV",
+   "entity": "Solstice",
+   "attr": "swap size",
+   "scope": "default",
+   "text": "Before the latest change, what was Solstice's default swap space?",
+   "gold": "141",
+   "gold_display": "141 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Indigo|nightly backup time|PREV",
+   "qtype": "PREV",
+   "entity": "Indigo",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What was the default nightly backup time of Indigo right before its most recent change?",
+   "gold": "20:45",
+   "gold_display": "20:45",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Maple|deploy branch|PREV",
+   "qtype": "PREV",
+   "entity": "Maple",
+   "attr": "deploy branch",
+   "scope": "default",
+   "text": "What was the default deploy branch of Maple right before its most recent change?",
+   "gold": "release-980",
+   "gold_display": "release-980",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn+rej"
+  },
+  {
+   "qid": "Jasper|disk quota|CUR",
+   "qtype": "STABLE",
+   "entity": "Jasper",
+   "attr": "disk quota",
+   "scope": "default",
+   "text": "What is Jasper's disk quota right now (default setting)?",
+   "gold": "2065",
+   "gold_display": "2065 GB",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Pulsar|monthly cloud budget|PREV",
+   "qtype": "PREV",
+   "entity": "Pulsar",
+   "attr": "monthly cloud budget",
+   "scope": "default",
+   "text": "Before the latest change, what was Pulsar's default monthly cloud budget?",
+   "gold": "7250",
+   "gold_display": "$7250",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Kestrel|DB pool size|CUR",
+   "qtype": "CUR",
+   "entity": "Kestrel",
+   "attr": "DB pool size",
+   "scope": "default",
+   "text": "What is Kestrel's DB pool size right now (default setting)?",
+   "gold": "405",
+   "gold_display": "405",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Vega|disk quota|PREV",
+   "qtype": "PREV",
+   "entity": "Vega",
+   "attr": "disk quota",
+   "scope": "default",
+   "text": "Before the latest change, what was Vega's default storage quota?",
+   "gold": "708",
+   "gold_display": "708 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Dune|TLS certificate expiry|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Dune",
+   "attr": "TLS certificate expiry",
+   "scope": "default",
+   "text": "What is the current default TLS certificate expiry of Dune?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Indigo|API port|PREV",
+   "qtype": "PREV",
+   "entity": "Indigo",
+   "attr": "API port",
+   "scope": "default",
+   "text": "Before the latest change, what was Indigo's default API port?",
+   "gold": "5710",
+   "gold_display": "5710",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Comet|SSH port|EXC",
+   "qtype": "EXC",
+   "entity": "Comet",
+   "attr": "SSH port",
+   "scope": "weekend runs",
+   "text": "What sshd port does Comet use for weekend runs?",
+   "gold": "3471",
+   "gold_display": "3471",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Falcon|deploy branch|EXCNEG",
+   "qtype": "EXCNEG",
+   "entity": "Falcon",
+   "attr": "deploy branch",
+   "scope": "default",
+   "text": "For the mobile API, what is Falcon's deploy branch?",
+   "gold": "release-124",
+   "gold_display": "release-124",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Vega|disk quota|EXC",
+   "qtype": "EXC",
+   "entity": "Vega",
+   "attr": "disk quota",
+   "scope": "the CI runner",
+   "text": "What disk quota does Vega use for the CI runner?",
+   "gold": "696",
+   "gold_display": "696 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Maple|nightly backup time|EXC",
+   "qtype": "EXC",
+   "entity": "Maple",
+   "attr": "nightly backup time",
+   "scope": "the canary cluster",
+   "text": "For the canary cluster, what is Maple's nightly backup time?",
+   "gold": "21:45",
+   "gold_display": "21:45",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Sierra|max line length|EXC",
+   "qtype": "EXC",
+   "entity": "Sierra",
+   "attr": "max line length",
+   "scope": "the frontend squad",
+   "text": "For the frontend squad, what is Sierra's line-length limit?",
+   "gold": "93",
+   "gold_display": "93 chars",
+   "has_exception": true,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Maple|deploy branch|CUR",
+   "qtype": "CUR",
+   "entity": "Maple",
+   "attr": "deploy branch",
+   "scope": "default",
+   "text": "What is the current default deploy branch of Maple?",
+   "gold": "release-566",
+   "gold_display": "release-566",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn+rej"
+  },
+  {
+   "qid": "Indigo|API port|EXC",
+   "qtype": "EXC",
+   "entity": "Indigo",
+   "attr": "API port",
+   "scope": "the canary cluster",
+   "text": "What API port does Indigo use for the canary cluster?",
+   "gold": "5258",
+   "gold_display": "5258",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "note|393|NOTE",
+   "qtype": "NOTE",
+   "entity": "__note__",
+   "attr": "The GPU node pool autoscaler caps at {v} nodes.",
+   "scope": "default",
+   "text": "At how many nodes does the GPU node pool autoscaler cap?",
+   "gold": "393",
+   "gold_display": "393",
+   "has_exception": false,
+   "has_update": false,
+   "family": "note"
+  },
+  {
+   "qid": "Pulsar|monthly cloud budget|CUR",
+   "qtype": "CUR",
+   "entity": "Pulsar",
+   "attr": "monthly cloud budget",
+   "scope": "default",
+   "text": "What is the current default monthly cloud budget of Pulsar?",
+   "gold": "1410",
+   "gold_display": "$1410",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Falcon|deploy branch|PREV",
+   "qtype": "PREV",
+   "entity": "Falcon",
+   "attr": "deploy branch",
+   "scope": "default",
+   "text": "Before the latest change, what was Falcon's default deploy branch?",
+   "gold": "release-936",
+   "gold_display": "release-936",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Sierra|test coverage threshold|CUR",
+   "qtype": "CUR",
+   "entity": "Sierra",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "text": "What is Sierra's minimum test coverage right now (default setting)?",
+   "gold": "57",
+   "gold_display": "57%",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Jasper|IP address|CUR",
+   "qtype": "CUR",
+   "entity": "Jasper",
+   "attr": "IP address",
+   "scope": "default",
+   "text": "What is Jasper's IP address right now (default setting)?",
+   "gold": "10.100.76.131",
+   "gold_display": "10.100.76.131",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Umbra|test coverage threshold|PREV",
+   "qtype": "PREV",
+   "entity": "Umbra",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "text": "Before the latest change, what was Umbra's default test coverage threshold?",
+   "gold": "98",
+   "gold_display": "98%",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Sierra|stand-up time|EXC",
+   "qtype": "EXC",
+   "entity": "Sierra",
+   "attr": "stand-up time",
+   "scope": "the frontend squad",
+   "text": "For the frontend squad, what is Sierra's daily stand-up?",
+   "gold": "15:05",
+   "gold_display": "15:05",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Solstice|IP address|CUR",
+   "qtype": "CUR",
+   "entity": "Solstice",
+   "attr": "IP address",
+   "scope": "default",
+   "text": "What is Solstice's IP address right now (default setting)?",
+   "gold": "10.106.30.213",
+   "gold_display": "10.106.30.213",
+   "has_exception": true,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Jasper|maintenance window|EXCNEG",
+   "qtype": "EXCNEG",
+   "entity": "Jasper",
+   "attr": "maintenance window",
+   "scope": "default",
+   "text": "For weekend runs, what is Jasper's maintenance window?",
+   "gold": "18:40",
+   "gold_display": "18:40",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Dune|worker count|CUR",
+   "qtype": "CUR",
+   "entity": "Dune",
+   "attr": "worker count",
+   "scope": "default",
+   "text": "What is the current default worker count of Dune?",
+   "gold": "167",
+   "gold_display": "167",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Kestrel|worker count|CUR",
+   "qtype": "STABLE",
+   "entity": "Kestrel",
+   "attr": "worker count",
+   "scope": "default",
+   "text": "What is Kestrel's worker count right now (default setting)?",
+   "gold": "219",
+   "gold_display": "219",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Umbra|max line length|EXC",
+   "qtype": "EXC",
+   "entity": "Umbra",
+   "attr": "max line length",
+   "scope": "Fridays",
+   "text": "For Fridays, what is Umbra's max line length?",
+   "gold": "101",
+   "gold_display": "101 chars",
+   "has_exception": true,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Vega|disk quota|CUR",
+   "qtype": "CUR",
+   "entity": "Vega",
+   "attr": "disk quota",
+   "scope": "default",
+   "text": "What is Vega's disk quota right now (default setting)?",
+   "gold": "1297",
+   "gold_display": "1297 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Kestrel|nightly backup time|EXC",
+   "qtype": "EXC",
+   "entity": "Kestrel",
+   "attr": "nightly backup time",
+   "scope": "staging",
+   "text": "What backup start time does Kestrel use for staging?",
+   "gold": "18:05",
+   "gold_display": "18:05",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Vega|SSH port|CUR",
+   "qtype": "STABLE",
+   "entity": "Vega",
+   "attr": "SSH port",
+   "scope": "default",
+   "text": "What is Vega's SSH port right now (default setting)?",
+   "gold": "6320",
+   "gold_display": "6320",
+   "has_exception": true,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Falcon|nightly backup time|CUR",
+   "qtype": "STABLE",
+   "entity": "Falcon",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What is the current default nightly backup time of Falcon?",
+   "gold": "22:50",
+   "gold_display": "22:50",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Umbra|stand-up time|CUR",
+   "qtype": "CUR",
+   "entity": "Umbra",
+   "attr": "stand-up time",
+   "scope": "default",
+   "text": "What is the current default stand-up time of Umbra?",
+   "gold": "20:50",
+   "gold_display": "20:50",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Umbra|stand-up time|PREV",
+   "qtype": "PREV",
+   "entity": "Umbra",
+   "attr": "stand-up time",
+   "scope": "default",
+   "text": "Before the latest change, what was Umbra's default stand-up time?",
+   "gold": "18:20",
+   "gold_display": "18:20",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Comet|swap size|PREV",
+   "qtype": "PREV",
+   "entity": "Comet",
+   "attr": "swap size",
+   "scope": "default",
+   "text": "Before the latest change, what was Comet's default swap size?",
+   "gold": "1665",
+   "gold_display": "1665 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Solstice|max containers|CUR",
+   "qtype": "STABLE",
+   "entity": "Solstice",
+   "attr": "max containers",
+   "scope": "default",
+   "text": "What is the current default max containers of Solstice?",
+   "gold": "195",
+   "gold_display": "195",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Comet|max containers|EXC",
+   "qtype": "EXC",
+   "entity": "Comet",
+   "attr": "max containers",
+   "scope": "the GPU queue",
+   "text": "What maximum number of containers does Comet use for the GPU queue?",
+   "gold": "284",
+   "gold_display": "284",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Jasper|IP address|PREV",
+   "qtype": "PREV",
+   "entity": "Jasper",
+   "attr": "IP address",
+   "scope": "default",
+   "text": "What was the default IP address of Jasper right before its most recent change?",
+   "gold": "10.111.152.51",
+   "gold_display": "10.111.152.51",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Solstice|IP address|PREV",
+   "qtype": "PREV",
+   "entity": "Solstice",
+   "attr": "IP address",
+   "scope": "default",
+   "text": "What was the default IP address of Solstice right before its most recent change?",
+   "gold": "10.79.181.219",
+   "gold_display": "10.79.181.219",
+   "has_exception": true,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Sierra|test coverage threshold|PREV",
+   "qtype": "PREV",
+   "entity": "Sierra",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "text": "Before the latest change, what was Sierra's default test coverage threshold?",
+   "gold": "97",
+   "gold_display": "97%",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Solstice|swap size|CUR",
+   "qtype": "CUR",
+   "entity": "Solstice",
+   "attr": "swap size",
+   "scope": "default",
+   "text": "What is Solstice's swap size right now (default setting)?",
+   "gold": "1112",
+   "gold_display": "1112 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Jasper|maintenance window|CUR",
+   "qtype": "STABLE",
+   "entity": "Jasper",
+   "attr": "maintenance window",
+   "scope": "default",
+   "text": "What is Jasper's maintenance slot right now (default setting)?",
+   "gold": "18:40",
+   "gold_display": "18:40",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Comet|max containers|CUR",
+   "qtype": "CUR",
+   "entity": "Comet",
+   "attr": "max containers",
+   "scope": "default",
+   "text": "What is Comet's max containers right now (default setting)?",
+   "gold": "463",
+   "gold_display": "463",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Dune|worker count|PREV",
+   "qtype": "PREV",
+   "entity": "Dune",
+   "attr": "worker count",
+   "scope": "default",
+   "text": "Before the latest change, what was Dune's default worker count?",
+   "gold": "408",
+   "gold_display": "408",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Kestrel|DB pool size|EXCNEG",
+   "qtype": "EXCNEG",
+   "entity": "Kestrel",
+   "attr": "DB pool size",
+   "scope": "default",
+   "text": "For the mobile API, what is Kestrel's DB pool size?",
+   "gold": "405",
+   "gold_display": "405",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Dune|request timeout|CUR",
+   "qtype": "STABLE",
+   "entity": "Dune",
+   "attr": "request timeout",
+   "scope": "default",
+   "text": "What is the current default request timeout of Dune?",
+   "gold": "7950",
+   "gold_display": "7950 ms",
+   "has_exception": false,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Solstice|IP address|EXC",
+   "qtype": "EXC",
+   "entity": "Solstice",
+   "attr": "IP address",
+   "scope": "weekend runs",
+   "text": "For weekend runs, what is Solstice's address?",
+   "gold": "10.202.253.152",
+   "gold_display": "10.202.253.152",
+   "has_exception": true,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Jasper|disk quota|EXC",
+   "qtype": "EXC",
+   "entity": "Jasper",
+   "attr": "disk quota",
+   "scope": "the backup job",
+   "text": "For the backup job, what is Jasper's disk quota?",
+   "gold": "892",
+   "gold_display": "892 GB",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Solstice|max containers|EXC",
+   "qtype": "EXC",
+   "entity": "Solstice",
+   "attr": "max containers",
+   "scope": "the GPU queue",
+   "text": "For the GPU queue, what is Solstice's max containers?",
+   "gold": "320",
+   "gold_display": "320",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Indigo|nightly backup time|CUR",
+   "qtype": "CUR",
+   "entity": "Indigo",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What is Indigo's nightly backup time right now (default setting)?",
+   "gold": "13:20",
+   "gold_display": "13:20",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Comet|SSH port|CUR",
+   "qtype": "CUR",
+   "entity": "Comet",
+   "attr": "SSH port",
+   "scope": "default",
+   "text": "What is Comet's SSH port right now (default setting)?",
+   "gold": "8371",
+   "gold_display": "8371",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Maple|max upload size|PREV",
+   "qtype": "PREV",
+   "entity": "Maple",
+   "attr": "max upload size",
+   "scope": "default",
+   "text": "Before the latest change, what was Maple's default max upload size?",
+   "gold": "2224",
+   "gold_display": "2224 MB",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Kestrel|nightly backup time|PREV",
+   "qtype": "PREV",
+   "entity": "Kestrel",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What was the default nightly backup time of Kestrel right before its most recent change?",
+   "gold": "11:10",
+   "gold_display": "11:10",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Dune|nightly backup time|EXC",
+   "qtype": "EXC",
+   "entity": "Dune",
+   "attr": "nightly backup time",
+   "scope": "the mobile API",
+   "text": "What time of the nightly backup does Dune use for the mobile API?",
+   "gold": "23:55",
+   "gold_display": "23:55",
+   "has_exception": true,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Sierra|stand-up time|CUR",
+   "qtype": "STABLE",
+   "entity": "Sierra",
+   "attr": "stand-up time",
+   "scope": "default",
+   "text": "What is the current default stand-up time of Sierra?",
+   "gold": "20:35",
+   "gold_display": "20:35",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn"
+  },
+  {
+   "qid": "Maple|nightly backup time|CUR",
+   "qtype": "CUR",
+   "entity": "Maple",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What is the current default nightly backup time of Maple?",
+   "gold": "16:50",
+   "gold_display": "16:50",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Sierra|test coverage threshold|EXC",
+   "qtype": "EXC",
+   "entity": "Sierra",
+   "attr": "test coverage threshold",
+   "scope": "the intern cohort",
+   "text": "For the intern cohort, what is Sierra's test coverage threshold?",
+   "gold": "56",
+   "gold_display": "56%",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Pulsar|budget code|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Pulsar",
+   "attr": "budget code",
+   "scope": "default",
+   "text": "What is the current default budget code of Pulsar?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Indigo|max upload size|CUR",
+   "qtype": "STABLE",
+   "entity": "Indigo",
+   "attr": "max upload size",
+   "scope": "default",
+   "text": "What is the current default max upload size of Indigo?",
+   "gold": "464",
+   "gold_display": "464 MB",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Dune|nightly backup time|CUR",
+   "qtype": "STABLE",
+   "entity": "Dune",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What is the current default nightly backup time of Dune?",
+   "gold": "18:55",
+   "gold_display": "18:55",
+   "has_exception": true,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Sierra|max line length|CUR",
+   "qtype": "STABLE",
+   "entity": "Sierra",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "What is the current default max line length of Sierra?",
+   "gold": "116",
+   "gold_display": "116 chars",
+   "has_exception": true,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Comet|max containers|PREV",
+   "qtype": "PREV",
+   "entity": "Comet",
+   "attr": "max containers",
+   "scope": "default",
+   "text": "What was the default max containers of Comet right before its most recent change?",
+   "gold": "224",
+   "gold_display": "224",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Umbra|test coverage threshold|EXCNEG",
+   "qtype": "EXCNEG",
+   "entity": "Umbra",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "text": "For the intern cohort, what is Umbra's test coverage threshold?",
+   "gold": "79",
+   "gold_display": "79%",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Jasper|IP address|EXC",
+   "qtype": "EXC",
+   "entity": "Jasper",
+   "attr": "IP address",
+   "scope": "the backup job",
+   "text": "What IP does Jasper use for the backup job?",
+   "gold": "10.231.73.6",
+   "gold_display": "10.231.73.6",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Falcon|API port|CUR",
+   "qtype": "STABLE",
+   "entity": "Falcon",
+   "attr": "API port",
+   "scope": "default",
+   "text": "What is the current default API port of Falcon?",
+   "gold": "3480",
+   "gold_display": "3480",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn+rej"
+  },
+  {
+   "qid": "note|9714|NOTE",
+   "qtype": "NOTE",
+   "entity": "__note__",
+   "attr": "The flaky integration test passes reliably with a retry delay of {v} ms.",
+   "scope": "default",
+   "text": "What retry delay makes the flaky integration test pass (in ms)?",
+   "gold": "9714",
+   "gold_display": "9714",
+   "has_exception": false,
+   "has_update": false,
+   "family": "note"
+  },
+  {
+   "qid": "Pulsar|code review SLA|CUR",
+   "qtype": "STABLE",
+   "entity": "Pulsar",
+   "attr": "code review SLA",
+   "scope": "default",
+   "text": "What is Pulsar's code review SLA right now (default setting)?",
+   "gold": "95",
+   "gold_display": "95 hours",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Falcon|deploy branch|CUR",
+   "qtype": "CUR",
+   "entity": "Falcon",
+   "attr": "deploy branch",
+   "scope": "default",
+   "text": "What is Falcon's branch it ships from right now (default setting)?",
+   "gold": "release-124",
+   "gold_display": "release-124",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Comet|swap size|CUR",
+   "qtype": "CUR",
+   "entity": "Comet",
+   "attr": "swap size",
+   "scope": "default",
+   "text": "What is Comet's swap size right now (default setting)?",
+   "gold": "310",
+   "gold_display": "310 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "note|4052|NOTE",
+   "qtype": "NOTE",
+   "entity": "__note__",
+   "attr": "Jira tickets for infra work go to board {v}.",
+   "scope": "default",
+   "text": "Which Jira board number do infra tickets go to?",
+   "gold": "4052",
+   "gold_display": "4052",
+   "has_exception": false,
+   "has_update": false,
+   "family": "note"
+  },
+  {
+   "qid": "Falcon|API port|EXC",
+   "qtype": "EXC",
+   "entity": "Falcon",
+   "attr": "API port",
+   "scope": "staging",
+   "text": "What API port does Falcon use for staging?",
+   "gold": "7587",
+   "gold_display": "7587",
+   "has_exception": true,
+   "has_update": false,
+   "family": "syn+rej"
+  },
+  {
+   "qid": "Maple|nightly backup time|PREV",
+   "qtype": "PREV",
+   "entity": "Maple",
+   "attr": "nightly backup time",
+   "scope": "default",
+   "text": "What was the default nightly backup time of Maple right before its most recent change?",
+   "gold": "10:20",
+   "gold_display": "10:20",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Comet|swap size|EXC",
+   "qtype": "EXC",
+   "entity": "Comet",
+   "attr": "swap size",
+   "scope": "the GPU queue",
+   "text": "For the GPU queue, what is Comet's swap size?",
+   "gold": "1211",
+   "gold_display": "1211 GB",
+   "has_exception": true,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Umbra|max line length|CUR",
+   "qtype": "STABLE",
+   "entity": "Umbra",
+   "attr": "max line length",
+   "scope": "default",
+   "text": "What is Umbra's max line length right now (default setting)?",
+   "gold": "207",
+   "gold_display": "207 chars",
+   "has_exception": true,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Jasper|rack location|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Jasper",
+   "attr": "rack location",
+   "scope": "default",
+   "text": "What is the current default rack location of Jasper?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Kestrel|DB pool size|PREV",
+   "qtype": "PREV",
+   "entity": "Kestrel",
+   "attr": "DB pool size",
+   "scope": "default",
+   "text": "What was the default DB pool size of Kestrel right before its most recent change?",
+   "gold": "376",
+   "gold_display": "376",
+   "has_exception": false,
+   "has_update": true,
+   "family": "syn"
+  },
+  {
+   "qid": "Umbra|test coverage threshold|CUR",
+   "qtype": "CUR",
+   "entity": "Umbra",
+   "attr": "test coverage threshold",
+   "scope": "default",
+   "text": "What is the current default coverage gate of Umbra?",
+   "gold": "79",
+   "gold_display": "79%",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  },
+  {
+   "qid": "Umbra|budget code|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Umbra",
+   "attr": "budget code",
+   "scope": "default",
+   "text": "What is the current default budget code of Umbra?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Solstice|kernel version|ABSTAIN",
+   "qtype": "ABSTAIN",
+   "entity": "Solstice",
+   "attr": "kernel version",
+   "scope": "default",
+   "text": "What is the current default kernel version of Solstice?",
+   "gold": "unknown",
+   "gold_display": "unknown",
+   "has_exception": false,
+   "has_update": false,
+   "family": "base"
+  },
+  {
+   "qid": "Maple|max upload size|CUR",
+   "qtype": "CUR",
+   "entity": "Maple",
+   "attr": "max upload size",
+   "scope": "default",
+   "text": "What is Maple's max upload size right now (default setting)?",
+   "gold": "2984",
+   "gold_display": "2984 MB",
+   "has_exception": false,
+   "has_update": true,
+   "family": "base"
+  }
+ ],
+ "sessions": [
+  {
+   "session": 0,
+   "date": "2026-01-05",
+   "notes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "session": 1,
+   "date": "2026-01-08",
+   "notes": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "session": 2,
+   "date": "2026-01-09",
+   "notes": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "session": 3,
+   "date": "2026-01-10",
+   "notes": [
+    17,
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "session": 4,
+   "date": "2026-01-11",
+   "notes": [
+    21,
+    22,
+    23
+   ]
+  },
+  {
+   "session": 5,
+   "date": "2026-01-13",
+   "notes": [
+    24,
+    25,
+    26,
+    27
+   ]
+  },
+  {
+   "session": 6,
+   "date": "2026-01-16",
+   "notes": [
+    28,
+    29,
+    30
+   ]
+  },
+  {
+   "session": 7,
+   "date": "2026-01-19",
+   "notes": [
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+   ]
+  },
+  {
+   "session": 8,
+   "date": "2026-01-21",
+   "notes": [
+    37,
+    38,
+    39,
+    40
+   ]
+  },
+  {
+   "session": 9,
+   "date": "2026-01-22",
+   "notes": [
+    41,
+    42,
+    43,
+    44,
+    45,
+    46
+   ]
+  },
+  {
+   "session": 10,
+   "date": "2026-01-25",
+   "notes": [
+    47,
+    48,
+    49,
+    50,
+    51
+   ]
+  },
+  {
+   "session": 11,
+   "date": "2026-01-26",
+   "notes": [
+    52,
+    53,
+    54
+   ]
+  },
+  {
+   "session": 12,
+   "date": "2026-01-29",
+   "notes": [
+    55,
+    56,
+    57
+   ]
+  },
+  {
+   "session": 13,
+   "date": "2026-02-01",
+   "notes": [
+    58,
+    59,
+    60,
+    61
+   ]
+  },
+  {
+   "session": 14,
+   "date": "2026-02-02",
+   "notes": [
+    62,
+    63,
+    64,
+    65,
+    66
+   ]
+  },
+  {
+   "session": 15,
+   "date": "2026-02-03",
+   "notes": [
+    67,
+    68,
+    69,
+    70,
+    71,
+    72
+   ]
+  },
+  {
+   "session": 16,
+   "date": "2026-02-04",
+   "notes": [
+    73,
+    74,
+    75,
+    76
+   ]
+  },
+  {
+   "session": 17,
+   "date": "2026-02-05",
+   "notes": [
+    77,
+    78,
+    79,
+    80,
+    81,
+    82
+   ]
+  },
+  {
+   "session": 18,
+   "date": "2026-02-08",
+   "notes": [
+    83,
+    84,
+    85,
+    86
+   ]
+  },
+  {
+   "session": 19,
+   "date": "2026-02-11",
+   "notes": [
+    87,
+    88,
+    89,
+    90,
+    91
+   ]
+  },
+  {
+   "session": 20,
+   "date": "2026-02-14",
+   "notes": [
+    92,
+    93,
+    94,
+    95
+   ]
+  },
+  {
+   "session": 21,
+   "date": "2026-02-17",
+   "notes": [
+    96,
+    97,
+    98,
+    99
+   ]
+  }
+ ]
+}

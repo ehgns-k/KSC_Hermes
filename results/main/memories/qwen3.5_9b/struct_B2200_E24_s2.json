@@ -1,0 +1,50 @@
+{
+ "entries": [
+  "Aurora — max containers: 402 (weekend: 76) | IP: 10.155.243.141 | maint: 20:05",
+  "Cedar — SSH: 3488 | swap: 910 GB",
+  "Ember — timeout: 5250 ms | upload: 192 MB | branch: release-747",
+  "Flint — deadline: 91h | coverage: 63% | cache: 1627 GB",
+  "Fjord — pool: 243 | API: 2997 | branch: release-453 (canary: release-544)",
+  "Iris — containers: 156 | quota: 2983 GB (backup: 347 GB)",
+  "Jasper — API: 4273 | pool: 240 | backup: 11:20",
+  "Juniper — coverage: 74% (Fri: 98%) | cache: 1755 GB | stand-up: 16:20 (intern: 16:20)",
+  "Lumen — coverage: 45% | cache: 1547 GB (frontend: 2647 GB) | stand-up: 20:25 (intern: 11:55)",
+  "Lyra — coverage: 57% (hotfix: 50%) | cache: 365 GB | deadline: 56h",
+  "Nimbus — API: 4343 | timeout: 9650 ms | backup: 18:25",
+  "Nova — SLA: 83h (Fri: 85h) | budget: $8290 | stand-up: 21:40",
+  "Onyx — pool: 376 | timeout: 4300 ms",
+  "Opal — timeout: 7950 ms | API: 8421 (batch: 4952) | workers: 179",
+  "Quill — SLA: 6h (intern: 40h) | cache: 400 GB (hotfix: 2087 GB) | stand-up: 10:40",
+  "Rune — swap: 39 GB | quota: 638 GB (weekend: 2469 GB)",
+  "Thistle — backup: 14:20 (mobile: 13:55) | branch: release-541 (staging: 8826)",
+  "Umbra — timeout: 6250 ms | workers: 337 | logs: 213 days",
+  "Ursa — API: 5049 | pool: 318 | HTTP timeout: 7350 ms",
+  "Velvet — HTTP: 5988 (mobile: 6412) | branch: release-449 (canary: release-568) | workers: 203 (staging: 237)",
+  "Yarrow — branch: release-332 (mobile: release-596) | API: 2653 (batch: 4091) | logs: 61 days",
+  "Yukon — backup: 20:55 (canary: 20:45) | logs: 13 days (canary: 36 days) | API: 8827",
+  "Zenith — swap: 2763 GB | maint: 10:15 (CI: 20:50) | IP: 10.87.160.167",
+  "Alder — stand-up: 19:40 | coverage: 99% | cache: 902 GB (hotfix: 1143 GB)",
+  "Thistle — backup: 14:20 (mobile: 13:55) | branch: release-541 (staging: 8826)",
+  "Ursa — API: 5049 | pool: 318 | HTTP timeout: 7350 ms",
+  "Velvet — HTTP: 5988 (mobile: 6412) | branch: release-449 (canary: release-568) | workers: 203 (staging: 237)",
+  "Yarrow — branch: release-332 (mobile: release-596) | API: 2653 (batch: 4091) | logs: 61 days",
+  "Yukon — backup: 20:55 (canary: 20:45) | logs: 13 days (canary: 36 days) | API: 8827",
+  "Zenith — swap: 2763 GB | maint: 10:15 (CI: 20:50) | IP: 10.87.160.167"
+ ],
+ "chars": 2169,
+ "usage": {
+  "calls": 2,
+  "prompt_tokens": 11134,
+  "gen_tokens": 2800,
+  "seconds": 100.98,
+  "cache_hits": 0
+ },
+ "stats": {
+  "first_chars": 3118,
+  "retried": true,
+  "chars_before_cut": 2714,
+  "truncated": true
+ },
+ "wall_s": 101.0,
+ "raw_chars": 13004
+}

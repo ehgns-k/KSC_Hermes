@@ -1,0 +1,58 @@
+{
+ "entries": [
+  "Vega: maintenance window 21:15; IP address 10.115.181.131; Jira board ID 2531; sshd port 7555; pull request size small",
+  "Orion: code review SLA 15 hours; stand-up time 12:50 (was 16:10); build cache size 1527 GB",
+  "license: port 4656",
+  "Harbor: max line length 105 chars; build cache size 1933 GB (was 1724 GB; frontend squad: 2439 GB); stand-up time 14:25 (intern cohort: 22:40)",
+  "Falcon: stand-up time 21:25 (frontend squad: 22:05)",
+  "Vesper: stand-up time 19:40 (was 16:55; frontend squad: 17:20)",
+  "Fjord: code review SLA 7 hours (intern cohort: 72 hours); build cache size 2521 GB (was 1231 GB); max line length 83 (was 75 chars); line length limit 83",
+  "Indigo: IP address 10.80.112.130 (was 10.49.67.29); max containers 282 (was 379); disk quota 855 GB (was 876 GB)",
+  "Pulsar: worker count 183; DB connection pool 319",
+  "Kestrel: swap space 390 GB (was 1170 GB); maintenance slot 21:40; max containers 218 (weekend runs: 211); maintenance window 14:20",
+  "Ember: max upload size 1072 MB (was 2432 MB; EU region: 2512 MB); deploy branch release-693 (was release-499); HTTP port 4593 (was 2855); API port 2855",
+  "Wren: request timeout 4950 ms; DB pool size 287; API port 2669 (mobile API: 3435)",
+  "Comet: stand-up time 23:25",
+  "Solstice: nightly backup time 19:15 (was 10:05); API port 3901; deploy branch release-764 (was release-281)",
+  "Prism: maintenance window 14:05; disk quota 573 GB (backup job: 1336 GB); IP address 10.220.84.209",
+  "Jasper: log retention period 170 (was 267 days); max upload size 1936 MB (was 1200 MB; mobile API: 3200 MB); DB pool size 89 (mobile API: 472)",
+  "Maple: IP address 10.133.200.145; swap space 941 GB (was 2119 GB; CI runner: 2667 GB); maintenance window 10:45 (CI runner: 23:50)",
+  "Thistle: line length limit 82 (was 187 chars); code review SLA 70 hours; stand-up time 13:05 (was 15:50)",
+  "Sierra: worker count 234 (was 92); nightly backup time 14:55; request timeout 5150 ms (canary cluster: 5650 ms)",
+  "Dune: swap space 1848 GB (was 776 GB); max containers 114 (was 392); IP address 10.246.49.137 (was 10.64.69.30)",
+  "Alder: max_upload_size 1216 MB; worker count 436 (was 199); deploy branch release-698 (was release-655; batch jobs: release-636)"
+ ],
+ "chars": 2173,
+ "usage": {
+  "calls": 38,
+  "prompt_tokens": 26395,
+  "gen_tokens": 6944,
+  "seconds": 365.16,
+  "cache_hits": 0
+ },
+ "stats": {
+  "dropped": {
+   "T1": 18,
+   "T2": 8,
+   "T3": 4,
+   "T0": 6
+  },
+  "kept": {
+   "T1": 62,
+   "T2": 15,
+   "T3": 26,
+   "T0": 0
+  },
+  "keys": 103,
+  "entities": 26,
+  "extract": {
+   "calls": 38,
+   "parse_errors": 0,
+   "facts": 163,
+   "ungrounded": 2,
+   "wall_s": 365.2
+  }
+ },
+ "wall_s": 365.2,
+ "raw_chars": 10325
+}

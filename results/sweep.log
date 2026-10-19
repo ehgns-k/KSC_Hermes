@@ -1,0 +1,19 @@
+[18:04:35] qwen3.5:9b E=24 s=1 B=1100 cem          chars=  1048 acc=0.392 build=   0.0s qa=  94.2s
+[18:06:42] qwen3.5:9b E=24 s=1 B=1100 cem_oracle   chars=  1058 acc=0.399 build=   0.0s qa= 126.6s
+[18:08:34] qwen3.5:9b E=24 s=1 B=1100 recency      chars=  1095 acc=0.176 build=   0.0s qa= 111.9s
+[18:10:16] qwen3.5:9b E=24 s=1 B=1100 bm25         chars=     0 acc=0.764 build=   0.0s qa= 101.7s
+[18:12:55] qwen3.5:9b E=24 s=1 B=1100 summary      chars=  1076 acc=0.412 build=  49.5s qa= 110.4s
+[18:15:40] qwen3.5:9b E=24 s=1 B=1100 struct       chars=  1089 acc=0.338 build=  49.4s qa= 115.6s
+[18:27:50] qwen3.5:9b E=24 s=1 B=1100 hermes       chars=   868 acc=0.209 build= 653.4s qa=  75.9s
+[18:29:23] qwen3.5:9b E=24 s=1 B=1100 cem_nohist   chars=  1061 acc=0.351 build=   0.0s qa=  92.9s
+[18:30:57] qwen3.5:9b E=24 s=1 B=1100 cem_noscope  chars=  1030 acc=0.378 build=   0.0s qa=  94.4s
+[18:33:25] qwen3.5:9b E=24 s=1 B=4400 cem          chars=  3362 acc=0.845 build=   0.0s qa= 148.4s
+[18:35:54] qwen3.5:9b E=24 s=1 B=4400 cem_oracle   chars=  3485 acc=0.851 build=   0.0s qa= 148.8s
+[18:38:18] qwen3.5:9b E=24 s=1 B=4400 recency      chars=  4369 acc=0.392 build=   0.0s qa= 144.1s
+[18:42:52] qwen3.5:9b E=24 s=1 B=4400 bm25         chars=     0 acc=0.770 build=   0.0s qa= 273.2s
+[18:47:42] qwen3.5:9b E=24 s=1 B=4400 summary      chars=  4400 acc=0.622 build= 142.4s qa= 147.8s
+[18:52:50] qwen3.5:9b E=24 s=1 B=4400 struct       chars=  4378 acc=0.662 build= 140.2s qa= 168.4s
+[19:05:04] qwen3.5:9b E=24 s=1 B=4400 hermes       chars=  3863 acc=0.534 build= 569.6s qa= 163.5s
+[19:07:32] qwen3.5:9b E=24 s=1 B=4400 cem_nohist   chars=  2968 acc=0.696 build=   0.0s qa= 148.0s
+[19:10:00] qwen3.5:9b E=24 s=1 B=4400 cem_noscope  chars=  3038 acc=0.716 build=   0.0s qa= 148.1s
+LLM usage: {'calls': 2885, 'prompt_tokens': 3782496, 'gen_tokens': 57985, 'seconds': 8821.94, 'cache_hits': 2}

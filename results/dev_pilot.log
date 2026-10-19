@@ -1,0 +1,7 @@
+[12:14:46] qwen3.5:9b E=24 s=0 B=0 full         chars= 13974 acc=0.731 build=   0.0s qa= 135.8s
+[12:16:47] qwen3.5:9b E=24 s=0 B=2200 recency      chars=  2200 acc=0.246 build=   0.0s qa= 121.2s
+[12:18:47] qwen3.5:9b E=24 s=0 B=2200 reject       chars=  2187 acc=0.257 build=   0.3s qa= 120.4s
+[12:21:42] qwen3.5:9b E=24 s=0 B=2200 summary      chars=  1917 acc=0.497 build=  46.5s qa= 128.2s
+[12:24:48] qwen3.5:9b E=24 s=0 B=2200 struct       chars=  2174 acc=0.449 build=  58.8s qa= 127.6s
+[12:40:36] qwen3.5:9b E=24 s=0 B=2200 hermes       chars=  1859 acc=0.257 build= 814.3s qa= 133.0s
+[13:02:23] qwen3.5:9b E=24 s=0 B=2200 hermes_ic    chars=  2113 acc=0.275 build=1130.9s qa= 176.4s
