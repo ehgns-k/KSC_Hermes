@@ -214,8 +214,17 @@ def fmt(x, pct=True):
     return f"{100 * x:.1f}" if pct else f"{x}"
 
 
+# Files placed in the paper are named by their number there (fig1-3, table1 in the text; A-C supplementary).
+FIG_FILES = {"main_online_retention": "fig2_retention", "compaction_k": "fig3_compaction",
+             "main_error_breakdown": "figA_error_breakdown", "sweep_budget": "figB_budget_sweep",
+             "main_type_heatmap": "figC_type_heatmap"}
+TABLE_FILES = {"main_table1_compact": "table1_main", "main_table2_ablation": "table1_ablation",
+               "info_types_qwen3.5_9b": "tableA_info_types_9b", "info_types_qwen3.5_4b": "tableB_info_types_4b"}
+
+
 def write_table(df: pd.DataFrame, out: Path, name: str, note: str = "") -> None:
     out.mkdir(parents=True, exist_ok=True)
+    name = TABLE_FILES.get(name, name)
     df.to_csv(out / f"{name}.csv", index=False)
     md = df.to_markdown(index=False)
     (out / f"{name}.md").write_text((note + "\n\n" if note else "") + md + "\n")
@@ -440,6 +449,7 @@ def setup_mpl():
 
 def save(fig, out: Path, name: str):
     (out / "figures").mkdir(parents=True, exist_ok=True)
+    name = FIG_FILES.get(name, name)
     fig.savefig(out / "figures" / f"{name}.png", bbox_inches="tight")
     fig.savefig(out / "figures" / f"{name}.pdf", bbox_inches="tight")
 
@@ -793,7 +803,7 @@ def main():
     ap.add_argument("--tag", default="main")
     ap.add_argument("--seeds", type=int, nargs="*", default=None, help="restrict the main table to these seeds")
     ap.add_argument("--skip", nargs="*", default=[], help="sections to skip: main sweep xmodel online")
-    ap.add_argument("--figures-only", action="store_true", help="regenerate figures only (tables untouched)")
+    ap.add_argument("--figures-only", action="store_true", help="regenerate figures only (their companion tables are rewritten with identical values)")
     args = ap.parse_args()
     out = Path(args.out)
     d = Path(args.main)

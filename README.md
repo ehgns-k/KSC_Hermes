@@ -11,7 +11,7 @@ KSC_Hermes/
 ├── environment.yml            ← conda 환경 정의
 ├── requirements.txt           ← Python 의존성(버전 고정, environment.yml이 참조)
 ├── paper/                     ← ★ 논문 작성용 자료 (본문 초안, 표, 그림)
-│   ├── manuscript.md          ← 본문 초안 (국문, KSC 양식 순서: 제목·요약·서론·…·참고문헌)
+│   ├── manuscript.md          ← 투고용 원고 (국문, 2~3쪽, 그림·표 삽입 위치 표시)
 │   ├── tables/                ← 표 (CSV + Markdown)
 │   └── figures/               ← 그림 (PNG 300dpi + PDF 벡터)
 ├── experiments/               ← 실험 코드
